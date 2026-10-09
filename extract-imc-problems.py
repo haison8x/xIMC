@@ -1,10 +1,12 @@
 """Extract the problems of every IMC past paper PDF into one text file per keystage.
 
-Input  (next to this script): keystage2/{year}.pdf, keystage3/{year}.pdf
-Output (next to this script): keystage2_problems.txt, keystage3_problems.txt
+Input  (next to this script): keystage{2,3}/{year}.pdf and {year}_team.pdf
+Output (next to this script): keystage{2,3}_problems.txt       (Individual papers)
+                              keystage{2,3}_team_problems.txt  (Team papers)
 
 Each problem is written as:
-    === Year 2012 | Problem 3 ===        (Section A / B problems: "Problem B2")
+    === Year 2012 | Problem 3 | Page 1 ===   (Section A / B problems: "Problem B2";
+                                              Page = PDF page where the problem starts)
     <problem text>
 
 Requires: pip install pymupdf
@@ -20,8 +22,8 @@ import pymupdf
 ROOT = Path(__file__).parent
 KEYSTAGES = ["keystage2", "keystage3"]
 
-PROBLEM_RE = re.compile(r"^\s*(?:Q\s*)?(\d{1,2})\s*[.．]\s*(.*)$")
-ANSWER_LINE_RE = re.compile(r"^\s*Answers?\s*[:：]?\s*_{3,}.*$|^\s*_{5,}\s*$", re.I)
+PROBLEM_RE = re.compile(r"^\s*(?:[QT]\s*)?(\d{1,2})\s*[.．]\s*(.*)$")
+ANSWER_LINE_RE = re.compile(r"^\s*Answers?\s*[:：]?\s*(_{3,}.*)?$|^\s*_{5,}\s*$", re.I)
 SECTION_RE = re.compile(r"^\s*Section\s+([A-Z]|I{1,3})\b", re.I)
 PAGE_NO_RE = re.compile(r"^\s*(Page\s*)?\d+\s*(/|of)?\s*\d*\s*$", re.I)
 
@@ -34,7 +36,7 @@ def is_garbage(line: str) -> bool:
 
 
 def page_lines(pdf: Path):
-    """Return the cleaned lines of the whole PDF, repeated headers removed."""
+    """Return (line, page_no) for the whole PDF, repeated headers removed."""
     pages = []
     with pymupdf.open(pdf) as doc:
         for page in doc:
@@ -44,23 +46,23 @@ def page_lines(pdf: Path):
     )
     min_pages = max(3, len(pages) // 2 + 1)
     lines = []
-    for page in pages:
+    for page_no, page in enumerate(pages, 1):
         for ln in page:
             s = ln.strip()
             if not s or is_garbage(s) or repeated[s] >= min_pages:
                 continue
             if ANSWER_LINE_RE.match(s) or PAGE_NO_RE.match(s):
                 continue
-            lines.append(s)
+            lines.append((s, page_no))
     return lines
 
 
 def parse_problems(lines):
     """Walk the lines; a line "N." starts a problem only when N is the next
     expected number. Returns a list of sequences (A, B, ...), each a list of
-    [number, text-lines]."""
+    [number, text-lines, closed, start-page]."""
     sequences, current, expected = [], None, 1
-    for ln in lines:
+    for ln, page_no in lines:
         if SECTION_RE.match(ln) and current:
             # Section heading closes the problem in progress, never its text.
             current[-1][2] = True
@@ -77,7 +79,7 @@ def parse_problems(lines):
                 sequences.append(current)
                 expected = 1
             if n == expected and current is not None:
-                current.append([n, [m.group(2)], False])
+                current.append([n, [m.group(2)], False, page_no])
                 expected += 1
                 continue
         if current and not current[-1][2]:
@@ -89,37 +91,50 @@ def clean_text(parts):
     text = " ".join(parts)
     text = text.replace(" ", " ")
     text = re.sub(r"\s+", " ", text).strip()
-    return text
+    # Everything after an "Answer:" blank is answer-sheet boilerplate / page header.
+    text = re.split(r"\s*Answers?\s*[:：ǺĈ]", text, maxsplit=1)[0]
+    return text.strip()
 
 
 def extract_pdf(pdf: Path):
-    """Return [(label, text)] for one PDF."""
+    """Return [(label, text, page)] for one PDF."""
     sequences = parse_problems(page_lines(pdf))
     sequences = [s for s in sequences if s]
     out = []
     for idx, seq in enumerate(sequences):
         prefix = "" if len(sequences) == 1 else chr(ord("A") + idx)
-        for n, parts, _ in seq:
-            out.append((f"{prefix}{n}", clean_text(parts)))
+        for n, parts, _, page_no in seq:
+            out.append((f"{prefix}{n}", clean_text(parts), page_no))
     return out
+
+
+def write_problems(ks: str, suffix: str, out_name: str):
+    """Extract all {year}{suffix}.pdf of a keystage into one text file."""
+    pdfs = [
+        p
+        for p in (ROOT / ks).glob(f"*{suffix}.pdf")
+        if p.stem[: len(p.stem) - len(suffix)].isdigit()
+    ]
+    pdfs.sort(key=lambda p: p.stem)
+    out_path = ROOT / out_name
+    total = 0
+    with out_path.open("w", encoding="utf-8") as fh:
+        for pdf in pdfs:
+            year = pdf.stem[: len(pdf.stem) - len(suffix)]
+            problems = extract_pdf(pdf)
+            print(f"{ks}/{pdf.name}: {len(problems)} problems")
+            if not problems:
+                print(f"  WARNING: nothing extracted from {pdf}", file=sys.stderr)
+            for label, text, page_no in problems:
+                fh.write(f"=== Year {year} | Problem {label} | Page {page_no} ===\n{text}\n\n")
+            total += len(problems)
+    print(f"-> {out_path.name}: {total} problems\n")
 
 
 def main():
     for ks in KEYSTAGES:
-        pdfs = sorted((ROOT / ks).glob("*.pdf"), key=lambda p: p.stem)
-        pdfs = [p for p in pdfs if p.stem.isdigit()]
-        out_path = ROOT / f"{ks}_problems.txt"
-        total = 0
-        with out_path.open("w", encoding="utf-8") as fh:
-            for pdf in pdfs:
-                problems = extract_pdf(pdf)
-                print(f"{ks}/{pdf.name}: {len(problems)} problems")
-                if not problems:
-                    print(f"  WARNING: nothing extracted from {pdf}", file=sys.stderr)
-                for label, text in problems:
-                    fh.write(f"=== Year {pdf.stem} | Problem {label} ===\n{text}\n\n")
-                total += len(problems)
-        print(f"-> {out_path.name}: {total} problems\n")
+        write_problems(ks, "", f"{ks}_problems.txt")
+        write_problems(ks, "_team", f"{ks}_team_problems.txt")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ôn luyện IMC</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: squared exercise-paper page; two stage panels side by side, each with its map and its year shelf of past papers. */
+:root{
+  --paper:#f3f6f2; --sheet:#fbfcfa; --grid:#e1e8e0; --ink:#17221d; --muted:#5b6a62; --line:#c9d4cc;
+  --ks2:#1d6fa3; --ks3:#b23a62; --accent:#0d6b58;
+  --f-display:"Bricolage Grotesque", "Be Vietnam Pro", system-ui, sans-serif;
+  --f-body:"Be Vietnam Pro", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono:"JetBrains Mono", ui-monospace, Consolas, monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#111815; --sheet:#18211d; --grid:#1d2823; --ink:#e3ebe6; --muted:#97a69e; --line:#34423b;
+  --ks2:#5fb0e6; --ks3:#ec7aa0; --accent:#4fc2a5; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#111815; --sheet:#18211d; --grid:#1d2823; --ink:#e3ebe6; --muted:#97a69e; --line:#34423b;
+  --ks2:#5fb0e6; --ks3:#ec7aa0; --accent:#4fc2a5; color-scheme:dark}
+*{box-sizing:border-box}
+html{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+body{margin:0;background-color:var(--paper);background-image:linear-gradient(var(--grid) 1px,transparent 1px),linear-gradient(90deg,var(--grid) 1px,transparent 1px);background-size:24px 24px;color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.55}
+.wrap{max-width:1180px;margin:0 auto;padding-inline:16px;padding-block:36px 56px;display:grid;gap:28px}
+header{display:grid;gap:10px;max-width:68ch}
+.eyebrow{font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--accent)}
+h1{font-family:var(--f-display);font-weight:800;font-size:clamp(34px,6vw,58px);line-height:1;margin:0;letter-spacing:-.02em;text-wrap:balance}
+header p{margin:0;color:var(--muted);font-size:16px}
+.stages{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,460px),1fr));gap:20px}
+.stage{--c:var(--ks2);background:var(--sheet);border:1px solid var(--line);border-top:6px solid var(--c);border-radius:16px;padding:22px 22px 20px;display:grid;gap:18px;align-content:start;min-width:0}
+.stage.ks3{--c:var(--ks3)}
+.stage h2{font-family:var(--f-display);font-weight:800;font-size:28px;line-height:1.1;margin:0;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.stage h2 span{font-family:var(--f-body);font-size:14px;font-weight:500;color:var(--muted)}
+.facts{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.facts div{border:1px solid var(--line);border-radius:10px;padding:8px 10px;background:var(--paper)}
+.facts b{display:block;font-family:var(--f-display);font-size:24px;line-height:1.1;color:var(--c);font-variant-numeric:tabular-nums}
+.facts small{color:var(--muted);font-size:12px}
+.actions{display:flex;flex-wrap:wrap;gap:8px}
+a.btn{display:inline-flex;align-items:center;gap:8px;text-decoration:none;font-weight:600;font-size:14px;border-radius:10px;padding:10px 14px;border:1.5px solid var(--c);color:var(--c);background:var(--sheet)}
+a.btn.main{background:var(--c);color:var(--sheet)}
+a.btn:hover{filter:brightness(1.08)}
+a:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.lbl{font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 8px}
+.years{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,236px),1fr));gap:2px 16px}
+.yr{display:flex;align-items:center;gap:6px;border-bottom:1px dashed var(--line);padding-block:5px}
+.yr b{font-family:var(--f-mono);font-size:13px;font-weight:500;width:3.2em;flex:none}
+.years a{font-size:12px;font-weight:500;white-space:nowrap;text-decoration:none;color:var(--ink);border:1px solid var(--line);border-radius:7px;padding:3px 7px;background:var(--paper)}
+.years a:hover{border-color:var(--c);color:var(--c)}
+.files{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:14px}
+.files a{color:var(--c);font-weight:500}
+.note{font-size:13.5px;color:var(--muted);background:var(--sheet);border:1px solid var(--line);border-radius:12px;padding:12px 14px;max-width:80ch}
+.note b{color:var(--ink)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">International Mathematics Competition</div>
+    <h1>Ôn luyện IMC</h1>
+    <p>Đề thi các năm, phân loại theo dạng bài và mindmap ôn tập cho hai cấp Key Stage 2 (tiểu học) và Key Stage 3 (THCS).</p>
+  </header>
+
+  <div class="stages">
+    <section class="stage ks2" aria-labelledby="h-ks2">
+      <h2 id="h-ks2">Key Stage 2 <span>tiểu học · 2003–2026</span></h2>
+      <div class="facts">
+        <div><b>575</b><small>bài toán (345 cá nhân, 230 đồng đội)</small></div>
+        <div><b>23</b><small>năm thi, mỗi năm 3 file</small></div>
+        <div><b>120</b><small>dạng bài</small></div>
+      </div>
+      <div class="actions">
+        <a class="btn main" href="keystage2_mindmap.html">Mở mindmap</a>
+      </div>
+      <div>
+        <p class="lbl">Đề gốc và đáp án (PDF)</p>
+        <nav class="years" id="y-ks2" aria-label="Đề Key Stage 2 theo năm"></nav>
+      </div>
+      <div>
+        <p class="lbl">Dữ liệu</p>
+        <div class="files">
+          <a href="keystage2_categories.txt">Bảng phân loại</a>
+          <a href="keystage2_problems.txt">Đề cá nhân (văn bản)</a>
+          <a href="keystage2_team_problems.txt">Đề đồng đội (văn bản)</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="stage ks3" aria-labelledby="h-ks3">
+      <h2 id="h-ks3">Key Stage 3 <span>THCS · 1999–2026</span></h2>
+      <div class="facts">
+        <div><b>633</b><small>bài toán (388 cá nhân, 245 đồng đội)</small></div>
+        <div><b>26</b><small>năm thi, mỗi năm 3 file</small></div>
+        <div><b>104</b><small>dạng bài</small></div>
+      </div>
+      <div class="actions">
+        <a class="btn main" href="keystage3_mindmap.html">Mở mindmap</a>
+      </div>
+      <div>
+        <p class="lbl">Đề gốc và đáp án (PDF)</p>
+        <nav class="years" id="y-ks3" aria-label="Đề Key Stage 3 theo năm"></nav>
+      </div>
+      <div>
+        <p class="lbl">Dữ liệu</p>
+        <div class="files">
+          <a href="keystage3_categories.txt">Bảng phân loại</a>
+          <a href="keystage3_problems.txt">Đề cá nhân (văn bản)</a>
+          <a href="keystage3_team_problems.txt">Đề đồng đội (văn bản)</a>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <p class="note"><b>Lưu tiến độ:</b> Màu thành thạo và ghi chú “bẫy” trong mindmap được lưu trên trình duyệt bạn đang dùng (mỗi người, mỗi máy có tiến độ riêng). Nếu xóa dữ liệu duyệt web thì tiến độ cũng mất. Năm 2020 không có đề, Key Stage 3 không có đề năm 2003.</p>
+</div>
+<script>
+const YEARS = {
+  ks2: [2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2021,2022,2023,2024,2025,2026],
+  ks3: [1999,2000,2001,2002,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2021,2022,2023,2024,2025,2026]
+};
+for (const [stage, years] of Object.entries(YEARS)) {
+  const nav = document.getElementById("y-" + stage);
+  const dir = stage === "ks2" ? "keystage2" : "keystage3";
+  years.slice().reverse().forEach(y => {
+    const row = document.createElement("div"); row.className = "yr";
+    const b = document.createElement("b"); b.textContent = y; row.appendChild(b);
+    [["Cá nhân", ""], ["Đồng đội", "_team"], ["Đáp án", "_answer"]].forEach(([label, suffix]) => {
+      const a = document.createElement("a");
+      a.href = `${dir}/${y}${suffix}.pdf`; a.target = "_blank"; a.rel = "noopener"; a.textContent = label;
+      a.title = `${label} – ${stage.toUpperCase()} ${y}`;
+      row.appendChild(a);
+    });
+    nav.appendChild(row);
+  });
+}
+</script>
+</body>
+</html>

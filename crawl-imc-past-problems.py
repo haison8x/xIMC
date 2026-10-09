@@ -4,8 +4,10 @@ Output layout (next to this script):
     keystage2/{year}.pdf
     keystage3/{year}.pdf
 
-Only the "Individual" paper of each year is saved as {year}.pdf.
-Pass --team to also save the Team paper as {year}_team.pdf.
+Per year and keystage three files are saved:
+    {year}.pdf          Individual paper
+    {year}_team.pdf     Team paper
+    {year}_answer.pdf   Answers / solutions
 """
 import argparse
 import re
@@ -58,14 +60,14 @@ def parse_papers(html: str):
 
 
 def main():
-    parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    parser.add_argument("--team", action="store_true", help="also download Team papers")
-    args = parser.parse_args()
+    argparse.ArgumentParser(description=__doc__.splitlines()[0]).parse_args()
 
     html = fetch(PAGE_URL).decode("utf-8", errors="replace")
-    wanted = {"individual": "{year}.pdf"}
-    if args.team:
-        wanted["team"] = "{year}_team.pdf"
+    wanted = {
+        "individual": "{year}.pdf",
+        "team": "{year}_team.pdf",
+        "answer": "{year}_answer.pdf",
+    }
 
     ok = skipped = failed = 0
     for year, keystage, kind, url in parse_papers(html):

@@ -1,0 +1,735 @@
+=== Year 1999 | Problem 1 | Page 1 ===
+(a) Decompose + + + + into prime factors. (b) Find two distinct prime factors of + .
+
+=== Year 1999 | Problem 2 | Page 1 ===
+The cards in a deck are numbered 1, 3, …, 2n − 1. In the k-th step, 1 ≤ k ≤ n, 2k − 1 cards from the top of the deck are transferred to the bottom one at a time. We want the new card on the top to be 2k − 1, which is then set aside. After n steps, the whole deck should be set aside in increasing order. How should the deck be stacked in order for this to happen, if (a) n=10; (b) n=30?
+
+=== Year 1999 | Problem 3 | Page 1 ===
+(a) Express 1 as a sum of trhe reciprocals of distinct integers, one of which is 5. (b) Express 1 as a sum of trhe reciprocals of distinct integers, one of which is 1999.
+
+=== Year 1999 | Problem 4 | Page 1 ===
+(a) Show how to dissect a square into 1999 squares which may have diﬀerent sizes. (b) Dissect the ﬁrst two shapes in the diagram below into the ten or fewer pieces which can be reassembled to form the third shape.
+
+=== Year 1999 | Problem 5 | Page 1 ===
+The diagram below shows a blank 5 × 5 table. Each cell is to be ﬁlled in with one of the numbers 1, 2, 3, 4 and 5, so there is exactly one number of each kind in each row, each column and each of the two long diagonals. The score of a completed table is the sum of the numbers in the four shaded cells. What is the highest possible score of a completed table?。 Figure (2) Figure (1)
+
+=== Year 2000 | Problem 1 | Page 1 ===
+E is the midpoint of side BC of a square ABCD. H is the point on AE such that BE = EH. X is the point on AB such that AH = AX. Prove that : AB BX AX × = .
+
+=== Year 2000 | Problem 2 | Page 1 ===
+Four non-negative integers have been entered in the following 5×5 table. Fill in the remaining 21 spaces with positive integers so that the sum of all the numbers in each row and in each column is the same.
+
+=== Year 2000 | Problem 3 | Page 1 ===
+For n ≥, define na n = + . Find the greatest value of the greatest common divisor of na and na + .
+
+=== Year 2000 | Problem 4 | Page 1 ===
+Five teachers predict the order of ﬁnish of ﬁve classes A, B, C, D and E in an examination. Guesses First Second Third Fourth Fifth Teacher 1 A B C D E Teacher 2 E D A B C Teacher 3 E B C D A Teacher 4 C E D A B Teacher 5 E B C A D After the examination, which produces no ties between classes, it turns out that each of two teachers guesses correctly the ranks of two of the classes but is wrong about the ranks of the other three. The other three teachers are wrong about the rank of every class. Find the order of ﬁnish of the classes.
+
+=== Year 2000 | Problem 5 | Page 1 ===
+Find all triples (a, b, c) of positive integers such that a b c ≤ ≤ and a b c     + + + =         .
+
+=== Year 2000 | Problem 6 | Page 1 ===
+Each team is given 50 square cardboard pieces and 50 equilateral triangular cardboard pieces. Using as many of these pieces as faces, construct a set of diﬀerent convex polyhedra. Two polyhedra with the same numbers of vertices, edges, square faces and triangular faces are not considered diﬀerent.
+
+=== Year 2001 | Problem 1 | Page 1 ===
+Fill in the numbers 1 to 16 on the vertices of two cubes, one number on each vertex with no repetition, such that the sum of the numbers on the four vertices of each face is the same.
+
+=== Year 2001 | Problem 2 | Page 1 ===
+Arrange the numbers 1 to 20 in a circle such that the sum of two adjacent numbers is prime.
+
+=== Year 2001 | Problem 3 | Page 1 ===
+The ﬁgure in the diagrm below is a 2 × 3 rectangle, with one-quarter of the top right square cut off and attached to the bottom left square. Cut the ﬁgure along some polygonal line into two identical pieces.
+
+=== Year 2001 | Problem 4 | Page 1 ===
+A 1×1 cell said to be removable if its removal from an 8×8 square leaves behind a ﬁgure which can be tiled by 21 copies of each of the two ﬁgures shown in the diagram below. How many removable cells are there in an 8 × 8 square?
+
+=== Year 2001 | Problem 5 | Page 1 ===
+The four-digit number 3025 is the square of the sum of the number formed of its ﬁrst two digits and the number formed of its last two digits, namely, (30 + 25)2 = 3025. Find all other four-digit numbers with this property.
+
+=== Year 2001 | Problem 6 | Page 2 ===
+P is a point inside an equilateral triangle ABC such that PA=4, PB= 4 3 and PC=8. Find the area of triangle ABC.
+
+=== Year 2001 | Problem 7 | Page 2 ===
+The fraction 1 4 has an interesting property. The numerator is a single-digit number 1 and the denominator is a larger single-digit number 4. If we add the digit 6 after the digit 1 in the numerator n times and add the digit 6 before the digit 4 in the denominator n times also, the fraction 166 = ⋯ ⋯ has the same value. Determine all other fractions with this property, except that the added digit does not have to be 6.
+
+=== Year 2001 | Problem 8 | Page 2 ===
+There are seven shapes formed of three or four equilateral triangles connected edge-to-edge, as shown in the 2 × 5 chart below. For each of the numbered spaces in the chart, ﬁnd a ﬁgure which can be formed from copies of the shape at the head of the row, as well as from copies of the shape at the head of the column. The pieces may be rotated or reﬂected. The problem in Space 1 has been solved in the diagram below as an example. A B C P
+
+=== Year 2002 | Problem 1 | Page 1 ===
+Let m, n and p be real numbers. If m n p a x y + = ⋅ ; n p m b x y + = ⋅ ; and p m n c x y + = ⋅ , what is the numercial value of m n n p p m a b c − − − ⋅ ⋅ ?
+
+=== Year 2002 | Problem 2 | Page 1 ===
+Let a x bx x f + + = 2 ) ( where a and b are constants such that ab ≠2. (a) If k x f x f = ⋅ ) ( ) ( for all x, what is the numerical value of k? (b) Using the result of (a), if k x f x f = ⋅ ) ( ) ( , then find the numerical value of a and b.
+
+=== Year 2002 | Problem 3 | Page 1 ===
+Prove or disprove that it is possible to form a rectangle using an odd number of copies of the ﬁgure shown in the diagram below.
+
+=== Year 2002 | Problem 4 | Page 1 ===
+Find all integers x y ≥ , positive and negative, such that = + y x
+
+=== Year 2002 | Problem 5 | Page 1 ===
+Four brothers divide 137 gold coins among themselves, no two receiving the same number. Each brother receives a number of gold coins equal to an integral multiple of that received by the next younger brother. How many gold coins does each brother receive? Find all solutions.
+
+=== Year 2002 | Problem 6 | Page 1 ===
+In △ABC, AB = BC. A line through B cuts AC at D so that inradius of triangle ABD is equal to the exradius of triangle CBD opposite B. Prove that this common radius is equal to one quarter of the altitude from C to AB.
+
+=== Year 2002 | Problem 7 | Page 1 ===
+Two circles of radii a and b respectively touch each other externally. A third circle of radius c touches these two circles as well as one of their common tangents. Prove that b a c + = .
+
+=== Year 2002 | Problem 8 | Page 1 ===
+Robbie the robot is locked in a solar panel and must get out through the hatch located at the centre of the panel, marked by ＊. Locked in with him are other dummy robots under his control. Each robot is mobile, but it can only move along a row or a column directly toward another robot, and can only stop when it bumps into the target robot, stopping in the empty space in front. In each scenario, four moves are allowed, where a continuous sequence of motions by the same robot counts as one move. Robbie is denoted by R.EXAMPLE As an example, C-D-A-B and R-D-A is a two-move solution to the above scenario. A B ＊ R C D Scenario 1 Scenario 2 Scenario 3 Scenario 4 Scenario 5 Scenario 6 Scenario 7 Scenario 8 A B C R D E A B C ＊ R D E A B C ＊ R D E A B C ＊ R D E A B C D ＊ R E A B C ＊ R D E A B ＊ C D R E A B C ＊ R D E
+
+=== Year 2004 | Problem 1 | Page 1 ===
+In right-angled triangle ABC ∆ , A ∠ =  , BC = , C ∠ =  . Consider all the equilateral triangles with all the vertices on the sides of the triangle ABC ∆ (i.e., the inscribed equilateral triangle of ABC ∆ ). Determine the maximum area among all these equilateral triangles? Justify your answer.
+
+=== Year 2004 | Problem 2 | Page 2 ===
+Below are the 12 pieces of pentominoes and a game board. Select four different pentominoes and place on the board so that all the other eight pieces can’t placed in this game board. The Pentominoes may be rotated and/or reflected and must follow the grid lines and no overlapping is allowed. F I L N P T U V W X Y Z F I L N P T U V W X Y Z F I L N P T U V W X Y Z F I L N P T U V W X Y Z Z Y X W V U T P N L I F
+
+=== Year 2004 | Problem 3 | Page 3 ===
+Locate five buildings with heights 1, 2, 3, 4, 5 into every row and every column of the grid (figure A), once each. The numbers on the four sides in figure A below are the number of buildings that one can see from that side, looking row by row or column by column. One can see a building only when all the buildings in front of it are shorter. An example is given as shown in the figure B below, in which the number 5 is replaced by 4, under the similar conditions. Figure A Figure B
+
+=== Year 2004 | Problem 4 | Page 4 ===
+Let | | x be the absolute value of real number x . Determine the minimum value of the expression | 25 3 | n m m − − where m and n can be any positive integers.
+
+=== Year 2004 | Problem 5 | Page 5 ===
+There are m elevators in a building. Each of them will stop exactly in n floors and these floors does not necessarily to be consecutively. Not all the elevators start from the first floor. For any two floors, there is at least one elevator will stop on both floors. If m=11, n=3, determine the maximum number of floors in this building, and list out all the floors stop by each of these m elevators.
+
+=== Year 2004 | Problem 6 | Page 6 ===
+In a soccer tournament, every team plays with other team once. In each game under the old scoring system, a winning team gains two points, and in the new score system, this team gains three points instead, while the losing team still get no points as before. A draw is worth one point for both teams without any changes. Is it possible for a team to be the winner of the tournament under the new system, and yet it finishes as the last placer under the old system? If this is possible, at least how many teams participate in this tournament, and list out the results of each game among those teams?
+
+=== Year 2004 | Problem 7 | Page 7 ===
+Determine the smallest integer n satisfying the following condition: one can divide the following figure into n ( n≥2 ) congruent regions along the grid lines.
+
+=== Year 2004 | Problem 8 | Page 8 ===
+A polyomino is a figure formed of several unit squares joined along complete edges. Now one can only construct rectangle with at most 10 pieces of polyominoes where overlapping or gaps are not allowed, and satisfying the following conditions: a. the linear dimension of each piece, with at least one square, must be an integral multiple of the smallest piece, under rotation or reflection (if necessary); b. each piece is not rectangular; c. there are at least two pieces of different sizes. The diagram on the left is a 9 × 4 rectangle constructed with six pieces of polyominoes while the diagram on the right is a 13 × 6 rectangle constructed with four pieces of polyominoes, but it does not satisfy the condition (a) stated above (namely the scale is not integral multiple). Construct 10 rectangles with no two of them are similar and follow the rules stated above.
+
+=== Year 2005 | Problem 1 | Page 1 ===
+The positive integers a, b and c are such that a + b + c = 20 = ab + bc –ca – b2. Determine all possible values of abc.
+
+=== Year 2005 | Problem 2 | Page 1 ===
+The sum of 49 positive integers is 624. Prove that three of them are equal to one another.
+
+=== Year 2005 | Problem 3 | Page 1 ===
+The list 2, 3, 5, 6, 7, 10, … consists of all positive integers which are neither squares nor cubes in increasing order. What is the 2005th number in this list?
+
+=== Year 2005 | Problem 4 | Page 1 ===
+ABCD is a convex quadrilateral such that the incricles of triangles BAD and BCD are tangent to each other. Prove that ABCD has an incircle.
+
+=== Year 2005 | Problem 5 | Page 1 ===
+Find a dissection of a triangle into 20 congruent triangles.
+
+=== Year 2005 | Problem 6 | Page 1 ===
+You are gambling with the Devil with 3 dollars in your pocket. The Devil will play five games with you. In each game, you give the Devil an integral number of dollars, from 0 up to what you have at the time. If you win, you get back from the Devil double the amount of what you pay. If you lose, the Devil just keeps what you pay. The Devil guarantees that you will only lose once, but the Devil decides which game you will lose, after receiving the amount you pay. What is the highest amount of money you can guarantee to get after the five games? B C D A
+
+=== Year 2005 | Problem 7 | Page 2 ===
+A frog is sitting on a square adjacent to a corner square of a 5× 5 board. It hops from square to adjacent square, horizontally or vertically but not diagonally. Prove that it cannot visit each square exactly once.
+
+=== Year 2005 | Problem 8 | Page 2 ===
+Determine all integers n such that n n n n − + − + is a prime number.
+
+=== Year 2005 | Problem 9 | Page 2 ===
+A V-shaped tile consists of a 2 × 2 square with one corner square missing. Show that no matter which square is omitted from a 7 × 7 board, the remaining part of the board can be covered by 16 tiles.
+
+=== Year 2005 | Problem 10 | Page 2 ===
+Let a0, a1, a2, … , an be positive integers and a0＞ a1＞ a2＞…＞ an ＞1 such that (1－a1 1 )+(1－a2 1 )+…+(1－an 1 ) = 2(1－a0 1 ). Find all possible solutions for (a0, a1, a2, … , an). V-shaped
+
+=== Year 2006 | Problem 1 | Page 1 ===
+The teacher said, “I want to fit as large a circle as possible inside a triangle whose side lengths are 2, 2 and 2x for some positive real number x. What should the value of x be?” Alex said, “I think x should be 1.” Brian said, “I think x should be x = .” Colin said, “Both of you are wrong.” Who was right?
+
+=== Year 2006 | Problem 2 | Page 2 ===
+A triangle can be cut into two isosceles triangles. One of the angles of the original triangle is 36˚. Determine all possible values of the largest angle of the original triangle.
+
+=== Year 2006 | Problem 3 | Page 3 ===
+There are five Tetris pieces, each consisting of four unit squares joined edge to edge. Use the piece shaped like the letter L (the first one in the diagram below) and each of the other four pieces to form a shape with an axis of reflectional symmetry.
+
+=== Year 2006 | Problem 4 | Page 4 ===
+A domino consists of two unit squares joined edge to edge, each with a number on it. Fifteen dominoes, numbered 11, 12, 13, 14, 15, 22, 23, 24, 25, 33, 34, 35, 44, 45 and 55, are assembled into the 5 by 6 rectangle shown in the diagram below. However, the boundary of the individual dominoes have been erased. Reconstruct them.
+
+=== Year 2006 | Problem 5 | Page 5 ===
+A lucky number is a positive integer which is 19 times the sum of its digits (in base ten). Determine all the lucky numbers.
+
+=== Year 2006 | Problem 6 | Page 6 ===
+Alice and Betty play the following game on an n×n board. Starting with Alice, they alternately put either 0 or 1 into any of the blank squares. When all the squares have been filled, Betty wins if the sum of all the numbers in each row is even. Otherwise, Alice wins. (a) Which player has a winning strategy when nɨ2006? (b) Answer the question in (a) for an arbitrary positive integer n.
+
+=== Year 2006 | Problem 7 | Page 7 ===
+Prove that 1596n + n n n − − is divisible by 2006 for all positive odd integer n.
+
+=== Year 2006 | Problem 8 | Page 8 ===
+From the list of positive integers in increasing order, delete all multiples of 4 and all numbers 1 more than a multiple of 4. Let S n be the sum of the first n terms in the sequence which remains. Compute [ ] [ ] [ ] S S S ..... + + + .
+
+=== Year 2006 | Problem 9 | Page 9 ===
+ABC and PQR are both equilateral triangles of area 1. The centre M of PQR lies on the perimeter of ABC. Determine the minimal area of the intersection of the two triangles. M R Q P C B A
+
+=== Year 2006 | Problem 10 | Page 10 ===
+For a certain positive integer m, there exists a positive integer n such that mn is the square of an integer and mɡn is prime. Determine all such positive integers m in the range 1000ɩm<2006.
+
+=== Year 2007 | Problem 1 | Page 1 ===
+Use each of the numbers 1, 2, 3, 4, 5, 6, 7, 8 and 9 exactly once to fill in the nine small circles in the Olympic symbol below, so that the sum of all the numbers inside each large circle is 14. Write down the correct number in each small circle.
+
+=== Year 2007 | Problem 2 | Page 2 ===
+The diagram below shows fourteen pieces of paper stacked on top of one another. Beginning on the pieces marked B, move from piece to adjacent piece in order to finish at the piece marked F. The path must alternately climb up to a piece of paper stacked higher and come down to a piece of paper stacked lower. The same piece may be visited more than once, and it is not necessary to visit every piece. List the pieces of paper in the order visited.
+
+=== Year 2007 | Problem 3 | Page 3 ===
+There are 14 points of intersection in the seven-pointed star in the diagram on the below. Label these points with the numbers 1, 2, 3, …, 14 such that the sum of the labels of the four points on each line is the same. Give one set of solution, no explanation needed.
+
+=== Year 2007 | Problem 4 | Page 4 ===
+Mary found a 3-digit number that, when multiplied by itself, produced a number which ended in her 3-digit number. What is the sum of all the distinct 3-digit numbers which have this property?
+
+=== Year 2007 | Problem 5 | Page 5 ===
+Determine all positive integers m and n such that m2+1 is a prime number and 10(m2+1)=n2+1.
+
+=== Year 2007 | Problem 6 | Page 6 ===
+Four teams take part in a week-long tournament in which every team plays every other team twice, and each team plays one game per day. The diagram below on the left shows the final scoreboard, part of which has broken off into four pieces, as shown on the diagram below on the right. These pieces are printed only on one side. A black circle indicates a victory and a white circle indicates a defeat. Which team wins the tournament?
+
+=== Year 2007 | Problem 7 | Page 7 ===
+Let A be a 3 by 3 array consisting of the numbers 1, 2, 3, …, 9. Compute the sum of the three numbers on the i-th row of A and the sum of the three numbers on the j-th column of A. The number at the intersection of the i-th row and the j-th column of another 3 by 3 array B is equal to the absolute difference of the two sums of array A. For Example, ( ) ( ) b a a a a a a = + + − + + . Is it possible to arrange the numbers in array A so that the numbers 1, 2, 3, …, 9 will also appear in array B? a a a b b b a a a b b b a a a b b b A B
+
+=== Year 2007 | Problem 8 | Page 8 ===
+The diagonals AC and BD of a convex quadrilateral are perpendicular to each other. Draw a line that passes through point M, the midpoint of AB and perpendicular to CD; draw another line through point N, the midpoint of AD and perpendicular to CB. Prove that the point of intersection of these two lines lies on the line AC.
+
+=== Year 2007 | Problem 9 | Page 9 ===
+The positive integers from 1 to n (where n>1) are arranged in a line such that the sum of any two adjacent numbers is a square. What is the minimum value of n?
+
+=== Year 2007 | Problem 10 | Page 10 ===
+Use one of the five colours (R represent red, Y represent yellow, B represent blue, G represent green and W represent white) to paint each square of an 8×8 chessboard, as shown in the diagram below. Then paint the rest of the squares so that all the squares of the same colour are connected to one another edge to edge. What is the largest number of squares of the same colour as compare to the other colours?
+
+=== Year 2008 | Problem 1 | Page 1 ===
+The fraction p q is in the lowest form. Its decimal expansion has the form 0.abababab… The digits a and b may be equal, except that not both can be 0. Determine the number of different values of p.
+
+=== Year 2008 | Problem 2 | Page 2 ===
+Cover up as few of the 64 squares in the following 8×8 table as possible so that neither two uncovered numbers in the same row nor in the same column are the same. Two squares sharing a common side cannot both be covered. ChiangMai, Thailand
+
+=== Year 2008 | Problem 3 | Page 3 ===
+On the following 8×8 board, draw a single path going between squares with common sides so that (a) it is closed and not self-intersecting; (b) it passes through every square with a circle, though not necessarily every square; (c) it turns at every square with a black circle, but does not do so on either the square before or the one after; (d) it does not turn at any square with a white circle, but must do so on either the square before or the one after, or both.                
+
+=== Year 2008 | Problem 4 | Page 4 ===
+Consider all a×b×c boxes where a, b and c are integers such that 1 a b c ≤ ≤ ≤ ≤ . An a b c × × box fits inside an a b c × × box if and only if a a ≤ , b b ≤ and c c ≤ . Determine the largest number of the boxes under consideration such that none of them fits inside another.
+
+=== Year 2008 | Problem 5 | Page 5 ===
+Initially, the numbers 0, 1 and 4 are on the blackboard. Our task is to add more numbers on the blackboard by using the following procedures: In each step, we select two numbers a and b on the blackboard and add the new number c＝ab＋a＋b on the blackboard. What is the smallest number not less than 2008 which can appear on the blackboard after repeating the same procedure for several times?
+
+=== Year 2008 | Problem 6 | Page 6 ===
+Given a shaded triangle as below, find all possible ways of extending one of its sides to a new point so that the resulting triangle has two equal sides. Mark the points of extension on the space given below. A
+
+=== Year 2008 | Problem 7 | Page 7 ===
+ABCD is a quadrilateral inscribed in a circle, with AB=AD. The diagonals intersect at E. F is a point on AC such that ∠BFC=∠BAD. If ∠BAD=2∠DFC, determine BE DE . E D C B A F
+
+=== Year 2008 | Problem 8 | Page 8 ===
+How many five-digit numbers are there that contain the digit 3 at least once?
+
+=== Year 2008 | Problem 9 | Page 9 ===
+Among nine identically looking coins, one of them weighs a grams, seven of them b grams each and the last one c grams, where a<b<c. We wish to determine whether a+c<2b, a+c=2b or a+c>2b using only an unmarked beam balance four times.
+
+=== Year 2008 | Problem 10 | Page 10 ===
+Determine the sum of all positive integers n such that ( 1) ( 1)( 2) k n n n n n n − − − + + + = for some positive integer k.
+
+=== Year 2009 | Problem 1 | Page 2 ===
+The cards 1 to 15 are arranged in a deck, not in numerical order. The top card is placed on the table and the next card is transferred to the bottom of the deck. Now the new top card is placed on top of the card on the table and the next card is transferred to the bottom of the remaining deck. This process is repeated until all 15 cards are on the table. If the cards on the table are now in their natural order, 1 to 15, from top to bottom, what was the fourth card from the bottom in the original deck? Team Contest Team: Score:
+
+=== Year 2009 | Problem 2 | Page 3 ===
+Find the smallest positive integer with at least one factor ending in each of the digits 0 to 9 i.e. at least one factor ends in 0, at least one factor ends in 1, …, at least one factor ends in 9. Team Contest Team: Score:
+
+=== Year 2009 | Problem 3 | Page 4 ===
+Place the digits 1 to 6 in each of the rows and columns as well as the two diagonals such that no digit is repeated in a row, column or diagonal. Team Contest Team: Score:
+
+=== Year 2009 | Problem 4 | Page 5 ===
+We have indicated the positions of three parking areas (indicated by the letter P) and seven squares (the shaded areas) on the map of this small town centre. Some of the streets only allow one-way traffic. This is shown by arrows which indicate the direction of traffic up to the first side street. Can you find a route that begins at one of the parking areas, passes through all the squares and ends at another parking area? Make sure that you do not visit any point, including intersection areas, on your route more than once. P P P P P P Team Contest Team: Score:
+
+=== Year 2009 | Problem 5 | Page 6 ===
+In the diagram below, draw a continuous path that begins and ends at the same place and runs through every square exactly once without crossing itself, so that between two consecutive circles on the path, if those circles are the same colour, then they must be joined by one straight line segment and if they are different colours, then they must be joined by two straight line segments which form a right angle. (You may only move horizontally or vertically.) Team Contest Team: Score:
+
+=== Year 2009 | Problem 6 | Page 7 ===
+Let n n n n n a + + = − − + for all positive integers n. Prove that a a a + + + < ⋯ . Proof Team Contest Team: Score:
+
+=== Year 2009 | Problem 7 | Page 8 ===
+Find all the possible ways of splitting the positive integers into cold numbers and hot numbers such that the sum of a hot number and a cold number is hot and their product is cold. Team Contest Team: Score:
+
+=== Year 2009 | Problem 8 | Page 9 ===
+The diagram below shows how a regular octagon may be cut into a 1×1 square and four congruent pentagons which may be reassembled to form a square. Determine the perimeter of one of those pentagons. Team Contest Team: Score:
+
+=== Year 2009 | Problem 9 | Page 10 ===
+A game of cards involves 4 players. In a contest, the total number of games played is equal to the total number of players entered in the contest. Every two players are together in at least one game. Determine the maximum number of players that can enter the contest. Team Contest Team: Score:
+
+=== Year 2009 | Problem 10 | Page 11 ===
+Which of the numbers 2008, 2009 and 2010 may be expressed in the form x y z xyz + + − , where x, y and z are positive integers?
+
+=== Year 2010 | Problem 1 | Page 2 ===
+Solve the following system of equations for real numbers w, x, y and z: 20. w x y z w x y z w x y z w x y z + + + = ⎧ ⎪ + + + = − ⎪⎨ + + + = ⎪ ⎪ + + + = − ⎩ ANSWER: w= x= y= z= TEAM CONTEST TeamĈ ScoreĈ
+
+=== Year 2010 | Problem 2 | Page 3 ===
+In the convex quadrilateral ABCD, AB is the shortest side and CD is the longest. Prove that ƆA >ƆC and ƆB >ƆD. TEAM CONTEST TeamĈ ScoreĈ
+
+=== Year 2010 | Problem 3 | Page 4 ===
+Let m n ≥ be integers such that m n mn + + = . Determine the maximum value of m n − . TEAM CONTEST TeamĈ ScoreĈ
+
+=== Year 2010 | Problem 4 | Page 5 ===
+Arranged in an 8×8 array are 64 dots. The distance between adjacent dots on the same row or column is 1 cm. Determine the number of rectangles of area 12 cm2 having all four vertices among these 64 dots. TEAM CONTEST TeamĈ ScoreĈ
+
+=== Year 2010 | Problem 5 | Page 6 ===
+Determine the largest positive integer n such that there exists a unique positive integer k satisfying 8 n n k < < + . TEAM CONTEST TeamĈ ScroeĈ
+
+=== Year 2010 | Problem 6 | Page 7 ===
+In a 9×9 table, every square contains a number. In each row and each column at most four different numbers appear. Determine the maximum number of different numbers that can appear in this table. TEAM CONTEST TeamĈ ScoreĈ
+
+=== Year 2010 | Problem 7 | Page 8 ===
+In a convex quadrilateral ABCD, ABD ∠ = °, DBC ∠ = °, BCA ∠ = ° and ACD ∠ = °. Determine ADB ∠ , in degree. TEAM CONTEST TeamĈ ScoreĈ
+
+=== Year 2010 | Problem 8 | Page 9 ===
+Determine all ordered triples (x, y, z) of positive rational numbers such that each of x y + , y z + and z x + is an integer. TEAM CONTEST TeamĈ ScoreĈ
+
+=== Year 2010 | Problem 9 | Page 10 ===
+Assign each of the numbers 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 and 15 into one of the fifteen different circles in the diagram shown below on the left, so that (a) the number which appear in each circle in the diagram below on the right represents the sum of the numbers which will be in that particular circle and all circles touching it in the diagram below on the left; (b) except the number in the first row, the sum of the numbers which will be in the circles in each row in the diagram below on the left is located at the rightmost column in the diagram below on the right. TEAM CONTEST TeamĈ ScoreĈ
+
+=== Year 2010 | Problem 10 | Page 11 ===
+The letters K, O, R, E, A, I, M and C are written in eight rows, with 1 K in the first row, 2 Os in the second row, and so on, up to 8 Cs in the last row. Starting with the lone K at the top, try to spell the “words” KOREA IMC by moving from row to row, going to the letter directly below or either of its neighbours, as illustrated by the path in boldface. It turns out that one of these 36 letters may not be used. As a result, the total number of ways of spelling KOREA IMC drops to 516. Circle the letter which may not be used. K O O R R R E E E E A A A A A I I I I I I M M M M M M M C C C C C C C C K O O R R R E E E E A A A A A I I I I I I M M M M M M M C C C C C C C C
+
+=== Year 2011 | Problem 1 | Page 2 ===
+Find all real solutions of the equation ( 1)( 4) x x x x x x − + = + + + + . TeamĈ ScoreĈ
+
+=== Year 2011 | Problem 2 | Page 3 ===
+A domino is a 1×2 or 2×1 piece. Seventeen dominoes are placed on a 5×8 board, leaving six vacant squares. Three of these squares are marked in the diagram below with white circles. The two squares marked with black circles are not vacant. The other three vacant squares are in the same vertical column. Which column contains them? (For rough work) ANSWER: Column____ TeamĈ ScoreĈ
+
+=== Year 2011 | Problem 3 | Page 4 ===
+Place each of 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13 and 14 into a different vacant box in the diagram below, so that the arrows of the box containing 0 point to the box containing 1. For instance, 1 is in box A, B or C. Similarly, the arrows of the box containing 1 point to the box containing 2, and so on. A B C TeamĈ ScoreĈ
+
+=== Year 2011 | Problem 4 | Page 5 ===
+The diagram below shows a 5×8 board with two of its squares marked with black circles, and the border of two 3×4 subboards which contain both marked squares. How many subboards (not necessarily 3×4) are there which contain at least one of the two marked squares? TeamĈ ScoreĈ
+
+=== Year 2011 | Problem 5 | Page 6 ===
+Three avenues, of respective widths 15 m, 14 m and 13 m, converge on Red Triangle in the outskirt of Moscow. Traffic is regulated by three swinging gates hinged at the junction points of the three avenues. As shown in the diagram below, the gates at A and B close off one avenue while the gate at C is pushed aside to allow traffic between the other two avenues through the Red Triangle. Calculate the lengths of the three gates if each pair closes off one avenue exactly. 13 m 15 m 14 m A C B Gate at A=____m, at B=_____m, at C=_____m TeamĈ ScoreĈ
+
+=== Year 2011 | Problem 6 | Page 7 ===
+Let ( ) f x be a polynomial of degree 2010 such that ( ) f k k = − where k is any of the first 2011 positive integers. Determine the value of (2012) f . TeamĈ ScoreĈ
+
+=== Year 2011 | Problem 7 | Page 8 ===
+A cat catches 81 mice, arrange them in a circle and numbers them from 1 to 81 in clockwise order. The cat counts them “One, Two, Three!” in clockwise order. On the count of three, the cat eats that poor mouse and counts “One, Two, Three!” starting with the next mouse. As the cat continues, the circle gets smaller, until only two mice are left. If the one with the higher number is 40, what is the number of the mouse from which the cat starts counting? TeamĈ ScoreĈ
+
+=== Year 2011 | Problem 8 | Page 9 ===
+In triangle ABC, BC=AC and ∠BCA=90°. D and E are points on AC and AB respectively such that AD = AE and 2CD = BE. Let P be the point of intersection of BD with the bisector of ∠CAB. Determine ∠PCB. TeamĈ ScoreĈ
+
+=== Year 2011 | Problem 9 | Page 10 ===
+Paint 21 of the 49 squares of a 7×7 board so that no four painted squares form the four corners of any subboard. (For rough work) TeamĈ ScoreĈ
+
+=== Year 2011 | Problem 10 | Page 11 ===
+Arie, Bert and Caroline are given the positive integers a, b and c respectively. Each knows only his or her own number. They are told that 1 a b c + + = , and are asked the following two questions: (a) Do you know the value of a+b+c ? (b) Do you know the values of a, b and c? Arie answers “No” to both questions. Upon hearing that, Bert answers “Yes” to the first question and “No” to the second. Caroline has heard everything so far. How does she answer these two questions? ANSWER: (a) (b)
+
+=== Year 2012 | Problem 1 | Page 2 ===
+A positive real number is given. In each move, we can do one of the following: add 3 to it, subtract 3 from it, multiply it by 3 and divide it by 3. Determine all the numbers such that after exactly three moves, the original number comes back. (TAIMC 2012) TeamĈ ScoreĈ
+
+=== Year 2012 | Problem 2 | Page 3 ===
+The average age of eight people is 15. The age of each is a prime number. There are more 19 year old among them than any other age. If they are lined up in order of age, the average age of the two in the middle of the line is 11. What is the maximum age of the oldest person among the eight? (TAIMC 2012) TeamĈ ScoreĈ
+
+=== Year 2012 | Problem 3 | Page 4 ===
+In the diagram below, the numbers 1, 2, 3, 4, 5, 6, 7, 8 and 9 are placed one inside each hexagon, so that the sum of the numbers inside the four hexagons on each of the three sides of the triangle is 19. If you are allowed to rearrange the numbers but still have the same sum on each side, what is the smallest possible sum and what is the largest possible sum? The smallest possible sum is The largest possible sum is (TAIMC 2012) TeamĈ ScoreĈ
+
+=== Year 2012 | Problem 4 | Page 5 ===
+There are 2012 evenly spaced points on a line. Each is to be painted orange or green. If three distinct points A, B and C are such that AB = BC, and if A and C are painted by the same color, so is B. Determine the number of all possible ways of painting these points. (TAIMC 2012) TeamĈ ScoreĈ
+
+=== Year 2012 | Problem 5 | Page 6 ===
+Consider the four-digit number 2012. We can divide it into two numbers in three ways, namely, 2|012, 20|12 and 201|2. If we multiply the two numbers in each pair and add the three products, we get 2×012+20×12+201×2=666. Find all other four-digit numbers which yield the answer 666 by this process. (TAIMC 2012) TeamĈ ScoreĈ
+
+=== Year 2012 | Problem 6 | Page 7 ===
+Let n be a positive integer such that 2n has 8 positive factors and 3n has 12 positive factors. Determine all possible numbers of positive factors of 12n. (TAIMC 2012) TeamĈ ScoreĈ
+
+=== Year 2012 | Problem 7 | Page 8 ===
+Use straight and circular cuts to dissect a circle into congruent pieces. There must be at least one piece which does not contain the centre of the circle in its interior or on its perimeter. (TAIMC 2012) TeamĈ ScoreĈ
+
+=== Year 2012 | Problem 8 | Page 9 ===
+A machine consists of three boxes each with a red light that is initially off. After putting objects into the boxes, the machine may be used to run a check. For each box, if the total weight in that box is strictly less than the total weight in each of the other two boxes, the red light of that box will go on. Otherwise, the red light will go off. Use this machine twice to find a fake ball among seven balls which is heavier than the other six. The other six are of equal weight. (TAIMC 2012) TeamĈ ScoreĈ
+
+=== Year 2012 | Problem 9 | Page 10 ===
+The diagram below shows all five pieces which can be formed of four unit squares. They are called the I-, L-, N-, O- and T-Tetrominoes. (a) Use three different pieces to construct a figure with reflectional symmetry. Pieces can be rotated and reflected when used. Find five solutions. (b) Use three different pieces to construct a figure with rotational symmetry. Pieces can be rotated and reflected when used. Find one solution. (A figure consists of 12 connective unit squares joined edge to edge. Two figures are considered the same if one can be transformed into the other by rotation or reflection.) (a) (b) (TAIMC 2012) TeamĈ ScoreĈ
+
+=== Year 2012 | Problem 10 | Page 11 ===
+The digits in base 10 have been replaced in some order by the letters A, B, C, D, E, F, G, H, I and J. We have three clues. (1) The two-digit number AB is the product of A, A and C. (2) The two-digit number DE is the product of C and F. (3) The two-digit number BG is the sum of H, I and the product of F and G. Here A, B, and D are nonzero. Which digits may be represented by the letter J ?
+
+=== Year 2013 | Problem 1 | Page 2 ===
+Each of the numbers 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9 is to be put into a different circle in the diagram below. Consecutive numbers may not be put into two circles connected directly by a line segment. The sum of the numbers in the circles on the perimeter of each rectangle is equal to the number indicated inside. On the diagram provided for you to record your answer, put the numbers into the circles. BIMC 2013 BIMC 2013 BIMC 2013 BIMC 2013 Competition Competition Competition Competition Team： Score：
+
+=== Year 2013 | Problem 2 | Page 3 ===
+The side lengths, in cm, of a right triangle are relatively prime integers. The line joining its centroid and its incentre is perpendicular to one of the sides. What is the maximum perimeter, in cm, of such a triangle? cm BIMC 2013 BIMC 2013 BIMC 2013 BIMC 2013 Competition Competition Competition Competition Team： Score：
+
+=== Year 2013 | Problem 3 | Page 4 ===
+A marker is placed at random on one of the nine circles in the diagram below. Then it is moved at random to another circle by following a line segment. What is the probability that after this move, the marker is on a circle marked with a black dot? BIMC 2013 BIMC 2013 BIMC 2013 BIMC 2013 Competition Competition Competition Competition Team： Score：
+
+=== Year 2013 | Problem 4 | Page 5 ===
+In triangle ABC, ∠A = 40° and ∠B = 60°. The bisector of ∠A cuts BC at D, and F is the point on the line AB such that ∠ADF = 30°. What is the measure, in degrees, of ∠DFC? ° D A C B F BIMC 2013 BIMC 2013 BIMC 2013 BIMC 2013 Competition Competition Competition Competition Team： Score：
+
+=== Year 2013 | Problem 5 | Page 6 ===
+The first digit of a positive integer with 2013 digits is 5. Any two adjacent digits form a multiple of either 13 or 27. What is the sum of the different possible values of the last digit of this number? BIMC 2013 BIMC 2013 BIMC 2013 BIMC 2013 Competition Competition Competition Competition Team： Score：
+
+=== Year 2013 | Problem 6 | Page 7 ===
+In a tournament, every two participants play one game against each other. No game may end in a tie. The tournament record shows that for any two players X and Y, there is a player Z who beats both of them. In such a tournament, (a) prove that the number of participants cannot be six; (b) show that the number of participants may be seven. BIMC 2013 BIMC 2013 BIMC 2013 BIMC 2013 Competition Competition Competition Competition Team： Score：
+
+=== Year 2013 | Problem 7 | Page 8 ===
+In the pentagon ABCDE, ABC DEA ∠ = ° = ∠ , AB = BC, DE = EA and BE = 100 cm. What is the area, in cm2, of ABCDE? D A C B E cm2 BIMC 2013 BIMC 2013 BIMC 2013 BIMC 2013 Competition Competition Competition Competition Team： Score：
+
+=== Year 2013 | Problem 8 | Page 9 ===
+A two-player game starts with a marker on each square of a 100 × 100 board. In each move, the player whose turn it is must remove a positive number of markers. They must come from squares forming a rectangular region which may not include any vacant square. The player who removes the last marker loses. A sample game on a 4 × 4 board is shown in the diagram below, where the first player loses. Which player has a winning strategy, the one who moves first or the one who moves second? ● ● ● ● ●●●● ● ● ● ●●●● ● ● BIMC 2013 BIMC 2013 BIMC 2013 BIMC 2013 Competition Competition Competition Competition Team： Score：
+
+=== Year 2013 | Problem 9 | Page 10 ===
+In a 5 × 5 display case there are 20 gems: 5 red, 5 yellow, 5 blue and 5 green. In each row and in each column, there is an empty cell and the other four cells contain gems of different colours. Twelve people are admiring the gems. Looking along a row or a column, each person reports the colour of the gem in the first cell, or the colour of the gem in the second cell if the first cell happens to be empty. Their reports are recorded in the diagram below, where R, Y, B and G stand for red, yellow, blue and green respectively. On the diagram provided for you to record your answer, enter R, Y, B or G in each of 20 of the 25 blank cells to indicate the colour of the gem in that cell. R Y R R B G B R Y B B G R Y R R B G B R Y B B G BIMC 2013 BIMC 2013 BIMC 2013 BIMC 2013 Competition Competition Competition Competition Team： Score：
+
+=== Year 2013 | Problem 10 | Page 11 ===
+Four different stamps are in a 2 × 2 block. The diagram below shows the 13 different connected subblocks which can be obtained from this block by removing 0 or more of the stamps. The shaded squares represent stamps that have been removed. How many different connected subblocks of stamps can be obtained from a 2 × 4 block of eight different stamps?
+
+=== Year 2014 | Problem 1 | Page 2 ===
+Let m S S S S S n − + − + = where m and n are relatively prime positive integers and 1 , 1 , 2 3 4 2 3 5 2 3 6 2 5 6 3 4 5 , 3 5 6 4 5 6 , 2 3 4 5 2 3 4 2 3 5 6 4 5 6 3 4 5 6 S S S S S = + + + + = + + + + + + + + + × × × × × × × × × × = + + + + + + × × × × × × × × × × × × × × + + + × × × × × × = + + + + × × × × × × × × × × × × × × × = × × . 4 5 6 × × Determine the value of m + n. TeamĈ ScoreĈ
+
+=== Year 2014 | Problem 2 | Page 3 ===
+The distinct prime numbers p, q, r and s are such that p q r s + + + is also a prime number, and both p qr + and p qs + are squares of integers. Determine p q r s + + + . TeamĈ ScoreĈ
+
+=== Year 2014 | Problem 3 | Page 4 ===
+Determine the sum of all integers n for which n n + − is the product of two positive even integers differing by 2. TeamĈ ScoreĈ
+
+=== Year 2014 | Problem 4 | Page 5 ===
+Cut a right isosceles triangle into the minimum number of pieces which may be assembled to form, without gaps or overlaps, two right isosceles triangles of different sizes. TeamĈ ScoreĈ
+
+=== Year 2014 | Problem 5 | Page 6 ===
+Determine the maximum value of a + b + c where a, b and c are positive integers such that 2b + 1 is divisible by a, 2c + 1 is divisible by b and 2a + 1 is divisible by c. TeamĈ ScoreĈ
+
+=== Year 2014 | Problem 6 | Page 7 ===
+Determine all positive integers under 100 with exactly four positive divisors such that the difference between the sum of two of them and the sum of the other two is the square of an integer. TeamĈ ScoreĈ
+
+=== Year 2014 | Problem 7 | Page 8 ===
+A Korean restaurant offers one kind of soup each day. It is one of fish soup, beef soup or ginseng chicken soup, but it will not offer ginseng chicken soup three days in a row. Determine the number of different seven-day menus. TeamĈ ScoreĈ
+
+=== Year 2014 | Problem 8 | Page 9 ===
+Two circles, with centres O and P respectively, intersect at A and B. The extension of OB intersects the second circle at C and the extension of PB intersects the first circle at D. A line through B parallel to CD intersects the first circle at Q B ≠ . Prove that AD = BQ. Q D C A B P O TeamĈ ScoreĈ
+
+=== Year 2014 | Problem 9 | Page 10 ===
+In the quadrilateral ABCD, BDA ∠ = ° , ABD DBC ∠ = ∠ = ° and BCA ∠ = °. Determine the measure, in degrees, of BDC ∠ . ° 20° D C A B 20° 40° 10° TeamĈ ScoreĈ
+
+=== Year 2014 | Problem 10 | Page 11 ===
+The diagram below shows a 6×6 box. Balls A to L enter along columns and exit along rows. The point of entry and the point of exit of each ball are marked by its own letter. Reflectors may be placed along either diagonal of any square in the box, four of which are shown as an illustration. When a ball hits a reflector, it bounces off in a perpendicular direction. You must make every ball go to the right place, as illustrated by the balls B and K. You must remove the four reflectors used in the illustration, and then place ten reflectors in other squares. You may not put any reflector in the same position as in the illustration. G H I J K L ↓ ↓ ↓ ↓ ↓ ↓ I ← → F A ← →K G ← → J C ← → L B ← →D H ← → E ↑ ↑ ↑ ↑ ↑ ↑ A B C D E F G H I J K L ↓ ↓ ↓ ↓ ↓ ↓ I ← →F A ← →K G ← →J C ← →L B ← →D H ← →E ↑ ↑ ↑ ↑ ↑ ↑ A B C D E F
+
+=== Year 2015 | Problem 1 | Page 2 ===
+In the diagram below, replace each letter by a different number from of 1, 2, 3, 4, 5, 6, 7, 8 and 9, so that the sum of the four numbers around each circle is equal to the number inside the circle. A B C E D F I H G Team： Score：
+
+=== Year 2015 | Problem 2 | Page 3 ===
+Find the sum of all four-digit perfect squares such that if each of its digits is reduced by the same amount, the resulting four-digit number is still a perfect square. (Different reduction amounts may be used for different perfect squares.) Team： Score：
+
+=== Year 2015 | Problem 3 | Page 4 ===
+A hexagon has six angles of 120° . The lengths of four consecutive sides are 2000 cm, 2005 cm, 2010 cm and 2015 cm. Calculate the circumference, in cm, of this hexagon. cm Team： Score：
+
+=== Year 2015 | Problem 4 | Page 5 ===
+There is a 4×4 grid posted on the wall. Find the number of ways of placing two identical red counters and two identical blue counters on four different squares of the grid such that no column or row has two counters of the same color. ways Team： Score：
+
+=== Year 2015 | Problem 5 | Page 6 ===
+What is the minimum size of a collection of perfect squares, with repetitions allowed, such that every positive integer up to 100 can be expressed as a sum of the numbers in the collection? A sum may consist of one number from the collection as well. perfect squares Team： Score：
+
+=== Year 2015 | Problem 6 | Page 7 ===
+Kelly is younger than 100 and Kerry is older than 9. Kelly’s age becomes Kerry’s age when it is multiplied by a fraction whose denominator is 999 and whose numerator is a three-digit number with 5 as the tens digit. How many possible values of Kerry’s age are there? Team： Score：
+
+=== Year 2015 | Problem 7 | Page 8 ===
+In the diagram below, each hexagon contains one of the numbers 2, 4, 5, 6, 7, 18, 20 and 36. Each number appears once except that 6 appears twice. Each arrow contains one of the operations −, ÷ , + , × , + , × , ÷ and + . Each operation appears once except that − appears twice. Complete the diagram so that each operation applied to the number in the preceding hexagon yields the number in the succeeding hexagon. Note that one of the hexagon succeeds no arrows while another one succeeds two arrows. Team： Score：
+
+=== Year 2015 | Problem 8 | Page 9 ===
+M is a point on the side AB of a parallelogram ABCD such that AM：MB = 4：3. DM and CM are perpendicular respectively to AC and BD. If BC = 5 cm, find the area, in cm2, of ABCD. cm2 A D C B M Team： Score：
+
+=== Year 2015 | Problem 9 | Page 10 ===
+Find the largest six-digit number with distinct digits which is a perfect square and its digits follow an increasing order from left to right. Team： Score：
+
+=== Year 2015 | Problem 10 | Page 11 ===
+In a convex quadrangle ABCD, DAC DCА ∠ = ∠ = °, BAC ∠ = ° and ACB ∠ = °. Find the measure, in degrees, of BDC ∠ . A D C B 25° 25° 85° 30° °
+
+=== Year 2016 | Problem 1 | Page 2 ===
+The diagram below shows nine circles joined by seven lines, with three circles on each line. Replace each of a, b, c, d, e, f, g, h and k by a different one of 1, 2, 3, 4, 5, 6, 7, 8 and 9, such that the number in the middle circle of a solid line is equal to the sum of the numbers in the other two circles, and the number in the middle circle of a dotted line is equal to the difference of the numbers in the other two circles. h g f e d c b a k Team： Score：
+
+=== Year 2016 | Problem 2 | Page 3 ===
+When the digits of a three-digit number x are written in reverse order, we obtain a number y such that x y + = . Determine the sum of all possible values of x. Team： Score：
+
+=== Year 2016 | Problem 3 | Page 4 ===
+How many of the first 2016 positive integers can be expressed in the form ( 1) k mk + + + − + ⋯ , where k and m are positive integer? For example, we have 6 = + + × and 11 1 = + × . Team： Score：
+
+=== Year 2016 | Problem 4 | Page 5 ===
+A circle with diameter AB intersects a circle with centre A at C and D. E is the point of intersection of AB and CD. P is a point on the second circle such that PC = 16 cm, PD = 28 cm and PE = 14 cm. Find the length, in cm, of PB. cm A B C E D P Team： Score：
+
+=== Year 2016 | Problem 5 | Page 6 ===
+The diagram below shows an arrangement of 20 numbered circles. Note that circles 3, 9, 12 and 18 determine a square. What is the minimum number of circles we have to remove so that no four remaining circles determine a square? circles Team： Score：
+
+=== Year 2016 | Problem 6 | Page 7 ===
+A Mathematics test consists of 3 problems, each worth an integral number of marks between 1 and 10 inclusive. Each student scores more than 15 marks, and for any two students, they obtain different numbers of marks for at least one problem. Find the maximum number of students. students Team： Score：
+
+=== Year 2016 | Problem 7 | Page 8 ===
+Let x, y and z be positive real numbers such that x y z − + − + − = . If the sum of x, y and z is 9, find their product. Team： Score：
+
+=== Year 2016 | Problem 8 | Page 9 ===
+What is the largest number of integers that may be selected from 1 to 2016 inclusive such that the least common multiple of any number of integers selected is also selected? Team： Score：
+
+=== Year 2016 | Problem 9 | Page 10 ===
+Dissect the six figures in the diagram below into twelve pieces, each consisting of five squares, such that no two of the twelve pieces are identical up to rotation and reflection. Team： Score：
+
+=== Year 2016 | Problem 10 | Page 11 ===
+Let ( ) T n be the numbers of positive divisors of a positive integer n. How many positive integers n satisfy ( ) (39 ) (55 ) T n T n T n = − = − ?
+
+=== Year 2017 | Problem 1 | Page 2 ===
+The Void Cube is a 3 3 3 × × cube with no center pieces just holes which can be looked through, as shown in the diagram. Consider the cross-section of the cube passing through the vertices A, B and C. Draw a picture of this cross section. (Shade the solid part of the triangle ABC in black and the hollow part in white.) A B C Team： Score：
+
+=== Year 2017 | Problem 2 | Page 3 ===
+There are 314 coins in 21 open boxes. In each move, you can take 1 coin from each of any two boxes and put them into a third box. In the final move, you take all the coins from one box. What is the maximum number of coins you can get? coins Team： Score：
+
+=== Year 2017 | Problem 3 | Page 4 ===
+A right triangle with hypotenuse a stands on its shorter side c = . We rotate it sequentially three times as it is shown below. If TS is a common tangent of the three arcs, find a. T Q c b a S a b c > > Team： Score：
+
+=== Year 2017 | Problem 4 | Page 5 ===
+Find all ordered pairs (x, y) of positive integers which satisfy the equation x y x xy y + = + + . Team： Score：
+
+=== Year 2017 | Problem 5 | Page 6 ===
+Let ( ) P x be a polynomial of degree 3 and 1x , 2x , 3x are the solutions of ( ) P x = . Let ( ) P P P −     −        = , ( ) P P P −     −        = and x x x + + = . Find the value of x x x x x x x x x + + + + + . Team： Score：
+
+=== Year 2017 | Problem 6 | Page 7 ===
+The quadrilateral ABCD is inscribed in a circle with center O. Connect AC and BD intersecting at K. O is the circumcenter of triangle ABK and O is the circumcenter of triangle CDK. A line l through K intersect the two circumcircles at E and F respectively, and the circumcircle of ABCD at G and point H. Prove that EG FH = . A D C B F E G K H O O O l Team： Score：
+
+=== Year 2017 | Problem 7 | Page 8 ===
+Given that a > , n n n x a a = − where n = , 2, 3, …. If x = , find the units digit of x . Team： Score：
+
+=== Year 2017 | Problem 8 | Page 9 ===
+Suppose x, y and z are all non-negative real numbers. Let k and m be the minimum possible values of x y z xy yz z + + + + + and x y z xy y z + + + + + respectively. Find km k m + + . Team： Score：
+
+=== Year 2017 | Problem 9 | Page 10 ===
+Use three non-overlapping copies of a L-tetromino to construct a symmetric figure. Each L-tetromino must have a common point with at least one other L-tetromino. Find a solution in which the copies may be rotated but not reflected. Team： Score：
+
+=== Year 2017 | Problem 10 | Page 11 ===
+How many ways are there of placing a single L-pentomino on the 8 8 × chessboard so that it completely covers some five small squares of the chessboard? ways
+
+=== Year 2018 | Problem 1 | Page 3 ===
+How many positive integers less than 2018 can be expressed as a sum of exactly three different positive divisors of themselves? positive integers Team： Score：
+
+=== Year 2018 | Problem 2 | Page 4 ===
+How many pairs of positive integer (x, y) are there such that x y < and x y x y + + is an integer which is a divisor of 2835? pairs Team： Score：
+
+=== Year 2018 | Problem 3 | Page 5 ===
+Let ABCD be a parallelogram of area 240 cm2. E is the midpoint of AD and H is the midpoint of AB. G is a point on BC such that BG GC = and F is a point on CD such that DF FC = . K is a point on AC such that the area of triangle EKF is 33cm2. Find the area, in cm2, of triangle HKG. cm2 A K B G H D C F E Team： Score：
+
+=== Year 2018 | Problem 4 | Page 6 ===
+Find the largest positive integer m such that m m + + is the product of two or more consecutive integers. Team： Score：
+
+=== Year 2018 | Problem 5 | Page 7 ===
+For which positive integer value of k does 20 ! k k k + attain its maximum value? Team： Score：
+
+=== Year 2018 | Problem 6 | Page 8 ===
+The Roman army has 2018 units guarding their provinces. The Emperor was worried that when there are at least 64 units in a province, they might get together and overthrow the Emperor. So on each day, he visited one such potentially troublesome province and sent all its units to other provinces, no two going to the same province. Prove that after 64 days, there were no more provinces with at least 64 units. Team： Score：
+
+=== Year 2018 | Problem 7 | Page 9 ===
+The sum of all positive integers that are not relatively prime to 2018 and have exactly 2017 positive divisors is divided by 2019. Find the remainder of this division. Team： Score：
+
+=== Year 2018 | Problem 8 | Page 10 ===
+In the diagram below, the triangle is dissected into four smaller triangles and three quadrilaterals. Each smaller triangle has area 1cm2. Find the area, in cm2, of quadrilateral CA C A . cm2 C A B C C A 1A B B Team： Score：
+
+=== Year 2018 | Problem 9 | Page 11 ===
+Dissect the first figure below, not necessarily along the grid lines, into three pieces such that the pieces obtained are identical up to rotation and reflection. Then dissect the second figure, not necessarily along the grid lines, into four pieces such that the pieces obtained are identical up to rotation and reflection.
+
+=== Year 2018 | Problem 10 | Page 12 ===
+Tom writes down the number 1. For any number n already written down, Tom writes down the numbers 5n and 5 n + , provided that they are less than 1000. Jerry computes all sums of two different numbers Tom has written down. How many different sums does Jerry get?
+
+=== Year 2019 | Problem 1 | Page 3 ===
+Find all triples of positive integers (I, M, C), where I, M and C are prime numbers and I M C   , such that I M C I M C   = + + + . Team： Score：
+
+=== Year 2019 | Problem 2 | Page 4 ===
+N integers from 2021 consecutive positive integers are chosen such that the difference between any two of them is not a prime number. Find the largest value of N? Team： Score：
+
+=== Year 2019 | Problem 3 | Page 5 ===
+In the figure below, points A, C are on ray OM and B, D are on ray ON. It is given that OA = cm, OD = cm and NOM  = . What is the minimum length, in cm, of AB BC CD + + ? cm A M D C B N O Team： Score：
+
+=== Year 2019 | Problem 4 | Page 6 ===
+Determine the number of ordered pairs of digits (a, b) such that when the number 2 1 9 a b is divided by 13, it leaves a remainder of 1. (2 1 9 a b is a five-digit number.) pairs Team： Score：
+
+=== Year 2019 | Problem 5 | Page 7 ===
+There are 10 identical red balls, 15 identical black balls and 20 identical white balls. We want to distribute all the balls to 2 boys and a girl. Each boy must receive at least 2 balls of each color, and the girl must receive at least 3 balls of each color. What is the total number of different ways to distribute the balls to those three children? ways Team： Score：
+
+=== Year 2019 | Problem 6 | Page 8 ===
+Point B is an arbitrary point on a circle with centre O and radius 1 cm. ABC is a triangle with A on the circle such that AB BC = and ABC  = . Determine the maximum length, in cm, of OC. A C B O cm Team： Score：
+
+=== Year 2019 | Problem 7 | Page 9 ===
+Each of 14 girls has a different juicy piece of good news, and is eager to share it with all the other girls. In each round, some or all of the girls engage in phone conversations in pairs, telling each other all the pieces they have heard. (a). What is the minimum number of rounds required in order for every girl to have heard all the pieces of good news? (10 points) (b). Show all calls in each round to achieve the minimum number of rounds? (30 points)
+
+=== Year 2019 | Problem 8 | Page 10 ===
+On the plane, 5 points X , X , X , X and X are chosen, and each pair of these points is connected by a blue line. Suppose no two blue lines are parallel or perpendicular to each other. Now for each point i X (1 i ) and each blue line L not passing through i X , a red line is drawn passing through i X and perpendicular to L. What is the maximum number of points of intersection formed by the red lines? points Team： Score：
+
+=== Year 2019 | Problem 9 | Page 11 ===
+A wall with dimensions 2 7  squares has to be covered with ceramic tiles. There are two types of ceramic tiles that are available: the 1 1  (identical) tile and the 2 1  (identical) tile. The 2 1  tile can be rotated before being placed on the board. We are provided with as many tiles of each type as we need. In how many ways can we cover the 2 7  wall with such tiles?   ways Team： Score：
+
+=== Year 2019 | Problem 10 | Page 12 ===
+For any positive integer x, let ( ) S x be the sum of all the digits of x in its decimal representation. Find all solutions of the equation ( ( ) 9) x S x = + .
+
+=== Year 2021 | Problem 1 | Page 2 ===
+Consider the ‘I’ shaped diagram below: Each square is filled with exactly one number from the following eight numbers −, −, −, 0, 0, 1, 1 and 1 such that the sum of the numbers in each of the rows, column and four corners are all the same. How many ways are there to fill the diagram? ways Team： Solver： ID：
+
+=== Year 2021 | Problem 2 | Page 3 ===
+Let x and y be real numbers such that: x xy y x y xy x y  + + =  + =   +   Find all possible values of x y + . Team： Solver： ID：
+
+=== Year 2021 | Problem 3 | Page 4 ===
+Let ABC be a triangle and O be a point in its interior such that ABO CAO  =  , BAO BCO  =  and BOC  = , as shown in the diagram below. If AC = cm, then find the length, in cm, of OC. cm A O C B Team： Solver： ID：
+
+=== Year 2021 | Problem 4 | Page 5 ===
+Find all four-digit integers m that are less than 2021 for which there exists a positive integer n such that m n − is a positive prime number and m n  is a perfect square. Team： Solver： ID：
+
+=== Year 2021 | Problem 5 | Page 6 ===
+Points 1A , A , …, A are on a line, in this order, such that A A =  cm, A A =  cm, A A =  cm, …, A A =  cm. If the segment m n A A , where 1 m n    , has a length of 1 15 cm, then what is the largest possible value of m n + that satisfies the given conditions? Team： Solver： ID：
+
+=== Year 2021 | Problem 6 | Page 7 ===
+Using four different colours, in how many ways can we paint the integers 1, 2, 3, ..., 10 such that every pair of integers whose difference is a prime number must have different colours? ways Team： Solver： ID：
+
+=== Year 2021 | Problem 7 | Page 8 ===
+In the diagram below, ABC is a triangle where AB = cm and AC = cm. PQRS is a square where AP = cm, AR = cm and Q is the mid-point of BC. What is the ratio of the area of PQRS to the area of ABC? ： R P C A S Q B Team： Solver： ID：
+
+=== Year 2021 | Problem 8 | Page 9 ===
+Let triangle ABC be an acute triangle inscribed inside circle O. Let P be a point outside O such that PB and PC are both tangent to O. If AP and BC intersect at D and BD CD = , then what is the value of AB AC ? A B C D P Team： Solver： ID：
+
+=== Year 2021 | Problem 9 | Page 10 ===
+A positive integer n  is called an interesting number if it satisfies the property: If p is a prime divisor of n, then 2 p + is a divisor of n. Find the total number of positive divisors of the smallest interesting number. Team： Solver： ID：
+
+=== Year 2021 | Problem 10 | Page 11 ===
+In how many different ways can we express 2021 as a sum using the numbers 1, 2, 4, 8, 16, 32, 64, 128, 256, 512 and 1024, where it is only allowed to have up to two occurrences of any of these eleven numbers? The order of summation does not matter. For example, 2 1 1 + + and 1 2 1 + + are considered the same way to express 4. ways
+
+=== Year 2022 | Problem 1 | Page 3 ===
+A palindromic number is a number that is the same when we read it forward and backward. How many 11-digit palindromic numbers are divisible by 101? Team Contest Team： Solver： ID： (Virtual)
+
+=== Year 2022 | Problem 2 | Page 4 ===
+The function ( ) f x is defined for every real number x and satisfies the following condition: ( ) 2 ( ) 3 ( ) x y f x f y f    for every two real numbers x and y. If (2) f  and (5) f  , then find (2022) f . Team Contest Team： Solver： ID： (Virtual)
+
+=== Year 2022 | Problem 3 | Page 5 ===
+An Indonesian high-tech company has invented an airbag that can be dropped from tall buildings without bursting. An engineer will be conducting the test at the Autograph Tower Thamrin Nine, currently the tallest building in Indonesia, which has 75 floors. His goal is to find the highest floor of this building from which the airbag won't burst when dropped. The engineer only made two identical prototypes of this airbag for testing, which can be dropped from various floors of the building. If an airbag doesn't burst after being dropped, it may be reused without suffering any loss of quality. But if both airbags burst before the engineer has determined the highest floor, then the test is considered to be a failure. What is the least number of times the engineer must drop the airbags in order to determine the highest floor? Team Contest Team： Solver： ID： (Virtual)
+
+=== Year 2022 | Problem 4 | Page 6 ===
+In the diagram below, points 1A , A , A , A , A lie on the circumference of a unit circle and A A A A A A A A A A A A      . Let A A and A A , A A and A A , A A and A A , A A and A A intersect at points B , B , B , B , B , respectively. Find the area, in square units, of the pentagon B B B B B . 1A A 3A A 5A B B B B B Team Contest Team： Solver： ID： (Virtual)
+
+=== Year 2022 | Problem 5 | Page 7 ===
+If ax by   , ax by   , ax by   and ax by   , then find the numerical value of 2022( ) 7( ) x y a b xy     . Team Contest Team： Solver： ID： (Virtual)
+
+=== Year 2022 | Problem 6 | Page 8 ===
+How many different arrangements of 1, 2, 3, 4, 5, 6 and 7 in a row are there such that the sum of any 2 consecutive numbers is a prime? arrangements Team Contest Team： Solver： ID： (Virtual)
+
+=== Year 2022 | Problem 7 | Page 9 ===
+Let PQRS be a trapezoid such that PS//QR and T is the intersection point of PR and QS, as shown in the diagram below. Let I, M and C be the midpoints of ST, PQ and RT, respectively. If STR   , SQR SPR   and the area of triangle IMC is equal to 1024 3 cm2, then find the length, in cm, of PQ. M C R I T Q S P cm Team Contest Team： Solver： ID： (Virtual)
+
+=== Year 2022 | Problem 8 | Page 10 ===
+In the diagram below, ABC is an equilateral triangle, where M and N are points on AC and BM, respectively, such that ABM    and BAN   . Let P be the intersection point of the line AN with the circumcircle of triangle ABM. Prove that AN NP  . A C B M N P Team Contest Team： Solver： ID： (Virtual)
+
+=== Year 2022 | Problem 9 | Page 11 ===
+Determine how many ordered pairs of integer numbers (a, b) satisfy the following conditions:  1 a  , b  and a b  .  a is even.  ( 1)|( 1) a b   , | a b and ( 1)|( 1) a b   ordered pairs Team Contest Team： Solver： ID： (Virtual)
+
+=== Year 2022 | Problem 10 | Page 12 ===
+Andy constructed the smallest subset S of positive integers that satisfies the following properties:  If number t is in S, then the numbers 6t and 6 t  are also in S.  The number 1 is in S, but the numbers 2, 3, 4 and 5 are not in S. Then, Andy calculates the sum of two distinct numbers in S, where the two numbers are both less than 2022. How many different possible sums can Andy obtain?
+
+=== Year 2023 | Problem 1 | Page 2 ===
+The equation x x x    has the non-negative real roots p, q and r. If s p q r    , what is the value of | 8 | s s s   ? Team Contest Team： Solver： ID： (Virtual)
+
+=== Year 2023 | Problem 2 | Page 3 ===
+Let ABCD be a rectangle, E is a point on the line segment BC. The circle ω has center A and passes through E. Extension lines EB and AE meet ω at X and Y, respectively, as shown in the diagram below. Prove that DC is tangent to the circle passing through Y, X and D.  X D C B A Y E Team Contest Team： Solver： ID： (Virtual) 
+
+=== Year 2023 | Problem 3 | Page 4 ===
+The convex quadrilateral ABCD has CAD   , BAC   , CBD    and CDB   , as shown in the diagram below. If O is the intersection of AC and BD, what is the measure, in degrees, of AOB  ? O 50 A D C B 40 25 20 Team Contest Team： Solver： ID： (Virtual) times
+
+=== Year 2023 | Problem 4 | Page 5 ===
+Dinko placed some marbles into one hundred black bags, which are numbered from 1 to 100. Each time, you are allowed to ask Dinko about the parity of the total number of all the marbles in any 15 distinct bags and Dinko will give you the correct answer. What is the least number of times you need to ask Dinko, in order to determine the parity of the number of the marbles in bag 1 correctly? Show an example and prove your answer. Team Contest Team： Solver： ID： (Virtual) cm2
+
+=== Year 2023 | Problem 5 | Page 6 ===
+Let ABC be a triangle with C    , AC  cm and BC  cm. Squares ACDE and BCFG are constructed outside the triangle ABC. Let BE intersect AC and AG at H and I, respectively. AG intersects BC at J, as shown in the diagram below. What is the area, in cm2, of quadrilateral CHIJ? A H G F E D C B J I Team Contest Team： Solver： ID： (Virtual)
+
+=== Year 2023 | Problem 6 | Page 7 ===
+There exists an infinite arithmetic progression satisfying the following properties:  Each term of the progression is a positive integer.  The common difference of the progression is d.  No term of the progression appears in the Fibonacci sequence. What is the smallest positive integer d for which this is possible? (The Fibonacci sequence is defined as F , F , n n n F F F     for n ) Team Contest Team： Solver： ID： (Virtual)
+
+=== Year 2023 | Problem 7 | Page 8 ===
+A perfect square N is called a “BIMC number” if there exist three positive integers a, b and c, where a b c  , such that ( )( )( ) N b a c a c b ab ac bc        . For example, 230400 is a BIMC number since 230400   and (288 224)(324 224)(324 288)           . What is the smallest BIMC number? Team Contest Team： Solver： ID： (Virtual)
+
+=== Year 2023 | Problem 8 | Page 9 ===
+Tim wants to place 1600 points inside a unit square such that there is at least one point inside every rectangle of area 200 and with sides parallel to those of the square. Is it possible to do it? If your answer is yes, please give an example and show that it works. If your answer is no, please prove it is impossible. Team Contest Team： Solver： ID： (Virtual)
+
+=== Year 2023 | Problem 9 | Page 10 ===
+How many 7-digit positive integers with distinct digits are not divisible by 9? Team Contest Team： Solver： ID： (Virtual)
+
+=== Year 2023 | Problem 10 | Page 11 ===
+A triangular arrangement of numbers is called a smart triangle of order n if one can arrange all the positive integers from 1 to ( 1) n n  in a triangular structure such that, apart from the bottom row of n numbers, each number in a subsequent row above it is the absolute difference or the sum of the two numbers immediately below it. The triangular structures represented below, from left to right, are some examples of smart triangles of order 2, 3 and 4, respectively. (a) Does there exist a smart triangle of order 5, with the numbers 1, 2 and 3 in the vertices, as shown in the diagram below? If your answer is yes, please give an example. If your answer is no, please prove it is impossible. (10 marks) (b) Does there exist a smart triangle of order 6? If your answer is yes, please give an example. If your answer is no, please prove it is impossible. (30 marks) Team Contest Team： Solver： ID： (Virtual) 10.
+
+=== Year 2024 | Problem 1 | Page 2 ===
+Let C, M and S be positive integers that satisfy the equation 25 2S C M     . Given that C M  , what is the solution (C, M, S) of the equation? Team Contest Team： Solver： ID：
+
+=== Year 2024 | Problem 2 | Page 3 ===
+Let ( ) f x ax bx c    be a function, where a, b and c are integers and a . If 1x and 2x are the two roots of ( ) f x  , where x x   , what is the minimum possible value of a? Team Contest Team： Solver： ID：
+
+=== Year 2024 | Problem 3 | Page 4 ===
+The set M = {1, 2, 3, …, 2024} is to be partitioned into two subsets, E and O, such that the subset E contains the elements of M for which the sum of digits is even, and the subset O contains the elements of M for which the sum of digits is odd. If e is the sum of all the elements in E and o is the sum of all the elements in O, what is the value of e o  ? Team Contest Team： Solver： ID：
+
+=== Year 2024 | Problem 4 | Page 5 ===
+In the diagram below, ABC is a triangle, where point I is the intersection of the internal angle bisectors of ABC  and ACB  . If BI AC CI AB    , show that triangle ABC is isosceles. A B I C Team Contest Team： Solver： ID： cm2
+
+=== Year 2024 | Problem 5 | Page 6 ===
+In the diagram below, PQRS is a square inside the regular 9-gon and point P is also the vertex of the regular 9-gon. If the side length of the 9-gon is 48 cm, then what is the area, in cm2, of square PQRS ? Q R S P Team Contest Team： Solver： ID：
+
+=== Year 2024 | Problem 6 | Page 7 ===
+Let ABCD be a four-digit number. If the last two digits of ABCD are 57, what is the largest possible value of the two-digit number CD ? Team Contest Team： Solver： ID： 
+
+=== Year 2024 | Problem 7 | Page 8 ===
+In the diagram below, triangle ABC is right-angled at B. Let points P and Q be on BC and AB, respectively, such that PAB CAB    and QCB ACB    . If point R is inside triangle ABC such that RAC BAP   , RCA BCQ   and QRC  is an integer value in degrees, what is the minimum possible value, in degrees, of QRC  ? A Q P C B R Team Contest Team： Solver： ID：
+
+=== Year 2024 | Problem 8 | Page 9 ===
+A subsquare of a grid of unit squares is a square of any size that is bounded by lines of the grid. For example, a 2 2  grid has 5 subsquares. Suppose a m n  grid of unit squares has exactly 2024 subsquares of all sizes, what is the smallest possible value of mn? Team Contest Team： Solver： ID：
+
+=== Year 2024 | Problem 9 | Page 10 ===
+There are n donkeys standing along the circumference of a circular farm playing a game described as follows. The donkeys are numbered 1, 2, 3, ..., n in the clockwise direction. Starting from the donkey numbered 1 and proceeding clockwise, the donkeys take turns yelling the letters “D”, “O”, “N”, “K”, “E”, “Y”, “D”, “O”, “N”, “K”, “E”, “Y”, “D”, “O”…. Whenever a donkey yells the letter “Y”, it leaves the circle before the next donkey yells “D”. This process continues until there is one donkey left in the circle, and this remaining donkey wins the game. For example, if n  , then the game proceeds as follows:  Donkey 1 yells “D”, 2 yells “O”, 3 yells “N”, 4 yells “K”, 1 yells “E”, 2 yells “Y” and leaves the circle.  Donkey 3 yells “D”, 4 yells “O”, 1 yells “N”, 3 yells “K”, 4 yells “E”, 1 yells “Y” and leaves the circle.  Donkey 3 yells “D”, 4 yells “O”, 3 yells “N”, 4 yells “K”, 3 yells “E”, 4 yells “Y” and leaves the circle. Donkey 3 is the last remaining donkey in the circle, thus it wins the game. It is given that when n  , then the winning donkey’s number is 10. What is the smallest value of n, where n  , such that the winning donkey’s number is 100? Team Contest Team： Solver： ID：
+
+=== Year 2024 | Problem 10 | Page 11 ===
+Captain Crook and his pirates have salvaged 10 golden bricks from Golden Island. Now, Captain Crook and his crew will play a game on how to divide the loots within them. The crew prepares several chests, each containing at most one golden brick (and everyone can see the inside of the chests). The crew then chains together the chests so that the chests and the chains form a tree. To play the game, the captain and the crew will alternately take chests, with the captain taking first, following this rule: whenever possible, one has to take a chest that was directly chained to a chest that was taken already. If not possible, one can take any chest. (In particular, the captain can start with any chest he likes because none have been taken.) For example, suppose that there were only 3 golden bricks and the crew chains the chests like this: where G represents a chest containing a golden brick, and 0 represents an empty chest. Then the captain will take the left-most G, forcing the crew to take the 0, then captain G, crew 0, and finally captain G. Let’s take another example. Suppose that the crew chains the chests like this: The captain will guarantee two golden bricks by starting with the leftmost G or the G between the 0s. Finally, if the crew chains like this: then the captain will get only one golden brick. Is it possible for the crew to chain the chests in a certain way so that Captain Crook will get at most one brick? If not, how should the crew minimize the number of bricks Captain Crook can get? Explain your strategy in full detail. (Write your answer on a separate paper) G G G G G G G G G
+
+=== Year 2025 | Problem 1 | Page 2 ===
+Let a, b and c be positive integers such that a b c + = . What is the minimum possible value of a? Team Contest Team： Solver： ID： triples
+
+=== Year 2025 | Problem 2 | Page 3 ===
+Consider all the ordered triples of integers (a, b, c) satisfying the following properties: ⚫ a, b and c are the roots of the equation x px q + + = for some real numbers p and q. ⚫ The absolute value of exactly two of them are prime numbers. How many such triples are there? Team Contest Team： Solver： ID：
+
+=== Year 2025 | Problem 3 | Page 4 ===
+Consider the polynomial ( ) p x x x = − + . What is the sum of all integers m for which ( ) p m is a perfect square? Team Contest Team： Solver： ID：
+
+=== Year 2025 | Problem 4 | Page 5 ===
+For any real number x, let [ ]x denote the largest integer that is less than or equal to x, and let { } [ ] x x x = − . Now, consider all ordered triples of positive integers (n, p, q) satisfying q p  , n  and n n n n p q      + + + =           . Out of all the ordered triples that achieve the minimum possible value for p q + , how many possible values of n are there? Team Contest Team： Solver： ID： cm2
+
+=== Year 2025 | Problem 5 | Page 6 ===
+In the diagram below, ABCD is a trapezium of area 2025 cm2, where AB//CD and point E is on AB. Points M, R and T are the centroids of triangles ADE, CDE and BCE, respectively. What is the area, in cm2, of triangle MRT? E T M A B C D R Team Contest Team： Solver： ID：
+
+=== Year 2025 | Problem 6 | Page 7 ===
+What are the last 10 digits of the base 2 representation of ? points Team Contest Team： Solver： ID：
+
+=== Year 2025 | Problem 7 | Page 8 ===
+For the first win in a game, Alan scores 1 point, and for each consecutive win, he scores 1 more point than the previous one. However, if a loss occurs, the next win is again worth 1 point. Alan played 100 games, winning 80 of them. What is the minimum number of points he could have scored? students Team Contest Team： Solver： ID：
+
+=== Year 2025 | Problem 8 | Page 9 ===
+A student camp took place over a period of 8 days. Each student was on kitchen duty on exactly 3 days, and no pair of students were on duty together more than once. What is the largest possible number of students that were at the camp? Team Contest Team： Solver： ID：
+
+=== Year 2025 | Problem 9 | Page 10 ===
+Consider an isosceles trapezium where three of its sides have equal length and the radius of its circumcircle is equal to the difference in length of its two parallel sides. Determine all possible values of the measure, in degrees, of the acute angle of this trapezium. Team Contest Team： Solver： ID： orders
+
+=== Year 2025 | Problem 10 | Page 11 ===
+A famous restaurant in Đà Nẵng sells only 4 different dishes in their menu namely Bèo, Nậm, Bèo và Nậm Combo or Xèo. A participant in IMC visited the restaurant on all 6 nights of the competition period (14 August to 19 August). On each of the 6 nights, he ordered exactly one of the 4 options (the combo counts as one option), and he did not eat the same type of dish on any two consecutive nights. For example, if he eats Bèo on the first night, he will not order Bèo or Bèo và Nậm Combo on the second night. If he had Bèo và Nậm Combo on the fifth night, he would not have ordered Bèo, Nậm or Bèo và Nậm Combo on either the fourth night or the last night. How many different possible orders are there over the course of the 6 nights? Bèo Nậm Bèo và Nậm Combo Xèo
+
+=== Year 2026 | Problem 1 | Page 2 ===
+In preparation for the annual Naadam Festival in the Mongolian highlands, the local organizing committee is arranging the distribution of Buuz (traditional Mongolian steamed dumplings) for the honored guests representing a specific district. The committee uses two types of food containers: small boxes and large boxes. It is known that: ● The capacity of each type of box is a positive integer number of dumplings. ● The capacity of one small box is less than half the capacity of one large box. ● One large box and one small box together hold exactly 63 dumplings. ● One large box and two small boxes together hold only two-fifths of the total number of dumplings prepared for all guests. If the committee tries to pack all the dumplings prepared into 3 large boxes and 2 small boxes, they find that n dumplings remains unpacked, where n is a positive integer. What is the sum of all possible values of n? Team Contest Team： Team No.： Solver： One example provided is as follows: x = , 2x = , 3x = 4x = , 5x =
+
+=== Year 2026 | Problem 2 | Page 3 ===
+It is known that there exists a positive integer x such that each of the following numbers: x, 2x, 3x, 4x and 5x is a perfect power. Provide one example of such an integer x and explain how you obtained it. (Note: ia is a perfect power where a and i are positive integers and i .) Team Contest Team： Team No.： Solver： cm
+
+=== Year 2026 | Problem 3 | Page 4 ===
+As shown in the diagram below, ABC is a right triangle. Points D and E lie on side BC such that BAD  = , DAE  =  and EAC  = . If EC = cm, what is the length, in cm, of BD? A E D C B 20 15 20 Team Contest Team： Team No.： Solver：
+
+=== Year 2026 | Problem 4 | Page 5 ===
+Let x, y and z be real numbers, not all equal, such that x y z + + = and x y z y z x z x y + + = + + = + + . Prove that ( ) x y z x y z + + = + + . Team Contest Team： Team No.： Solver：
+
+=== Year 2026 | Problem 5 | Page 6 ===
+The numbers 1, 2, 3, …, 32 and 33 are written on a board. A student repeatedly performs the following operation: erase two numbers such that one is a multiple of the other, and write down their integer quotient on the board. The process stops when no number on the board is a multiple of another. At least how many numbers remain on the board? Team Contest Team： Team No.： Solver：
+
+=== Year 2026 | Problem 6 | Page 7 ===
+Let a, b, c and d be positive real numbers such that ( 4 )( ) 2( ) a c b d ac bd + + = + . What is the minimum possible value of the sum a b c d S b c d a = + + + ? Team Contest Team： Team No.： Solver：
+
+=== Year 2026 | Problem 7 | Page 8 ===
+As shown in the diagram below, A, B, C, D and E are the centres of five circles, each with radius 1 cm such that ABC  = , BAC  =  and BC//DE. Furthermore, the pairs of circles centered at (A, D), (B, D), (D, E) and (E, C) are externally tangent to each other and no other pair of circles have any intersections. Suppose the maximum possible distance between two points chosen on any of these five circles can be expressed as a b c + + cm, where a, b and c are positive integers and b c . What is the value of a b c + + ? A E D C B tiles Team Contest Team： Team No.： Solver：
+
+=== Year 2026 | Problem 8 | Page 9 ===
+A sidewalk of integer length N units, where 1 N   , is to be paved using tiles whose lengths are the Fibonacci numbers: 1, 1, 2, 3, 5, 8, …. The tiles are placed in increasing order of length, starting from the first 1-unit tile. Whenever the next Fibonacci tile is longer than the remaining uncovered length of the sidewalk, the sequence restarts from the next available 1-unit tile. Each start or restart of the sequence from the value of 1 defines a new sequence (thus the first tile on the sidewalk marks the beginning of the first sequence). If N is the smallest positive integer that requires the most sequences, how many tiles of any size, in total, are used? For example, the diagram below illustrates the paving of a sidewalk of length N = with 11 tiles, for which 3 sequences were required (marked by the 3 gray tiles). (Note: The initial two numbers of Fibonacci sequence are both 1 and then each number in the sequence is the sum of the two numbers preceding it.) Team Contest Team： Team No.： Solver：
+
+=== Year 2026 | Problem 9 | Page 10 ===
+A subset S of {1, 2, 3, …, 2025, 2026} is called good, if for any three elements of S, their least common multiple also belongs to S. For example, {3, 9, 12, 36} is good. What is the maximum possible number of elements in a good subset of {1, 2, 3, …, 2025, 2026}? Team Contest Team： Team No.： Solver：
+
+=== Year 2026 | Problem 10 | Page 11 ===
+As shown in the diagram below, triangle ABC is an acute triangle with altitudes AX, BY and CZ. Let P be the intersection point of XY and CZ. The line through P parallel to AX intersects side AC at T and line XZ at Q. Let H be the orthocentre of triangle ABC. Prove that HCB BCQ  = . C Y Z X B A T P H Q
+
