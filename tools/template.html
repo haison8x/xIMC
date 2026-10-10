@@ -67,6 +67,7 @@ h1 small{display:block;font-family:var(--f-body);font-weight:500;font-size:14px;
 .node.g1 .row span:last-child{font-family:var(--f-mono);font-size:11px;font-weight:500;opacity:.85}
 .node.s{font-size:14px;font-weight:600;min-width:220px;justify-content:space-between}
 .node.s .code{font-family:var(--f-mono);font-size:11px;color:var(--bc);font-weight:500}
+.node.s .scount{display:inline-block;margin-left:7px;font-family:var(--f-mono);font-size:10.5px;font-weight:500;line-height:1;color:var(--bc);border:1px solid color-mix(in srgb,var(--bc) 45%,transparent);border-radius:999px;padding:2px 6px;vertical-align:1px;font-variant-numeric:tabular-nums}
 .node.s .cnt{display:flex;gap:3px;align-items:center}
 .node.s .cnt .dot{width:7px;height:7px;margin:0}
 .caret{font-size:11px;opacity:.6;transition:transform .15s}
@@ -249,6 +250,7 @@ function build(){
       const li2=el("li","closed"); li2.dataset.s=s.id;
       const b2=el("button","node s"); b2.setAttribute("aria-expanded","false");
       const left=el("span"); left.appendChild(el("span","code",s.id+" ")); left.appendChild(document.createTextNode(s.vn));
+      left.appendChild(el("span","scount"));
       b2.appendChild(left);
       const cnt=el("span","cnt"); b2.appendChild(cnt); b2.appendChild(el("span","caret","▾"));
       b2.onclick=()=>toggle(li2,b2);
@@ -280,6 +282,8 @@ function refresh(){
   // subgroups
   document.querySelectorAll("#tree li[data-s]").forEach(li=>{
     const s=DATA.groups.flatMap(g=>g.subs).find(x=>x.id===li.dataset.s);
+    const n=s.probs.filter(kindOk).length, sc=li.querySelector(".scount");
+    sc.textContent=String(n); sc.title=`${n} bài trong nhánh này`;
     const cnt=li.querySelector(".cnt"); cnt.textContent="";
     s.leaves.forEach(l=>cnt.appendChild(el("span","dot "+mOf(l.id))));
     li.classList.toggle("hide", filter!=="all" && !s.leaves.some(matches));
