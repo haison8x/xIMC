@@ -3,14 +3,14 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Ôn luyện IMC</title>
+<title>Ôn luyện Olympic Toán</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=JetBrains+Mono:wght@500&display=swap">
 <style>
-/* Layout: squared exercise-paper page; two stage panels side by side, each with its map and its year shelf of past papers. */
+/* Layout: landing page on the same squared paper; one large card per competition, linking to its page and mind maps. */
 :root{
   --paper:#f3f6f2; --sheet:#fbfcfa; --grid:#e1e8e0; --ink:#17221d; --muted:#5b6a62; --line:#c9d4cc;
-  --ks2:#1d6fa3; --ks3:#b23a62; --accent:#0d6b58;
+  --ks2:#1d6fa3; --ks3:#b23a62; --imso:#b5532a; --accent:#0d6b58;
   --f-display:"Bricolage Grotesque", "Be Vietnam Pro", system-ui, sans-serif;
   --f-body:"Be Vietnam Pro", system-ui, -apple-system, "Segoe UI", sans-serif;
   --f-mono:"JetBrains Mono", ui-monospace, Consolas, monospace;
@@ -18,10 +18,10 @@
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
   --paper:#111815; --sheet:#18211d; --grid:#1d2823; --ink:#e3ebe6; --muted:#97a69e; --line:#34423b;
-  --ks2:#5fb0e6; --ks3:#ec7aa0; --accent:#4fc2a5; color-scheme:dark}}
+  --ks2:#5fb0e6; --ks3:#ec7aa0; --imso:#f08d5c; --accent:#4fc2a5; color-scheme:dark}}
 :root[data-theme="dark"]{
   --paper:#111815; --sheet:#18211d; --grid:#1d2823; --ink:#e3ebe6; --muted:#97a69e; --line:#34423b;
-  --ks2:#5fb0e6; --ks3:#ec7aa0; --accent:#4fc2a5; color-scheme:dark}
+  --ks2:#5fb0e6; --ks3:#ec7aa0; --imso:#f08d5c; --accent:#4fc2a5; color-scheme:dark}
 *{box-sizing:border-box}
 html{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 body{margin:0;background-color:var(--paper);background-image:linear-gradient(var(--grid) 1px,transparent 1px),linear-gradient(90deg,var(--grid) 1px,transparent 1px);background-size:24px 24px;color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.55}
@@ -54,88 +54,67 @@ a:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
 .files a{color:var(--c);font-weight:500}
 .note{font-size:13.5px;color:var(--muted);background:var(--sheet);border:1px solid var(--line);border-radius:12px;padding:12px 14px;max-width:80ch}
 .note b{color:var(--ink)}
+a.home{font-size:13px;font-weight:600;color:var(--muted);text-decoration:none}
+a.home:hover{color:var(--accent)}
+footer.site{display:flex;flex-wrap:wrap;gap:6px 16px;align-items:center;font-size:13.5px;color:var(--muted);border-top:1px solid var(--line);padding-top:16px}
+footer.site a{color:var(--accent);font-weight:600}
+
+.stage.imso{--c:var(--imso)}
+.years.wide{grid-template-columns:repeat(auto-fill,minmax(min(100%,380px),1fr))}
+.yr{flex-wrap:wrap}
+.yr .tag{font-size:11px;font-weight:700;color:var(--c);border:1px solid var(--c);border-radius:999px;padding:1px 7px}
+.years a.ans{border-style:dashed}
+
+.stage.imc{--c:var(--ks2)}
+.stage p.desc{margin:0;color:var(--muted)}
+.stage h2{font-size:34px}
+.facts.two{grid-template-columns:repeat(2,1fr)}
 </style>
 </head>
 <body>
 <div class="wrap">
   <header>
-    <div class="eyebrow">International Mathematics Competition</div>
-    <h1>Ôn luyện IMC</h1>
-    <p>Đề thi các năm, phân loại theo dạng bài và mindmap ôn tập cho hai cấp Key Stage 2 (tiểu học) và Key Stage 3 (THCS).</p>
+    <div class="eyebrow">Olympic Toán tiểu học và THCS</div>
+    <h1>Ôn luyện Olympic Toán</h1>
+    <p>Đề thi các năm của hai kỳ thi quốc tế, được trích ra văn bản, phân loại theo 8 nhánh và 33 nhánh con, và gom thành mindmap để ôn theo dạng bài. Chọn một kỳ thi để bắt đầu.</p>
   </header>
 
   <div class="stages">
-    <section class="stage ks2" aria-labelledby="h-ks2">
-      <h2 id="h-ks2">Key Stage 2 <span>tiểu học · 2003–2026</span></h2>
-      <div class="facts">
-        <div><b>575</b><small>bài toán (345 cá nhân, 230 đồng đội)</small></div>
-        <div><b>23</b><small>năm thi, mỗi năm 3 file</small></div>
-        <div><b>120</b><small>dạng bài</small></div>
+    <section class="stage imc" aria-labelledby="h-imc">
+      <h2 id="h-imc">IMC <span>International Mathematics Competition</span></h2>
+      <p class="desc">Hai cấp Key Stage 2 (tiểu học) và Key Stage 3 (THCS), mỗi năm có đề cá nhân, đề đồng đội và đáp án.</p>
+      <div class="facts two">
+        <div><b>575</b><small>bài KS2 · 2003–2026 · 120 dạng bài</small></div>
+        <div><b>633</b><small>bài KS3 · 1999–2026 · 104 dạng bài</small></div>
       </div>
       <div class="actions">
-        <a class="btn main" href="keystage2_mindmap.html">Mở mindmap</a>
-      </div>
-      <div>
-        <p class="lbl">Đề gốc và đáp án (PDF)</p>
-        <nav class="years" id="y-ks2" aria-label="Đề Key Stage 2 theo năm"></nav>
-      </div>
-      <div>
-        <p class="lbl">Dữ liệu</p>
-        <div class="files">
-          <a href="keystage2_categories.txt">Bảng phân loại</a>
-          <a href="keystage2_problems.txt">Đề cá nhân (văn bản)</a>
-          <a href="keystage2_team_problems.txt">Đề đồng đội (văn bản)</a>
-        </div>
+        <a class="btn main" href="ximc.html">Vào trang IMC</a>
+        <a class="btn" href="keystage2_mindmap.html">Mindmap KS2</a>
+        <a class="btn" href="keystage3_mindmap.html">Mindmap KS3</a>
       </div>
     </section>
 
-    <section class="stage ks3" aria-labelledby="h-ks3">
-      <h2 id="h-ks3">Key Stage 3 <span>THCS · 1999–2026</span></h2>
-      <div class="facts">
-        <div><b>633</b><small>bài toán (388 cá nhân, 245 đồng đội)</small></div>
-        <div><b>26</b><small>năm thi, mỗi năm 3 file</small></div>
-        <div><b>104</b><small>dạng bài</small></div>
+    <section class="stage imso" aria-labelledby="h-imso">
+      <h2 id="h-imso">IMSO <span>International Mathematics and Science Olympiad</span></h2>
+      <p class="desc">Phần Toán dành cho tiểu học, gồm ba loại đề Short Answer, Essay và Exploration, kèm đáp án.</p>
+      <div class="facts two">
+        <div><b>864</b><small>bài · 2005–2025</small></div>
+        <div><b>148</b><small>dạng bài, cùng hệ nhánh với IMC KS2</small></div>
       </div>
       <div class="actions">
-        <a class="btn main" href="keystage3_mindmap.html">Mở mindmap</a>
-      </div>
-      <div>
-        <p class="lbl">Đề gốc và đáp án (PDF)</p>
-        <nav class="years" id="y-ks3" aria-label="Đề Key Stage 3 theo năm"></nav>
-      </div>
-      <div>
-        <p class="lbl">Dữ liệu</p>
-        <div class="files">
-          <a href="keystage3_categories.txt">Bảng phân loại</a>
-          <a href="keystage3_problems.txt">Đề cá nhân (văn bản)</a>
-          <a href="keystage3_team_problems.txt">Đề đồng đội (văn bản)</a>
-        </div>
+        <a class="btn main" href="imso.html">Vào trang IMSO</a>
+        <a class="btn" href="imso_mindmap.html">Mindmap IMSO</a>
       </div>
     </section>
   </div>
 
-  <p class="note"><b>Lưu tiến độ:</b> Màu thành thạo và ghi chú “bẫy” trong mindmap được lưu trên trình duyệt bạn đang dùng (mỗi người, mỗi máy có tiến độ riêng). Nếu xóa dữ liệu duyệt web thì tiến độ cũng mất. Năm 2020 không có đề, Key Stage 3 không có đề năm 2003.</p>
+  <p class="note"><b>Lưu tiến độ:</b> Màu thành thạo và ghi chú “bẫy” trong mỗi mindmap được lưu trên trình duyệt bạn đang dùng, riêng cho từng mindmap.</p>
+
+  <footer class="site">
+    <span>Liên hệ tác giả:</span>
+    <a href="https://www.facebook.com/haison8x/" target="_blank" rel="noopener">Facebook ↗</a>
+    <a href="https://github.com/haison8x/xIMC" target="_blank" rel="noopener">Mã nguồn trên GitHub ↗</a>
+  </footer>
 </div>
-<script>
-const YEARS = {
-  ks2: [2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2021,2022,2023,2024,2025,2026],
-  ks3: [1999,2000,2001,2002,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2021,2022,2023,2024,2025,2026]
-};
-for (const [stage, years] of Object.entries(YEARS)) {
-  const nav = document.getElementById("y-" + stage);
-  const dir = stage === "ks2" ? "keystage2" : "keystage3";
-  years.slice().reverse().forEach(y => {
-    const row = document.createElement("div"); row.className = "yr";
-    const b = document.createElement("b"); b.textContent = y; row.appendChild(b);
-    [["Cá nhân", ""], ["Đồng đội", "_team"], ["Đáp án", "_answer"]].forEach(([label, suffix]) => {
-      const a = document.createElement("a");
-      a.href = `${dir}/${y}${suffix}.pdf`; a.target = "_blank"; a.rel = "noopener"; a.textContent = label;
-      a.title = `${label} – ${stage.toUpperCase()} ${y}`;
-      row.appendChild(a);
-    });
-    nav.appendChild(row);
-  });
-}
-</script>
 </body>
 </html>

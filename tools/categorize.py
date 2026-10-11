@@ -250,7 +250,17 @@ def load(stage):
     missing = [p["id"] for p in probs if p["id"] not in assign]
     if missing:
         raise SystemExit(f"{stage}: unclassified problems {missing[:10]}")
+    for p in probs:
+        team = p["kind"] == "T"
+        p.update(kind_name="Đồng đội" if team else "Cá nhân",
+                 file=f"{d}/{p['year']}{'_team' if team else ''}.pdf",
+                 file_label=f"Đề {'đồng đội' if team else 'cá nhân'} {p['year']}",
+                 answer=f"{d}/{p['year']}_answer.pdf", answer_label=f"Đáp án {p['year']}")
     return probs, assign, cfg
+
+
+# Paper types shown as filter chips in the mind map: (code, name), the first is the default.
+KINDS = [("I", "Cá nhân"), ("T", "Đồng đội")]
 
 
 def write_categories(stage):

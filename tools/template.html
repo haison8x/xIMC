@@ -104,7 +104,11 @@ details.prob summary .pv{color:var(--muted);white-space:nowrap;overflow:hidden;t
 details.prob[open] summary .pv{display:none}
 details.prob p{margin:0;padding:0 12px 11px;font-size:14px}
 details.prob .kind{flex:none;font-size:11px;font-weight:600;border-radius:999px;padding:1px 8px;border:1px solid var(--line);color:var(--muted)}
-details.prob .kind.T{border-color:var(--bc,var(--accent));color:var(--bc,var(--accent))}
+details.prob .kind.alt{border-color:var(--bc,var(--accent));color:var(--bc,var(--accent))}
+a.home{font-size:13px;font-weight:600;color:var(--muted);text-decoration:none}
+a.home:hover{color:var(--accent)}
+footer.site{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:13px;color:var(--muted)}
+footer.site a{color:var(--accent);font-weight:600}
 details.prob .links{display:flex;flex-wrap:wrap;gap:6px 16px;padding:0 12px 11px}
 details.prob .links a{font-size:13px;font-weight:600;color:var(--bc,var(--accent))}
 .seg{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
@@ -120,7 +124,8 @@ details.more>summary{cursor:pointer;font-size:13px;font-weight:600;color:var(--m
 
 <div class="wrap">
   <header class="top">
-    <h1>__H1__<small>__SUB__ · 8 nhánh lớn · 33 nhánh con · <span id="nLeaves"></span> dạng bài</small></h1>
+    <div><a class="home" id="home" href="__HOME__">← __HOME_LABEL__</a>
+    <h1>__H1__<small>__SUB__ · 8 nhánh lớn · 33 nhánh con · <span id="nLeaves"></span> dạng bài</small></h1></div>
     <div class="progress" aria-label="Tiến độ thành thạo">
       <div class="bar" id="bar"></div>
       <div class="legend" id="legend"></div>
@@ -142,8 +147,6 @@ details.more>summary{cursor:pointer;font-size:13px;font-weight:600;color:var(--m
     <div class="seg" role="group" aria-label="Loại đề">
       <span>Loại đề</span>
       <button class="chip" data-k="all" aria-pressed="true">Tất cả</button>
-      <button class="chip" data-k="I" aria-pressed="false">Cá nhân</button>
-      <button class="chip" data-k="T" aria-pressed="false">Đồng đội</button>
     </div>
     <button class="chip" id="expand">Mở tất cả</button>
     <button class="chip" id="collapse">Thu gọn</button>
@@ -152,6 +155,7 @@ details.more>summary{cursor:pointer;font-size:13px;font-weight:600;color:var(--m
   <div class="save" id="save">Đang kết nối nơi lưu tiến độ…</div>
 
   <div class="board"><div class="tree" id="tree"></div></div>
+  <footer class="site"><span>Liên hệ tác giả:</span><a href="https://www.facebook.com/haison8x/" target="_blank" rel="noopener">Facebook ↗</a></footer>
 </div>
 
 <div class="scrim" id="scrim"></div>
@@ -310,15 +314,15 @@ function refresh(){
 const kindOk = id => kindF==="all" || (DATA.probs[id]&&DATA.probs[id].k)===kindF;
 function link(text, href){ const a=el("a",null,text); a.href=href; a.target="_blank"; a.rel="noopener"; return a; }
 function probItem(id){
-  const p=DATA.probs[id]||{t:"(không tìm thấy đề)",k:"I",y:id.split("-")[0],p:1};
+  const p=DATA.probs[id]||{t:"(không tìm thấy đề)",k:"",kn:"",y:id.split("-")[0],p:1,f:"",fl:"",a:""};
   const d=el("details","prob"); const s=el("summary");
   s.appendChild(el("span","id",(/^\d+-\d+$/.test(id)?id.replace("-","-P"):id)));
-  s.appendChild(el("span","kind "+p.k,p.k==="T"?"Đồng đội":"Cá nhân"));
+  s.appendChild(el("span","kind"+(p.k===DATA.kinds[0][0]?"":" alt"),p.kn));
   s.appendChild(el("span","pv",p.t)); d.appendChild(s); d.appendChild(el("p",null,p.t));
   if(SHOW_PDF){
     const box=el("div","links");
-    box.appendChild(link(`Đề ${p.k==="T"?"đồng đội":"cá nhân"} ${p.y}, trang ${p.p} ↗`, `__PDFDIR__/${p.y}${p.k==="T"?"_team":""}.pdf#page=${p.p}`));
-    box.appendChild(link(`Đáp án ${p.y} ↗`, `__PDFDIR__/${p.y}_answer.pdf`));
+    if(p.f) box.appendChild(link(`${p.fl}, trang ${p.p} ↗`, `${p.f}#page=${p.p}`));
+    if(p.a) box.appendChild(link(`${p.al} ↗`, p.a));
     d.appendChild(box);
   }
   return d;
@@ -359,6 +363,10 @@ document.addEventListener("keydown",e=>{ if(e.key==="Escape" && current) closeDr
 document.querySelectorAll(".chip[data-f]").forEach(c=>c.onclick=()=>{
   filter=c.dataset.f; document.querySelectorAll(".chip[data-f]").forEach(x=>x.setAttribute("aria-pressed",String(x===c)));
   if(filter!=="all") setAll(true); refresh(); });
+// paper-type chips come from the data: IMC has individual/team, IMSO has its three papers
+{ const all=document.querySelector('.chip[data-k="all"]');
+  DATA.kinds.slice().reverse().forEach(([code,name])=>{ const b=el("button","chip",name); b.dataset.k=code; b.setAttribute("aria-pressed","false"); all.after(b); }); }
+if(!SHOW_PDF) $("#home").hidden=true;
 document.querySelectorAll(".chip[data-k]").forEach(c=>c.onclick=()=>{
   kindF=c.dataset.k; document.querySelectorAll(".chip[data-k]").forEach(x=>x.setAttribute("aria-pressed",String(x===c)));
   refresh(); if(current) openLeaf(current); });
