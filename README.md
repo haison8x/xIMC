@@ -11,9 +11,11 @@ Website: https://haison8x.github.io/xIMC/
 ├── data/                              Đề trích xuất và bảng phân loại dạng .txt (sinh bởi script)
 ├── papers/                            Đề gốc PDF
 │   ├── imc/keystage2/, imc/keystage3/   {năm}.pdf, {năm}_team.pdf, {năm}_answer.pdf
-│   └── imso/                            ShortAnswer/, Essay/, Exploration/, Answers/
+│   ├── imso/                            ShortAnswer/, Essay/, Exploration/, Answers/
+│   └── imas/                            middle_primary/, upper_primary/, junior/, answers/ → {năm học}_round{1,2}.pdf
 └── scripts/                           Script Python
     ├── crawl_imc.py                     Tải đề IMC về papers/imc/
+    ├── crawl_imas.py                    Tải đề IMAS về papers/imas/
     ├── extract_imc.py, extract_imso.py  Trích đề từ PDF ra data/*_problems.txt
     ├── categorize.py, categorize_imso.py  Bảng phân loại thủ công → data/*_categories.txt
     ├── leaves_*.py                      Các kỹ thuật (lá) của mindmap
@@ -26,6 +28,7 @@ Website: https://haison8x.github.io/xIMC/
 ```
 pip install pymupdf
 python scripts/crawl_imc.py        # chỉ tải đề còn thiếu
+python scripts/crawl_imas.py       # chỉ tải đề còn thiếu
 python scripts/extract_imc.py
 python scripts/extract_imso.py
 python scripts/build_mindmaps.py   # ghi lại data/*_categories.txt và mindmaps/*.html
