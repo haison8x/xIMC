@@ -1,10 +1,11 @@
-"""Build the study mind maps: mindmaps/keystage2.html, mindmaps/keystage3.html (IMC) and
-mindmaps/imso.html (IMSO).
+"""Build the study mind maps: mindmaps/keystage2.html, mindmaps/keystage3.html (IMC),
+mindmaps/imso.html (IMSO) and mindmaps/imas_{middle,upper,junior}.html (IMAS).
 
 Usage:  python scripts/build_mindmaps.py
-Inputs: the problems files (via categorize.load / categorize_imso.load), leaves_*.py,
-        mindmap_template.html
-Also rewrites data/keystage{2,3}_categories.txt and data/imso_categories.txt.
+Inputs: the problems files (via categorize.load / categorize_imso.load / categorize_imas.load),
+        leaves_*.py, mindmap_template.html
+Also rewrites data/keystage{2,3}_categories.txt, data/imso_categories.txt and
+data/imas_{middle,upper,junior}_categories.txt.
 """
 import json
 import os
@@ -15,13 +16,18 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 import categorize  # noqa: E402
+import categorize_imas  # noqa: E402
 import categorize_imso  # noqa: E402
+import leaves_imas_junior  # noqa: E402
+import leaves_imas_middle  # noqa: E402
+import leaves_imas_upper  # noqa: E402
 import leaves_imso  # noqa: E402
 import leaves_ks2  # noqa: E402
 import leaves_ks3  # noqa: E402
 from paths import MINDMAPS, ROOT  # noqa: E402
 
 IMC_HOME = dict(home="ximc.html", home_label="Ôn luyện IMC")
+IMAS_HOME = dict(src=categorize_imas, home="imas.html", home_label="Ôn luyện IMAS")
 PAGES = {
     "ks2": dict(src=categorize, stage="ks2", leaves=leaves_ks2, out="keystage2.html",
                 title="Bản đồ ôn IMC KS2", h1="Bản đồ ôn IMC Key Stage 2", root="IMC KS2",
@@ -32,6 +38,15 @@ PAGES = {
     "imso": dict(src=categorize_imso, stage="imso", leaves=leaves_imso, out="imso.html",
                  title="Bản đồ ôn IMSO", h1="Bản đồ ôn IMSO Toán", root="IMSO",
                  ls_key="imso-map", doc="imsomap", home="imso.html", home_label="Ôn luyện IMSO"),
+    "imas_middle": dict(stage="middle", leaves=leaves_imas_middle, out="imas_middle.html",
+                        title="Bản đồ ôn IMAS Middle Primary", h1="Bản đồ ôn IMAS Middle Primary",
+                        root="IMAS MP", ls_key="imas-mp-map", doc="imasmpmap", **IMAS_HOME),
+    "imas_upper": dict(stage="upper", leaves=leaves_imas_upper, out="imas_upper.html",
+                       title="Bản đồ ôn IMAS Upper Primary", h1="Bản đồ ôn IMAS Upper Primary",
+                       root="IMAS UP", ls_key="imas-up-map", doc="imasupmap", **IMAS_HOME),
+    "imas_junior": dict(stage="junior", leaves=leaves_imas_junior, out="imas_junior.html",
+                        title="Bản đồ ôn IMAS Junior", h1="Bản đồ ôn IMAS Junior",
+                        root="IMAS Junior", ls_key="imas-jr-map", doc="imasjrmap", **IMAS_HOME),
 }
 
 HEAD = ('<!doctype html>\n<html lang="vi">\n<head>\n<meta charset="utf-8">\n'

@@ -1,0 +1,1800 @@
+=== Year 2011 | Round 1 | Problem 1 | Page 3 ===
+What is ( ) + × − ? (A)193 (B)4215 (C)6226 (D)193 − (E)6226 −
+
+=== Year 2011 | Round 1 | Problem 2 | Page 3 ===
+Which number is the largest? (A)3.14 (B)π (C)22 (D)3.135 (E)304%
+
+=== Year 2011 | Round 1 | Problem 3 | Page 3 ===
+The temperature on the shady side of a certain planet is −253°C. The temperature on its sunny side is only −223°C. Which of the following statement is an accurate description of the relation between the temperatures on the shady side and on the sunny side? (A)The temperature of its sunny side is 30°C higher than its shady side; (B)The temperature of its sunny side is 30°C lower than its shady side; (C)The temperature of its sunny side is 476°C higher than its shady side; (D)The temperature of its sunny side is 476°C lower than its shady side; (E)The temperature of its sunny side is the same as its shady side.
+
+=== Year 2011 | Round 1 | Problem 4 | Page 3 ===
+The given diagram shows a rectangular piece of paper folded in quarters along two perpendicular folds. If a cut is made around the corner marked 1, which of the following cannot possibly be the shape of the resulting hole in the piece of paper? (A)Octagon (B)Quadrilateral (C)Hexagon(D)Triangle(E)Circle
+
+=== Year 2011 | Round 1 | Problem 5 | Page 3 ===
+Around 550 BC, the Greek mathematician Pythagoras discovered and proved a theorem which now bears his name. To celebrate this achievement, he had 100 cows killed for a feast. Thus the result is also known as the One Hundred Cows Theorem. What is the anniversary of this result in 2011? (There is no Year 0.) (A)2562 (B)2560 (C)2561 (D)1460 (E)1461 A O B C D
+
+=== Year 2011 | Round 1 | Problem 6 | Page 4 ===
+A rectangle is 6 cm by 8 cm. It is revolved about an axis on the rectangle itself. What is the number of different cylinders that may be obtained in this way? (A)2 (B)4 (C)6 (D)8 (E)Infinity
+
+=== Year 2011 | Round 1 | Problem 7 | Page 4 ===
+There is a pattern to the given sequence of figures: Which of the following will be the 2011-th figure of the sequence? (A) (B) (C) (D) (E)
+
+=== Year 2011 | Round 1 | Problem 8 | Page 4 ===
+The given diagram shows two overlapping right triangles having a common vertex O. If AOD ∠ = °, what is the measure, in degrees, of BOC ∠ ? (A)33 (B)53 (C)57 (D)60 (E)66
+
+=== Year 2011 | Round 1 | Problem 9 | Page 4 ===
+A greengrocer is having an apple sale. The price is $6 per kilogram. If the total purchase exceeds 3 kilograms, a 20% discount is applied to the portion over 3 kilograms. There is no discount if the total purchase does not exceed 3 kilograms. If Leith buys 8 kilograms of apples from this greengrocer, how much does he pay? (A)$32 (B)$36 (C)$42 (D)$44 (E)$21
+
+=== Year 2011 | Round 1 | Problem 10 | Page 4 ===
+The given diagram shows a pocket knife. The shaded part is a rectangle with a small semicircular indentation. The two edges of the blade are parallel, forming angles 1 and 2 with the shaft as shown. What is the measure, in degrees, of ∠+ ∠? (A)30 (B)45 (C)60 (D)90 (E)could not be determined " (1) (2) (3) (4) (5) (6) (7)
+
+=== Year 2011 | Round 1 | Problem 11 | Page 5 ===
+The given diagram shows the projected sale and actual sale of a certain toy company for the fourth quarter of the year. The achievement percentage is equal to actual sale projected sale 100% × . What is this achievement percentage? (A)86% (B)88.3% (C)88% (D)86.3% (E)90.3%
+
+=== Year 2011 | Round 1 | Problem 12 | Page 5 ===
+Leon is given five wooden blocks: Which of the following blocks should be added so that he can make a 4×4×4 cube? (None of the blocks can be dissected) (A) (B) (C) (D) (E)
+
+=== Year 2011 | Round 1 | Problem 13 | Page 5 ===
+The given diagram shows how a square ABCD with side length 40 may be dissected into six pieces by three straight cuts AC, BD and EF, where E and F are the respective midpoints of AB and BC. The pieces are then rearranged to form the given shape. What is the total area, in square centimetres, of the shaded part of the given shape? (A)200 (B)400 (C)600 (D)800 (E)1000 A B C D E F Fig. A Projected sale Fig. B Actual sale Oct. Nov. Dec. Month Piece Percentage Oct. Nov. Dec. Month
+
+=== Year 2011 | Round 1 | Problem 14 | Page 6 ===
+The given diagram shows the calendar for the month of November, 2011. Three numbers from the same column are chosen. Of the following number, which can be the sum of three such numbers? (A)21 (B)37 (C)38 (D)40 (E)54
+
+=== Year 2011 | Round 1 | Problem 15 | Page 6 ===
+The given diagram shows a large cube formed of eight identical small cubes. The surface area of the large cube is 216 square centimetres less than the total surface areas of the eight small cubes. What is the length, in centimetres, of a side of a small cube? (A)2 (B)3 (C)4 (D)5 (E)6
+
+=== Year 2011 | Round 1 | Problem 16 | Page 6 ===
+In an NBA basketball game, a player scores 44 points, 5 of which come from 5 foul shots (each shot scores 1 point). He makes more 2-point shots than 3-point shots. Of the following number, which cannot possibly be the total number of 2-point and 3-point shots made by this player? (A)15 (B)16 (C)17 (D)18 (E)19
+
+=== Year 2011 | Round 1 | Problem 17 | Page 6 ===
+The given diagram shows a rectangle ABCD being folded along a straight segment AE with E on CD, so that the new position of D is on AB. Triangle ADE is then folded along DE so that the new position of A is on the extension of DB. The new position of AE intersects BC at F. If AB = 10 centimetres and AD = 6 centimetres, what is the area, in square centimetres, of triangle ABF? (A)2 (B)4 (C)6 (D)8 (E)10
+
+=== Year 2011 | Round 1 | Problem 18 | Page 6 ===
+A child is operating a remote-controlled car on a flat surface. Starting from the child’s feet, the car moves forward 1 metre, makes a 30° turn counterclockwise, moves forward 1 metre, makes a 30° turn counterclockwise, and so on. When the car first time returns to its starting point for the first time, what is the total distance, in metres, that it has covered? (A)4 (B)8 (C)12 (D)16 (E)24 A B C D A B C D E A B C D E F NOVEMBER 2011 SUN MON TUE WED THU FRI SAT
+
+=== Year 2011 | Round 1 | Problem 19 | Page 7 ===
+Each interior angle of a regular convex polygon is greater than 100° and less than 140°. Of the following numbers, which cannot possibly be the number of sides of this polygon? (A)5 (B)6 (C)7 (D)8 (E)9
+
+=== Year 2011 | Round 1 | Problem 20 | Page 7 ===
+In the given diagram, each vertex of the hexagon PQRSTU is labeled with 0 or 1. Starting counterclockwise from a vertex, he multiplies the labels by 3, 7, 15, 31, 63 and 127 respectively and add the six products. If the starting point is P, the final sum is 1×3+1×7+0×15+1×31+0×63+1×127=168. What is the starting point if the final sum is 180? (A)Q (B)R (C)S (D)T (E)U
+
+=== Year 2011 | Round 1 | Problem 21 | Page 7 ===
+A drunk walks 1 metre east. Then he stops, makes a 90° turn clockwise or counterclockwise and walks 2 metres. Then he stops, makes a 90° turn clockwise or counterclockwise and walks 3 metres. He continues in this pattern, stopping, making 90° turn clockwise or counterclockwise and walks 1 metre more than the preceding segment. What would be the longest distance, in metres, between his initial position and his position when he makes his seventh stop?
+
+=== Year 2011 | Round 1 | Problem 22 | Page 7 ===
+In the given diagram, ABCD is a rectangle with AB = 25 cm and BC = 20 cm. F is a point on CD and G is a point on the extension of AB such that FG passes through the midpoint E of BC. If AFE CFE ∠ = ∠ , what is the length, in cm, of CF?
+
+=== Year 2011 | Round 1 | Problem 23 | Page 7 ===
+Consider all five-digit numbers using each of the digits 1, 2, 3, 4 and 5 exactly once, possibly with a decimal point somewhere. Starting with the smallest such number, namely, 1.2345, they are listed in ascending order. What is 1000 times the difference of the 150th and the 145th numbers? P Q R S T U A B C D E F G
+
+=== Year 2011 | Round 1 | Problem 24 | Page 8 ===
+In a row are six counters, each either black or white. Between every two adjacent counters, we place a new counter. If the two adjacent counters are of the same colour, we place a white counter. If they are of different colours, we place a black counter. Then we remove the original six counters, leaving behind a row of five counters. We now repeat this operation two more times, reducing the number of counters in the row to four and then to three. If the last three counters are all white, how many different colour patterns for the original six counters are there? An example is attached.
+
+=== Year 2011 | Round 1 | Problem 25 | Page 8 ===
+Mickey lives in a city with six subway lines. Every two lines have exactly one common stop for changing lines, and no three lines meet at a common stop. His home is not at one of the common stops. One day, Mickey suddenly decides to leave home and travel on the subway, changing trains at least once at each stop before returning home. What is the minimum number of changes he has to make to accomplish this task? ○ ○ ○ ○ ○ ○ ○ ● ● ● ● ● ○ ○ ○ ○ ○ ● ○ ● ○ ● ● ● ● ● ● ○ ● ○ ● ○ ● ● ● ● ● ● ○ ● ○ ● ○ ● ○ ● ○ ● ○ ● Second operation Initial state First operation Third operation
+
+=== Year 2011 | Round 2 | Problem 1 | Page 3 ===
+The diagram shows a neon-light sign by the river representing the number “2012” for the New Year Party of a certain city celebrating the arrival of 2012. Looking at the reflection off the water from the opposite shore, how does the sign look? (A)2102 (B)5015 (C)5105 (D)5012 (E)2015
+
+=== Year 2011 | Round 2 | Problem 2 | Page 3 ===
+In the centenary celebration of IMAS International School, a basketball tournament was organized. After each team had played exactly three games, six teams were eliminated. The surviving teams then played one another exactly once. In all, 33 games were played. How many teams participated in this tournament? (A)16 (B)23 (C)24 (D)12 (E)26
+
+=== Year 2011 | Round 2 | Problem 3 | Page 3 ===
+There are four kids. If we compute the total ages of three of them at a time, the sums are 22, 20, 17 and 25 respectively. What is the difference in age between the oldest and the youngest among these four kids? (A)4 (B)5 (C)6 (D)7 (E)8
+
+=== Year 2011 | Round 2 | Problem 4 | Page 3 ===
+The diagram shows a point E on the extension of the side DC of a rectangle ABCD. The segment AE intersects the side BC at F. Three ants, X, Y and Z, all start from A. X crawls along the path A-B-F-C, Y along A-F-E-C-D and Z along A-F-C-D. All three crawl at the same constant speed. What is their order of finish to their respective destinations? List them from the one which finishes soonest to the one which finishes latest. (A)XYZ (B)XZY (C)YXZ (D)YZX (E)ZXY
+
+=== Year 2011 | Round 2 | Problem 5 | Page 4 ===
+The currency of a certain country consists of bills of denominations $1, $5, $10, $20, $50 and $100. One day, two customers came to John's confectionery shop. Each bought a box of chocolate which cost $15. The first customer had two $10 bills and the second one a $20 bill and a $5 bill. Having no money in the tilt, John was unable to give change when the customer paid separately. However, the first customer could pay the second customer with his two $10 bills and receive the $5 bill as change, and then the second customer could pay John the $20 bill and one $10 bill for both boxes. On another day, two customers came, and each bought a box of caramel. Once again, the tilt was empty, and the correct change could only be made if the two customers paid together. Among the following prices, which could have been that of a box of caramel? (A)$2 (B)$5 (C)$6 (D)$7 (E)$8
+
+=== Year 2011 | Round 2 | Problem 6 | Page 4 ===
+The diagram shows a city block (shaded). Peter starts from A and moves to the east while Toney starts from A and moves to the south. They both follow the perimeter of the city block, and eventually meet at the point D on the side BC, 2 km from C. If the constant speed of the Toney is 3 4 of the constant speed of the Peter, what is the length of the zig-zag line from A to C? km
+
+=== Year 2011 | Round 2 | Problem 7 | Page 4 ===
+A Youth Hostel has twenty-one rooms numbered from 1 to 21. To conceal their identifies from outsiders but not from the staff, the keys are assigned two-digit codes. The first digit is the remainder when the room number is divided by 3, and the second digit is the remainder when the room number is divided by 7. For instance, the key to room 8 has the code 21. Which room has the key with the code 12? A B C D
+
+=== Year 2011 | Round 2 | Problem 8 | Page 5 ===
+The diagram shows a 3×3 table in which three squares have been filled with numbers. The remaining squares are also to be filled with numbers so that the sum of each row, each column and each of the two diagonals are the same. What number goes into the square marked A?
+
+=== Year 2011 | Round 2 | Problem 9 | Page 5 ===
+The diagram shows a rubber band tightly wrapped around three identical solid cylinders (shaded). The base radius of each cylinder is 10 cm. What is the total area, in cm2, of the unshaded regions within the rubber band? Give the answer in terms of π. cm2
+
+=== Year 2011 | Round 2 | Problem 10 | Page 5 ===
+A magic number is a positive integer with distinct digits such that the difference between the number obtained by writing its digits in descending order and the number obtained by writing its digits in ascending order is equal to the positive integer itself. For example, 495 is a magic number since 954 − = . Find all four-digit magic numbers.
+
+=== Year 2011 | Round 2 | Problem 11 | Page 5 ===
+The diagram shows how a regular pentagon ABCDE may be constructed by tying a knot in a rectangular piece of paper. If the dimensions of the original rectangle is 17.2 cm by 2.5 cm, and CN+DP=CD, what is the area, in cm2, of the quadrilateral ACDE? cm2 Figure(1) Figure(2) E D B A C M N P Q A
+
+=== Year 2011 | Round 2 | Problem 12 | Page 6 ===
+The integers 1a , 2a , 1b , 2b , 1c , 2c and M satisfy ( )( ) a x b y c a x b y c x xy My x y + + + + = + + + + + for any numbers x and y. What is the value of M ?
+
+=== Year 2011 | Round 2 | Problem 13 | Page 6 ===
+As shown in the diagram, there are five pieces used in the video game Tetris. We have four identical copies of each piece. From the twenty copies, we choose four and try to use them to form a 4×4 square. The copies may be turned or flipped. How many different choices are there?
+
+=== Year 2011 | Round 2 | Problem 14 | Page 6 ===
+Given an arbitrary rectangle ABCD, find a point E on the side BC such that the total length of the segments AE and DE is as large as possible. Justify your answer. (a) (b) (c) (d) (e)
+
+=== Year 2011 | Round 2 | Problem 15 | Page 7 ===
+As shown in the diagram, Leon has a 5×5 sheet of stamps. He cuts out the 5 stamps marked X. In doing so, he satisfies the following three conditions. (1)No stamps on the edge or at a corner can be cut. (2)If two stamps share a common edge, they cannot both be cut. (3)After cutting, the remaining part of the sheet is still in one connected piece. As it turns out, 5 is the maximum number of stamps that can be cut. Now Leon has a 9×9 sheet of stamps. What is the maximum number of stamps that can be cut if the same three conditions must be satisfied? Give a method for cutting that many stamps, and a proof that no larger number of stamps can be cut. stamps X X X X X
+
+=== Year 2012 | Round 1 | Problem 1 | Page 3 ===
+What is the value of ( ) + − + − ? (A)2010 − (B)1 (C)2012 (D)2013 (E)2014
+
+=== Year 2012 | Round 1 | Problem 2 | Page 3 ===
+In the diagram below, ABCD is a square and ACE is an equilateral triangle. What is the measure, in degrees, of ∠BCE ? (A)15 (B)20 (C)25 (D)30 (E)cannot be determined
+
+=== Year 2012 | Round 1 | Problem 3 | Page 3 ===
+The smallest interior angle of a triangle is 50°. Which of the following statements about this triangle is correct? (A)It must be isosceles. (B)It must be right angled. (C)It must be acute angled. (D)It must be obtuse angled. (E)None of these is correct.
+
+=== Year 2012 | Round 1 | Problem 4 | Page 3 ===
+The diagram to the below shows three squares EFGH, KLMN and PQRS inside a rectangle ABCD. The areas of the three squares are 1 cm2, 9 cm2 and 4 cm2 respectively. What is the sum of areas of the shaded regions in cm2? (A)3 (B)4 (C)5 (D)6 (E)7
+
+=== Year 2012 | Round 1 | Problem 5 | Page 3 ===
+A triangle is formed with 10 matchsticks of equal length connected end to end. No matchsticks are bent or broken. How many different triangles can be formed? (A)2 (B)3 (C)4 (D)5 (E)6 E D C B A L D C B A M F E K N S R Q P H G
+
+=== Year 2012 | Round 1 | Problem 6 | Page 4 ===
+A piece of paper in the shape of parallelogram is folded into two with the crease bisecting the area of parallelogram. How many different kinds of origami methods are possible? (A)0 (B)1 (C)2 (D)3 (E)infinitely many
+
+=== Year 2012 | Round 1 | Problem 7 | Page 4 ===
+A TV company plans to broadcast a series with 48 episodes. One episode is aired each day except on Saturday and Sunday. If the first episode is aired on Thursday, on what day of the week will the last episode be aired? (A)Monday (B)Tuesday (C)Wednesday(D)Thursday(E)Friday
+
+=== Year 2012 | Round 1 | Problem 8 | Page 4 ===
+Cups labelled 1, 2, 3, 4 and 5 with mouth upwards line in row, as shown below. Initially a ball is put into cup #3. In each move, the ball is transferred to an adjacent cup. If the ball is in cup #1, it can only be moved to cup #2. If the ball is in cup #5, it can only be moved to cup #4. After + moves, which of the following statements about the ball is correct? (A)It cannot be in cup #3, cannot be in cup #4 and cannot be in cup #5 (B)It cannot be in cup #2, cannot be in cup #4 and cannot be in cup #5 (C)It cannot be in cup #1, cannot be in cup #4 and cannot be in cup #5 (D)It cannot be in cup #1, cannot be in cup #3 and cannot be in cup #5 (E)It cannot be in cup #2 and cannot be in cup #4
+
+=== Year 2012 | Round 1 | Problem 9 | Page 4 ===
+During the holidays, Dick worked part-time washing bowls in a restaurant. He got paid 3 dollars for washing one bowl. If he broke a bowl, he got no pay for washing it, and must pay 9 dollars to the owner. In one week, Dick washed 500 bowls and earned 1368 dollars. How many bowls did he break? (A)7 (B)8 (C)9 (D)10 (E)11
+
+=== Year 2012 | Round 1 | Problem 10 | Page 4 ===
+The diagram below shows four squares with numbers which exhibit a certain pattern. What number should be inside the fourth box? －1 －2 －2 －3 －3 －4 －4 －5 －14 －54 －132 ？ －4 －3 －5 －4 －6 －5 －7 －6 (A)－210 (B)－260 (C)－288 (D)－308 (E)－330
+
+=== Year 2012 | Round 1 | Problem 11 | Page 5 ===
+The diagram below shows a square network of roads, 1A , A , 3A and A are four intersections on the same diagonal. We want to go from 1A to A by going only to the east or to the south, without passing through A . How many different paths are there? (A)8 (B)10 (C)20 (D)15 (E)12
+
+=== Year 2012 | Round 1 | Problem 12 | Page 5 ===
+Each row in a cinema has 80 seats, and row 13 to row 24 are reserved for students from a secondary school. There are 15 empty seats in these rows when all the students have taken their seats. How many secondary school students went to the cinema? (A)945 (B)875 (C)865 (D)775 (E)765
+
+=== Year 2012 | Round 1 | Problem 13 | Page 5 ===
+The total weight of 3 apples is equal to that of 4 bananas, and the total weight of 5 bananas is equal to that of 6 oranges. How many apples have the same total weight as 16 oranges? (A)6 (B)7 (C)8 (D)9 (E)10
+
+=== Year 2012 | Round 1 | Problem 14 | Page 5 ===
+The diagram below shows a cube with three of its faces labelled A, B and C, and a 3×3 square with six of its squares labelled 1, 2, 3, 4, 5 and 6. The cube is tipped over so that face C lies on square 1, tipped over again so that face B lies on square 2, and so on until the cube lies on square 6. What is the sum of the numbers of the squares on which the cube has laid with face B on top? (A)2 (B)6 (C)7 (D)9 (E)10
+
+=== Year 2012 | Round 1 | Problem 15 | Page 5 ===
+A deck of 54 cards has 2 jokers, and 13 cards of each of spades, hearts, clubs and diamonds. At least how many cards should be drawn at random so that there are at least 4 cards of the same suit? (A)54 (B)14 (C)15 (D)16 (E)17 A 3A A 1A A C B
+
+=== Year 2012 | Round 1 | Problem 16 | Page 6 ===
+The number 5 n n + is divided by 100 where n is any non-negative integer. How many different values of the remainder are there? (A)4 (B)6 (C)8 (D)10 (E)15
+
+=== Year 2012 | Round 1 | Problem 17 | Page 6 ===
+For any positive integers a and b, define a new operation a⊙b which yields the remainder when the larger of a and b is divided by the smaller one. For example, 5⊙12 = 12⊙5 = 2. Given that (19⊙x) ⊙19 = 5, what value below is not possible for x? (A)12 (B)26 (C)33 (D)39 (E)45
+
+=== Year 2012 | Round 1 | Problem 18 | Page 6 ===
+What is the total number of positive integers consisting of three different digits in which the tens digit is equal to the units digit of the sum of the other two digits? (A)36 (B)60 (C)72 (D)90 (E)108
+
+=== Year 2012 | Round 1 | Problem 19 | Page 6 ===
+The diagram below shows seven squares resting on a straight line. The areas of three tilted squares are 1, 2 and 3. What is the total area of the other four squares? (A)4 (B)5 (C)6 (D)7 (E)8
+
+=== Year 2012 | Round 1 | Problem 20 | Page 6 ===
+On a 4×4 chessboard shown in the diagram below on the left, we wish to place a minimum number of copies of the shape shown in the diagram below on the right, so that no more copies of this shape can be placed. Copies may be rotated. What is this minimum number of copies? (A)2 (B)3 (C)4 (D)5 (E)6 S S S 1S l
+
+=== Year 2012 | Round 1 | Problem 21 | Page 7 ===
+We place 100 table tennis balls inside n boxes so that the number of balls in each box contains the digit 8, such as 8 balls, 18 balls, 83 balls and 88 balls. When n=3, the number of table tennis balls in the boxes are 8, 8 and 84 respectively. If n = 5, and two of the boxes have the same number of balls while other boxes have different number of balls, what is the largest total number of balls in two boxes?
+
+=== Year 2012 | Round 1 | Problem 22 | Page 7 ===
+Let a, b, c and d be positive integers less than 10, and x be an integer such that ax bx cx d − − − = . What is maximum value of x?
+
+=== Year 2012 | Round 1 | Problem 23 | Page 7 ===
+Let a, b and c be real numbers such that a b c + + = and abc = − . What is the value of ( ) ( ) ( ) a b c b c a c a b + + + + + ?
+
+=== Year 2012 | Round 1 | Problem 24 | Page 7 ===
+The diagram below shows four line segments AB, BC, CD and DA on the plane where ABC ∠ = ° and ADC ∠ = °. Point E is on the extension of line BA, and the angle bisectors of DAE ∠ and BCD ∠ intersects at point N. What is the measure, in degrees, of ANC ∠ ?
+
+=== Year 2012 | Round 1 | Problem 25 | Page 7 ===
+In the expression 6□7□8□9, an arithmetic sign (plus, minus, multiplication or division sign, can be used with repetition) is placed in each bracket □. Open bracket is allowed (it is optional). What will be the largest 3- digit number obtained? ＊＊＊ D C B A N E
+
+=== Year 2012 | Round 2 | Problem 1 | Page 4 ===
+In a promotional sale, anyone who buys a cup of juice at the regular price of 7 dollars can get a second cup of juice by paying 1 more dollar. What is the minimum number of dollars a party of 9 people must pay if each of them wants a cup of juice? (A)32 (B)36 (C)39 (D)40 (E)63
+
+=== Year 2012 | Round 2 | Problem 2 | Page 4 ===
+Into the expression x y x = + , we substitute for x the numbers 2012 , 2008 , 2004 , …, 1 4 , 4, 8, 12, …, 2012. What is the sum of all the y values? (A)1 (B)16 (C)251.5 (D)503 (E)2012
+
+=== Year 2012 | Round 2 | Problem 3 | Page 4 ===
+In a flower shop, each Carnation sells for $3 and each Rose sells for $4. A bouquet is a combination of these two kinds of flowers. How many different bouquets selling for $60 are there? (A)4 (B)5 (C)6 (D)7 (E)8
+
+=== Year 2012 | Round 2 | Problem 4 | Page 4 ===
+A rectangular strip, 30 cm in length and 3 cm wide, is folded in a pattern shown in diagram (2), producing a right angle∠ACB. After the strip is completely folded as shown in diagrams (3) and (4), the lengths of AM and GM are equal. What is the length of AC in diagram (1)? (A)7.5 (B)10.5 (C)13.5 (D)14.5 (E)16.5 A B C A B C A B C M A B C G (1) (2) (3) (4)
+
+=== Year 2012 | Round 2 | Problem 5 | Page 5 ===
+Let a, b, c be rational numbers such that ab c a b = − + . Which of the following expressions is correct? (A) a b c a b c + + = + + (B) ( ) a b c a b c + + = + + (C) ( 2 ) a b c a b c + + = + − (D) ( ) a b c a b c + + = + + (E) ( )( ) a b c a b c a b c abc + + + + = + + +
+
+=== Year 2012 | Round 2 | Problem 6 | Page 5 ===
+In an isosceles triangle ABC, AB = AC. Point D lies on side AC, so that AD = DB = BC. What is the measure of ∠BAC？ degrees
+
+=== Year 2012 | Round 2 | Problem 7 | Page 5 ===
+The diagram below shows three overlapping regular hexagons, each with area 12 cm2. One of the vertices of the middle hexagon coincides with the center O of the hexagon on the left, while one of the vertices of the hexagon on the right coincides with the center O of the middle hexagon. What is the total area of the two shaded parts? cm2
+
+=== Year 2012 | Round 2 | Problem 8 | Page 5 ===
+Let a and b be real numbers such that 3 a = and 671 b = . What is the value of 1 a b + ? O O
+
+=== Year 2012 | Round 2 | Problem 9 | Page 6 ===
+In the diagram below, ABCD is a right-angled trapezoid such that AD // BC and E is the midpoint of CD. If BE = 20 cm and AB = AD + BC, determine the area of trapezoid ABCD, in cm2? cm2
+
+=== Year 2012 | Round 2 | Problem 10 | Page 6 ===
+If a 7-digit number 20 ab c is divisible by 792, what is the value of ( ) c a b + ?
+
+=== Year 2012 | Round 2 | Problem 11 | Page 6 ===
+In a party each of the participant handshakes with four women and six men. Given that the known number of handshakes between opposite-sex participants is seven times less than the number of handshakes between same-sex participants, how many men are there in the party?
+
+=== Year 2012 | Round 2 | Problem 12 | Page 6 ===
+We put 130 identical balls into several identical boxes, such that the number of balls in each box is at least 10 but at most 20. The numbers of balls in the boxes are all different. How many distinct ways of putting these balls in the boxes are there? ways
+
+=== Year 2012 | Round 2 | Problem 13 | Page 6 ===
+Let a and b be non-negative integers less than 100. If a b − is a positive prime number and 2ab is a perfect square number, what is maximum value of a b + ? A D C B E
+
+=== Year 2012 | Round 2 | Problem 14 | Page 7 ===
+Let k be a real number. The product of all the real roots of the equation (3 ) (2 ) x x k x k x k + + + + + + = is－2012. Find the sum of the squares of the real roots.
+
+=== Year 2012 | Round 2 | Problem 15 | Page 8 ===
+A 9 × 11 chessboard may be covered without overlap with a combination of the following three shapes. What is the minimum number of copies of the piece consisting of three squares must be used?
+
+=== Year 2013 | Round 1 | Problem 1 | Page 4 ===
+What is the value of the expression | 2013| 2 − + + ? (A)2014 (B)2015 (C)2016 (D)2010 − (E)2011 −
+
+=== Year 2013 | Round 1 | Problem 2 | Page 4 ===
+Which of the following real numbers has the greatest absolute value? (A)π − (B)7 (C)3.1 (D)2 − (E)23
+
+=== Year 2013 | Round 1 | Problem 3 | Page 4 ===
+Which of the following five numbers is divisible by 6? (A)332 (B)363 (C)494 (D)522 (E)586
+
+=== Year 2013 | Round 1 | Problem 4 | Page 4 ===
+In the diagram, AD is parallel to BC. A point P moves from C to D along the side CD. Which of the following is the accurate description of the change in the area of triangle ABP during the motion? (A)increasing (B)decreasing (C)increasing then decreasing (D)decreasing then increasing (E)unchanged
+
+=== Year 2013 | Round 1 | Problem 5 | Page 4 ===
+If x is a real number, which of the following is an accurate description of the expression x x − ? (A)must be positive (B)may be positive or zero (C)must be negative (D)may be negative or zero (E)may be any number
+
+=== Year 2013 | Round 1 | Problem 6 | Page 4 ===
+In a promotional sale, a store reduces the price of all merchandise by 40%. If payment is made on a membership card, there is a further reduction of 10%. What is the combined reduction in using a membership card? (A)40 % (B)46 % (C)50 % (D)54 % (E)60 %
+
+=== Year 2013 | Round 1 | Problem 7 | Page 4 ===
+The length of each side of a triangle is a different odd positive integer. What is the minimum perimeter of this triangle? (A)9 (B)11 (C)13 (D)15 (E)21 A B C D P
+
+=== Year 2013 | Round 1 | Problem 8 | Page 5 ===
+The coordinates of a point in the plane are (w, 1 w − ), where w is a real number. Which of the following is an accurate description of the position of this point? (A)cannot be in the fourth quadrant (B) cannot be in the third quadrant (C)cannot be in the second quadrant (D)cannot be in the first quadrant (E)can be anywhere
+
+=== Year 2013 | Round 1 | Problem 9 | Page 5 ===
+Mickey accidentally drops a triangular sheet of glass into four pieces as shown in the diagram. He wishes to take only one of the pieces to a repair shop so that they can reproduce the triangular sheet of glass. How many different choices for this piece does he have? (A)4 (B)3 (C)2 (D)1 (E)0
+
+=== Year 2013 | Round 1 | Problem 10 | Page 5 ===
+In the diagram, ABCD is a square. The common part of ABCD and triangle EFG is shaded. Its area is 4 5 of that of EFG and 1 2 of that of ABCD. If the area of triangle EFG is 40 cm2, what is the length of a side of ABCD, in cm? (A)4 (B)5 (C)8 (D)10 (E)
+
+=== Year 2013 | Round 1 | Problem 11 | Page 5 ===
+What is the value of the expression − + ? (A)2 (B)4 (C)3 (D)1 (E)3 D C F B A E G
+
+=== Year 2013 | Round 1 | Problem 12 | Page 6 ===
+Linda cuts out a shape as shown in the diagram. AB is parallel to CD and the measure of angle AFE is 40°. What, in degrees, is the total measure of angles BAF, FED and EDC? (A)200 (B)220 (C)300 (D)320 (E)not uniquely determined
+
+=== Year 2013 | Round 1 | Problem 13 | Page 6 ===
+May and Cherry bought the same kind of coloured pens from a stationery store. Such a pen costs more than $10. May’s total bill comes to $182 while Cherry’s total bill comes to $221. What is the total number of pens the two of them have bought? (A)13 (B)14 (C)30 (D)31 (E)32
+
+=== Year 2013 | Round 1 | Problem 14 | Page 6 ===
+The diagram shows the result of folding a piece of triangular paper so that the vertex C becomes the point C′ on the side AB. If AB AC = and C A C D ′ ′ = , what is the measure, in degrees, of angle A? (A)18 (B)20 (C)24 (D)30 (E)36
+
+=== Year 2013 | Round 1 | Problem 15 | Page 6 ===
+Mickey is asked to multiply four positive integers, but he adds them instead. Amazingly, his correct answer is equal to the correct answer for the multiplication problem. What is the sum of these four numbers? (A)6 (B)8 (C)9 (D)10 (E)12
+
+=== Year 2013 | Round 1 | Problem 16 | Page 6 ===
+Mickey starts working on his report at 7:30 am. By 10:10, he has finished 2 it. He takes a one-hour break and then continues to work at the same rate. When will he finish the report? (A)10：50 (B)11：20 (C)11：40 (D)12：30 (E)12：50 A B F E D C A B C D C′
+
+=== Year 2013 | Round 1 | Problem 17 | Page 7 ===
+P is a point inside a triangle which has side lengths of 7 cm, 24 cm and 25 cm. If P is at the same distance from all three sides of the triangle, what is this distance, in cm? (A)1 (B)1.5 (C)2 (D)2.5 (E)3
+
+=== Year 2013 | Round 1 | Problem 18 | Page 7 ===
+The diagram shows how each of the digits 0 to 9 can be made from matchsticks. In this representation, the number 609 reads the same way upside down as right side up. How many such numbers are there with three digits, the first of which is not 0? (A)30 (B)36 (C)42 (D)49 (E)245
+
+=== Year 2013 | Round 1 | Problem 19 | Page 7 ===
+The alien clock divides an earth day into 10 of their hours, each of which is divided into 100 of their minutes. If they plan to attack earth at 6：36 am our time, what is the time indicated on their clock? (A)1：75 (B)2：25 (C)2：75 (D)3：15 (E)3：25
+
+=== Year 2013 | Round 1 | Problem 20 | Page 7 ===
+Fanny, Lily and Sherry all shop at regular intervals, Fanny once every 3 days, Lily once every 4 days and Sherry once every 5 days. Yesterday, all three shopped. On how many of the next 100 days, starting from today (today is the first day), will at least two of them be shopping? (A)16 (B)17 (C)18 (D)19 (E)20
+
+=== Year 2013 | Round 1 | Problem 21 | Page 7 ===
+The diagram shows a regular pentagon ABCDE with a point M on AB and a point N on AE. The pentagon is folded along the segment MN so that the vertex A is now inside the original pentagon. What is the measure of ∠AMB +∠ANE, in degrees? B C D E M N A
+
+=== Year 2013 | Round 1 | Problem 22 | Page 8 ===
+Anne arranges some pebbles in the sand forming a pattern of interesting configurations as shown in the diagram. The numbers of pebbles used in the first four configurations are respectively 1, 5, 12 and 22. What is the number of pebbles used in the tenth configuration of this pattern?
+
+=== Year 2013 | Round 1 | Problem 23 | Page 8 ===
+The six faces of a cubical die are labelled with six different positive integers. If the numbers on any two adjacent faces differ by at least 2, what is the minimum value of the sum of these six numbers?
+
+=== Year 2013 | Round 1 | Problem 24 | Page 8 ===
+The non-zero real numbers x and y satisfy ( )( ) x x y y + − + − = . What is the value of the expression 2013 x y x y + + ?
+
+=== Year 2013 | Round 1 | Problem 25 | Page 8 ===
+What is the minimum value of a positive integer which has five three-digit divisors? ＊＊＊
+
+=== Year 2013 | Round 2 | Problem 1 | Page 4 ===
+When the digits 0, 1, 2, 5, 6, 8 and 9 are rotated 180°, they become 0, 1, 2, 5, 9, 8 and 6 respectively. What does 9105 become when the four-digit number is rotated 180°? (A)6150 (B)6102 (C)5016 (D)2019 (E) 2016
+
+=== Year 2013 | Round 2 | Problem 2 | Page 4 ===
+What is the value of the expression ( )( ) ( )( ) ( )( ) a b a b c b c b c a c a c a b − + − + − + − + − + − (A)0 (B) a b c + + (C)ab bc ca + + (D) a b c ab bc ca + + − − − (E) a b c ab bc ca + + + + +
+
+=== Year 2013 | Round 2 | Problem 3 | Page 4 ===
+We wish to dissect a square into n squares which need not be of the same size. For which of the following values of n is this impossible? (A)5 (B)6 (C)7 (D)8 (E)9
+
+=== Year 2013 | Round 2 | Problem 4 | Page 4 ===
+The total number of players on three badminton teams is 29. No two players on the same team play against each other, while every two players on different teams play each other exactly once. What is the maximum number of games played? (A)265 (B)270 (C)276 (D)280 (E)282
+
+=== Year 2013 | Round 2 | Problem 5 | Page 4 ===
+Two distinct quadratic polynomials ( ) f x and ( ) g x with leading coefficients equal to 1 satisfy (1) (3) (5) (1) (3) (5) f f f g g g + + = + + . Find all solutions of ( ) ( ) f x g x = . (A)x ≤ (B)2 − x ≤ ≤(C)0 x ≤ ≤ (D)2 x −≤ ≤ (E)3
+
+=== Year 2013 | Round 2 | Problem 6 | Page 5 ===
+The diagram shows a quadrilateral ABCD with AB parallel to DC. F is the midpoint of BC. If the area of triangle AFD is 10 cm2, what is the area, in cm2, of ABCD? cm2
+
+=== Year 2013 | Round 2 | Problem 7 | Page 5 ===
+Lily has 2014 chocolates. She eats one on the first day. Each day after, she eats twice as many as the day before, until all the chocolates have been eaten. How many chocolates did she eat on the last day? chocolates
+
+=== Year 2013 | Round 2 | Problem 8 | Page 5 ===
+Leon is putting 99 apples into boxes of two different sizes. A large box can hold 12 apples while a small box can hold 5 apples. All boxes must be full. How many boxes will he need if this number must be greater than 10? boxes
+
+=== Year 2013 | Round 2 | Problem 9 | Page 5 ===
+In a convex quadrilateral ABCD, AB = 3, BC = 5, CD = 6, DA = 10, and the length of the diagonal AC is a positive integer. How many different possible shapes can ABCD take? shapes A B D C F
+
+=== Year 2013 | Round 2 | Problem 10 | Page 6 ===
+Divide the ten positive integers from 1 to 10 into two groups so that when the product of the numbers in the first group is divided by the product of the numbers in the second group, the quotient is a positive integer. What is the minimum value of this quotient?
+
+=== Year 2013 | Round 2 | Problem 11 | Page 6 ===
+A cardboard windmill with three blades is made from four equilateral triangles of side length 6 cm. Two triangles sharing a common vertex have the corresponding sides lying on the same straight line, as shown in the diagram. The area of the circle swept out by the blades of the windmill is x cm2. What is the greatest integer less than or equal to x?
+
+=== Year 2013 | Round 2 | Problem 12 | Page 6 ===
+Let the real numbers 1a , 2a , 3a , 4a and 5a be such that 1 | | | 1| n n n a a a + = − − for 1 n ≤ ≤ . If a = and p a q = , where p and q are relatively prime positive integers, what is the value of p + q?
+
+=== Year 2013 | Round 2 | Problem 13 | Page 6 ===
+What is the minimum perimeter of a parallelogram which may be partitioned into 462 equilateral triangles of side length 1 cm? cm
+
+=== Year 2013 | Round 2 | Problem 14 | Page 7 ===
+In an acute triangle ABC, AB = AC. D is the foot of the perpendicular from B to CA, and E is the foot of the perpendicular from D to BC. If BC = AB + AD, prove that BE = CD. A B C D E
+
+=== Year 2013 | Round 2 | Problem 15 | Page 8 ===
+A positive integer x with n ≥ digits is written down twice in a row and the 2n-digit number so obtained is divisible by 2x . Prove that the first two digits of x are 1 and 4 in that order.
+
+=== Year 2014 | Round 1 | Problem 1 | Page 3 ===
+What is the value of ( 2014)    ? (A)1 (B)1  (C)2087  (D)4027 (E)4029
+
+=== Year 2014 | Round 1 | Problem 2 | Page 3 ===
+A compass costs 15.40 dollars and a ruler costs 8.65 dollars. How many more dollars does the compass cost than the ruler? (A)7.25 dollars (B)7.75 dollars (C)24.05 dollars (D)6.25 dollars (E)6.75 dollars
+
+=== Year 2014 | Round 1 | Problem 3 | Page 3 ===
+The two stars in the diagram represent the same number. The sum of the three numbers in the second row is equal to twice the sum of the three numbers in the first row. What number does each star represent? ☆ ☆ (A)7 (B)8 (C)13 (D)17 (E)18
+
+=== Year 2014 | Round 1 | Problem 4 | Page 3 ===
+In a restaurant, one cup of tea and two cups of coffee cost 78 dollars, while three cups of tea and one cup of coffee cost 94 dollars. How many more dollars does a cup of coffee cost than a cup of tea? (A)2 (B)4 (C)6 (D)10 (E)12
+
+=== Year 2014 | Round 1 | Problem 5 | Page 3 ===
+When two numbers are divided by 5, the respective remainders are 4 and 2. What is the remainder when the sum of the two numbers is divided by 5? (A)0 (B)1 (C)2 (D)3 (E)4
+
+=== Year 2014 | Round 1 | Problem 6 | Page 3 ===
+A circular spinner is divided into eight equal sectors. Two of them are painted red, two black, three white and one yellow. What is the probability for the pointer of the spinner to be pointing at a black sector? (A)3 (B)1 (C)3 (D)1 (E)1 Black Red White Yellow White White Red Black
+
+=== Year 2014 | Round 1 | Problem 7 | Page 4 ===
+To visit a friend, Rod must take the bus to the nearest Metro station, and this takes 15 minutes. He has to ride the Metro train for 20 stops, each taking 2.5 minutes. He also has to change trains twice, and it takes 3 minutes each time. Finally, after exiting the Metro, he still has to walk another 12 minutes before reaching his friend’s place. How many minutes does Rod have to spend traveling to his friend’s house? (A)55 (B)67 (C)80 (D)83 (E)90
+
+=== Year 2014 | Round 1 | Problem 8 | Page 4 ===
+On a table there is a ring, there are 12 equally spaced beads on the ring, 3 of which are black, as shown in the diagram. Which of the following five figures cannot be obtained from the given figure by rotating the ring on the table? (A) (B) (C) (D) (E)
+
+=== Year 2014 | Round 1 | Problem 9 | Page 4 ===
+If a, x and y are real numbers such that 2 y ax y     , what is the value of the product axy? (A)0 (B)6 (C)12 (D)36 (E)impossible to determine
+
+=== Year 2014 | Round 1 | Problem 10 | Page 4 ===
+How many integers a satisfies 2 a a    ? (A)9 (B)8 (C)5 (D)4 (E)infinite
+
+=== Year 2014 | Round 1 | Problem 11 | Page 5 ===
+If a and b are prime numbers such that a b    , what is the value of a+b? (A)5 (B)8 (C)9 (D)10 (E)13
+
+=== Year 2014 | Round 1 | Problem 12 | Page 5 ===
+The diagram shows a strip of paper folded along the segment AB. If ACB   60 and the area of triangle ABC is 3 cm2, what is the width, in cm, of this strip? (A)1 (B)3 (C) (D)2 3 (E)impossible to determine
+
+=== Year 2014 | Round 1 | Problem 13 | Page 5 ===
+ABCD is a square of side length 10 cm. The segment BC is fixed. The segment AD moves in the plane to the segment A′D′ so that the lengths AB, DC and AD do not change. What is the area, in cm2, of the shaded region in the diagram when the segment A′D′ intersects the segment CD at its midpoint G? (A)50 (B)50  (C)60 (D)100 (E)100  A B C D G A′ D′ A B C
+
+=== Year 2014 | Round 1 | Problem 14 | Page 6 ===
+We start with an equilateral triangle ABC of area 80 cm2. We construct a right isosceles triangle BCD using BC as the hypotenuse. Then we construct an equilateral triangle using BD as a side. This continued alternately, as shown in the diagram. What is the area, in cm2, of the fourth equilateral triangle? (A)1.25 (B)5 (C)6.4 (D)10 (E)40
+
+=== Year 2014 | Round 1 | Problem 15 | Page 6 ===
+We wish to spend 100 dollars to buy 18 stamps, each costing 4 dollars, 8 dollars or 10 dollars. We must buy at least 1 stamp of each of the three kinds. How many different ways can the buying of stamps be possible? (A)1 (B)2 (C)3 (D)4 (E)5
+
+=== Year 2014 | Round 1 | Problem 16 | Page 6 ===
+The sectors MAB and MCD are inside the square ABCD of side length 10 cm, as shown in the diagram. What is the total area, in cm2, of these two sectors, correct to 1 decimal place? Take π=3.14. (A)52.3 (B)78.5 (C)104.7 (D)157.0 (E)314.0
+
+=== Year 2014 | Round 1 | Problem 17 | Page 6 ===
+Three different positive integers m, n and p are such that ( 3)( 3)( 3) m n p     . What is the value of m + n + p? (A)5 (B)6 (C)8 (D)14 (E)15
+
+=== Year 2014 | Round 1 | Problem 18 | Page 6 ===
+If x y   and x y xy   ，what is the value of x y x y   ? (A)3 (B)  (C)3 (D)6 (E)  A B C D A B C D M
+
+=== Year 2014 | Round 1 | Problem 19 | Page 7 ===
+The diagram shows two right triangles OAC and OBD. The lengths of three of the segments AB, AC, CD and DB are 12 cm, 6 cm and 3 cm. What is the number of possible lengths, in cm, of the fourth segment? (A)2 (B)3 (C)4 (D)5 (E)6
+
+=== Year 2014 | Round 1 | Problem 20 | Page 7 ===
+For any real number x, we denote by [x] the greatest integer not greater than x. For example, [ ]  and [ ]   . How many positive integers n satisfy n n                  ? (A)1 (B)2 (C)3 (D)4 (E)5
+
+=== Year 2014 | Round 1 | Problem 21 | Page 7 ===
+In the diagram, AH is perpendicular to BC, AB = BC < AC, and AD is the bisector ∠BAC. If ∠DAH = 21°, what is the measure, in degrees, of ∠BAC?
+
+=== Year 2014 | Round 1 | Problem 22 | Page 7 ===
+How many four-digit numbers are divisible by all of 2, 3, 4, 5, 6, 7 and 8?
+
+=== Year 2014 | Round 1 | Problem 23 | Page 7 ===
+Each of A, B, C and D has some apples. A has as many apples as the other three together. B has half as many apples as the other three together. C has one-sixth as many apples as the other three together. How many times D’s number of apples will be equal to total number of apples of A, B and C? A B C H D A C B O D
+
+=== Year 2014 | Round 1 | Problem 24 | Page 8 ===
+In how many ways can 31 be expressed in the form a + b + c ( ) a b c   , where a, b and c are prime numbers?
+
+=== Year 2014 | Round 1 | Problem 25 | Page 8 ===
+Each of the three dimensions of a cuboid of volume a cm3 is an integral number of cm. The cuboid is placed on a table. The total surface area of the five visible faces is a cm2. Find the minimum value of a. ＊＊＊
+
+=== Year 2014 | Round 2 | Problem 1 | Page 3 ===
+Which of the following expressions is equal to ( 1)( 1) ( 1)( 1) ( 1)( 1) a b b c c a         ? (A) ab bc ca    (B)ab bc ca   (C) ab bc ca a b c       (D) ab bc ca a b c       (E) ab bc ca a b c      
+
+=== Year 2014 | Round 2 | Problem 2 | Page 3 ===
+In triangle ABC, D is the midpoint of BC. E is an arbitrary point on CA, and F is the midpoint of BE. If the area of triangle ABC is 120 cm2 and the area of the quadrilateral AFDC is 80 cm2, what is the area, in cm2, of triangle BDF? (A)10 cm2 (B)15 cm2 (C)17.5 cm2 (D)20 cm2 (E)25 cm2
+
+=== Year 2014 | Round 2 | Problem 3 | Page 3 ===
+Let m be a positive integer such that m can be expressed as a sum of m consecutive odd integers. For instance,  ,    and 13 15 17     . If 999 is one of the consecutive odd integers in the expression for m , what is the value of m? (A)30 (B)31 (C)32 (D)33 (E)34 F E D C B A
+
+=== Year 2014 | Round 2 | Problem 4 | Page 4 ===
+The perimeter of an equilateral triangle is a cm while the perimeter of a square is b cm. If the area of the square is half the area of the triangle, what is the value of a b ? (A)3 3 (B)3 3 (C)3 3 (D)3 3 (E)6 3
+
+=== Year 2014 | Round 2 | Problem 5 | Page 4 ===
+Mindy has two boxes, containing 0 and n pieces of candy respectively, where n is a positive integer. She adds 4, 3 and 2 pieces of candy to one of the boxes in that order, always adding to the box containing fewer pieces of candies. If the two boxes have the same number of pieces of candy, then she adds to either of them. In the end, there is 1 more piece of candy in one box than in the other. How many possible values of n are there? (A)2 (B)3 (C)4 (D)5 (E)6
+
+=== Year 2014 | Round 2 | Problem 6 | Page 4 ===
+Let a, b and c be real numbers such that x x   is one of the factors of the polynomial x ax bx c   . What is the numerical value of a b c   ?
+
+=== Year 2014 | Round 2 | Problem 7 | Page 4 ===
+How many triples of integers (x, y, z) are such that | | xyz  ?
+
+=== Year 2014 | Round 2 | Problem 8 | Page 5 ===
+In triangle ABC, AB  cm, AC cm and BC cm. A circle with centre A intersects AB at F and AC at E. The circles with centres B and C and radii BF and CE, respectively, are tangent to each other at a point D on BC. What is the total area, in cm2, of these three circles? (Taking 3.14  ) cm2
+
+=== Year 2014 | Round 2 | Problem 9 | Page 5 ===
+There are 2 counters in the first row, and each subsequent row has one more counter than the preceding row. If there are 2015 counters altogether, how many rows of counters are there? rows
+
+=== Year 2014 | Round 2 | Problem 10 | Page 5 ===
+In a book fair, the organizers give a book to each participant. Each male participant gives every other male participant a book, and each female participant gives every other female participant a book. If the total number of books received by the male participants is 31 more than the total number of books received by the female participants, how many participants are there altogether? participants A F E D C B
+
+=== Year 2014 | Round 2 | Problem 11 | Page 6 ===
+D is a point on the side BC of triangle ABC such that BAD   . When the point C is reflected across AD to the point C, ABC D  is a parallelogram. What is the measure, in degrees, of ADC  ?
+
+=== Year 2014 | Round 2 | Problem 12 | Page 6 ===
+Let k be a non-zero integer such that the equation k x k x    has two distinct integer roots. What is the difference when the smaller root is subtracted from the larger one?
+
+=== Year 2014 | Round 2 | Problem 13 | Page 6 ===
+The integers 1, 2, 3, …, 20 are divided into two groups. The sum of all the numbers in one group is n, while the product of all the numbers in the other group is also n. What is the maximum value of n? C A B D C 
+
+=== Year 2014 | Round 2 | Problem 14 | Page 7 ===
+E is a point on the side BC and F is a point on the side CD of a square ABCD such that the perimeter of triangle CEF is equal to half the perimeter of ABCD. G is the point on AE such that FG is perpendicular to AE, and H is the point on FG such that AH EF  . Prove that AH is perpendicular to EF. A B C D E F G H
+
+=== Year 2014 | Round 2 | Problem 15 | Page 8 ===
+Each side of an equilateral triangle is divided into 5 equal parts by 4 points, and these points are joined by lines parallel to the sides of the triangle, dividing into 25 small equilateral triangles. A tetriamond is a shape formed of 4 small equilateral triangles joined edge to edge. There are three tetriamonds as shown in the diagram below on the left. (a) Show that if 7 of the small triangles are painted, then it may be impossible to fit any tetriamond inside the large triangle without covering up any part of the painted small triangles. (4 marks) (b) Prove that if 6 of the small triangles are painted, then it is always possible to fit a tetriamond inside the large triangle without covering up any part of the painted small triangles. (16 marks)
+
+=== Year 2015 | Round 1 | Problem 1 | Page 4 ===
+What is the value of ( 2) (1 )        ? (A)0 (B)32 (C)33 (D)  (E) 
+
+=== Year 2015 | Round 1 | Problem 2 | Page 4 ===
+Someone set the alarm clock for 1:30 pm and fell asleep at 12:35 pm. When he was awaken by the alarm clock, for how long had this person been sleeping? (A)1hour and 5 minutes (B)55 minutes (C)95 minutes (D)105 minutes (E)11 hours and 5 minutes
+
+=== Year 2015 | Round 1 | Problem 3 | Page 4 ===
+In a quadrilateral ABCD, // AB DC, // BC ED, AD AE  and C   . What is the measure of A ? (A)20° (B)35° (C)40° (D)55° (E)70°
+
+=== Year 2015 | Round 1 | Problem 4 | Page 4 ===
+In a sale, each dress is reduced to 49% of its price and if two dresses are purchased at the same time, both are reduced to 45% of their prices. Lily buys two dresses together and pays 90 dollars for both. By doing this instead of buying them separately, how many dollars has she saved? (A)10 (B)8 (C)6 (D)4 (E)3.6
+
+=== Year 2015 | Round 1 | Problem 5 | Page 4 ===
+Sixteen points are arranged in a 3 cm by 3 cm formation. Four of them are removed, leaving behind twelve points as shown in the diagram. If we choose three of these twelve points as vertices of a triangle, what is the largest possible area of this triangle, in cm2? (A)9 (B)9 (C)3 (D)2 (E)3 E D C B A
+
+=== Year 2015 | Round 1 | Problem 6 | Page 5 ===
+Class A has 17 students more than Class B, which has 15 students less than Class C. Of the following five numbers, which can be the total number of students in these three classes? (A)150 (B)151 (C)152 (D)153 (E)154
+
+=== Year 2015 | Round 1 | Problem 7 | Page 5 ===
+From 0, 1, 2, 3, 4 and 5, we choose two different numbers x and y. What is the largest possible value of 2( ) ( ) x y x y    ? (A)75 (B)163 (C)175 (D)187 (E)200
+
+=== Year 2015 | Round 1 | Problem 8 | Page 5 ===
+Divide the rectangle ABCD into four isosceles right triangles and one square, as in the diagram below. If the area of square EFGH is 100 cm2, what is the area of rectangle ABCD, in cm2? (A)750 (B)1000 (C)1100 (D)1200 (E)1600
+
+=== Year 2015 | Round 1 | Problem 9 | Page 5 ===
+A group of students are staying in a hotel. If five of them share a room, then there is no room for six of them. If six of them share a room, there are just enough rooms, one of which has less than six students. Of the following five numbers, which cannot be the number of students? (A)46 (B)51 (C)56 (D)61 (E)66
+
+=== Year 2015 | Round 1 | Problem 10 | Page 5 ===
+In a pentagon, one angle is48. The second angle is three times as large as the first. The third angle is30less than the second. The fourth angle is10less than the fifth. What is the measure of the fourth angle, in degrees? (A)112 (B)122 (C)132 (D)142 (E)152
+
+=== Year 2015 | Round 1 | Problem 11 | Page 5 ===
+There are three shirts, three pairs of trousers and three pairs of shoes. Of each type, one is red, one is black and one is white. In how many different ways can we choose one of each type so that something white is chosen? (A)8 (B)9 (C)18 (D)19 (E)27 E D C B A H G F
+
+=== Year 2015 | Round 1 | Problem 12 | Page 6 ===
+In triangle ABC, AB is perpendicular to BC. D and E are points on BC such that BAD DAE EAC    and ADC C    . What is the measure of BAC  ? (A)42° (B)45° (C)51° (D)60° (E)84°
+
+=== Year 2015 | Round 1 | Problem 13 | Page 6 ===
+If a a b   and b a a  , what is the value of ( 1) b a  ? (A)1 (B)2 (C)3 (D)4 (E)5
+
+=== Year 2015 | Round 1 | Problem 14 | Page 6 ===
+C and D are points on AB such that AC : CD : DB = 1 : 2 : 3. Semicircles are drawn on the same side of AB with respective diameters AB, AC, CD and DB. What fraction of the area of the largest semicircle is the total area of the other three semicircles? (A)1 (B)1 (C)13 (D)7 (E)7
+
+=== Year 2015 | Round 1 | Problem 15 | Page 6 ===
+Each coin is worth either 1 dollar, 5 dollars or 10 dollars. Their total worth is 60 dollars. They may be divided into three, four or five piles of equal worth. What is the minimum number of coins? (A)6 (B)11 (C)15 (D)16 (E)20 E D C B A D C B A
+
+=== Year 2015 | Round 1 | Problem 16 | Page 7 ===
+From a cube of side length 10 cm, a cylinder with diameter 6 cm and depth 8 cm is hollowed out. What is the volume, in cm3, of the remaining part of the cube? Take =3.14. (A)426.08 (B)517.46 (C)573.94 (D)717.46 (E)773.92
+
+=== Year 2015 | Round 1 | Problem 17 | Page 7 ===
+If a, b and c are all positive integers, which of the following numbers can be the value of ( )( )( )( ) a b c a b c a b c a b c         ? (A)44 (B)46 (C)48 (D)50 (E)52
+
+=== Year 2015 | Round 1 | Problem 18 | Page 7 ===
+A three-layer structure consists of 14 unit cubes. The bottom layer consists of 9 cubes in a 3 by 3 configuration. The middle layer consists of 4 cubes in a 2 by 2 configuration. The top layer consists of a single cube. The exposed surface area of this structure is painted, including the bottom. What is the total area of the unpainted surface of the individual cubes? (A)20 (B)31 (C)42 (D)53 (E)64
+
+=== Year 2015 | Round 1 | Problem 19 | Page 7 ===
+In an election between four candidates, they are supported respectively by 11, 12, 13 and 14 of the first 50 voters. Six more votes are to be cast, each for one of the four candidates. In how many ways can the candidate currently with 13 supporters become the uncontested winner? (A)16 (B)17 (C)18 (D)19 (E)20
+
+=== Year 2015 | Round 1 | Problem 20 | Page 7 ===
+Let x, y and z be distinct positive prime numbers such that x y z   and x y z   are also prime numbers. What is the minimum value of x y z   ? (A)17 (B)19 (C)23 (D)29 (E)31 8 cm 10 cm 10 cm 10 cm 6 cm
+
+=== Year 2015 | Round 1 | Problem 21 | Page 8 ===
+ABCDEF is a regular hexagon. G is the midpoint of AB and H is the point on AF such that FH=2AH. If the area of triangle AHG is 1 cm2. What is the area, in cm2, of ABCDEF?
+
+=== Year 2015 | Round 1 | Problem 22 | Page 8 ===
+What is the value of abc where a, b and c are positive real numbers such that ( ) a b c   , ( ) b c a   and ( ) c a b   ?
+
+=== Year 2015 | Round 1 | Problem 23 | Page 8 ===
+What is the value of a b where a and b are real numbers such that b a a b b      ?
+
+=== Year 2015 | Round 1 | Problem 24 | Page 8 ===
+What is the maximum value of a if 2 |(10 11 12 19) a     ?
+
+=== Year 2015 | Round 1 | Problem 25 | Page 8 ===
+For any permutation of 1, 2, 3, 4, 5, 6, 7 and 8, add the second number to the first, multiply the sum by the third number, add the fourth number to the product, multiply the sum by the fifth number, and so on. What is the minimum value of the final sum? ＊＊＊ E D C B A H G F
+
+=== Year 2015 | Round 2 | Problem 1 | Page 3 ===
+Michael bought 6 pens and 3 notebooks while Wallace bought 3 pens and 6 notebooks. The pens are identical and so are the notebooks. Michael’s bill is 6 dollars higher than Wallace’s. How many dollars is the price of a pen higher than the price of a notebook? (A)1 (B)2 (C)3 (D)4 (E)5
+
+=== Year 2015 | Round 2 | Problem 2 | Page 3 ===
+If all the divisors of 2016 are arranged in decreasing order, by how much is the third divisor larger than the fourth divisor? (A)12 (B)48 (C)168 (D)672 (E)2016
+
+=== Year 2015 | Round 2 | Problem 3 | Page 3 ===
+Which of the following is equal to xr ys  if r x y   and s xy x y    ? (A) x y x xy y    (B) xy x xy y    (C) x y x xy   (D) xy x xy   (E) x y x y  
+
+=== Year 2015 | Round 2 | Problem 4 | Page 3 ===
+E is a variable point on the side BC of a square ABCD. DEFG is a rectangle with FG passing through A. As the point E moves from B towards C, how does the area of DEFG change? (A)Steadily increasing (B)Steadily decreasing (C)Decreasing and then increasing (D)Increasing and then decreasing (E)Remaining constant A D E C B G F E G F
+
+=== Year 2015 | Round 2 | Problem 5 | Page 4 ===
+The diagram shows a 6 by 6 board with three barriers. An ant is at the top left corner and wishes to reach the bottom right corner. It may only crawl between squares which share a common side, and only towards the bottom or the righ. It cannot pass through any barrier. How many different paths can it follow? (A)88 (B)90 (C)92 (D)96 (E)112
+
+=== Year 2015 | Round 2 | Problem 6 | Page 4 ===
+One square in a 3 by 3 board is to be painted black, a second square blue and a third square red. If no two of these three squares are in the same row or in the same column, how many different ways of painting them are there? ways
+
+=== Year 2015 | Round 2 | Problem 7 | Page 4 ===
+The diagram shows a tile divided into regular hexagons of side length 1 cm. What is the total area, in cm2, of the parts of the tile which are shaded? cm2 A
+
+=== Year 2015 | Round 2 | Problem 8 | Page 5 ===
+Let a, b, c and d be real numbers such that | | a b  , | | a b  , | | c d  and | | c d  are 6, 7, 8 and 9 in some order. What is the value of a b c d    ?
+
+=== Year 2015 | Round 2 | Problem 9 | Page 5 ===
+A rectangle ABCD with BC cm and AB  cm is folded along AC so that the point B lands on the point K symmetric to it about AC. What is the area, in cm2, of triangle KDE, where E is the point on the extension of BC such that CDE   ? cm2
+
+=== Year 2015 | Round 2 | Problem 10 | Page 5 ===
+In the expression (((10 2) 2) 2) □ □ □ □ , each □ is to be replaced by a different one of +, −, × and ÷. How many different values can this expression take?
+
+=== Year 2015 | Round 2 | Problem 11 | Page 5 ===
+Let a, b and c be real numbers such that abc , ( 1)( 1)( 1) a b c     and ( 2)( 2)( 2) a b c     . What is the value of ( 1)( 1)( 1) a b c    ?
+
+=== Year 2015 | Round 2 | Problem 12 | Page 5 ===
+The area of triangle ABC is 120 cm2 and BC  cm. What is the minimum length, in cm, of the perimeter of ABC? cm A D E C B K 30
+
+=== Year 2015 | Round 2 | Problem 13 | Page 6 ===
+Let a, b, c and d be four different non-zero digits. The greatest common divisor of the four-digit numbers abcd and acbd is n. What is the largest possible value of n?
+
+=== Year 2015 | Round 2 | Problem 14 | Page 6 ===
+The first diagram shows a 6 by 6 board, and the second diagram shows an L-shaped piece consisting of four 1 by 1 squares. Paint as few of the squares of the 6 by 6 board black so that wherever the L-pieced piece is placed on the board covering four squares, at least one of the squares will be black. The L-shaped piece may be turned about or flipped over
+
+=== Year 2015 | Round 2 | Problem 15 | Page 7 ===
+P and Q are points on the bisector of the exterior angle at A of triangle ABC, with A between P and Q, such that BP is parallel to CQ. D is the point on BC such that DP=DQ. Prove that AB is parallel to DQ.
+
+=== Year 2016 | Round 1 | Problem 1 | Page 4 ===
+What is the value of ( 20) − + − ? (A)19 − (B)11 (C)21 (D)51 (E)61
+
+=== Year 2016 | Round 1 | Problem 2 | Page 4 ===
+The table below summarizes the results of a test in a certain class. What is the total score of this class? Summary of the results of a test No. of students The highest score The lowest score The average score 84.5 (A)672 (B)3528 (C)3549 (D)4200 (E)4872
+
+=== Year 2016 | Round 1 | Problem 3 | Page 4 ===
+A three-digit number is not divisible by 24. When divided by 24, the quotient is a and the remainder is b. What is the minimum value of a b + ? (A)5 (B)6 (C)7 (D)8 (E)9
+
+=== Year 2016 | Round 1 | Problem 4 | Page 4 ===
+In the trapezium ABCD, AB is parallel to CD. E and F are points on AD and BC respectively such that EF is also parallel to AB. The area, in cm2 , of triangles BAF, CDF and BCE are 8, 7 and 18 respectively. What is the area, in cm2 , of ABCD? (A)30 (B)32 (C)33 (D)35 (E)36
+
+=== Year 2016 | Round 1 | Problem 5 | Page 4 ===
+What is the value of the negative number x which satisfies | 3| | 3 | 1 x x − = + ? (A)2 − (B)1 − (C) − (D) − (E) − B A F E D C
+
+=== Year 2016 | Round 1 | Problem 6 | Page 5 ===
+The radius of each wheel of Rick's bicycle is 25 cm. He rides to school at a constant speed and arrives after 10 minutes. During this time, each wheel makes 160 revolutions per minite. Of the following five distances, which is closest to that between Rick's home and school? (A)1 km (B)1.5 km (C)1.8 km (D)2 km (E)2.5 km
+
+=== Year 2016 | Round 1 | Problem 7 | Page 5 ===
+How many two-digit numbers are there such that at least one digit is divisible by 3? (A)48 (B)54 (C)60 (D)66 (E)80
+
+=== Year 2016 | Round 1 | Problem 8 | Page 5 ===
+The chart below shows the sale figures of a certain merchandise in 2014 and 2015 by the season. How many more items were sold in 2015 than in 2014? (A)23 (B)48 (C)85 (D)90 (E)110
+
+=== Year 2016 | Round 1 | Problem 9 | Page 5 ===
+ABC is an equilateral triangle. D is a point inside such that BCD is a right isosceles triangle. The altitude BE of ABC intersects CD at F. What is the measure, in degrees, of CFE ∠ ? (A)75° (B)70° (C)65° (D)60° (E)55°
+
+=== Year 2016 | Round 1 | Problem 10 | Page 5 ===
+In how many ways can 36 be expressed as the sum of two prime numbers, the first larger than the second? (A)1 (B)2 (C)3 (D)4 (E)5 B A F E D C 1st Quarter Sales charts of a merchandise 2nd Quarter 3rd Quarter 4th Quarter Sales items
+
+=== Year 2016 | Round 1 | Problem 11 | Page 6 ===
+Every student in a class is either in the mathematics club or the language club, and one third of them are in both. If there are 22 students in the language club, 4 less than the number of students in the mathematics club, how many students are there in this class? (A)12 (B)18 (C)24 (D)30 (E)36
+
+=== Year 2016 | Round 1 | Problem 12 | Page 6 ===
+The average of a group of numbers is 5. A second group contains twice as many numbers and its average is 11. What is the average when the two groups are combined? (A)6 (B)7 (C)8 (D)9 (E)10
+
+=== Year 2016 | Round 1 | Problem 13 | Page 6 ===
+What is the value of y x if x x y −+ − + = ? (A)2015 (B)2016 (C) 2016 (D)1 (E)0
+
+=== Year 2016 | Round 1 | Problem 14 | Page 6 ===
+Each of A and B goes to the gymnasium 3 or 4 times a week. After n weeks, A has been there 57 times while B has been there only 47 times. What is the value of n? (A)15 (B)16 (C)17 (D)18 (E)19
+
+=== Year 2016 | Round 1 | Problem 15 | Page 6 ===
+D is a point on AB such that AD = and BD = . How many points C are there in the plane such that both ACD and BCD are isosceles triangles? (A)2 (B)4 (C)5 (D)6 (E)8
+
+=== Year 2016 | Round 1 | Problem 16 | Page 6 ===
+From a 5 5 × square piece of paper, two 2 × rectangles are cut off along the grid lines. In how many different ways can this be done? (A)6 (B)9 (C)12 (D)18 (E)24
+
+=== Year 2016 | Round 1 | Problem 17 | Page 6 ===
+The number a is 5 more than its reciprocal. What is the value of ( 1) a a − − ? (A)5 (B)25 (C)125 (D)1 + (E)5 21
+
+=== Year 2016 | Round 1 | Problem 18 | Page 7 ===
+With each vertex of a parallelogram ABCD as centre, a circle is drawn. Exterior common tangents are then drawn, as shown in the diagram below. If the perimeter of ABCD is 36 cm and the radius of each circle is 2 cm, what is the maximum area, in cm2 , of the figure enclosed by the circular arcs and tangents? (A)117 4π + (B)144 4π + (C)153 4π + (D)144 12π + (E)153 12π +
+
+=== Year 2016 | Round 1 | Problem 19 | Page 7 ===
+What is the smallest positive integer with 12 positive divisors such that it is relatively prime to (2016 2016) − ? (A)7007 (B)9163 (C)26741 (D)39083 (E)52877
+
+=== Year 2016 | Round 1 | Problem 20 | Page 7 ===
+At most how many right triangles can be formed by five lines on the plane? (A)4 (B)5 (C)6 (D)7 (E)8
+
+=== Year 2016 | Round 1 | Problem 21 | Page 7 ===
+The International Article Number has 13 digits ABCDEFGHIJKLM. Here M is a check digit. Let S A B C D E F G H I J K L = + + + + + + + + + + + . If S is a multiple of 10, then M is chosen to be 0. Otherwise it is chosen to be M t = − where t is the remainder obtained when S is divided by 10. The Code for a certain Article Number is 6901020□09017. What is the missing digit? B A D C
+
+=== Year 2016 | Round 1 | Problem 22 | Page 8 ===
+What is the largest three-digit number which can be expressed as the sum of the cubes of three different positive integers?
+
+=== Year 2016 | Round 1 | Problem 23 | Page 8 ===
+The diagram shows a quadrilateral ABCD with CDA ∠ = °. The bisector of DAB ∠ is perpendicular to BC and the bisector of ABC ∠ is perpendicular to CD. What is the measure, in degrees, of BCD ∠ ?
+
+=== Year 2016 | Round 1 | Problem 24 | Page 8 ===
+Let a and b be positive real numbers such that ( 1) a b b = + and b a = + . What is the value of 1 a b + ?
+
+=== Year 2016 | Round 1 | Problem 25 | Page 8 ===
+Each blouse cost 40 dollars, each skirt 70 dollars and each pair of shoes 80 dollars. Fanny bought at least one item of each kind, and spent at most 800 dollars. A outfit consisted of one item of each kind, and two outfits were different if they differed in at least one item. At most how many different outfits could there be? ＊＊＊ B A D C
+
+=== Year 2016 | Round 2 | Problem 1 | Page 4 ===
+Which of the numbers below cannot be expressed as a sum of two prime numbers? (A)19 (B)20 (C)21 (D)22 (E)23
+
+=== Year 2016 | Round 2 | Problem 2 | Page 4 ===
+In △ABC, AB AC = and ACB ∠ = °. Construct square ACDE with the given side AC. Lines BE and AC intersect at point F, as shown in the figure. What is the measure of BFC ∠ ? (A)55° (B)60° (C)65° (D)70° (E)75°
+
+=== Year 2016 | Round 2 | Problem 3 | Page 4 ===
+Alex and Charles were both sending parcels. The postage rates are as follows: For the first 10 kg and below, the postage price is $6 per kg; for each successive kilogram after 10 kg, the postage price per kg is slightly lower than that of the first 10kg. It is known that the weight of Alex’s parcel is 20% heavier than Charles’ parcel, and that the postage prices for Alex and Charles are $92 and $80 respectively. How much more is the postage price per kg of the first 10 kg than that of each succeeding kg above 10 kg? (A)1.5 (B)2 (C)2.5 (D)3 (E)3.5
+
+=== Year 2016 | Round 2 | Problem 4 | Page 4 ===
+It is given that A x x = + , B x x = − + + and C x x = + −. ( 2(2 3 ) 2 ) ? A B B C A B − − − + − = (A) x x − + + (B) x x − − + (C) x x − + + (D) x x − + − (E) x x + + A D E C B F
+
+=== Year 2016 | Round 2 | Problem 5 | Page 5 ===
+On the bookshelf of Mar, there are Literature, Mathematics, History and Science books. If the number of Mathematics Books is 5 times that of the Literature books, and the number of Science books is 4 times that of the History books, which of the following is not a possible number for the total number of books on the bookshelf? (A)21 (B)23 (C)26 (D)29 (E)30
+
+=== Year 2016 | Round 2 | Problem 6 | Page 5 ===
+Fill in the 4 × box so that the numbers 1, 2, 3, and 4 appear exactly once in each row and column. Referring to the figure below, what is the sum of the values of A and B?
+
+=== Year 2016 | Round 2 | Problem 7 | Page 5 ===
+The lengths of two sides of a triangle are 6 cm and 13 cm respectively. It is known that the length of the third side is also an integer (in cm). What is the minimum perimeter ( in cm) of this triangle? cm
+
+=== Year 2016 | Round 2 | Problem 8 | Page 5 ===
+It is given that Figure 1 shows a circle with diameter of 9 cm. Figure 2 shows an Olympic symbol which consists of five circles, each of diameter 9 cm. The distance between two of the tangents to the circles is 4 cm as shown. Find the length of the Olympic symbol (Figure 3)? cm A B 4 cm 9 cm ？ cm Figure 3 Figure 2 Figure 1
+
+=== Year 2016 | Round 2 | Problem 9 | Page 6 ===
+The diagram below is composed of many right angled isosceles triangles. Suppose an ant wants to travel from point A to point C, in how many ways can this be done if the ant is only allowed to move up, right or diagonally? ways
+
+=== Year 2016 | Round 2 | Problem 10 | Page 6 ===
+Among the 1000 positive integers from 1 to 1000 inclusive, find the number of positive integers n such that n n n + + is divisible by 8. numbers
+
+=== Year 2016 | Round 2 | Problem 11 | Page 6 ===
+Given that ( ) a b c a b c + + = + + , where a, b and c are non-zero real numbers. What is the value of b c c a a b a b c + + + + + ?
+
+=== Year 2016 | Round 2 | Problem 12 | Page 6 ===
+Refer to the diagram below, in trapezium ABCD, AD//BC. The line passing through B and parallel to CD intersects the line passing through C and parallel to AB at point E. Point F lies inside ABCD such that FAD ABC ∠ = ∠ and FDA DCB ∠ = ∠ . Given that the area of ABEF is 20 cm2 and the area of DCEF is 16 cm2, what is the area of ABCD? cm2 A C B A C B F E D
+
+=== Year 2016 | Round 2 | Problem 13 | Page 7 ===
+A 4-digit number is said to be ‘good’ if it uses exactly 3 different digits from the set {2, 0, 1, 7} (at most one of the digits used can be repeated). For example, 8712 and 7200 are said to be ‘good’ numbers, while 2017 and 7175 are not. How many ‘good’ numbers are there? numbers
+
+=== Year 2016 | Round 2 | Problem 14 | Page 7 ===
+In △ABC, point G is the midpoint of segment BC, BE AC ⊥ , CF AB ⊥ and lines BE and CF intersects at point H. If EGF ∠ = °, prove that AH BC = . A C B F E G H
+
+=== Year 2016 | Round 2 | Problem 15 | Page 8 ===
+It is known that the equation ( ) x x k y + + = has positive integers solutions (x, y), where x and y are relatively prime. If k is a positive integer greater than 1, what is the minimum value of k?
+
+=== Year 2017 | Round 1 | Problem 1 | Page 4 ===
+What is the simplified value of ( 18) ( 1) − − −− ? (A)20 − (B)18 − (C)0 (D)16 (E)18
+
+=== Year 2017 | Round 1 | Problem 2 | Page 4 ===
+Which of the following numbers is the sum of four consecutive positive integers? (A)2016 (B)2017 (C)2018 (D)2019 (E)2020
+
+=== Year 2017 | Round 1 | Problem 3 | Page 4 ===
+In a supermarket, 3 kg of pear costs $16.26, while 2 kg of apple costs $13.62. How much does 1 kg of apple cost more than 1 kg of pear? (A)0.61 (B)1.39 (C)1.42 (D)1.81 (E)2.64
+
+=== Year 2017 | Round 1 | Problem 4 | Page 4 ===
+The value of the faction m n increases by 1 when the numerator increases by 2017. Find the value of n. (A)1 (B)2016 (C)2017 (D)2018 (E)Uncertain
+
+=== Year 2017 | Round 1 | Problem 5 | Page 4 ===
+In the figure below, triangle ABC is an isosceles triangle with AB AC = . Point D is on AC with BD BC = . If ABD ∠ = °, what is the measure, in degrees, of BAC ∠ ? (A)21 (B)38 (C)42 (D)46 (E)54
+
+=== Year 2017 | Round 1 | Problem 6 | Page 4 ===
+What is the sum of all the prime divisors in the final result of + + + (repeated prime divisors are counted only once)? (A)7 (B)12 (C)13 (D)16 (E)64 B A D C
+
+=== Year 2017 | Round 1 | Problem 7 | Page 5 ===
+Let a, b, c, d, e and f are distinct digits such that the expression ab cd ef + = . What is the least possible value of ef ? (A)30 (B)34 (C)36 (D)39 (E)41
+
+=== Year 2017 | Round 1 | Problem 8 | Page 5 ===
+How many integers x satisfy 2 x + ≤? (A)3 (B)4 (C)6 (D)8 (E)9
+
+=== Year 2017 | Round 1 | Problem 9 | Page 5 ===
+In the figure below, AQBC is a convex quadrilateral with QA QB = and C ∠ = °. Triangle QAB is folded along AB to form triangle PAB. It is also known that PBC ∠ = ° and PAC ∠ = ° . What is the measure, in degrees, of AQB ∠ ? (A)100 (B)110 (C)120 (D)130 (E)140
+
+=== Year 2017 | Round 1 | Problem 10 | Page 5 ===
+If all the edges of a rectangle are integers, then which of the following CANNOT be the length of its diagonals? (A)5 (B)6 (C) (D)53 (E)10
+
+=== Year 2017 | Round 1 | Problem 11 | Page 5 ===
+The length of 2 altitudes on adjacent sides of a parallelogram are 2 cm and 3 cm respectively with perimeter of the parallelogram is 18 cm. What is the area, in cm2, of the parallelogram? (A)9.6 (B)10 (C)10.5 (D)10.8 (E)12
+
+=== Year 2017 | Round 1 | Problem 12 | Page 5 ===
+Three students are to participate in four games. Each student participates in at least one game and each game has exactly one student participating. In how many ways can this be done? (A)12 (B)18 (C)24 (D)30 (E)36 B A Q P C
+
+=== Year 2017 | Round 1 | Problem 13 | Page 6 ===
+The sum of a, b and c is negative, while the product of these three numbers is positive. If a b c x a b c = + + , what is the value of x x − + ? (A)1982 − (B)1981 − (C)1980 − (D)1980 (E)1982
+
+=== Year 2017 | Round 1 | Problem 14 | Page 6 ===
+Given two positive integers, 4 7 of the first is exactly 2 5 of the second. What is the minimum sum of these two integers? (A)10 (B)14 (C)15 (D)35 (E)17
+
+=== Year 2017 | Round 1 | Problem 15 | Page 6 ===
+Tom starts working at 9：00 in the morning and finishes at 5：00 in the afternoon. How many more degrees does the minute hand rotates than the hour hand does on the clock during this period? (A)120 (B)1200 (C)1320 (D)2640 (E)2880
+
+=== Year 2017 | Round 1 | Problem 16 | Page 6 ===
+The price criteria of the subway ticket of a city is as follows: $2 for within 4 km, $1 more per 4 km for distances between 4 km and 12 km, $1 more per 6 km for distances over 12 km. It costs $8 to take subway from station A to station B. Which of the following is closest to the distance between A and B? (A)12 km (B)18 km (C)24 km (D)36 km (E)48 km
+
+=== Year 2017 | Round 1 | Problem 17 | Page 6 ===
+Consider a 3-digit number abc, where a, b and c are distinct digits, so that their sum is 7. How many such three-digit numbers are there? (A)6 (B)12 (C)14 (D)18 (E)22
+
+=== Year 2017 | Round 1 | Problem 18 | Page 6 ===
+If positive numbers x and y satisfy x y − = . What is the simplified value of x y y x + − − ? (A)2 (B)2 2 (C)4 (D)4 2 (E)Uncertain A B
+
+=== Year 2017 | Round 1 | Problem 19 | Page 7 ===
+In the figure below, ABCD is a quadrilateral where AB = cm, BC = cm, CD = cm, DA = cm and BAD ∠ = °. Find the length, in cm, of AC. (A)5 (B)7 (C)34 (D)3 5 (E)2 13
+
+=== Year 2017 | Round 1 | Problem 20 | Page 7 ===
+If a = and b = , find the numerical value of a b a b ab + − − . (A) 1728 (B) (C) (D) (E)
+
+=== Year 2017 | Round 1 | Problem 21 | Page 7 ===
+Let a, b and c be positive integers satisfy a bc b c a + = + + . Find the sum of a, b and c.
+
+=== Year 2017 | Round 1 | Problem 22 | Page 7 ===
+The operation「⊗」satisfies: (i) For all x and y, ( 1) ( 1) x y x y x y ⊗ = − ⊗ − + + ; (ii) For all x, x ⊗= . Find the value of (3 3) ⊗ ⊗. A D C B
+
+=== Year 2017 | Round 1 | Problem 23 | Page 8 ===
+In the figure below, ABCD and AFCE are congruent rectangles with AB AF = = cm and AD AE = = cm. Find the area, in cm2, of AGCH.
+
+=== Year 2017 | Round 1 | Problem 24 | Page 8 ===
+In the figure below, the side length of equilateral triangle ABC is 6 cm. Each side is divided into 6 equal segments and connects corresponding dividing points to get an equilateral network. Call a point "reachable" if it can be connected to A by a broken line of length 5 cm along the grid lines without passing any lattice point twice. For example, point D in the figure is reachable. Find the number of reachable points in the figure.
+
+=== Year 2017 | Round 1 | Problem 25 | Page 8 ===
+The students in a research class are clustered into two groups: the morning and afternoon sessions. A student takes part in exactly one group in each session (the two groups in each session can be different and the number of students in each group can be different). Each group has at least one student and at most 8 students. Each student reports the number of students in the group he or she belongs to in two sessions. One finds that no two students report the same pair of numbers (with order, for example, (1, 4) and (4, 1) are different). What is maximum number of students in the class? ＊＊＊ B A D C E F H G B A D C
+
+=== Year 2017 | Round 2 | Problem 1 | Page 4 ===
+Among all the expressions listed below, how many are negative numbers? (1000 1) − , (1000 2) − , …, (1000 )n n − , …, (1000 2018) − . (A)509 (B)510 (C)1009 (D)1018 (E)1019
+
+=== Year 2017 | Round 2 | Problem 2 | Page 4 ===
+In convex quadrilateral ABCD, bisectors of DAB ∠ and ABC ∠ intersect at E, bisectors of BCD ∠ and CDA ∠ intersect at F, as shown in the figure below. If AEB ∠ = ° , what is the angle measure, in degrees, of DFC ∠ ? (A)80 (B)90 (C)100 (D)110 (E)Undetermined.
+
+=== Year 2017 | Round 2 | Problem 3 | Page 4 ===
+Two numbers m and n, which may be equal, are taken from the set 1, 2, 3, 4, 5, 6, 7, 8 and 9. Which number below is not a possible value of 10( ) m n mn + − ? (A)19 (B)55 (C)72 (D)79 (E)83
+
+=== Year 2017 | Round 2 | Problem 4 | Page 4 ===
+If a and b are real numbers, which of the following expressions below must be non-negative? (A) a b a b + + + (B) a b + (C) a b a b + − (D) a b a b ab − + (E) a b ab + + A D E C B F
+
+=== Year 2017 | Round 2 | Problem 5 | Page 5 ===
+The product of the sum and arithmetic mean of n integers is 2018. Which of the following statements below is true? (A)Minimum of n is 1 (B)Minimum of n is 2 (C) Minimum of n is 1009 (D)Minimum of n is 2018 (E)No such n exists.
+
+=== Year 2017 | Round 2 | Problem 6 | Page 5 ===
+Rotate an equilateral triangle inscribed in a circle 40 degrees clockwise and counter-clockwise, as shown in the figure below. How many triangles are there in the figure? triangles
+
+=== Year 2017 | Round 2 | Problem 7 | Page 5 ===
+Consider a four-digit number abcd where a and d are both non-zero. If the last two digits in the sum of abcd and dcba are 58, what is the maximum possible value of abcd ?
+
+=== Year 2017 | Round 2 | Problem 8 | Page 5 ===
+A rectangle is divided into 12 unit squares such that 10 are white and 2 are black, as shown in the figure below. To form a centrally symmetric picture by adding some white squares but no black squares, what is the least number of white squares needed? white unit squares
+
+=== Year 2017 | Round 2 | Problem 9 | Page 6 ===
+A three-digit number is said to be "lucky" if it is divisible by 6 and by swapping its last two digits will give a number divisible by 6. How many "lucky" numbers are there?
+
+=== Year 2017 | Round 2 | Problem 10 | Page 6 ===
+Find the value of x such that both x and 99 x − are integers.
+
+=== Year 2017 | Round 2 | Problem 11 | Page 6 ===
+In the figure below, quadrilaterals ABCD and ABCE are both isosceles trapezoids, where AB//CE and BC//AD. If AC DE = , what is the measure, in degrees, of ABC ∠ ? °
+
+=== Year 2017 | Round 2 | Problem 12 | Page 6 ===
+Place 1 , 2 , 3 , …, 100 into several groups such that the sum of each group is not more than 10. Find the least number of groups needed to attain this kind of an arrangement?
+
+=== Year 2017 | Round 2 | Problem 13 | Page 6 ===
+There is a sequence of five positive integers. Each number right after the first term is at least twice the number before it. If the sum of the five numbers is 2018, what is the least possible value of the last number? A C B E D
+
+=== Year 2017 | Round 2 | Problem 14 | Page 7 ===
+Let a, b, c and d be four positive integers such that b a , c b , d c are simplified fractions and b c d a b c + + is an integer. Prove that d a ≥ −.
+
+=== Year 2017 | Round 2 | Problem 15 | Page 8 ===
+In the figure below, ABC is a right isosceles triangle where AB AC = . Let D be an exterior point such that BD AD = . Prove that ADC BDC ∠ + ∠ = °. A C B D
+
+=== Year 2018 | Round 1 | Problem 1 | Page 4 ===
+Calculate the value of the expression: ( 2018)    . (A)2021 (B)2022 (C)2037 (D)4039 (E)6057
+
+=== Year 2018 | Round 1 | Problem 2 | Page 4 ===
+In the figure below, it is known that △POQ △MON, PON    and MOQ   . What is the measure, in degrees, of POQ  ? (A)20 (B)30 (C)40 (D)45 (E)60
+
+=== Year 2018 | Round 1 | Problem 3 | Page 4 ===
+If x  and y , then what is the value of x y x y x y      ? (A)71 (B)72 (C)75 (D)83 (E)85
+
+=== Year 2018 | Round 1 | Problem 4 | Page 4 ===
+Two positive integers m and n satisfy the following conditions: When m is divided by 35, it leaves a remainder of 12 and when n is divided by 21, it leaves a remainder of 15. What is the remainder when m n  is divided by 7? (A)2 (B)3 (C)4 (D)5 (E)6
+
+=== Year 2018 | Round 1 | Problem 5 | Page 4 ===
+If x x xy     , then what is the value of y? (A)0 (B)1009 (C)2018 (D)4036 (E)Uncertain
+
+=== Year 2018 | Round 1 | Problem 6 | Page 4 ===
+If x , then what is the value of x x x x     ? (A)2 (B)3 (C)4 (D)5 (E)6
+
+=== Year 2018 | Round 1 | Problem 7 | Page 4 ===
+The teacher has 2 identical pens and 3 identical pencils to be given out as prizes to two of his students. If each student should receive at least one object, in how many ways can the teacher distribute the prizes? (A)5 (B)6 (C)8 (D)9 (E)10 M P Q O N
+
+=== Year 2018 | Round 1 | Problem 8 | Page 5 ===
+As shown in the figure below, a 2 2 2  cube is formed by placing together eight 1 1 1  cubes. If one 1 1 1  cube is removed, what will be the surface area of the remaining figure? (A)24 (B)25 (C)26 (D)27 (E)28
+
+=== Year 2018 | Round 1 | Problem 9 | Page 5 ===
+If positive integers m and n satisfy that m n   , then what is the value of m n  ? (A)13 (B)36 (C)49 (D)75 (E)85
+
+=== Year 2018 | Round 1 | Problem 10 | Page 5 ===
+A palindrome number is a positive integer that is the same when read forwards or backwards. The numbers 909 and 1221 are examples of palindromes. How many three-digit palindrome numbers are divisible by 9? (A)10 (B)12 (C)15 (D)20 (E)24
+
+=== Year 2018 | Round 1 | Problem 11 | Page 5 ===
+The greatest common divisor of n and 24 is 2, while the greatest common divisor of n  and 24 is 3. Which of the following numbers cannot be n? (A)2 (B)14 (C)20 (D)38 (E)50
+
+=== Year 2018 | Round 1 | Problem 12 | Page 5 ===
+In the figure below, let point E be the midpoint of AD and point F be the midpoint of AC. If the area of triangle ABF is 8 cm2 and area of ADF is 6 cm2, then what is the area, in cm2, of triangle BCE? (A)12 (B)13 (C)14 (D)15 (E)16 B A D C E F
+
+=== Year 2018 | Round 1 | Problem 13 | Page 6 ===
+Shade 3 unit squares on the 3 3  grid below, such that there must be two shaded squares in some row and two shaded squares in some column but it must not have three shaded squares in any row or column. Find the total number of ways in shading the figure. (A)6 (B)18 (C)36 (D)54 (E)72
+
+=== Year 2018 | Round 1 | Problem 14 | Page 6 ===
+In the figure below, the eight line-segments drawn are all equal to 1 m and the three dotted lines are all quarter arcs. What the is difference, in m, between the total length of all the line segments and total length of all the dotted arcs? (Use 3.14  ) (A)0.28 (B)0.72 (C)1.28 (D)1.72 (E)4.86
+
+=== Year 2018 | Round 1 | Problem 15 | Page 6 ===
+Starting from 3 4 , add 2 to the numerator or add 3 to the denominator for each operation, but not both, and no reduction is performed. At least how many operations one needs to get a fraction again that is of the same value as 3 4 ? (A)13 (B)17 (C)20 (D)26 (E)34
+
+=== Year 2018 | Round 1 | Problem 16 | Page 6 ===
+Let a, b, c and d be consecutive positive integers such that a b c d      . What is the value of a b c d   ? (A)10 (B)12 (C)14 (D)16 (E)18
+
+=== Year 2018 | Round 1 | Problem 17 | Page 7 ===
+Replace all the 9 variables in the expression c f i a d g b e h      using the digits 1, 2, 3, … 9, where each digit is only used once. Find the maximum possible value of the result. (A)25 (B) (C) (D) (E)
+
+=== Year 2018 | Round 1 | Problem 18 | Page 7 ===
+An ant crawls on the plane. It starts at point A and crawls for 1 cm, then turns 60 to the right; crawls for another 2 cm and again turns 60 to the right; crawls for another 3 cm and turns 60 to the right; crawls for another 4 cm and turns 60 to the right; and finally it craws 5 cm and reaches F. What is the distance, in cm, between A and F? (A)0 (B)3 (C)3 3 (D)6 (E)6 3
+
+=== Year 2018 | Round 1 | Problem 19 | Page 7 ===
+Arrange all proper fractions in a sequence such that the denominators are all in non-decreasing order, and while for equal denominators, the numerator is arranged in increasing order. The resulting sequence is as follows: 2 , 1 3 , 2 3 , 1 4 , 2 4 , 3 4 , 1 5 , …. It is known that the sum of first n terms of this sequence is an integer, which of the integers below is a possible value for n? (A)2015 (B)2016 (C)2017 (D)2018 (E)2019
+
+=== Year 2018 | Round 1 | Problem 20 | Page 7 ===
+Using the digits 1, 2, 3, 4, 5, 6, 7 and 8 only once, create a sequence such that there is one number between 1 and 2, two numbers between 2 and 4, three numbers between 3 and 6 and four numbers between 4 and 8. How many different ways can we do this? (A)12 (B)24 (C)36 (D)48 (E)60
+
+=== Year 2018 | Round 1 | Problem 21 | Page 7 ===
+An integer is known to be both a multiple of 3 and 7. Among all its divisors, there is one more multiple of 7 than multiple of 3. What is the least possible integer that satisfies the condition?
+
+=== Year 2018 | Round 1 | Problem 22 | Page 8 ===
+In the figure below, it is known that BC//AD, BC AC  , BA AD  and C D   . Find the measure, in degrees, of BAC  ?
+
+=== Year 2018 | Round 1 | Problem 23 | Page 8 ===
+Let a, b and c be real numbers such that abc  and a b c ab bc ca      . What is the value of a b c   ?
+
+=== Year 2018 | Round 1 | Problem 24 | Page 8 ===
+Let a be a positive integer such that a  is also positive. What is the maximum possible number of divisors of a  ?
+
+=== Year 2018 | Round 1 | Problem 25 | Page 8 ===
+Cut the 8 8  square table below into rectangles along grid lines such that no two rectangles are identical. What is the maximum number of rectangles one can get? (Note: A square is considered a rectangle.) ＊＊＊ A B C D
+
+=== Year 2018 | Round 2 | Problem 1 | Page 4 ===
+Which of the following statement is false? (A) If a divides b and k is an integer, then a divides kb. (B) If a divides b and b divides c, then a divides c. (C) If a bc = , and b, c are positive integers, then a is divisible by b or c. (D) If b divides a and c divides a, then bc divides a. (E) If p|bc, then p|b or p|c, where p is a prime number, b and c are integers.
+
+=== Year 2018 | Round 2 | Problem 2 | Page 4 ===
+How many positive integers from 1 to 2019 can be expressed as n n n − + , where n is an positive integer? (A)11 (B)12 (C)13 (D)44 (E)45
+
+=== Year 2018 | Round 2 | Problem 3 | Page 4 ===
+The perimeter of an isosceles triangle is known to be 32 cm and length of each side is an integer, in cm. How many different non-identical such triangles are there? (A)5 (B)6 (C)7 (D)8 (E)9
+
+=== Year 2018 | Round 2 | Problem 4 | Page 4 ===
+Given four distinct non-zero digits a, b, c and d, if ab cd dc ba + = + , then this expression is called a palindrome expression and the sum of the two numbers ab cd + is called a palindrome sum. For example, 53 + = + = . What is the minimum possible value of a palindrome sum? (A)22 (B)33 (C)44 (D)55 (E)99
+
+=== Year 2018 | Round 2 | Problem 5 | Page 5 ===
+In the figure below, the area of the trapezoid ABCD is 100 cm2, the area of parallelogram ABEF is 40 cm2 and CD = cm. What is the length, in cm, of AB? (A)2 (B)2.5 (C)4 (D)5 (E)10
+
+=== Year 2018 | Round 2 | Problem 6 | Page 5 ===
+Four identical chess pieces are to be placed into a 4 × chess board that is colored black and white alternately, as shown in the figure below. You can place at most one chess piece on each square. All chess pieces must be placed in squares of the same color and no two pieces are on the same row or on the same column. In how many different ways can the chess pieces be placed? ways
+
+=== Year 2018 | Round 2 | Problem 7 | Page 5 ===
+It is known that for any x ≠± , then a b x x x x + + = − + − . What is the value of a b + ? A C B F D E
+
+=== Year 2018 | Round 2 | Problem 8 | Page 6 ===
+In the figure below, ABCD is a square and the point G lies on the side CD. Now, flip triangle BCG along BG to get a new triangle BEG. If CBG ∠ = °, then what is the size, in degrees, of DAE ∠ ? °
+
+=== Year 2018 | Round 2 | Problem 9 | Page 6 ===
+How many ordered triples (a, b, c) of integers that satisfy the equation | | | | | | ab bc ca + + = ? triples
+
+=== Year 2018 | Round 2 | Problem 10 | Page 6 ===
+If x y z + = −, y z x + = − and z x y + = −, where x, y and z are real numbers, then what is value of x y z + + ?
+
+=== Year 2018 | Round 2 | Problem 11 | Page 6 ===
+Place 9 distinct positive integers into each of the unit squares of the 3 3 × square below, with one number in each unit square, such that the sum of the numbers in every 2 × square is 50. What is the minimum possible value of sum of the 9 integers?
+
+=== Year 2018 | Round 2 | Problem 12 | Page 6 ===
+The three side lengths of an acute triangle are consecutive integers, in cm, and it is known that one altitude on one side is 12 cm. What is the area, in cm2, of this triangle? cm2 A C B G D E
+
+=== Year 2018 | Round 2 | Problem 13 | Page 7 ===
+Arrange all positive integers less than 30 and not divisible by 3 in an increasing order, and compute the sum of the reciprocals of product of every three consecutive numbers, that is S = + + + × × × × × × L . Now, if we reduce S into its simplest form, then what would be the value of the numerator?
+
+=== Year 2018 | Round 2 | Problem 14 | Page 7 ===
+In the figure below, a convex quadrilateral ABCD is inscribed in circle O. Points E and F are on segments AB and AD respectively such that BE CD = and DF BC = . If point M is the midpoint of EF, then prove that BM DM ⊥ . E C M A F B D
+
+=== Year 2018 | Round 2 | Problem 15 | Page 8 ===
+A robot can generate a set of digit codes according to user’s reasonable instructions. Wayne gives out the following commands: (1) Each code is a four-digit number (nonzero for the left-most digit). (2) Every two codes in the set have identical digits at no more than two corresponding positions. Find the maximum number of codes in a set the robot can generate. codes
+
+=== Year 2019 | Round 1 | Problem 1 | Page 4 ===
+What is the simplified value of (2019 2020) (2018 2019)    ? (A) 0 (B)2019  (C)1  (D)2020  (E)2
+
+=== Year 2019 | Round 1 | Problem 2 | Page 4 ===
+The figure below shows AB BC CD   , AC BD  and A  . What is the size of ACD  , in degrees? (A)20 (B)30 (C)45 (D)50 (E)60
+
+=== Year 2019 | Round 1 | Problem 3 | Page 4 ===
+In triangle ABC, A  is the right angle. The line through A perpendicular to BC intersects BC at D. Lines through D intersect AB and AC perpendicularly at E and F, respectively. What is the total number of right triangles in the figure? (A)5 (B)6 (C)7 (D)8 (E)9
+
+=== Year 2019 | Round 1 | Problem 4 | Page 4 ===
+One third of an acute angle and its complementary angle sums up to 60, what is the supplementary angle of this acute angle, in degrees? (A)45 (B)60 (C)90 (D)120 (E)135
+
+=== Year 2019 | Round 1 | Problem 5 | Page 4 ===
+There is an integer n, such that 2020 ( ) n  is an integer. How many possible n’s are there? (A)1 (B)2 (C)3 (D)4 (E)5 A C D B A C D B F E
+
+=== Year 2019 | Round 1 | Problem 6 | Page 5 ===
+The school restaurant sells three kinds of lunch boxes, the prices of which are $15, $13 and $11, respectively. On a certain day, the total income of the restaurant is $2019. Which of the following could be the possible number of lunch boxes sold on that day? (A)105 (B)130 (C)155 (D)185 (E)205
+
+=== Year 2019 | Round 1 | Problem 7 | Page 5 ===
+In an exam, 25 students obtained excellent scores in Language. The number of students with excellent scores in math is 2 more than that in the Language. The students with both excellent scores in Math and Language scores are one third of all students. Every student obtained at least one excellent score. How many students are there in total? (A)78 (B)52 (C)42 (D)40 (E)39
+
+=== Year 2019 | Round 1 | Problem 8 | Page 5 ===
+Define the operation a b a b a b       . If a  , what is the value of a? (A)673 (B)674 (C)1009.5 (D)1346 (E)2019
+
+=== Year 2019 | Round 1 | Problem 9 | Page 5 ===
+Non-negative integer x satisfies | 2 5| 15 (1 ... ) x x x x        . What is the sum of all such x’s? (A)15 (B)25 (C)35 (D)45 (E)55
+
+=== Year 2019 | Round 1 | Problem 10 | Page 5 ===
+In a triangle ABC, AB AC  . Line segments AD and AE trisect BAC  , as shown in the figure. If ADB   , what is ABC  in degree? (A)30 (B)35 (C)40 (D)45 (E)60
+
+=== Year 2019 | Round 1 | Problem 11 | Page 5 ===
+When x , mx nx kx    is 100. What is the value of mx nx kx    when x ? (A)100  (B)99  (C)98  (D)97  (E)96  A C E B D
+
+=== Year 2019 | Round 1 | Problem 12 | Page 6 ===
+In the figure below, the distance between two adjacent vertices is 1 cm. What is the area of the shaded portion of the figure, in cm2? (A)7.5 (B)8 (C)8.5 (D)9 (E)9.5
+
+=== Year 2019 | Round 1 | Problem 13 | Page 6 ===
+Each square in the figure below is filled with a positive integer so that the sum of each (five squares) is divisible by 3. What is the minimum value of ? A B C D E     (A)3 (B)6 (C)8 (D)9 (E)15
+
+=== Year 2019 | Round 1 | Problem 14 | Page 6 ===
+Ten-digit number A B is divisible by 9, where A, B are digits. If the quotient has the ten-thousands digit 0, what is the value of | | A B  ? (A)0 (B)1 (C)2 (D)3 (E)4
+
+=== Year 2019 | Round 1 | Problem 15 | Page 6 ===
+Let x be the integers such that x  is an integer. How many such x’s are there? (A)2 (B)3 (C)4 (D)6 (E)8
+
+=== Year 2019 | Round 1 | Problem 16 | Page 6 ===
+Given that | | a , | | b , | | c  , | | d  , what is the least possible value of the expression ab ac ad bc bd cd      ? (A)0 (B)52  (C)94  (D)100  (E)102  B 2 A 4 D 3 C 5 E
+
+=== Year 2019 | Round 1 | Problem 17 | Page 7 ===
+In rectangle ABCD, AB  cm, BC cm. Put a right triangle DCE outside ABCD and along edge CD and CDE   . Flip along AC such that B lands at K. Join KA, KC, KE, KD, as in the figure. What is the area of the shaded region, in cm2? (A)3 (B) (C) (D)3  (E)2 3
+
+=== Year 2019 | Round 1 | Problem 18 | Page 7 ===
+Given that x   , which of the following equalities holds true? (A) x  (B) x x   (C) x x   (D) x x   (E) x x  
+
+=== Year 2019 | Round 1 | Problem 19 | Page 7 ===
+Mickey has a large gridded paper. Each small square has side of length 1 cm. He draws a circle with a center at some vertex of a square with radius 6 cm. How many small whole squares are inside the circle? (A)64 (B)88 (C)96 (D)100 (E)144
+
+=== Year 2019 | Round 1 | Problem 20 | Page 7 ===
+Suppose , , , , , , , , , a b c d e f g h i j is an arrangement of 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 with different letters representing different numbers. At most how many of the ten fractions , , , , , , , , , a b c d e f g h i j b c d e f g h i j a can be reduced to integer values? (A)4 (B)5 (C)6 (D)7 (E)8 A C E B D K
+
+=== Year 2019 | Round 1 | Problem 21 | Page 8 ===
+Given A, B, C on circle O as shown in the figure, chord AB  cm and ACB   . What is the area in cm2 of circle O? (Assume 3.14  )
+
+=== Year 2019 | Round 1 | Problem 22 | Page 8 ===
+Four prime numbers (may not be distinct) A, B, C, D satisfy that ( 1)( ) A A B C D      . What is the value of A B C D    ?
+
+=== Year 2019 | Round 1 | Problem 23 | Page 8 ===
+Two distinct numbers are selected from 1, 2, 3, …, 100 such that their sum is a factor of 2020. How many different methods of selections are there in total?
+
+=== Year 2019 | Round 1 | Problem 24 | Page 8 ===
+Integer a and real number x satisfy x ax   . What is the minimum value of 2019 ? x x  
+
+=== Year 2019 | Round 1 | Problem 25 | Page 8 ===
+Arrange the ten numbers 2011, 2012, 2013, …, 2020 randomly on the circumference of a circle, and compute the greatest common divisor of every two adjacent numbers, then add these ten greatest common divisors. What is the maximum of this sum? ＊＊＊ A C B O
+
+=== Year 2019 | Round 2 | Problem 1 | Page 4 ===
+What is the units digit of the expression: ( 2) ( 2)   ? (A)0 (B)2 (C)4 (D)6 (E)8
+
+=== Year 2019 | Round 2 | Problem 2 | Page 4 ===
+In the figure below, point P lies on rectangle ABCD such that PB  cm, PC  cm and PD  cm. What is the area, in cm2, of rectangle ABCD? (A)84 (B)168 (C)170 (D)230 (E)272
+
+=== Year 2019 | Round 2 | Problem 3 | Page 4 ===
+If each of the variables x, y, and z is increased by 1 at the same time, then which one of the following algebraic expressions will remain the same value? (A) x y z   (B) x y z xyz    (C) xy yz zx   (D) x xy y xz yz z      (E) x xy y xz yz z     
+
+=== Year 2019 | Round 2 | Problem 4 | Page 4 ===
+In the figure below, color five unit squares black such that any two black unit squares are not located in the same row or column. How many ways can we color the figure? (A)4 (B)8 (C)12 (D)24 (E)120 A C B P D
+
+=== Year 2019 | Round 2 | Problem 5 | Page 5 ===
+How many ordered pairs of positive integer (x, y) satisfy x y   ? (A)0 (B)1 (C)2 (D)3 (E)4
+
+=== Year 2019 | Round 2 | Problem 6 | Page 5 ===
+There are four consecutive positive integers, three of which have a product of 44030. What is the fourth positive integer?
+
+=== Year 2019 | Round 2 | Problem 7 | Page 5 ===
+There are four rectangular pieces with dimensions of 1 cm 2 cm  , 3 cm 4 cm  , 5 cm 6 cm  and 7 cm 8 cm  respectively. They are to be placed on a larger rectangular graphing paper without overlapping. The sides of each piece should be parallel to the edges of the graph paper and that one vertex from each of the four pieces should coincide at a point (that is, this point is also the vertex of four rectangles). What is the smallest possible area, in cm2, of the graphing paper? cm2
+
+=== Year 2019 | Round 2 | Problem 8 | Page 5 ===
+Select two different numbers from the set of numbers {1, 2, ..., 10} such that they are not relatively prime. How many different pairs of numbers are there in total? (Note that selecting numbers a and b is the same as selecting b and a.) pairs
+
+=== Year 2019 | Round 2 | Problem 9 | Page 5 ===
+If ( 4) ( 4) ( 4) x x x a x b x c x d           is true for any value of x, then what is the value of the constant c?
+
+=== Year 2019 | Round 2 | Problem 10 | Page 5 ===
+The sum of three non-negative integers a, b, and c is 40, where a is always an odd number. How many ordered triples (a, b, c) will satisfy the condition?
+
+=== Year 2019 | Round 2 | Problem 11 | Page 6 ===
+In the figure below, the side lengths of hexagon ABCDEF are all equal, ABC AFE     and BAD   . Find the measure, in degrees, of BCE  . 
+
+=== Year 2019 | Round 2 | Problem 12 | Page 6 ===
+In the figure below, points P and Q lie on side BC of triangle ABC and point M is the midpoint of side AB. If BP CQ   cm, AC  cm and PM MQ  , then what is the length, in cm, of side BC? cm
+
+=== Year 2019 | Round 2 | Problem 13 | Page 6 ===
+In the algebraic expression b d f h a c e g    , replace each letter with the numbers 1, 2, 3, 4, 5, 6, 7, and 8, such that each letter is represented by a different number. What is the smallest possible value of the said expression? 140 140 50 A C B E D F A C B Q P M
+
+=== Year 2019 | Round 2 | Problem 14 | Page 7 ===
+A three-digit number abc is a prime number, such that a, b and c represent different digits, and that a b c   is an odd number. Prove that a b c   is also a prime number.
+
+=== Year 2019 | Round 2 | Problem 15 | Page 8 ===
+In the quadrilateral ABCD, AB//CD, point E is the intersection of diagonal lines AC and BD, and point F is the midpoint of AD. Extend EF to intersect BC at point G and let 1A , B , C and D be the feet of perpendiculars from A, B, C and D to line FG, respectively. (1)Prove AA BB CC DD  ；(5 marks) (2)Prove FE GE  。(15 marks) D 1A C B A C B E D F G
+
+=== Year 2020 | Round 1 | Problem 1 | Page 3 ===
+Given that | 2019| ( 2020) x y − + + = , what is the numerical value of( )y x y + ? (A) 1 (B)2019 − (C)0 (D)1 − (E)2020
+
+=== Year 2020 | Round 1 | Problem 2 | Page 3 ===
+A square, with side length 6 cm, is divided into 6 congruent small rectangles as shown in the figure. What is the length of the diagonal, in cm, of each small rectangle? (A)3 (B)13 (C) 5 (D)2 10 (E)6 2
+
+=== Year 2020 | Round 1 | Problem 3 | Page 3 ===
+It is known that the sum of a positive integer and 4 is a multiple of 3. If the sum of the same positive integer and 3 is a multiple of 7, what is the smallest possible value of this positive integer? (A)4 (B)7 (C)8 (D)11 (E)32
+
+=== Year 2020 | Round 1 | Problem 4 | Page 3 ===
+In the figure, the area of triangle ABC is 2020 cm2. If points D, E and F are on sides BC, BA and AC, respectively, such that CDEF is a parallelogram and its area is 50 101 of triangle ABC. What is the area, in cm2, of the shaded region? (A)100 (B)500 (C)505 (D)1000 (E)1010
+
+=== Year 2020 | Round 1 | Problem 5 | Page 3 ===
+There are three boxes that are painted red, yellow and blue respectively. We are to put 2 identical apples and 2 identical pears into these three boxes such that no two identical fruit can be placed into the same box. If empty boxes are allowed, how many different placement methods can we have? (A)27 (B)18 (C)12 (D)9 (E)6 A C E B D F
+
+=== Year 2020 | Round 1 | Problem 6 | Page 4 ===
+In the figure below, it is given that AB//DE, AB AC = , CD DE = , B =  and E  = . What is the measure, in degrees, of ACD  ? (A)50 (B)55 (C)60 (D)70 (E)cannot be determined
+
+=== Year 2020 | Round 1 | Problem 7 | Page 4 ===
+Let x and y be real numbers such that | | x = , | | y = and x y  . What is the value of the algebraic expression x xy y + − ? (A)59 − (B)59 (C)11 or 59 (D)11 − or 59 (E)11 or −
+
+=== Year 2020 | Round 1 | Problem 8 | Page 4 ===
+Define the operation a a b b −  = + . If ( 2020) (2020* ) a a  + = , what is the value of a? (A)8080 (B)6060 (C)4040 (D)2020 (E)1010
+
+=== Year 2020 | Round 1 | Problem 9 | Page 4 ===
+In the figure below, ABC is an equilateral triangle with side length 1 cm, where a straight line intersects AB, BC and the extension of AC at points D, E and F, respectively. If BD CE CF = = , what is the length, in cm, of BD? (A)1 (B)1 (C)1 (D) (E) A C E B D A C E B D F
+
+=== Year 2020 | Round 1 | Problem 10 | Page 5 ===
+If the cost to buy 2 pens, 3 ballpens and 5 notebooks in a stationery store is $44 and the cost to buy 3 pens, 7 ballpens and 10 notebooks is $81. How much does it cost to buy 1 pen, 3 ballpens and 4 notebooks? (A)$12 (B)$25 (C)$31 (D)$35 (E)cannot be determined
+
+=== Year 2020 | Round 1 | Problem 11 | Page 5 ===
+Given two positive integers such that 4 7 of one number is equivalent to 2 the other. What is the minimum possible sum of these two numbers? (A)13 (B)14 (C)15 (D)16 (E)17
+
+=== Year 2020 | Round 1 | Problem 12 | Page 5 ===
+Andy used some number of regular pentagonal cardboards of the same size to form a solid which is shown on the diagram below. How many edges does this solid have? (A)10 (B)15 (C)20 (D)25 (E)30
+
+=== Year 2020 | Round 1 | Problem 13 | Page 5 ===
+There are 43 pearls with a hole in the center that are to be stringed together using a thread such that the thread will form the letters "I", "M", "A", and "S", as shown in the figure below. If each pearl can only be passed through once by the thread, how many from the four letters cannot be done? (A)0 (B)1 (C)2 (D)3 (E)4
+
+=== Year 2020 | Round 1 | Problem 14 | Page 6 ===
+John wants to know the weight of a bottle of fruit juice using a two-pan balance having the following items, namely a Teddy Bear doll, a Snoopy doll, a Mickey Mouse doll and 5 kg weight as follows: ⚫ If John places the Teddy Bear doll and the bottle of juice on the left plate, and places both the Snoopy and Mickey Mouse dolls on the right plate, it will be balanced. ⚫ If John places the Snoopy doll, Mickey Mouse doll and the bottle of juice on the left plate, and places the Teddy Bear doll and the 5 kg weight on the right plate, it will be balanced. What is the weight, in kg, of the bottle of juice? (A)2.5 (B)3 (C)3.5 (D)4 (E)5
+
+=== Year 2020 | Round 1 | Problem 15 | Page 6 ===
+Given that a, b and c are positive integers, which among the following values may the expression ( )( )( )( ) a b c a b c a b c a b c + + + − −+ −+ + take? (A)44 (B)46 (C)48 (D)50 (E)52
+
+=== Year 2020 | Round 1 | Problem 16 | Page 6 ===
+Using the numbers 1, 2, …, 2020, let the sum of all the numbers that are divisible by 3 be X and the sum of all the numbers that are divisible by 2 but not by 3 be Y. What is the value of X Y − ? (A)1008 (B)1008 − (C)1344 (D)1011 (E)1011 −
+
+=== Year 2020 | Round 1 | Problem 17 | Page 6 ===
+What is the product of all real numbers x that satisfies the expression (| 2| | 6|)(| 6| | 12|)(| 12| | 2|) x x x x x x − − − − − − − − − = ? (A)28 (B)126 (C)144 (D)252 (E)2016
+
+=== Year 2020 | Round 1 | Problem 18 | Page 6 ===
+How many pairs of positive integers (a, b), where a b , are there which satisfies the expression 1 0.3 a b + = ? (A)1 (B)2 (C)3 (D)4 (E)infinity
+
+=== Year 2020 | Round 1 | Problem 19 | Page 6 ===
+In the figure on the right, ABCDE is a pentagon where BAC CAD DAE  =  =  = , AC BD ⊥ and AD CE ⊥ . Extend sides BC and ED to meet at point F. What is the measure, in degrees, of BFE  ? (A)100 (B)90 (C)80 (D)60 (E)cannot be determined A C B D E F
+
+=== Year 2020 | Round 1 | Problem 20 | Page 7 ===
+Given a four-digit integer abcd and a positive integer k which satisfies ( ) abcd k a b c d = + + + , what is the minimum value of k? (A)32 (B)13 (C)12 (D)4 (E)3
+
+=== Year 2020 | Round 1 | Problem 21 | Page 7 ===
+Given a positive integer n such that 2020n can be expressed as a product of three consecutive positive integers, what is the smallest possible value of n?
+
+=== Year 2020 | Round 1 | Problem 22 | Page 7 ===
+In the figure below, ABC is an isosceles triangle where A  is a right angle, points D and E are on sides AB and AC respectively such that AE AD  . Let F be a point on AB such that CF is parallel to DE. If ADE BCF  =  , what is the measure, in degrees, of AED  ?
+
+=== Year 2020 | Round 1 | Problem 23 | Page 7 ===
+Let p, q and r be prime numbers such that ( )( )( ) p q q r r p + + + = . What is the numerical value of the algebraic expression p q q r r p + + ?
+
+=== Year 2020 | Round 1 | Problem 24 | Page 7 ===
+We need to remove several unit squares from a 6  grid such that there does not exist any area that have 6 unit squares which are connected via common sides. What is the minimum number of unit squares that we must remove? For example, in the lower left figure below, the shaded area is an example of an area that have 6 unit squares which are connected together; while the lower right figure shows an example of a grid which does not have any 6 unit squares that are connected together left. A C B D E F
+
+=== Year 2020 | Round 1 | Problem 25 | Page 8 ===
+Let the number of odd digits of a positive integer n be denoted as ( ) n O and the number of even digits be denoted as ( ) n E . For example, (13) O = and (58) E = . What is the numerical value of (1) (2) (3) (4) (201) (202) ... O E O E O E − + − + + − ? (Note: 0 is even digit) ＊＊＊
+
+=== Year 2020 | Round 2 | Problem 1 | Page 4 ===
+If P = − and Q =  , then what is the value of P Q ? (A)1 (B)2 (C)2020 (D)2021 (E)4041
+
+=== Year 2020 | Round 2 | Problem 2 | Page 4 ===
+How many non-negative integers x satisfy 3 x +  ? (A)6 (B)7 (C)13 (D)19 (E)20
+
+=== Year 2020 | Round 2 | Problem 3 | Page 4 ===
+In the figure, ABC is a right triangle such that ACB  = , AC = , CB = and CDEF is a square. If AF meets DE at point K, then what is the value of DK EK ? (A)3 (B)3 (C) 9 (D) (E)7
+
+=== Year 2020 | Round 2 | Problem 4 | Page 4 ===
+Emily bought some number of fruit candies and milk candies for a total of $100, where each fruit candy costs $3 while each milk candy costs $8. It is known that the number of fruit candies bought is less than the number of milk candies bought. How many candies did Emily bought in total? (A)13 (B)15 (C)20 (D)25 (E)Cannot be determined
+
+=== Year 2020 | Round 2 | Problem 5 | Page 4 ===
+Given that x x = + , which of the following algebraic equations is equal to 8x ? (A)4 x + (B)8 x + (C)13 x + (D)16 x + (E)21 x + A C B E D K F
+
+=== Year 2020 | Round 2 | Problem 6 | Page 5 ===
+Define ( , , , ) a b c d ab cd = − , where a, b, c and d are positive integers. Given that ( , 3, 2,1) (3, 2,1, ) a a = , determine the value of a.
+
+=== Year 2020 | Round 2 | Problem 7 | Page 5 ===
+For any real number x, we define [ ] x to be the greatest integer that does not exceed x and {x} to be the fractional part of x such that { } [ ] x x x = − . If 2[ ] 3{ } x x + = , then what is the value of x?
+
+=== Year 2020 | Round 2 | Problem 8 | Page 5 ===
+If xyz  so that xy x y + = , yz y z + = and zx z x + = , then what is the value of z?
+
+=== Year 2020 | Round 2 | Problem 9 | Page 5 ===
+Let a, b and c be positive integers such that a b c  . It is known that b is a single digit number, c is a single digit prime number and a b c + + = . What is the value of a b c + + ?
+
+=== Year 2020 | Round 2 | Problem 10 | Page 5 ===
+In the diagram, fill each of the “○” with numbers so that the sum of the four vertices of all squares that can be found are equal. If the middle number is filled as n m , where m and n are both positive numbers that are relatively prime. What is the value of m n + ? n m
+
+=== Year 2020 | Round 2 | Problem 11 | Page 6 ===
+In the figure below, ABCD and ADEF are both parallelograms and the areas of triangles ABF and ACF are 20 cm2 and 50 cm2, respectively. What is the area, in cm2, of parallelogram ADEF? cm2
+
+=== Year 2020 | Round 2 | Problem 12 | Page 6 ===
+Let a, b, c and d be positive integers such that a b c d    which satisfy the following system of equations: a b c d a b c d + + + =   − + − =  How many ordered quadruples (a, b, c, d) are there that satisfy the conditions? ordered quadruples
+
+=== Year 2020 | Round 2 | Problem 13 | Page 6 ===
+Let abcd and cdab be two 4-digit numbers such that a, b, c and d are four different digits from 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9. If M is the greatest common factor of both abcd and cdab , then what is the largest possible value of M? A C B E D F
+
+=== Year 2020 | Round 2 | Problem 14 | Page 7 ===
+In the figure below, ABCD is a convex quadrilateral such that M is the midpoint of CD and AMB  = . Prove that AD BC CD AB + +  . A B D M C
+
+=== Year 2020 | Round 2 | Problem 15 | Page 8 ===
+There exists a positive integer N such that N + is a multiple of 24. Prove that the sum of all the positive factors of N is also a multiple of 24.
+
+=== Year 2021 | Round 1 | Problem 1 | Page 3 ===
+The equation n T   is used to define the relationship between the number of hot chocolate cups n sold per day in a coffee shop and the average daily temperature T, in degrees Celsius. According to the model, what does the number “3” mean in the equation? (A)For every increase of 3 C  , one more cup of hot chocolate will be sold; (B)For every decrease of 3 C  , one more cup of hot chocolate will be sold; (C)For every increase of 1 C  , 3 more cups of hot chocolate will be sold; (D)For every decrease of 1 C  , 3 more cups of hot chocolate will be sold; (E)For every decrease of 1 C  , 3 times of cups of hot chocolate will be sold.
+
+=== Year 2021 | Round 1 | Problem 2 | Page 3 ===
+What is the sum of all positive integers n that satisfy the inequality 7 n   ? (A)25 (B)56 (C)78 (D)104 (E)105
+
+=== Year 2021 | Round 1 | Problem 3 | Page 3 ===
+In the given grid, an ant begins at the “Start” cell and in each move, it can go either one step right or down to any adjacent cell with common side until it reaches the “End” cell. If in each move, it gets the number in the square, then what is the smallest sum the ant can get? Start End (A)91 (B)95 (C)96 (D)97 (E)102
+
+=== Year 2021 | Round 1 | Problem 4 | Page 3 ===
+A set of 13 positive integers have a mean of 8 and a median of 9. What is the greatest possible integer that is found in this set? (Note: The mean of the set is the sum of the all numbers of the set divided by the count of numbers of the set. The median of the set is the "middle" number, when the all numbers of the set are listed in order from smallest to greatest.) (A)26 (B)32 (C)38 (D)42 (E)44
+
+=== Year 2021 | Round 1 | Problem 5 | Page 4 ===
+In the diagram below, ABCD is a square and P is a point inside it. It is known that PAcm, PB  cm and PC cm, what is the length, in cm, of PD? (A)  (B)6 (C) 4 (D)17 (E)6
+
+=== Year 2021 | Round 1 | Problem 6 | Page 4 ===
+Let ab be a two-digit number. Now, swap its digits to form another two-digit number, multiply it by 5 and take the remainder of the result when divided by 9. If the resulting number is 5, then how many different ab exist? (A)7 (B)8 (C)9 (D)10 (E)11
+
+=== Year 2021 | Round 1 | Problem 7 | Page 4 ===
+At most how many numbers can you choose from the set {1, 2, …, 10} such that the positive difference of any two chosen numbers is not 4, 5 or 9? (A)4 (B)5 (C)6 (D)7 (E)8
+
+=== Year 2021 | Round 1 | Problem 8 | Page 4 ===
+As show in the diagram below, we use some number of pentagons, that is identical to ABCDE to fill the plane below. What is the angle measure, in degrees, of ABC  ? (A)100 (B)105 (C)120 (D)135 (E)150 B A C D P B A C D E
+
+=== Year 2021 | Round 1 | Problem 9 | Page 5 ===
+The world of the beetles consists of one entire plane divided into unit squares. Initially, all the beetles are located at squares south of an inner wall and each square is occupied by at most one beetle. In each move, a beetle can jump over another beetle in an adjacent square and land on the square immediately beyond. The beetle that was jumped over is then removed. However, the move is not permitted if the square is already occupied. The jump may be northward, eastward or westward. At least how many beetles are needed so that one beetle reaches the shaded square in the diagram below? (A)5 (B)6 (C)7 (D)8 (E)10
+
+=== Year 2021 | Round 1 | Problem 10 | Page 5 ===
+In the diagram below, ABCD is a square with side length 12 cm. Point P is on side AB such that AP:PB = 1:3, point L is on side CD such that CL DL  and point N is on side DA such that DN:NA = 2:1. What is the area, in cm2, of the triangle PNL? (A)24 cm2 (B)30 cm2 (C)48 cm2 (D)90 cm2 (E)144 cm2
+
+=== Year 2021 | Round 1 | Problem 11 | Page 5 ===
+What is the sum of all possible positive integers a, such that for any positive integer n  , ( 2)( 4) n n n a   is an integer? (A)1 (B)2 (C)3 (D)4 (E)6 B A C D L P N N
+
+=== Year 2021 | Round 1 | Problem 12 | Page 6 ===
+The distance between Frankfurt and New York is 6750 km and the time difference between both cities is 6 hours. If it is 08:00 in New York right now, then it is 14:00 already in Frankfurt. At 15:00 Frankfurt time, an Airbus 320 with a cruising speed of 700 km/h departs from Frankfurt to New York. While at 10:00 New York time, a Boeing 787 plane with a cruising speed of 800 km/h departs from New York to Frankfurt. The route goes over the Atlantic Ocean and it is known that there is a constant wind blowing from New York to Frankfurt at a speed of 100 km/h. It is also known that the Airbus 320 cannot fly more than 5 hours without re-fueling, while the Boeing 787 can fly for over 12 hours without re-fuelling. The Airbus 320 will need to re-fuel at a small airport, which is 2400 km from Frankfurt. The re-fuelling and take-off will require 1 hour in total. What will be the time in New York when the two planes meet assuming they fly the same trajectory? (A)13:30 (B)14:30 (C)15:30 (D)16:30 (E)20:30
+
+=== Year 2021 | Round 1 | Problem 13 | Page 6 ===
+What is the remainder when ....      is divided by 4? (A)2021 (B)1011 (C)1 (D)2 (E)3
+
+=== Year 2021 | Round 1 | Problem 14 | Page 6 ===
+If a    , then what is the value of a a a   ? (A)1 (B)7 (C)3 6 (D)19 (E)3 4
+
+=== Year 2021 | Round 1 | Problem 15 | Page 6 ===
+Let a be a positive integer, where the positive difference of every two digits of a in base 10 are all written on a board. If some of the numbers are erased and only the numbers 2, 0, 2 and 2 are left, what is the least possible value of a? (A)1011 (B)1112 (C)1113 (D)2000 (E)2022
+
+=== Year 2021 | Round 1 | Problem 16 | Page 6 ===
+There are three integers x, y and z such that x y z  , x y z    and xy yz zx    . What is the value of xyz? (A)40 (B)8 (C)0 (D)8  (E)40 
+
+=== Year 2021 | Round 1 | Problem 17 | Page 6 ===
+Charlie and Danny bought some apple and carrot juices in the supermarket. Charlie bought some brand A apple juices which costs $5 per bottle and some brand B carrot juices which costs $1.5 per bottle, spending a total of $139.5. Meanwhile, Danny bought some brand C apple juice which costs $4.5 per bottle and some brand D carrot juices which costs $2 per bottle, spending a total of $167. If it is known the number of fruit juices that each of them bought is the same, then how many brand A apple juices did Charlie buy? (A)15 (B)18 (C)21 (D)25 (E)33
+
+=== Year 2021 | Round 1 | Problem 18 | Page 7 ===
+It is known that Annie can wash 3 plates every minute, while Betty can wash 2 plates every minute. Also, it is known that Annie can wash 9 cups every minute, while Betty can wash 7 cups every minute. If there are a total of 134 dirty plates and cups and both of them worked together in washing all the dirty plates and cups and finished in exactly 20 minutes, how many dirty plates are there? (A)42 (B)49 (C)50 (D)60 (E)84
+
+=== Year 2021 | Round 1 | Problem 19 | Page 7 ===
+There are ten tokens, 3 black and 7 white, are to be randomly placed into each of the unit squares of a 2 5  board, where each unit square can only fit exactly one token. How many ways are there to place the tokens such that no two black tokens are adjacent to each other? (A)30 (B)36 (C)38 (D)40 (E)60
+
+=== Year 2021 | Round 1 | Problem 20 | Page 7 ===
+The four circles below have some number of points on their circumference. Connect all the points on the same circle using straight lines and count the number of regions these segments have partitioned the circle into. If there are 6 points on the circumference of a circle, how many regions have been partitioned at the most? (A)24 (B)30 (C)31 (D)32 (E)40
+
+=== Year 2021 | Round 1 | Problem 21 | Page 7 ===
+Given 0.5 x n   , where n is an integer. Let [ ]x represent the integer closest to x. For example, [2.4]  and [2.6] . What is the numerical value of [ 1 2] [ 2 3] [ 3 4] ... [ 40 41]         ?
+
+=== Year 2021 | Round 1 | Problem 22 | Page 7 ===
+A party was attended by some number of families, where each family consists of a couple and their kid(s) and it is known that a family can have at most 10 kids. It is known that one dad, one mom and one kid, all from different families, will be selected to play in a game, then there are 4884 different ways to choose. How many kids attended the party? 5 points, 16 regions. 4 points, 8 regions. 3 points, 4 regions. 2 points, 2 regions.
+
+=== Year 2021 | Round 1 | Problem 23 | Page 8 ===
+Two arithmetic progressions, where each corresponding term of both sequences are multiplied to each other and we obtain the following sequence: 1, 10, 100, …. Find the 6th term of the resulting sequence.
+
+=== Year 2021 | Round 1 | Problem 24 | Page 8 ===
+Let O be a point inside equilateral triangle ABC such that AOB    and BOC   . If DEF is a triangle such that EF OA  , FD OB  and DE OC  , what is the maximum angle measure, in degrees, of triangle DEF?
+
+=== Year 2021 | Round 1 | Problem 25 | Page 8 ===
+The diagram below on the left shows a map, where cities and roads are interconnected, such that there is unique path, between any two cities, without passing any road more than once. Let x be the number of ways to labell the cities by the numbers 1, 2, …, 10 such that every path starting from city A are all strictly increasing. What is the value of 20 x ? The diagram below on the right shows one example. ＊＊＊ A O C B E F D A G B C E F D J I H
+
+=== Year 2021 | Round 2 | Problem 1 | Page 3 ===
+Let x and y be non-zero real numbers such that x y x y x y        . Find the sum of all possible values of x y  . (A)4 (B)5 (C)9 (D)3 (E)0
+
+=== Year 2021 | Round 2 | Problem 2 | Page 3 ===
+In the diagram below, ABCD is a rectangle, where AB = 8 cm and BC = 4 cm. Let the angle bisector from D intersect AB at E. Find the distance, in cm, from E to AC. (A)3 2 (B)4 2 (C)4 5 (D)2 5 (E)4 2
+
+=== Year 2021 | Round 2 | Problem 3 | Page 3 ===
+Using the set of integers from 1 to 2022 inclusive, at most how many integers can we choose such that the positive difference between any two chosen numbers is not a prime number? (A)253 (B)254 (C)504 (D)505 (E)506 A E D C B
+
+=== Year 2021 | Round 2 | Problem 4 | Page 4 ===
+The world of the beetles consists of one entire plane divided into unit squares. Initially, all the beetles are located at squares south of an inner wall and each square is occupied by at most one beetle. In each move, a beetle can jump over another beetle in an adjacent square and land on the square immediately beyond. The beetle that was jumped over is then removed. However, the move is not permitted if the square is already occupied. The jump may be northward, eastward or westward. How can one arrange 20 beetles such that they can reach the shaded square in the diagram below? (A) (B) (C) (D) (E)
+
+=== Year 2021 | Round 2 | Problem 5 | Page 5 ===
+Numbers 1, 2, 3 and 4 are to be placed into the circles in the diagram shown, where each circle must be filled with exactly one number. If two circles connected by a line should not contain the same number, find the total number of ways in filling the diagram. (A)2016 (B)1344 (C)672 (D)576 (E)384
+
+=== Year 2021 | Round 2 | Problem 6 | Page 5 ===
+We define: 2 1 2 3 , 3 2 3 4 , 4 3 4 5 , 5 4 5 6 , …. If A    , what is the value of A?
+
+=== Year 2021 | Round 2 | Problem 7 | Page 5 ===
+What is the value of the irreducible fraction n m , where 0.17 0.18 n m   and m is as small as possible?
+
+=== Year 2021 | Round 2 | Problem 8 | Page 5 ===
+Define ( ) f x x x x x x       , find the value of (1) (3) ... (2 1) (999) f f f k f      .
+
+=== Year 2021 | Round 2 | Problem 9 | Page 6 ===
+What is the last non-zero digit of 2022! ?
+
+=== Year 2021 | Round 2 | Problem 10 | Page 6 ===
+Let ABC be a triangle, where AB  cm, AC  cm and BC  cm. If point P lies on segment BC, what is the minimum sum of the circumradii, in cm, of triangles PAB and PAC? cm
+
+=== Year 2021 | Round 2 | Problem 11 | Page 6 ===
+As shown in the diagram below, we use some number of pentagons, that is identical to ABCDE to fill the plane below. Suppose AB is 1 cm, what is the side length, in cm, of DE? cm B A C P B A C D E
+
+=== Year 2021 | Round 2 | Problem 12 | Page 7 ===
+Some unit squares of a 6  board are coloured gray, as shown in the diagram below. Find the number of ways in choosing four different gray unit squares such that any two unit squares that are chosen are located on different rows and different columns. ways
+
+=== Year 2021 | Round 2 | Problem 13 | Page 7 ===
+In a purchase, the quantity of item X must be not more than twice of quantity of item Y, but not less than one third of quantity of item Y. Moreover, the total quantity of the two products must not be more than 60. Find the total number of combinations of non-zero quantities satisfying these requirements.
+
+=== Year 2021 | Round 2 | Problem 14 | Page 7 ===
+Seven integers 0a , 1a , …, 6a , where ia is the number of i’s among 0a , 1a , …, 6a , for each 0 i  . Find the value of these numbers.
+
+=== Year 2021 | Round 2 | Problem 15 | Page 8 ===
+It is known that positive numbers x, y and z satisfy x xy y y yz z z xz x               What is the value of ( ) x y z   ?
+
+=== Year 2022 | Round 1 | Problem 1 | Page 3 ===
+A ball is dropped starting from the top of the drainage system and slides downward until it reaches the bottom, as shown in the diagram below. If it is known that the ball cannot go upward, how many different paths could the ball pass through the drainage? (Note: One example is shown.) (A)82 (B)74 (C)58 (D)46 (E)38
+
+=== Year 2022 | Round 1 | Problem 2 | Page 3 ===
+Alice buys 80 more marbles than Bob and Bob buys 67 less than Charles. Edwards buys 19 more marbles than Dennis while Charles buys 38 more than Edward. If Bob and Edward buy a total of 41 marbles between them, how many marbles are bought altogether? (A)201 (B)206 (C)211 (D)216 (E)221
+
+=== Year 2022 | Round 1 | Problem 3 | Page 3 ===
+In a Mathematics test given to a certain class, the average score of those who passed is 78, while the average score of those who failed is 34. If the overall average score of the class is 67, what is the percentage of students in the class who passed the test? (A)20% (B)25% (C)50% (D)75% (E)80%
+
+=== Year 2022 | Round 1 | Problem 4 | Page 3 ===
+How many integers are there between 3 2022 and 2022 ? (A)31 (B)32 (C)33 (D)34 (E)35
+
+=== Year 2022 | Round 1 | Problem 5 | Page 3 ===
+Two terms of an arithmetic progression are 1987 and 2022, which are not necessarily consecutive. If the common difference d of the arithmetic progression is a positive integer, then what is the number of possible values d could have? (A)3 (B)4 (C)5 (D)6 (E)7
+
+=== Year 2022 | Round 1 | Problem 6 | Page 4 ===
+What is the digit sum of the numerical value of − ? (A)0 (B)6 (C)18 (D)21 (E)24
+
+=== Year 2022 | Round 1 | Problem 7 | Page 4 ===
+Which ordered pair (x, y) satisfies the following system of equations: x y x y  − =   − =  ? (A)(680, 264) (B)( 54 − , − ) (C)( 112 − , 264 − ) (D)( 112 − , 98) (E)(152, 264)
+
+=== Year 2022 | Round 1 | Problem 8 | Page 4 ===
+In square ABCD, a line through B intersects the extension of CD at E, the side AD at F and the diagonal AC at G, as shown in the diagram below. If BG = cm and GF = cm, then what is the length, in cm, of FE? (A)5 (B)6 (C)7 (D)8 (E)9
+
+=== Year 2022 | Round 1 | Problem 9 | Page 4 ===
+The letters of the word “EVERYBODY” have been placed randomly in the grid below. By starting at the bottom left-hand corner “E”, we can only move up or move to the right until we reach the top right-hand corner “Y”, how many possible ways of collecting all the letters of the word in any order are there? Note that you cannot move diagonally. (A)1 (B)2 (C)3 (D)4 (E)5 A G F E D C B B O Y R Y D E E V D R B O V E Y B O V R E Y V B O
+
+=== Year 2022 | Round 1 | Problem 10 | Page 5 ===
+In triangle ABC, it is known that BCA  =  and points E and F lie on the hypotenuse AB such that AE AC = and BF BC = , as shown in the diagram below. If ECF x  = , then (A) x =  (B)30 x    (C) x =  (D)45 x    (E) x = 
+
+=== Year 2022 | Round 1 | Problem 11 | Page 5 ===
+A Mathematics test was given to a group of 12 students, where each problem was solved by exactly 10 students. It is known that 11 students solved exactly 7 problems each. How many problems did the 12th student solve? (A)3 (B)4 (C)5 (D)6 (E)7
+
+=== Year 2022 | Round 1 | Problem 12 | Page 5 ===
+Two boys and five girls are to form a line. If the two boys must not be next to each other, how many different ways are there in forming the line? (A)120 (B)240 (C)2880 (D)3600 (E)5040
+
+=== Year 2022 | Round 1 | Problem 13 | Page 5 ===
+In the base ten number system, the number 379 means  +  + . In the base r number system, where r is a positive integer, if the equation r r r − = holds, then what is the value of r? (A)3 (B)4 (C)5 (D)6 (E)7
+
+=== Year 2022 | Round 1 | Problem 14 | Page 5 ===
+Alice was told the sum of three positive integers while Bob was told their product. “If I knew”, said Alice, “that your number is greater than mine, I could find the integers”. But I know that my number is less than yours.” replied Bob. What is the sum of these three numbers? (A)4 (B)5 (C)6 (D)7 (E)8 A F E C B
+
+=== Year 2022 | Round 1 | Problem 15 | Page 6 ===
+The diagram below shows a head of a cartoon character which is represented by a big circle, with its eyes being two circles of radii 1 cm. The two smaller circles are touching at the centre of the big circle and they are also tangent to the big circle. The shaded region represents its hat, for which the horizontal line is tangent to the smaller circles, as shown in the diagram below. What is the area, in cm2, of the shaded region? (A)4 3− (B)4 3 (C)2 3− (D)2 3 (E) −
+
+=== Year 2022 | Round 1 | Problem 16 | Page 6 ===
+In the Fibonacci sequence { } kF , F F = = and k k k F F F + − = + for k  . What is the value of FF F F F F F F F F F F F F F F + + + + + + + ? (A)1 (B) 1869 (C)1154 (D)713 (E)4894
+
+=== Year 2022 | Round 1 | Problem 17 | Page 6 ===
+Two numbers a and b are to be selected randomly from 1, 2, 3, 4, 5, 6, 7, 8 and 9. What is the probability that a b − +  ? (A)35 (B)13 (C)7 (D)10 (E)13
+
+=== Year 2022 | Round 1 | Problem 18 | Page 6 ===
+Given that a b c + + = , where 1 a  , b, c . What is the minimum possible value of a b b c + + + ? (A)4 (B)9 (C)1 (D)8 (E)7
+
+=== Year 2022 | Round 1 | Problem 19 | Page 7 ===
+How many different possible positive integer values of n, where n  , are there such that ( 1) ( 1) n n n − + + + is divisible by 102? (A)1 (B) 2 (C)3 (D)4 (E)5
+
+=== Year 2022 | Round 1 | Problem 20 | Page 7 ===
+Let P be the point in the interior of triangle ABC such that BAP  = , CAP  = , ACP  =  and AP BC = , as shown in the diagram below. What is the measure, in degrees, of BCP  ? (A)13 (B) 17 (C)18 (D)20 (E)31
+
+=== Year 2022 | Round 1 | Problem 21 | Page 7 ===
+Let 8(3 1)(3 1)(3 1)...(3 1) 1 a = + + + + + . What is the value of a?
+
+=== Year 2022 | Round 1 | Problem 22 | Page 7 ===
+The orthocentre H of isosceles triangle ABC lies on its incircle, where AB AC = , as shown in the diagram below. If BC = cm, what is the length, in cm, of AC? A C B H A P C B
+
+=== Year 2022 | Round 1 | Problem 23 | Page 8 ===
+How many positive integral solutions (x, y) are there for the equation x y xy + + = ?
+
+=== Year 2022 | Round 1 | Problem 24 | Page 8 ===
+The diagram shown below represents the street map of a downtown of a city. A street is a square with side length 10 m. A tourist wants to walk on the streets of this town, from his hotel (point A on the map) to the town hall (point B). Since he wants to maximize exploring the downtown, he plans to use the longest route possible, but never passing through the same point twice. What is the longest route, in m, that the tourist can traverse?
+
+=== Year 2022 | Round 1 | Problem 25 | Page 8 ===
+The unit squares on a sheet of graphing paper have side length 1. Now, a circle of radius 100 is drawn on the sheet such that it does not pass through any vertex and is not tangent to any side of any square. At most how many unit squares can the circle intersect? ＊＊＊ A B
+
+=== Year 2022 | Round 2 | Problem 1 | Page 3 ===
+What is the total number of positive divisors of the expression 12 11 10 9 8 7 6 5 4 3 2 1   ? (A)5 (B)12 (C)100 (D)396 (E)792
+
+=== Year 2022 | Round 2 | Problem 2 | Page 3 ===
+Let a, b and c be real numbers such that a b c    and abc . What is the value of a b c   ? (A)0 (B)1 (C)2 (D)3 (E)4
+
+=== Year 2022 | Round 2 | Problem 3 | Page 3 ===
+A book contains 213 problems from 12 years of competitions. At first there were 25 problems per year, then it became 16 problems per year, and finally 20 per year. What was the number of years when there were 25 problems? (A)1 (B) 2 (C)3 (D)5 (E)7
+
+=== Year 2022 | Round 2 | Problem 4 | Page 3 ===
+A circular pizza is sliced by using two perpendicular cuts, of lengths 16 cm and x  cm, as shown in the diagram below. Alice ate the two white pieces and Bob ate the two shaded pieces. Who ate more pizza? What is difference between the areas, in cm2, of them? (A)Alice, 16 cm2 (B)Alice, 16 cm2 (C)Equal amount, 0 cm2 (D)Bob, 16 cm2 (E)Bob, 16 cm2 x
+
+=== Year 2022 | Round 2 | Problem 5 | Page 4 ===
+In a certain class, more than 40%, but less than 45% of the students are girls. If one of the boys decided to leave the class, the percentage of girls would still be under 45%, but if a new girl joined the class, the percentage of girls would be higher that 45%. What is the smallest possible number of students in the class? (A)10 (B)20 (C)30 (D)40 (E)50
+
+=== Year 2022 | Round 2 | Problem 6 | Page 4 ===
+What is the coefficient of 2x in the product (1 )(1 2 )(1 )(1 )(1 )(1 )(1 )(1 ) x x x x x x x x         ?
+
+=== Year 2022 | Round 2 | Problem 7 | Page 4 ===
+What is the minimum possible surface area, in cm2, of a rectangular box having a volume strictly greater than 1000 cm3 if each of the side lengths, in cm, are integer numbers? cm2
+
+=== Year 2022 | Round 2 | Problem 8 | Page 4 ===
+Let A and B be disjoint subsets of {1, 2, …, 100} of equal size, where n belongs to A and 2 n  belongs to B. What is the maximum number of elements in A B  ?
+
+=== Year 2022 | Round 2 | Problem 9 | Page 4 ===
+Initially, there is a rook on each of the 36 squares of an 6  chessboard. In each move, one may take away any rook which attacks an odd number of other rooks still on the chessboard. What is the maximum number of rooks that can be removed? (Note: The Rook can move any number of spaces horizontally or vertically.) rooks
+
+=== Year 2022 | Round 2 | Problem 10 | Page 5 ===
+Determine the largest integer n such that 4n   is the square of an integer.
+
+=== Year 2022 | Round 2 | Problem 11 | Page 5 ===
+A small movie theater has 30 seats; their numbers are indicated on the tickets. The first 21 people who come to a show take 21 seats without paying attention to the seat numbers. Edmond is the 21st person to arrive. But the remaining 9 ticket holders are perfectionists. If any of them finds his or her assigned seat occupied, the person sitting there is evicted; that person then looks for his or her proper seat and evicts the occupier; and so forth. This migration ends with the spectator whose assigned seat is unoccupied. Find the probability, in percentage, that Edmond will not have to change his seat? %
+
+=== Year 2022 | Round 2 | Problem 12 | Page 5 ===
+Three students write on the blackboard three 2-digit squares next to each other. At the end they observe that the 6-digit number obtained is also a square. Find the sum of all possible 6-digit numbers.
+
+=== Year 2022 | Round 2 | Problem 13 | Page 5 ===
+As shown in the figure below, triangle ABC is isosceles with AB AC  . It is given that D is the foot of the altitude from the vertex A and E lies on side AB such that ACE ECB    . If AD  cm, find the length, in cm, of CE. cm A C B D E
+
+=== Year 2022 | Round 2 | Problem 14 | Page 6 ===
+A Mathematics test consists of 4 problems, where each problem is being graded independently with integer points between 0 and 10. How many ways can the total points for this test be exactly 31? ways
+
+=== Year 2022 | Round 2 | Problem 15 | Page 7 ===
+Andy has to pass through an underground maze as the diagram below. Each square means a room. Andy can pass through the dash segment to enter the adjacent room. If there is no segment between the adjacent rooms, then it means there is an open door between the adjacent rooms. Andy will move from 1 to 6 rooms by rolling a dice. The enchantment on the maze makes Andy drop one, two or three rows if he lands on a room with a door. For example, if Andy rolls a 2 from room S, then he would drop to the second row; if Andy rolls a 2 from room X, then he would drop to the third row. Andy is required to move from left to right on the odd row and from right to left on the even row. At the end of a row, the enchantment requires Andy to move down to the next row. For example, when Andy rolls a 5 from room X, he would enter the second row at fourth move and drop to the third row at the fifth move. As Andy arrive in room F, he will stop. What is the minimum number of dice rolls required to let Andy move from room S to room F? Please explain in detail your reasoning and draw the route map. → S X ← → ← → ← → ← → F ←
+
+=== Year 2023 | Round 1 | Problem 1 | Page 3 ===
+If the square root of a number is between 10 and 11, then the cube root of this number is between which numbers? (A)3 and 4 (B)4 and 5 (C)5 and 6 (D)6 and 7 (E)7 and 8
+
+=== Year 2023 | Round 1 | Problem 2 | Page 3 ===
+Ann bought two types of rice: the first type costs $4 per kg and the second type costs $5 per kg. She mixed the two types of rice in some ratio, then she sold the mixture at $6 per kg, making a 30% profit. What was the ratio (type 1：type 2) of the mixture? (A)6：11 (B)3：5 (C)5：8 (D)3：4 (E)8：5
+
+=== Year 2023 | Round 1 | Problem 3 | Page 3 ===
+A grid has been divided into several non-overlapping rectangles along its grid lines. Exactly one square in each rectangle has been labelled with the area of the rectangle. For example, if the given grid is then the dividing method is as follows: Now, consider the following grid: ★ 8 What is the area of the rectangle containing the ★? (A)3 (B)4 (C)5 (D)6 (E)8
+
+=== Year 2023 | Round 1 | Problem 4 | Page 4 ===
+Two towns A and B are at a distance of n km along a river bank. A boat, starting from A and traveling upstream, reaches B in 8 hours. Another boat, traveling the same route, with speed 3 km/h greater than the speed of the first one, covers the distance in 5 hours. What is the value of n? (A)40 (B)60 (C)80 (D)100 (E)120
+
+=== Year 2023 | Round 1 | Problem 5 | Page 4 ===
+The greatest common divisor of the positive integers 3 m + and 5 m + is equal to d. What is the sum of all possible values of d? (A)24 (B)25 (C)26 (D)27 (E)28
+
+=== Year 2023 | Round 1 | Problem 6 | Page 4 ===
+What is the remainder when the sum of 1 2 ...  + +  + +  is divided by 11? (A)10 (B)8 (C)4 (D)2 (E)0
+
+=== Year 2023 | Round 1 | Problem 7 | Page 4 ===
+In the diagram below, two circles, each of radius 6 cm, are there such that their centres lie on the circumference of the other. What is the area, in cm2, of the region common to both circles? (A)12 − (B)24 − (C)24 − (D)4 − (E)24 −
+
+=== Year 2023 | Round 1 | Problem 8 | Page 4 ===
+Eight different digits are written in each cell of a table with 2 rows and 4 columns. Each cell is written exactly one digit. The sum of the digits in any of the two rows is divisible by 7, while the sum of the digits in any of the four columns is an even number. If a and b are the only two digits that are not written in the table, what is the number of possible values for | | a b − ? (A)1 (B)2 (C)3 (D)4 (E)5
+
+=== Year 2023 | Round 1 | Problem 9 | Page 4 ===
+Several boxes were delivered to a pastry shop. Each box either contain 8 cakes and 6 pastries or 4 cakes and n pastries. The owner of the shop ate 1 cake and 1 pastry and exactly re-distributed the remaining items in boxes of 3 cakes and 2 pastries each. What is the value of n? (A)1 (B)2 (C)3 (D)4 (E)5
+
+=== Year 2023 | Round 1 | Problem 10 | Page 5 ===
+Betty paints a 7  grid of white squares. At the start, she colours the square in the centre in black. Then, she picks any white square that shares a side with the one and only one other black square and colours it black, repeating this until either she wants to stop or there are no suitable white square exists. Which of the following configurations is a possible diagram that Betty could have coloured? (A) (B) (C) (D) (E)
+
+=== Year 2023 | Round 1 | Problem 11 | Page 5 ===
+There are knights, which are numbered from 1 to 10, inclusively, are to be seated at a evenly spaced round table. The numbers of any two neighbouring knights differ by at most two. What is the number of the knight sitting directly opposite (marked by “?”) to knight number 6? (A)1 (B)2 (C)3 (D)4 (E)5 ?  30 45
+
+=== Year 2023 | Round 1 | Problem 12 | Page 6 ===
+There are 2 types of games at a school party, denoted by X and Y. A student gets 7 points for game X and get 11 points for game Y. The students can play x times of game X and y times of game Y. If a student gets exactly 472 points in total, then he can get the special prize. What is the minimum possible value of x y + to get the special prize? (A)44 (B)48 (C)52 (D)60 (E)64
+
+=== Year 2023 | Round 1 | Problem 13 | Page 6 ===
+Let PQR be an acute triangle with PQ = cm and PR = cm. Let PX and PY be the altitude and the angle bisector from P. If XY : XR = 1 : 4, then what is the length, in cm, of QR? (A)4 3 (B)4 6 (C)6 6 (D)8 3 (E)8 6
+
+=== Year 2023 | Round 1 | Problem 14 | Page 6 ===
+If x, y and z are positive integers such that x xy xyz + + = , how many possible values of xyz are there? (A)0 (B)1 (C)2 (D)3 (E)4
+
+=== Year 2023 | Round 1 | Problem 15 | Page 6 ===
+As shown in the diagram below, when the angle of the sunbeam changes from 45 to 30, the shadow of a leaning tower doubles in length. What is the measure of the angle , in degrees, that the leaning tower makes with the horizontal line? (A)60 (B)65 (C)70 (D)75 (E)80 P Q R X Y
+
+=== Year 2023 | Round 1 | Problem 16 | Page 7 ===
+The positive real numbers a, b and c satisfy 2 a b c + + = . What is the maximum possible value of a b c ? (A)1 (B)2 (C)3 (D)4 (E)5
+
+=== Year 2023 | Round 1 | Problem 17 | Page 7 ===
+Let 1 ( 6 8) a = + , b = and c = . Which of the inequalities is correct? (A)a b c   (B)a c b   (C)b c a   (D)c b a   (E)c a b  
+
+=== Year 2023 | Round 1 | Problem 18 | Page 7 ===
+A ball is shot from corner A of a 2 1  rectangular billiard table. The ball bounces three times off the walls and then falls into one of the corners of the table. The dashed line is one possible path. What is the longest path it could have possibly travelled? (A)17 (B)2 5 (C)2 10 (D)65 (E)9
+
+=== Year 2023 | Round 1 | Problem 19 | Page 7 ===
+From a group of 5 girls and 4 boys, a team is chosen so that it contains at least two girls. In how many ways can this team be chosen? (A)208 (B)248 (C)416 (D)432 (E)512
+
+=== Year 2023 | Round 1 | Problem 20 | Page 7 ===
+Let ABC be an acute triangle with circumcentre O and ACB  = . If AO intersects BC at point X, BO intersects AC at point Y and XY = cm, what is the length, in cm, of AY BX + ? (A)10 (B)11 (C)12 (D)13 (E)14 C D B A A X O C B Y
+
+=== Year 2023 | Round 1 | Problem 21 | Page 8 ===
+Three points are randomly chosen from the 11 points drawn in the following grid. If p q (written as an irreducible fraction) is the probability that these three points are the vertices of a non-degenerate triangle, what is the value of p q + ?
+
+=== Year 2023 | Round 1 | Problem 22 | Page 8 ===
+Points M and N are the midpoints of sides AD and BC, respectively, of rectangle ABCD. Point P is a point on the extension of CD such that MP = cm. Let Q be the point of intersection of AC and the extension of PM, as shown in the diagram below. It is given that QM = cm and QN = cm. What is the length, in cm, of NP?
+
+=== Year 2023 | Round 1 | Problem 23 | Page 8 ===
+A four-digit number is good if it is divisible by the product of the number formed of its first two digits and the number formed of its last two digits. For example, 1352 is a good number since 1352 13 52 =  . What is the positive difference between the greatest and the second greatest good number?
+
+=== Year 2023 | Round 1 | Problem 24 | Page 8 ===
+A move consists of replacing a given pair (a, b) of integers by one of the pairs: ( a + , b −), ( a + , b + ), ( a −, b −), ( a −, b + ). Initially, we start with the pair (100, 100). Let S be the number of pairs (x, y), where 1 x   and 1 y   that can be obtained after a finite number of moves. What is the remainder when S is divided by 2023?
+
+=== Year 2023 | Round 1 | Problem 25 | Page 8 ===
+In how many ways can one arrange two 1’s, two 2’s, two 3’s and two 4’s in a row such that there is exactly one “2” between two 1’s, exactly one “3” between two 2’s and exactly one “4” between two 3’s? For example, 12314234 is one possible valid configuration. ＊＊＊ A B P D C N M Q
+
+=== Year 2023 | Round 2 | Problem 1 | Page 2 ===
+A car and a bus left City A at the same time and traveled along the same road to City B which was 160 km away. They ran at different but constant speeds which were integral numbers of km per hour. The difference in their speeds was a prime number of km per hour. After traveling for two hours, the distance the car had covered was five times the distance the bus still had to cover. What is the speed, in km per hour, of the bus? (A)65 (B)66 (C)67 (D)68 (E)69
+
+=== Year 2023 | Round 2 | Problem 2 | Page 2 ===
+The sum of five distinct positive integers is equal to 2024. We denote by d the greatest common divisor of the 5 integers. What is the largest possible value that d can take? (A)84 (B)88 (C)92 (D)96 (E)100
+
+=== Year 2023 | Round 2 | Problem 3 | Page 2 ===
+What is the number of integer solutions to the equation 1 x y xy    ? (A)252 (B)126 (C)63 (D)32 (E)16
+
+=== Year 2023 | Round 2 | Problem 4 | Page 2 ===
+What is the smallest positive integer m, such that there exists a positive integer n for which the first four digits after the decimal point in the decimal representation of the fraction n m are 2, 0, 2, 4 in that order? (A)89 (B)163 (C)326 (D)652 (E)1250
+
+=== Year 2023 | Round 2 | Problem 5 | Page 3 ===
+In triangle ABC, points D and E are on the sides AC and AB, respectively, and point F is the intersection of BD and CE, as shown in the diagram below. If the areas of triangles DFC, BCF and BEF are equal to 4 cm2, 8 cm2 and 10 cm2, respectively, what is the area, in cm2, of quadrilateral ADFE? (A)44 (B)46 (C)48 (D)50 (E)52
+
+=== Year 2023 | Round 2 | Problem 6 | Page 3 ===
+It is known that 2 is a 26-digit number so that 1 is its first digit. Among 12 , 22 , 32 , 42 , …, 2 and 2 , how many numbers are there so that 4 is their first digit? numbers
+
+=== Year 2023 | Round 2 | Problem 7 | Page 3 ===
+In triangle ABC, BAC    and ABC   . Let P be a point inside the triangle such that PAB    and ABP   , as shown in the diagram below. What is the measure, in degrees, of the PCB  ?  B C A D F E A P C B
+
+=== Year 2023 | Round 2 | Problem 8 | Page 4 ===
+There are one semicircle and three shaded circles, C , C and C , where the lengths of radius of the two smaller shaded circles, C and C , are equal. It is known that each of C , C and C is tangent to the semicircle and C is tangent to each of C and C . It is also known that each of C , C and C is tangent to the diameter of the semicircle, where C and the diameter of the semicircle are tangent at the centre of the semicircle as shown in the diagram below. If the shaded area is 777 cm2 in total, what is the area, in cm2, of the unshaded parts of the semicircle? (Take  ) cm2
+
+=== Year 2023 | Round 2 | Problem 9 | Page 4 ===
+Consider 5 points located on the same plane, where any three of these points are not collinear. What is the maximum possible measure, in degrees, of the smallest angle among all the interior angles of a triangle with three of these points as its vertices? 
+
+=== Year 2023 | Round 2 | Problem 10 | Page 4 ===
+All positive integers with digit-sum equal to 8 are arranged in increasing order. If the nth number is 2024, what is the 6nth number?
+
+=== Year 2023 | Round 2 | Problem 11 | Page 4 ===
+Let n be a positive integer so that the least common multiple of n and 49 is a perfect square number. How many possible values of n are there if n  ? C C C
+
+=== Year 2023 | Round 2 | Problem 12 | Page 5 ===
+There is a road from town A to town B. Along this road, there is a line of villages spaced 10 km apart between two adjacent villages, the distance between town A and the first village is 20 km and the distance between the last village and town B is 20 km. In each village, there are some statues. Arthur travels from town A to town B along this road and he must travel at least 20 km per day. If he stops at a village, then he will live in that village that day and travel to town B next day. So Arthur will miss some villages. Arthur also wants to visit statues as many as possible. For example, for a line of four villages with the following amounts of statues:  A 4 3 4 3 B Arthur would stop at the first and third villages  A 2 4 5 4 B Arthur would stop at the second and fourth villages  A 5 4 2 3 B Arthur would stop at the first and fourth villages In each case, Arthur would visit 8 statues. In the following line of villages with the following amounts of statues: A 3 1 4 1 5 9 2 6 5 3 5 8 9 8 7 5 2 B what is the maximum number of statues that Arthur would visit? statues
+
+=== Year 2023 | Round 2 | Problem 13 | Page 5 ===
+Two children, Ann and Bob, play a game in which an ideal coin is tossed repeatedly. The probability of obtaining heads or tails on each toss of a coin is equal to 1 2 . Ann throws the coin 4 times, while Bob throws the coin 6 times, independently of each other. Let p q be the probability that both children obtain the same number of heads, where the fraction is irreducible. What is the value of p q  ?
+
+=== Year 2023 | Round 2 | Problem 14 | Page 6 ===
+Some squares of a 7  board are colored gray, as shown in the diagram below. What is the number of ways to choose five gray squares so that any two squares chosen are on different rows and different columns? ways
+
+=== Year 2023 | Round 2 | Problem 15 | Page 7 ===
+Triangle ABC is an isosceles triangle so that AB AC  . Let E be the midpoint of AC and K be the intersection of the bisector of CAB  and the circumcircle of triangle ABE, as shown in the diagram below. Show that the length of diameter of the circumcircle of triangle ABC is equal to 4 3 AK . *** A C B E K
+
+=== Year 2024 | Round 1 | Problem 1 | Page 3 ===
+There is a 48-story building which has 24 windows per floor. A cleaner starts his work on the 48th floor and needs to clean all the windows on each floor before moving down to the floor below. On which floor will the cleaner be after he has cleaned exactly 177 windows? (A)39 (B)40 (C)41 (D)42 (E)43
+
+=== Year 2024 | Round 1 | Problem 2 | Page 3 ===
+In the diagram below, points A, B, C, D, E, F, G and H divide the circumference into 8 equal parts. If X is the intersection of AE and BG, what is the measure, in degrees, of GXE  ? (A)45 (B)52.5 (C)60 (D)67.5 (E)75
+
+=== Year 2024 | Round 1 | Problem 3 | Page 3 ===
+Let p be a prime number and q be a positive integer such that 10 p q  and p q  are both perfect squares. What is the value of p q  ? (A)9 (B)10 (C)11 (D)12 (E)13
+
+=== Year 2024 | Round 1 | Problem 4 | Page 3 ===
+A convex polygon has n interior angles. If its interior angles are consecutive odd integers, in degrees, and the smallest angle among them is 139°, what is the value of n? (A)8 (B)10 (C)12 (D)16 (E)18
+
+=== Year 2024 | Round 1 | Problem 5 | Page 3 ===
+What are the last three digits of ? (A)121 (B)251 (C)331 (D)561 (E)641 A B C X H G F E D
+
+=== Year 2024 | Round 1 | Problem 6 | Page 4 ===
+A mountain cable car company charges each passenger $10 for each station that they visit (excluding the station where they boarded the cable car) during the cable car ride. For example, if a passenger gets on a cable car at the 2nd station and then gets off at the 5th station, his total fare would be $30. All cable cars are empty when they reach the 1st station which is located at the bottom of the mountain and all passengers must get off at the final station which is located on the top of the mountain. The company has to record how many passengers get on and off these stations throughout the day. At each station, the notation (a, b) means that a one-way passengers get on the cable cars at this station and b one-way passengers get out of this station. For example, if the company records (35, 20) for the second station and (45, 15) for the third station, this means that 35 passengers get on and 20 passengers get off at the second station, and then, at the third station, 45 more passengers get on and 15 passengers get off. One day, the records for each of the stations are as follows: 1st station 2nd station 3rd station 4th station 5th station 6th station Final station (50, 0) (25, 10) (33, 22) (44, 25) (16, 23) (10, 38) (0, 60) What is the total amount that all the passengers pay? (A)$4340 (B)$4330 (C)$4320 (D)$4310 (E)$4300
+
+=== Year 2024 | Round 1 | Problem 7 | Page 4 ===
+Six adults and three children went camping. The camping program includes hiking up into the mountains. Any group interested in going hiking must have at least two adults. How many different hiking groups could be formed out of the nine people? (A)296 (B)336 (C)408 (D)456 (E)512
+
+=== Year 2024 | Round 1 | Problem 8 | Page 4 ===
+Amir has 12 pieces of isosceles triangles, where the length of the common side is 18 cm. He arranges them, without overlapping, to form a regular dodecagon (12 sides) as shown in the diagram below. What is the area, in cm2, of this dodecagon? (A)81 (B)162 (C)324 (D)486 (E)972
+
+=== Year 2024 | Round 1 | Problem 9 | Page 5 ===
+In a computer game, a maze is illustrated as a grid, where some cells are painted in grey. The grey cells indicate where traps have been placed and the white cells indicate safe cells. A jumping man named Jay is standing on a white cell, which is indicated as “J”. Jay may jump from one white cell to another white cell. However, he may only jump horizontally or vertically. He can jump over a sequence of grey cells, but he cannot jump over another white cell (and he cannot land on a grey cell). For example, as shown in the diagram on the right, if Jay stands on the white cell in the top right corner, he may jump four cells to the left or he may jump two cells down, but he cannot jump three cells down. Also, if he wants to get to any other white cell, he would need to make additional jumps. In the following maze, Jay begins on the white cell marked with “J”. What is the minimum number of jumps he needs to do to be sure that any other white cell can be reached when jumping from this starting position? J (A)6 (B)7 (C)8 (D)9 (E)10
+
+=== Year 2024 | Round 1 | Problem 10 | Page 5 ===
+In both diagrams below, neighbouring regions mean that they share a common segment. If two regions just share a common point without a common segment, then these two regions are not neighbouring regions. For example, in diagram B, the regions 1 and 5 are not neighbouring regions. In both diagrams below, Alex wants to paint the regions that have the same number using same colour such that no neighbouring regions are painted in the same colour. What is the minimum number of colours that Alex needs? (A)7 (B)8 (C)9 (D)10 (E)11 J ╳ Diagram A Diagram B
+
+=== Year 2024 | Round 1 | Problem 11 | Page 6 ===
+A class of seven students is to be divided into two groups, where the first group consists of four students, while the second group contains three students. Each group must choose one or two students to join a competition. In how many ways can they form groups to join the competition? (A)2100 (B)2160 (C)1050 (D)560 (E)315
+
+=== Year 2024 | Round 1 | Problem 12 | Page 6 ===
+In the diagram below, a square and a circle are tangent at one point and they intersect at four other points. If the side length of the square is 4 cm, what is the diameter, in cm, of the circle? (A)2.5 (B)3 (C)4 (D)5 (E)6
+
+=== Year 2024 | Round 1 | Problem 13 | Page 6 ===
+In Candlepin Bowling, ten cylindrical pins, each having a diameter of 3 inches, are arranged in a triangular layout, with the distance between the centres of the adjacent pins being 12 inches, as shown in the diagram below. If we use a rope having the shortest possible length to enclose the ten pins without moving them, as shown by the thick curve, the enclosed area is c a b    squared inches, where a, b and c are integers. What is the value of a b c  ? (A)252 (B)324 (C)333 (D)495 (E) 504
+
+=== Year 2024 | Round 1 | Problem 14 | Page 7 ===
+How many positive integers n less than 2025 have the property that n a b c   , where a, b and c are three distinct factors of n? (A)225 (B)333 (C)337 (D)450 (E)900
+
+=== Year 2024 | Round 1 | Problem 15 | Page 7 ===
+Andy, Benny and Charlie will run on three straight parallel tracks a, b and c (track b is between tracks a and c). At the start of the race, all three runners are on a line perpendicular to the three tracks. The distance between tracks a and b is twice the distance between tracks b and c. During the whole race, the three runners will all run on a straight line. If the speeds of Andy and Charlie are 8 km/h and 20 km/h, respectively, what is the speed, in km/h, of Benny? (A)4 (B)8 (C)12 (D)16 (E)20
+
+=== Year 2024 | Round 1 | Problem 16 | Page 7 ===
+We randomly select three points from the following grid of 15 points as shown in the diagram below, where each of the points have the same chance of being chosen. If p q (written as an irreducible fraction) is the probability that with these three points one can form a non-degenerate triangle, what is the value of p q  ? (Note: A non-degenerate triangle is a triangle with a non-zero area.) (A)865 (B)862 (C)172 (D)123 (E)25
+
+=== Year 2024 | Round 1 | Problem 17 | Page 7 ===
+Tom is now x years old and the ages of his five cousins are 28, 33, 37, 47 and 52. What is the sum of all possible values of x such that the average age of all six people (Tom and his five cousins) is equal to their median age? (A)222 (B)111 (C)98 (D)68 (E)56
+
+=== Year 2024 | Round 1 | Problem 18 | Page 7 ===
+A bowling alley has x ten-pound bowling balls, y twelve-pound bowling balls and z fourteen-pound bowling balls, where there is at least one bowling ball of each weight. It is known that the total weight of all the bowling balls is 200 pounds, y is a multiple of 3 and x z  . What is the sum of all possible values of x? (A)15 (B)18 (C)20 (D)33 (E)38
+
+=== Year 2024 | Round 1 | Problem 19 | Page 8 ===
+Some shaded squares are located around a square grid must be filled with one arrow each, drawn in a way that the arrow points vertically (↑ and ↓), horizontally (→ and ←) or diagonally (↘, ↙, ↖ and ↗) along the grid. Each arrow must point to at least one unshaded square. The number of arrows pointing to each unshaded square in the grid equals the number shown in that square. The following diagram shows one example: ↓ ↘ ↙ ↘ 2 2 2 ↙ ↗ 4 1 2 ↖ → 3 7 2 ← ↗ ↑ ↖ Ben has to completely fill in the arrows in the grid below, where some arrows were already pre-filled. After completing the task, what is the total number of arrows ↖ and ↘ arrows that Ben used? ↓ ↙ 3 2 1 3 2 ↙ ↗ 2 1 3 1 4 2 4 2 5 2 4 2 5 2 3 → 3 5 2 3 3 ↗ ↑ (A)6 (B)7 (C)8 (D)9 (E)10
+
+=== Year 2024 | Round 1 | Problem 20 | Page 8 ===
+Annie wrote eleven consecutive two-digit numbers in a row: a, a , a , ..., a  . When she erased three numbers, the average of the original numbers is the same as the average of the remaining numbers. If the three numbers erased by Annie are the x-th, y-th and z-th numbers from left to right, what is the number of all possible ordered triples (x, y, z)? (A)14 (B)13 (C)12 (D)11 (E)10
+
+=== Year 2024 | Round 1 | Problem 21 | Page 8 ===
+A bag only contains some number of black and white balls. The ratio of black to white balls is 1:2. If two balls are randomly drawn from the bag at the same time, the probability that the two balls have different colours is 64 143 . How many balls are there in the bag in total?
+
+=== Year 2024 | Round 1 | Problem 22 | Page 9 ===
+Let ABCDE be a pentagon such that AB AE CD    cm, BC DE   cm and ABC DEA    . What is the area, in cm2, of the pentagon?
+
+=== Year 2024 | Round 1 | Problem 23 | Page 9 ===
+What is the least possible integer n such that ! 1 2 3 ... n n   would have at least 200 trailing zeros?
+
+=== Year 2024 | Round 1 | Problem 24 | Page 9 ===
+Let ABC be an isosceles triangle with AB AC   cm and BC  cm. Let the radii of the circumscribed and inscribed circles of triangle ABC be R and r, respectively. What is value, in cm, of R r ?
+
+=== Year 2024 | Round 1 | Problem 25 | Page 9 ===
+Let 1a , 2a , …, na be distinct positive integers such that ... n n a a a a a a        . What is the least possible value of n? ＊＊＊ A C B E D A C B
+
+=== Year 2024 | Round 2 | Problem 1 | Page 3 ===
+A real-valued function f is defined on all real numbers such that ( ) f x x  for all real numbers x and ( ) ( ) ( ) f x y f x f y    for all real numbers x and y. What is the numerical value of (20) (25) f f  ? (A)45  (B)2  (C)0 (D)2 (E)45
+
+=== Year 2024 | Round 2 | Problem 2 | Page 3 ===
+Alex and Boris drive at different constant speeds. At a certain moment in the morning of one day, Alex started to drive from town A to town B along a road, while Boris started to drive from town B to town A along the same road. After they met at 11:00 AM, Alex continued to drive and arrived at town B at 3:00 PM while Boris continued to drive and arrived at town A at 8:00 PM. At what time did they start to drive on that day? (A)4:30 AM (B)5:00 AM (C)5:30 AM (D)6:00 AM (E)6:30 AM
+
+=== Year 2024 | Round 2 | Problem 3 | Page 3 ===
+There exist some perfect squares where its last four digits (from the right) are all equal to a certain digit a. For example,  . How many different possible values of digit a are there? (A)1 (B)2 (C)3 (D)5 (E)6
+
+=== Year 2024 | Round 2 | Problem 4 | Page 3 ===
+As shown in the diagram below, ABCD is a quadrilateral with AB BC  , ABD   , CBD    and ADC   . What is the positive difference (subtract the smaller angle from the larger angle), in degrees, of BAD  and BCD  ? (A)0 (B)10 (C)11.5 (D)13 (E)14.5 A B D C
+
+=== Year 2024 | Round 2 | Problem 5 | Page 4 ===
+As shown in the diagram below, squares ABCD and APNM are placed side by side, without overlapping. The side length of square ABCD is less than the side length of square APNM and O is the intersection of BN and AD. Only one statement from options (A) - (E) is ALWAYS true. Which one is it? (A)The areas of triangles BCD and DON are equal. (B)The area of triangle BDN is less than the area of triangle BCD. (C)The area of triangle BCD is larger than the area of triangle DPN. (D)The area of triangle BOA is less than the area of triangle DON. (E)The areas of triangles BOA and DON are equal.
+
+=== Year 2024 | Round 2 | Problem 6 | Page 4 ===
+A two-digit number is said to be good if it is equal to the sum of squares of each of its digits minus the product of its digits. For example, 48 is a good number since   . What is the sum of all the good numbers, including 48?
+
+=== Year 2024 | Round 2 | Problem 7 | Page 4 ===
+A three-digit number is said to be interesting if it satisfies both the conditions below:  All digits of this number are non-zero.  After removing any one of the digits and adding the removed digit to the remaining two-digit number, the resulting number is always divisible by 8. For example, 195 is an interesting number because if we remove 1, then   is divisible by 8, and if we remove 9, then 15   is also divisible by 8, and if we remove 5, then 19   is also divisible by 8. How many interesting three-digit numbers are there in total? C B D M N O A P
+
+=== Year 2024 | Round 2 | Problem 8 | Page 5 ===
+In a computer game, a maze is illustrated as a grid, where some cells are painted in grey. The grey cells indicate where traps have been placed and the white cells indicate safe cells. A jumping man named Jay is standing on a white cell, which is indicated as “J”. Jay may jump from one white cell to another white cell. However, he may only jump horizontally or vertically at most 3 cells. He can jump over a sequence of grey cells, but he cannot jump over another white cell (and he cannot land on a grey cell). For example, as shown in the diagram below, if Jay stands on the white cell which is indicated as “J”, he may jump three cells to the right or he may jump two cells down, but he cannot jump four cells to the left or three cells down. Also, if he wants to get to any other white cell, he would need to make additional jumps. In the following maze shown below, Jay begins on the white cell indicated as “J”. What is the minimum number of jumps he needs to do to be sure that any other white cell can be reached when jumping from this starting position? J
+
+=== Year 2024 | Round 2 | Problem 9 | Page 5 ===
+In equilateral triangle ABC, let P be a point inside the triangle such that PA  cm, PB  cm and PC  cm, as shown in the diagram below. What is the measure, in degrees, of APB  ?  ╳ J ╳ A P C B
+
+=== Year 2024 | Round 2 | Problem 10 | Page 6 ===
+There are 18 cards. Each card is labelled with exactly one positive integer from the set {1, 2, 3, 4, 5, 6, 7, 8, 9} so that two cards are labelled 1, another two cards are labelled 2, …, another two cards are labelled 8 and the last two cards are labelled 9. Amy and Brandon play a game by using these cards. Amy randomly selects two cards at the same time. After that, Amy just tells Brandon the value of the product of the numbers on the selected cards. If Brandon can determine the two numbers on the cards selected by Amy in one try without guessing, then Brandon wins the game. What is the probability, q p , where p and q are relatively prime, that Brandon wins the game?
+
+=== Year 2024 | Round 2 | Problem 11 | Page 6 ===
+In how many ways can we paint each of the six vertices of hexagon ABCDEF using one of the three colours: red, green and yellow, such that no two adjacent vertices have the same colour? (One way of colouring is shown in the diagram below, where R means red, G means green and Y means yellow.) ways
+
+=== Year 2024 | Round 2 | Problem 12 | Page 6 ===
+In a ball pit, there are sufficiently many balls of four colours: red, blue, yellow and green. Now, 2025 persons will each take turns, one at a time, to take out four balls from the ball pit. What is the minimum number of persons that will have exactly the same set of colours and same number of balls of each colour? Provide the tightest bound. people
+
+=== Year 2024 | Round 2 | Problem 13 | Page 6 ===
+In a store, each cup costs $21, each bowl costs $24 and each stockpot costs $168. One day, some cups, bowls and stockpots were sold for a total of $2025 such that at least one of each of these three products was sold. How many different possible sales states were there for these three products on that day? sales states R R Y Y G G F A B C D E
+
+=== Year 2024 | Round 2 | Problem 14 | Page 7 ===
+A recurring decimal is a decimal representation of a number whose digits are periodic in nature, meaning that, after some places, the same sequence of digits repeats continuously. For example, 1234 0.12341234... 0.1234 9999   . To calculate the sum of all the digits of a recurring decimal, aside from summing all the digits directly, there is another method as following: (a) It is known that the recurring decimal of 1 17 is 16 digits long, which you can assume to be true. To find the sum of all the digits of the recurring decimal of 17 , we can suppose that A  , where positive integer A is the repetend. Since the period is 16, we have  is divisible by 17 but k  is not divisible by 17 for 1 k   . Notice that 17 is a prime number, by Fermat’s Little Theorem, we have 1(mod17)  . Thus, 1(mod17)   . Now, write down the subsequent proof to show that the answer is 72. (5 marks) 14. (b) It is known that the recurring decimal of 179 is 178 digits long, which you can assume to be true. What is the sum of all the digits of the recurring decimal of 179 ? Please use a similar method as part (a). (15 marks)
+
+=== Year 2024 | Round 2 | Problem 15 | Page 9 ===
+Let F be the point of tangency of the incircle of the triangle ABC with AB, and let Z be an arbitrary point strictly between B and C, as shown in the diagram below. Let K and J be the point on the incircles of triangles BFZ and CAZ, respectively, such that KJ is the other exterior common tangent with these two circles. Prove that KJ is also a tangent of the incircle of triangle AFZ. *** A B J Z F C K
+
+=== Year 2025 | Round 1 | Problem 1 | Page 3 ===
+On an analogue clock, the hour hand is 5 cm long and the minute hand is 10 cm long. It is currently 6:00. After x minutes, the hour and minute hands will form two of the three sides of a right triangle (where the third side is the line segment that connects the tips of the hour and minute hands). If 0 x   , how many possible values of x are there? (A)1 (B)2 (C)3 (D)4 (E)5
+
+=== Year 2025 | Round 1 | Problem 2 | Page 3 ===
+Alice, Betty, Carl, David and Elva attend the same school. When walking alone, each person moves at a speed of 2.0 m per second. When walking in a group, their speed depends on the group size: any pair walks at 1.5 m/s, any trio at 1.0 m/s and any quartet at 0.5 m/s. One day, Alice and Betty leave the school together at 16:00:00, Carl at 16:01:00, David at 16:02:00 and Elva at 16:03:00. They all walk in the same direction along a straight road and whenever someone catches up with another, they join the group immediately. How far, in m, from the school will they be when all five of them are together? (A)520 (B)480 (C)360 (D)240 (E)120
+
+=== Year 2025 | Round 1 | Problem 3 | Page 3 ===
+As shown in the diagram below, ABC is a triangle, where AD, BE and CF are drawn from the vertices such that all three lines intersect at point O. If EO EB = and FO FC = , what is the value of DO DA ? (A)13 (B)7 (C)3 (D)3 (E)17
+
+=== Year 2025 | Round 1 | Problem 4 | Page 3 ===
+What is the maximum number of integers that can be selected from the twenty numbers {1, 2, 3, …, 20} such that the sum of any two distinct selected integers is not included among the selected integers? (A)9 (B)10 (C)11 (D)12 (E)13 A B C O F E D
+
+=== Year 2025 | Round 1 | Problem 5 | Page 4 ===
+As shown in the diagram below, ABC is a triangle where ABC BAC   = , AB = cm and AC = cm. If the perpendicular bisector of AC intersects line AB at point M, what is the length, in cm, of MB? (A)3 (B)3 (C)2 3 − (D)2 3 − (E)2 6
+
+=== Year 2025 | Round 1 | Problem 6 | Page 4 ===
+Which number from the following options is always a prime factor of p p −+ , for any prime number p ? (A)3 (B)7 (C)11 (D)13 (E)19
+
+=== Year 2025 | Round 1 | Problem 7 | Page 4 ===
+As shown in the diagram below, ABCD is a convex quadrilateral with diagonals intersecting at point P. The sum of the areas of triangles PAB and PCD equals the sum of the areas of triangles PAD and PCB. If Q is the midpoint of AC and Q does not coincide with P, what is the value of BP DP ? (A)1 (B)2 (C)3 (D)2 (E)1 A B C M A B C D P Q
+
+=== Year 2025 | Round 1 | Problem 8 | Page 5 ===
+How many integers N between 50 and 120, inclusive, can be expressed as the sum of two or more consecutive positive integers? (A)67 (B)68 (C)69 (D)70 (E)71
+
+=== Year 2025 | Round 1 | Problem 9 | Page 5 ===
+Each vertex of a convex quadrilateral lies on a different side of a 9 cm 9 cm  square, as shown in the diagram. What is the minimum possible perimeter, in cm, of the quadrilateral? (A)12 5 (B)18 2 (C)18 3 (D)4 41 (E)27 2
+
+=== Year 2025 | Round 1 | Problem 10 | Page 5 ===
+There are 100 distinct points on a line. The midpoint of every segment determined by any two of these points is painted red. What is the minimum number of red points? (A)1 (B)99 (C)197 (D)198 (E)4950
+
+=== Year 2025 | Round 1 | Problem 11 | Page 5 ===
+As shown in the diagram below, ABC is a triangle where AB AC = and the angle bisector of ABC  intersects AC at D. If BC BD AD = + , what is the measure, in degrees, of CBD  ? (A)15 (B)20 (C)24 (D)30 (E)40
+
+=== Year 2025 | Round 1 | Problem 12 | Page 5 ===
+What is the minimum possible value of x x x − + − for all real numbers x  ? (A)1 (B)1 (C)2 (D)13 (E)5 A B C D
+
+=== Year 2025 | Round 1 | Problem 13 | Page 6 ===
+A sequence consists of six distinct positive integers in strictly increasing order such that each term (excluding the first) is a multiple of the preceding term. If the sum of all six terms is 111, what is the smallest possible value of the largest term of the sequence? (A)88 (B)80 (C)72 (D)64 (E)56
+
+=== Year 2025 | Round 1 | Problem 14 | Page 6 ===
+Let the number N be + + + + . What is the remainder when N is divided by 2026? (A)0 (B)3 (C)8 (D)2024 (E)2025
+
+=== Year 2025 | Round 1 | Problem 15 | Page 6 ===
+Alex has a 10-faced die with the faces labelled from 1, 2, …, 10. The probability of each face appearing is proportional to its number, that is, the corresponding probabilities are in the ratio 1:2:3:4:5:6:7:8:9:10. If Alex rolls the die twice, what is the probability that the sum of the two rolls is 9? (A)9 (B)12 (C)24 (D)16 (E)24
+
+=== Year 2025 | Round 1 | Problem 16 | Page 6 ===
+There are k positive integers, not necessarily distinct, and one of which is 26. If the sum of their reciprocals is 1, what is the minimum possible value of k? (A)3 (B)4 (C)5 (D)14 (E)26
+
+=== Year 2025 | Round 1 | Problem 17 | Page 6 ===
+There are k distinct positive integers arranged in a circle such that product of any two adjacent integers is less than 2026. What is the maximum possible value of k? (A)91 (B)90 (C)89 (D)88 (E)87
+
+=== Year 2025 | Round 1 | Problem 18 | Page 6 ===
+What is the sum of all positive integers n  such that the sum of all distinct positive divisors of n equals 2 n −? (A)126 (B)127 (C)253 (D)254 (E)255
+
+=== Year 2025 | Round 1 | Problem 19 | Page 6 ===
+A perfect square greater than 1 is called a “good number” if it can be expressed as a sum of consecutive positive integers starting from 1. For example, 36 is a good number since = = + + + + + + + . Including 36, how many good numbers are less than or equal to 2025? (A)1 (B)2 (C)3 (D)4 (E)5
+
+=== Year 2025 | Round 1 | Problem 20 | Page 7 ===
+Consider a 5 4  grid, in which a 2 2  black square has already been placed in the top-left corner, as shown in the diagram below on the left. You are to place five 1 2  rectangles onto the remaining unoccupied cells. The rectangles must all be placed horizontally (no rotations allowed), aligned along the grid lines, and cannot overlap with each other or placed over any of the black squares. One valid arrangement is shown below on the right. How many such arrangements, including the given valid arrangement, are possible? (A)114 (B)120 (C)126 (D)132 (E)144
+
+=== Year 2025 | Round 1 | Problem 21 | Page 7 ===
+How many ordered pairs of real numbers (x, y), with 0 x   and 0 y  , are there such that both 3 x y + and 7 x y + are integers?
+
+=== Year 2025 | Round 1 | Problem 22 | Page 7 ===
+Let a and b be positive integers such that ab a b − + = , what is the minimum possible value of a b + ?
+
+=== Year 2025 | Round 1 | Problem 23 | Page 7 ===
+In triangle ABC, point D lies on AB, such that AD BC = . If ABC  =  and BAC  = , what is the measure, in degrees, of ACD  ? A B C D 96 30
+
+=== Year 2025 | Round 1 | Problem 24 | Page 8 ===
+A barcode starts and ends with a black stripe, and consists of alternating black and white stripes. One example of a barcode is shown in the diagram below. It is read from left to right, and each stripe (whether black or white) has a width of 1 mm or 2 mm. Let nb be the number of barcodes of length N n . If we have b = , b = and b = , what is the value of b ?
+
+=== Year 2025 | Round 1 | Problem 25 | Page 8 ===
+A byte consists of 8 binary bits, each of which is either 0 or 1. Among all = possible byte patterns, how many satisfy the condition that no three consecutive bits have the same value? For example, 00110101 satisfies the condition, but 01010001 and 01110010 do not. ＊＊＊ 1 1 1 b = 1 2 1 , 2 1 1 , 1 1 2 b = 2 2 1 , 1 2 2 , 1 1 1 1 1 , 2 1 2 b = A bar code of length n
+
+=== Year 2025 | Round 2 | Problem 1 | Page 3 ===
+Let a, b and c be positive integers such that a b c   , where 0 a b c   . The ordered triple (a, b, c) is called a Pythagorean triple. For example, (3, 4, 5) is a Pythagorean triple. How many Pythagorean triples (a, b, c) are there such that a b c    ? (A)1 (B)2 (C)3 (D)4 (E)5
+
+=== Year 2025 | Round 2 | Problem 2 | Page 3 ===
+Let O and O be two disjoint circles with integer radii R and r, in cm, respectively, where R r . The distance d, in cm, is the distance between the centres of O and O is also an integer. It is known that the length of each external common tangent of O and O is 504 cm, and the length of each internal common tangents of O and O is 408 cm. What is the value of d? (A)22 (B)23 (C)24 (D)25 (E)26
+
+=== Year 2025 | Round 2 | Problem 3 | Page 3 ===
+Consider the sequence of positive integers that are relatively prime to 210, arranged in increasing order. What is the 2026th term of this sequence? (A)8853 (B)8857 (C)8859 (D)8861 (E)8863 R r O O d
+
+=== Year 2025 | Round 2 | Problem 4 | Page 4 ===
+In the carnival game Break-A-Plate, a player throws five softballs at plates from a distance. If the player successfully breaks plates on any two consecutive throws among the five throws, the player wins a prize. Suppose that for each throw, Charlie has a 2 3 chance of breaking a plate, and that all throws are independent of each other, what is the probability that Charlie wins a prize? (A)128 (B)190 (C)192 (D)200 (E)225
+
+=== Year 2025 | Round 2 | Problem 5 | Page 4 ===
+Students are divided into many teams to participate in a contest in two different halls. If 120 students have exactly two teammates in the other hall, 160 students have at least one other teammate in each of the two halls and no three teammates are in the same hall, how many students have exactly one other teammate in each hall? (A)32 (B)40 (C)60 (D)64 (E)80
+
+=== Year 2025 | Round 2 | Problem 6 | Page 4 ===
+Remove the trailing zeros from 2025! and 2026! and let the resulting numbers be A and B, respectively. Let a and b be the remainders when A and B are divided by 100, respectively. What is the value of | | a b  ? Break-A-Plate
+
+=== Year 2025 | Round 2 | Problem 7 | Page 5 ===
+Let P be a point on the x-axis such that MPN  attains its maximum possible value, where point M is at ( 2 , 4) and point N is at (2, 8). What is the x-coordinate of P?
+
+=== Year 2025 | Round 2 | Problem 8 | Page 5 ===
+Let a and b be positive integers such that 1 a b   . If a  and b  , what is the minimum possible value of 1 a b  ?
+
+=== Year 2025 | Round 2 | Problem 9 | Page 5 ===
+As shown in the diagram below, AK, BL and CM are the angle bisectors of triangle ABC, with K lying on side BC. Points P and Q are on lines BL and CM, respectively, such that AP PK  and AQ QK  . If BAC   , what is the angle measure, in degrees, of PAQ  ? x y N (2, 8) M ( 2 , 4) P A L C B P M K Q
+
+=== Year 2025 | Round 2 | Problem 10 | Page 6 ===
+In three-dimensional space, ABC is an equilateral triangle with side length 1 cm. Let D be a point in space such that AD  cm and the lengths, in cm, of both BD and CD are integers. What is the sum of the lengths, in cm, of BD and CD?
+
+=== Year 2025 | Round 2 | Problem 11 | Page 6 ===
+What is the smallest positive integer y such that y  is a perfect square?
+
+=== Year 2025 | Round 2 | Problem 12 | Page 6 ===
+It is known that every positive integer n can be uniquely written as a sum of one or more non-consecutive Fibonacci numbers, F , F  , F  , F  , …, excluding F and 1F . For example, we can represent 30 as F F F      . Let na be the number of terms in the Fibonacci representation of n, for example, a  . What is the sum ... a a a    ?
+
+=== Year 2025 | Round 2 | Problem 13 | Page 6 ===
+How many non-empty subsets of the set {1, 2, 3, …, 11} contain no two consecutive numbers?
+
+=== Year 2025 | Round 2 | Problem 14 | Page 8 ===
+As shown in the diagram below, ABCD is a cyclic quadrilateral, where diagonals AC and BD intersect at M. Let N be the midpoint of the arc AD. If P and Q are the incentres of triangles ABM and CDM, respectively, and PN  cm, what is the length, in cm, of QN? cm A D C B P M N Q
+
+=== Year 2025 | Round 2 | Problem 15 | Page 9 ===
+Five cards, numbered 1 to 5, are arranged randomly in a row. They are sorted from smallest to largest using the “Bubble Sort” algorithm, which is defined as follows: starting from the left, compare the first two adjacent cards and swap them if the left card is bigger; then move one position to the right and repeat this process until reaching the end of the row. This procedure is repeated from the beginning until the cards are fully sorted. Count every swap made during the entire process. For example, the arrangement (4, 5, 3, 2, 1) requires 9 swaps to be fully sorted, as shown below: (4, 5, 3, 2, 1) → (4, 3, 5, 2, 1) → (4, 3, 2, 5, 1) → (4, 3, 2, 1, 5) → (3, 4, 2, 1, 5) → (3, 2, 4, 1, 5) → (3, 2, 1, 4, 5) → (2, 3, 1, 4, 5) → (2, 1, 3, 4, 5) → (1, 2, 3, 4, 5) How many initial arrangements require exactly 5 swaps to be fully sorted? initial arrangements ***
+

@@ -2,6 +2,7 @@
 # leaves of leaves_ks2 are reused with IMSO example problems (a KS2 leaf with no IMSO example is
 # left out), and IMSO-specific leaves are added after them.
 from leaves_ks2 import GROUP_VN, L as KS2_L, SUB_VN  # noqa: F401  (GROUP_VN/SUB_VN used by build.py)
+from leaves_util import merge_leaves
 
 # KS2 leaf id -> IMSO example problems
 EXAMPLES = {
@@ -213,11 +214,7 @@ NEW = {
 ],
 }
 
-L = {}
-for _sub, _leaves in KS2_L.items():
-    L[_sub] = []
-    for _j, (_title, _sign, _key, _ex) in enumerate(_leaves):
-        _imso = EXAMPLES.get(f"{_sub}-{chr(97 + _j)}")
-        if _imso:
-            L[_sub].append((_title, _sign, _key, _imso))
-    L[_sub].extend(NEW.get(_sub, []))
+L = merge_leaves(KS2_L, EXAMPLES, NEW)
+
+# All KS2 leaves followed by the IMSO-only ones: the base of the IMAS primary mind maps.
+KS2_WITH_IMSO = {sub: list(KS2_L.get(sub, [])) + list(NEW.get(sub, [])) for sub in SUB_VN}

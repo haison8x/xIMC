@@ -46,7 +46,7 @@ INSTRUCTION_RE = re.compile(r"Write (down )?your|answer sheet|minutes|index numb
                             r"Do not turn|Instructions", re.I)
 
 
-def split_sequences(lines, want):
+def split_sequences(lines, want, mark_re=MARK_RE):
     """Every "1" marker opens a candidate sequence, and every candidate parses the rest of
     the paper on its own: it accepts markers of the same style as its "1" ("1." / "1)" /
     "(1)") whose number is new and at most 3 past its highest (the layout sometimes prints
@@ -55,7 +55,7 @@ def split_sequences(lines, want):
     Returns sequences of [number, text-lines, start-page]."""
     open_seqs = []  # [style, seen, problems]
     for ln, page in lines:
-        m = MARK_RE.match(ln)
+        m = mark_re.match(ln)
         mark = (bool(m[1]), m[3].replace("．", "."), int(m[2])) if m else None
         if mark and mark[2] == 1:
             open_seqs.append([mark[:2], set(), []])
