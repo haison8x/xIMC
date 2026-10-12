@@ -79,8 +79,8 @@ footer.site a{color:var(--accent);font-weight:600}
     <section class="stage imso" aria-labelledby="h-map">
       <h2 id="h-map">Mindmap IMSO <span>2005–2025</span></h2>
       <div class="facts">
-        <div><b>864</b><small>bài toán (485 Short Answer, 238 Essay, 117 Exploration, 24 Taiwan vòng 1)</small></div>
-        <div><b>20</b><small>năm thi</small></div>
+        <div><b>908</b><small>bài toán (510 Short Answer, 251 Essay, 123 Exploration, 24 Taiwan vòng 1)</small></div>
+        <div><b>21</b><small>năm thi</small></div>
         <div><b>148</b><small>dạng bài, cùng 33 nhánh con với IMC KS2</small></div>
       </div>
       <div class="actions">
@@ -94,7 +94,7 @@ footer.site a{color:var(--accent);font-weight:600}
           <a href="imso_problems.txt">Toàn bộ đề (văn bản)</a>
         </div>
       </div>
-      <p class="note"><b>Lưu ý:</b> Năm 2005, 2008 và 2009 là đề tuyển chọn của Đài Loan (vòng 1 và vòng 2), kèm lời giải riêng cho từng đề. Không có đề năm 2024; năm 2015 không có đề Essay; năm 2025 chưa có đáp án.</p>
+      <p class="note"><b>Lưu ý:</b> Năm 2005, 2008 và 2009 là đề tuyển chọn của Đài Loan (vòng 1 và vòng 2), kèm lời giải riêng cho từng đề. Năm 2015 không có đề Essay; năm 2024 và 2025 chưa có đáp án.</p>
     </section>
 
     <section class="stage imso" aria-labelledby="h-papers">
@@ -131,7 +131,7 @@ const taiwan = (y, rounds) => {
   return out;
 };
 const ROWS = [
-  [2025, intl(2025)], [2023, intl(2023)], [2022, intl(2022)], [2021, intl(2021)], [2020, intl(2020)],
+  [2025, intl(2025)], [2024, intl(2024)], [2023, intl(2023)], [2022, intl(2022)], [2021, intl(2021)], [2020, intl(2020)],
   [2019, intl(2019)], [2018, intl(2018)], [2017, intl(2017)], [2016, intl(2016)], [2015, intl(2015)],
   [2014, intl(2014)], [2013, intl(2013)], [2012, intl(2012)], [2011, intl(2011)], [2010, intl(2010)],
   [2009, [...taiwan(2009, {ShortAnswer: [1, 2], Essay: [2], Exploration: [2]}), ["Đáp án IMSO 2009", `${D}Answers/IMSO_2009_Answers.pdf`, true]], "Taiwan"],

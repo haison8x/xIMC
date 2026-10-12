@@ -2458,6 +2458,138 @@ Place each of the numbers from 1 to 10 without repetition inside the empty circl
 === Year 2023 | Paper X | Problem 6 | Page 4 ===
 A 5 5  square grid with a unit square hole at the center can be cut along the grid lines into 4 congruent pieces (the same shape and size). (The hole in the center of the square allows each piece to have an area of 6 square units.) The following is one way to accomplish this. Sketch ALL other possible ways except for the example. Two ways are equivalent if one can be obtained from the other by applying a rotation or a reflection. End of The Problems
 
+=== Year 2024 | Paper S | Problem 1 | Page 2 ===
+The characters from the string “21IMSO2024” is to be written consecutively up until the 2024th character. 21IMSO202421IMSO2024 …   How many times will the digit “2” appear in the sequence of characters?
+
+=== Year 2024 | Paper S | Problem 2 | Page 2 ===
+The “IMSO Robot” is controlled by a gamepad with buttons    and . When  is pressed 1 time, the “IMSO Robot” will go 1 unit to the north,  is pressed 1 time, the “IMSO Robot” will go 1 unit to the south,  is pressed 1 time, the “IMSO Robot” will go 1 unit to the east,  is pressed 1 time, the “IMSO Robot” will go 1 unit to the west. Anna controls the “IMSO Robot” from A to B by pressing the buttons as follows:                            Now, Bob wants to control the “IMSO Robot” from B to A. What is the least number of times that Bob has to press the buttons?
+
+=== Year 2024 | Paper S | Problem 3 | Page 2 ===
+Annie is 22 years younger than Betty and Cindy is 6 years younger than Betty. The age difference between Diana and Elsa is 29 years. Diana is twice as old as Annie, and the sum of their ages is 54. Elsa is not older than Cindy. What is the sum of the ages of Betty, Cindy, and Elsa?
+
+=== Year 2024 | Paper S | Problem 4 | Page 2 ===
+In the diagram, the parallelogram ABCD is divided into 16 identical small parallelograms. The area of the shaded quadrilateral is 68 cm2. What is the area, in cm2, of the parallelogram ABCD?
+
+=== Year 2024 | Paper S | Problem 5 | Page 2 ===
+Yuan bought mangoes and melons at the market. The price of a mango is   of the price of a melon. At first, Yuan used   of his money to buy 6 melons and 2 mangoes. The following week, he used the rest of his money to buy 2 melons and some mangoes. How many mangoes did Yuan buy in the second week?
+
+=== Year 2024 | Paper S | Problem 6 | Page 3 ===
+In a TV show, four women (Ana, Bianca, Celine and Diana) and four men (Andrew, Ben, Chris and Daniel) are to be divided into four groups. Each group consists of a man and a woman. If Ana cannot be grouped with Ben, in how many different ways can we group them?
+
+=== Year 2024 | Paper S | Problem 7 | Page 3 ===
+Let M be a two-digit positive integer such that the greatest common divisor of M + 9, M + 35, and M + 74 is greater than 1. What is the sum of all possible values of M?
+
+=== Year 2024 | Paper S | Problem 8 | Page 3 ===
+Let a be a positive factor of 12 and b be a positive fraction where a > b and a + b = a b. What is the product of all possible values of b?
+
+=== Year 2024 | Paper S | Problem 9 | Page 3 ===
+Fifty students take a test with four questions. The numbers of students who correctly answer the questions are given in the following table: Question Number of students Q1 Q2 Q3 Q4 If no student can solve all questions, what is the largest possible number of students who solve both Q3 and Q4 correctly?
+
+=== Year 2024 | Paper S | Problem 10 | Page 3 ===
+In the diagram, ABC is a triangle. DE is parallel to BC and FE is parallel to DC. If AF = 4 cm and FD = 6 cm, what is the length, in cm, of DB?
+
+=== Year 2024 | Paper S | Problem 11 | Page 3 ===
+The sum of two three-digit numbers 7 and 38 is divisible by 18. What is the largest possible product of A and B?
+
+=== Year 2024 | Paper S | Problem 12 | Page 3 ===
+A team participating in the IMSO 2024 competition consists of six male and six female students. They will be staying in a dormitory consisting of six rooms in a row. Each room must be occupied by exactly two students of the same gender. Moreover, any two adjacent rooms must be occupied by students of different genders. In how many ways can they make such arrangements?
+
+=== Year 2024 | Paper S | Problem 13 | Page 4 ===
+Suppose that A is a 2024-digit number which is divisible by 225. What is the last three digits of the smallest possible number A?
+
+=== Year 2024 | Paper S | Problem 14 | Page 4 ===
+Inspector Daniel is investigating a crime. He apprehends three suspects: Anne, Bill, and Caroline. He knows that no one else could have participated in the crime. During the interrogation, each of the suspects make two statements: • Anne : I didn’t do it. Bill did it. • Bill : I didn’t do it. Caroline did it. • Caroline : I didn’t do it. Anne did it alone. Daniel also discovered that one of the suspects always tells the truth and the other two always give false statements. Who is the truth-teller?
+
+=== Year 2024 | Paper S | Problem 15 | Page 4 ===
+Let n, m and k be positive integers such that n + nm + nmk = 13. What is the sum of all possible value of k + km + kmn?
+
+=== Year 2024 | Paper S | Problem 16 | Page 4 ===
+Xiaoming wants to buy school supplies. The total number of pens, pencils and erasers that he wants to buy is 100. The price of one pen is 6 yuan, one pencil is 4 yuan and one eraser is 1 yuan. He spends exactly 200 yuan and buys at least one of each type. How many different combinations of the number of pens, pencils and erasers can he buy?
+
+=== Year 2024 | Paper S | Problem 17 | Page 4 ===
+Wei calculated the square and the cube of a positive integer. When she looked at the results, she noticed that all the digits from 1 to 8 had been used, each exactly once. What is the value of this positive integer?
+
+=== Year 2024 | Paper S | Problem 18 | Page 4 ===
+In the diagram, the ratio of the width and the length of the rectangle is 1 : 4. The ratio of the radius of the semicircle to the radius of the biggest circle to the radius of the grey circle to the radius of the two smallest circles is 8 : 4 : 2 : 1. If the area of the rectangle is 1024 cm2, What is the total area, in cm2, of the shaded regions? (Use # $ 3.14&
+
+=== Year 2024 | Paper S | Problem 19 | Page 5 ===
+How many numbers between 2024 and 20240 which contain exactly two consecutive 9’s are there? For example: 2099 and 9929 are included, but not 9295 or 1999.
+
+=== Year 2024 | Paper S | Problem 20 | Page 5 ===
+Huang took a test and answered all the questions. The test consists of questions from three subjects: Algebra, Geometry and Combinatorics. It turned out that he correctly answered:  67.5% of the Algebra questions,  86% of the Geometry questions,  80% of the Combinatorics questions,  70% of the questions on the subjects of Algebra and Combinatorics and  85% of the questions on the subjects of Geometry and Combinatorics. What is the percentage of correct answers from all the questions?
+
+=== Year 2024 | Paper S | Problem 21 | Page 5 ===
+How many numbers with 5 distinct non-zero digits are there that are divisible by 3?
+
+=== Year 2024 | Paper S | Problem 22 | Page 5 ===
+Each of the places between the numbers below must be filled with one of the operational signs: ', ), , * without repetition. No parentheses are allowed. 1__2__3__4__5 $ - Let ⌊-⌋ denote the greatest integer not exceeding -. For example: ⌊3.74⌋$ 3, ⌊)3.14⌋$ )4. What is the greatest possible value for ⌊-⌋?
+
+=== Year 2024 | Paper S | Problem 23 | Page 5 ===
+In how many distinct ways can the letters in the word "SCIENCE" be arranged such that no two identical letters are adjacent?
+
+=== Year 2024 | Paper S | Problem 24 | Page 5 ===
+In the diagram, the side length of the regular octagon is 20 cm. What is the area, in cm2, of the shaded region?
+
+=== Year 2024 | Paper S | Problem 25 | Page 5 ===
+What is the simplest form of the following fraction 2 ' 2 3 ' 3 4 '. . . ' 2022 2023 ' 2023 1 ' 2023 2 ' 2022 3 '. . . ' 2 2023 ' 1 2024 ? - End of Short Answer Problems -
+
+=== Year 2024 | Paper E | Problem 1 | Page 2 ===
+Xiaoming writes down all the perfect square numbers continuously, starting from 1, in increasing order from left to right, one after the other as shown: 1491625364964… Which digit is located in the 121st place starting from the left? Name: Country:
+
+=== Year 2024 | Paper E | Problem 2 | Page 3 ===
+How many isosceles triangles are there which all side lengths are integers less than 10? Name: Country:
+
+=== Year 2024 | Paper E | Problem 3 | Page 4 ===
+A four-digit number is said to be nice if it satisfies the following conditions:  all the digits are distinct,  the number is divisible by 6,  the digits are in descending order from left to right,  the number is greater than 9000 but less than 10000. How many nice numbers are there? Name: Country:
+
+=== Year 2024 | Paper E | Problem 4 | Page 5 ===
+Tom and Jerry play a game. They alternately take some marble(s) out of a box containing 2024 marbles, starting with Tom. In each turn, each player must take 2m marble(s) from the box, where m is a non-negative integer, i.e., m = 0, 1, 2, 3, ... . For example, a player may take 1 marble, 4 marbles or 32 marbles, but cannot take 10 marbles, because 10 is not a power of 2. The player who takes the last marble(s) from the box wins the game. Determine who has a winning strategy and explain the winning strategy. Name: Country:
+
+=== Year 2024 | Paper E | Problem 5 | Page 6 ===
+In the diagram, ABC is a right-angled triangle at A, such that AB = 8 cm, AC = 12 cm and M is the midpoint of AC. Let N be a point on BC such that BN = 2NC. What is the length, in cm, of MN? B N C A M Name: Country:
+
+=== Year 2024 | Paper E | Problem 6 | Page 7 ===
+Nala has six cards. All the numbers on the cards are consecutive two-digit factors of the product 2023 × 2024 × 2025. He selects the minimum number of cards where the sum of all digits is 21. He arranges all the selected cards in a line to form a bigger number. What is the second largest number that Nala can form? Name: Country:
+
+=== Year 2024 | Paper E | Problem 7 | Page 8 ===
+Tony has two water tanks, each has a capacity of 1234 liters. At the beginning, Tank Red is full of water, while Tank Blue is empty. Tony accepts the challenge from his friend that for each turn, he can do one of the following options:  Option A: Pour 1 liter of water from Tank Red to Tank Blue,  Option B: Drain out the water from Tank Red out with the same volume as the volume of water in Tank Blue at that time. What is the minimum number of turns that Tony takes such that the amount of water in Tank Red will be the same as that in Tank Blue? Name: Country:
+
+=== Year 2024 | Paper E | Problem 8 | Page 9 ===
+In the diagram, ABCD is a quadrilateral where ∠  90°, AB = 9, BC = 12, CD = 39 and DA = 36. Circle M is tangent to each side of △ABC, and circle N is tangent to each side of △ACD. What is the ratio of the radius of circle N to the radius of circle M? Name: Country: greatest sum =_____________ smallest sum =_____________
+
+=== Year 2024 | Paper E | Problem 9 | Page 10 ===
+A 55 table is called a UCAS table if it satisfies the following conditions:  Each cell is coloured with grey or white,  Any two adjacent cells (sharing an edge) must have different colours,  The 25 cells are filled with 25 consecutive integers, which must include 2024,  The numbers in any two adjacent cells (sharing an edge) must have different parity (cannot be both odd or both even). Now, your tasks are to: a. Construct a UCAS table which gives the greatest possible sum of all integers in the shaded cells. What is the sum? b. Construct a UCAS table which gives the smallest possible sum of all integers in the shaded cells. What is the sum? a. b. Name: Country:
+
+=== Year 2024 | Paper E | Problem 10 | Page 11 ===
+The IMSO ROBOT stands at box 1 in a path with 15 boxes that are arranged in a line as shown in the diagram below. In each turn, the IMSO ROBOT can only move 1, 2 or 3 step(s) to the right. So, in the first turn, the IMSO ROBOT can either move one step to land into box 2, two steps to land into box 3 or three steps to land into box 4. If the IMSO ROBOT cannot land outside of the boxes, what is the total number of ways to move the IMSO ROBOT to land into box 15? Name: Country:
+
+=== Year 2024 | Paper E | Problem 11 | Page 12 ===
+Let S = 11 + 22 + 33 + 44 + .... + 20232023 + 20242024. What is the unit digit of S? Name: Country:
+
+=== Year 2024 | Paper E | Problem 12 | Page 13 ===
+In the diagram, 72 dots lie in 3 rows and 24 columns. The distance between consecutive rows and the consecutive columns are equal. In how many ways can we draw a straight line passing through at least 3 dots? Name: Country:
+
+=== Year 2024 | Paper E | Problem 13 | Page 14 ===
+In the diagram, ABC is a right-angled triangle at A and ∠ABC = 60°. On side AC, point D is taken such that ∠ABD = 20°. On ray BD, point K is taken such that DK = BC. What is the measure, in degrees, of∠KCB? B C A K D
+
+=== Year 2024 | Paper X | Problem 1 | Page 2 ===
+Fill in the 4×16 grid by using the sixteen 2×2 tiles given below. Each tile can be used only once. Furthermore, the sum of numbers in each column of the grid must match the number at the bottom of that column and the sums of the numbers in each row are given at the right end of corresponding rows. What are the numbers of the tiles that represent [C], [H], [I], [N], [A]?
+
+=== Year 2024 | Paper X | Problem 2 | Page 2 ===
+a. Use exactly 2 pieces for each of the following tetrominoes to cover the 4×10 grid without overlapping. 12 13 12 15 16 28 25 23 15 17 17 25 12 29 14 24 C H I N A b. Use exactly 4 pieces for each of the following tetrominoes to cover the 5×16 grid without overlapping.
+
+=== Year 2024 | Paper X | Problem 3 | Page 3 ===
+A standard set of dominoes consists of 28 pieces, marked respectively 6-6, 6-5, 6-4, 6-3, 6-2, 6-1, 6-0, 5-5, 5-4, 5-3, 5-2, 5-1, 5-0, 4-4, 4-3, 4-2, 4-1, 4-0, 3-3, 3-2, 3-1, 3-0, 2-2, 2-1, 2-0, 1-1, 1-0, 0-0. a. In the left diagram below, one standard set of dominoes is laid out in an 8×8 grid. Use a pencil to mark the position of the dominoes. You may find a check box in the right diagram below helpful; cross out each domino you have found. To start off, the 0-0 domino has already been marked. x b. The bold lines indicate the position of each domino. The numbers which are located at the side of each row and at the bottom of each column are the numbers that must be placed in the corresponding row and column (not necessarily in the given order). In each horizontal domino, the smaller number is always on the right. In each vertical domino, the smaller number is always on the top. Given that each of the dominoes in the coloured tiles has two equal numbers. Complete the 8×8 grid with the suitable dominoes.
+
+=== Year 2024 | Paper X | Problem 4 | Page 4 ===
+In the diagram, an arrow must be placed in each of the 16 outer squares, vertically, horizontally or 45 degrees diagonally pointing inside to the bold-bordered grid. The numbers in each square inside the bold-bordered grid represent the number of arrows pointing to such square. Write down all the arrows correctly and find the five-digit number GREAT if G, R, E, A and T are 5 missing numbers inside the bold border as shown in the figure. 6 6 5 4 4 4 2 1 6 4 4 3 2 2 1 0 6 6 5 3 2 1 1 0 5 4 4 3 2 1 1 0 5 5 5 3 3 0 0 0 6 6 4 2 1 1 0 0 6 5 5 3 3 3 2 1
+
+=== Year 2024 | Paper X | Problem 5 | Page 5 ===
+In the diagram, a 33 grid is shown. Andy wants to shade some cells so that no two shaded cells share an edge. How many ways to shade: a. fewer than 3 cells b. 3 or 4 cells c. more than 4 cells are there?
+
+=== Year 2024 | Paper X | Problem 6 | Page 5 ===
+Given a 55 square board with a missing center square (marked black in the diagram below). The white knight moves in an L-shape. (In the given 32 rectangle, a knight can move from A to C, C to A, B to D or D to B). Starting from the top left square of the board (Square 1), list every possible route by writing the numbers on the squares that the white knight passes through in order. (A route is a sequence of moves that passes through every square, each of them exactly once). End of the Exploration Problems
+
 === Year 2025 | Paper S | Problem 1 | Page 2 ===
 There is a coin machine. Each time somebody use it, the machine doubles the number of inserted coins and then automatically deducts 3 coins as a fee before returning them. Siti uses the machine three times in a row, always inserting in all the coins she has. After the third use, she ends up with 35 coins. How many coins does Siti have at first?
 
