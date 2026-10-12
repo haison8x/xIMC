@@ -112,7 +112,10 @@ footer.site a{color:var(--accent);font-weight:600}
 details.prob .links{display:flex;flex-wrap:wrap;gap:6px 16px;padding:0 12px 11px}
 details.prob .links a{font-size:13px;font-weight:600;color:var(--bc,var(--accent))}
 .seg{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
-.seg>span{font-size:12px;font-weight:600;color:var(--muted)}
+.seg>span,.seg>label{font-size:12px;font-weight:600;color:var(--muted)}
+.seg select{font:inherit;font-size:13px;font-weight:500;color:var(--ink);background:var(--sheet);border:1.5px solid var(--line);border-radius:999px;padding:5px 10px;cursor:pointer}
+.seg select:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.seg select.on{border-color:var(--ink)}
 details.more>summary{cursor:pointer;font-size:13px;font-weight:600;color:var(--muted);padding:4px 0}
 .scrim{position:fixed;inset:0;background:rgba(10,20,15,.28);opacity:0;pointer-events:none;transition:opacity .2s;z-index:15}
 .scrim.on{opacity:1;pointer-events:auto}
@@ -147,6 +150,10 @@ details.more>summary{cursor:pointer;font-size:13px;font-weight:600;color:var(--m
     <div class="seg" role="group" aria-label="Loại đề">
       <span>Loại đề</span>
       <button class="chip" data-k="all" aria-pressed="true">Tất cả</button>
+    </div>
+    <div class="seg">
+      <label for="yearFrom">Năm</label>
+      <select id="yearFrom"><option value="0">Tất cả các năm</option></select>
     </div>
     <button class="chip" id="expand">Mở tất cả</button>
     <button class="chip" id="collapse">Thu gọn</button>
@@ -189,6 +196,7 @@ let state = {m:{}, n:{}};
 let store = null;       // {save(state)} once connected
 let filter = "all";
 let kindF = "all";      // problem-paper filter: all / I (individual) / T (team)
+let yearF = 0;          // only problems from this year on (0 = every year)
 let current = null;
 
 // ---------- persistence ----------
@@ -311,7 +319,7 @@ function refresh(){
 }
 
 // ---------- drawer ----------
-const kindOk = id => kindF==="all" || (DATA.probs[id]&&DATA.probs[id].k)===kindF;
+const kindOk = id => { const p=DATA.probs[id]; return !!p && (kindF==="all" || p.k===kindF) && p.y>=yearF; };
 function link(text, href){ const a=el("a",null,text); a.href=href; a.target="_blank"; a.rel="noopener"; return a; }
 function probItem(id){
   const p=DATA.probs[id]||{t:"(không tìm thấy đề)",k:"",kn:"",y:id.split("-")[0],p:1,f:"",fl:"",a:""};
@@ -334,7 +342,7 @@ function openLeaf(id){
   $("#dTitle").textContent=l.t; $("#dSign").textContent=l.sign; $("#dKey").textContent=l.key;
   const exs=l.ex.filter(kindOk);
   const ex=$("#dEx"); ex.textContent=""; exs.forEach((p,i)=>{ const it=probItem(p); if(i===0) it.open=true; ex.appendChild(it); });
-  if(!exs.length) ex.appendChild(el("p","sign","Dạng này chưa có bài mẫu thuộc loại đề đang lọc."));
+  if(!exs.length) ex.appendChild(el("p","sign","Dạng này chưa có bài mẫu thỏa bộ lọc loại đề và năm đang chọn."));
   const others=l.s.probs.filter(p=>!l.ex.includes(p) && kindOk(p));
   $("#dMoreSum").textContent=`Các bài khác trong nhánh ${l.s.id} (${others.length})`;
   const mo=$("#dMore"); mo.textContent=""; others.forEach(p=>mo.appendChild(probItem(p)));
@@ -370,10 +378,19 @@ if(!SHOW_PDF) $("#home").hidden=true;
 document.querySelectorAll(".chip[data-k]").forEach(c=>c.onclick=()=>{
   kindF=c.dataset.k; document.querySelectorAll(".chip[data-k]").forEach(x=>x.setAttribute("aria-pressed",String(x===c)));
   refresh(); if(current) openLeaf(current); });
+// year filter: older papers are often too easy, so the viewer can study only recent years
+{ const sel=$("#yearFrom"), years=[...new Set(Object.values(DATA.probs).map(p=>p.y))].sort((a,b)=>a-b);
+  years.slice(1).forEach(y=>{ const o=el("option",null,`Từ ${y} trở đi`); o.value=y; sel.appendChild(o); });
+  try{ const saved=+localStorage.getItem(LS_KEY+"-year"); if(years.includes(saved)) yearF=saved; }catch(e){}
+  sel.value=String(yearF); sel.classList.toggle("on",yearF>0);
+  sel.onchange=()=>{ yearF=+sel.value; sel.classList.toggle("on",yearF>0);
+    try{ localStorage.setItem(LS_KEY+"-year",String(yearF)); }catch(e){}
+    refresh(); if(current) openLeaf(current); }; }
 $("#expand").onclick=()=>setAll(true); $("#collapse").onclick=()=>setAll(false);
 $("#random").onclick=()=>{
-  let pool=leaves.filter(l=>mOf(l.id)==="r"); if(!pool.length) pool=leaves.filter(l=>mOf(l.id)==="y");
-  if(!pool.length) pool=leaves.filter(l=>!mOf(l.id)); if(!pool.length) pool=leaves;
+  const live=leaves.filter(l=>l.s.probs.some(kindOk));   // skip types with no problem under the filters
+  let pool=live.filter(l=>mOf(l.id)==="r"); if(!pool.length) pool=live.filter(l=>mOf(l.id)==="y");
+  if(!pool.length) pool=live.filter(l=>!mOf(l.id)); if(!pool.length) pool=live.length?live:leaves;
   openLeaf(pool[Math.floor(Math.random()*pool.length)].id);
 };
 
