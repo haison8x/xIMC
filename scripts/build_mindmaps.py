@@ -1,11 +1,13 @@
-"""Build the study mind maps: keystage2_mindmap.html, keystage3_mindmap.html (IMC) and
-imso_mindmap.html (IMSO).
+"""Build the study mind maps: mindmaps/keystage2.html, mindmaps/keystage3.html (IMC) and
+mindmaps/imso.html (IMSO).
 
-Usage:  python tools/build.py
-Inputs: the problems files (via categorize.load / categorize_imso.load), leaves_*.py, template.html
-Also rewrites keystage{2,3}_categories.txt and imso_categories.txt.
+Usage:  python scripts/build_mindmaps.py
+Inputs: the problems files (via categorize.load / categorize_imso.load), leaves_*.py,
+        mindmap_template.html
+Also rewrites data/keystage{2,3}_categories.txt and data/imso_categories.txt.
 """
 import json
+import os
 import re
 import sys
 from pathlib import Path
@@ -17,16 +19,17 @@ import categorize_imso  # noqa: E402
 import leaves_imso  # noqa: E402
 import leaves_ks2  # noqa: E402
 import leaves_ks3  # noqa: E402
+from paths import MINDMAPS, ROOT  # noqa: E402
 
 IMC_HOME = dict(home="ximc.html", home_label="Ôn luyện IMC")
 PAGES = {
-    "ks2": dict(src=categorize, stage="ks2", leaves=leaves_ks2, out="keystage2_mindmap.html",
+    "ks2": dict(src=categorize, stage="ks2", leaves=leaves_ks2, out="keystage2.html",
                 title="Bản đồ ôn IMC KS2", h1="Bản đồ ôn IMC Key Stage 2", root="IMC KS2",
                 ls_key="imc-ks2-map", doc="ks2map", **IMC_HOME),
-    "ks3": dict(src=categorize, stage="ks3", leaves=leaves_ks3, out="keystage3_mindmap.html",
+    "ks3": dict(src=categorize, stage="ks3", leaves=leaves_ks3, out="keystage3.html",
                 title="Bản đồ ôn IMC KS3", h1="Bản đồ ôn IMC Key Stage 3", root="IMC KS3",
                 ls_key="imc-ks3-map", doc="ks3map", **IMC_HOME),
-    "imso": dict(src=categorize_imso, stage="imso", leaves=leaves_imso, out="imso_mindmap.html",
+    "imso": dict(src=categorize_imso, stage="imso", leaves=leaves_imso, out="imso.html",
                  title="Bản đồ ôn IMSO", h1="Bản đồ ôn IMSO Toán", root="IMSO",
                  ls_key="imso-map", doc="imsomap", home="imso.html", home_label="Ôn luyện IMSO"),
 }
@@ -64,9 +67,12 @@ def build(name):
     if problems:
         raise SystemExit("\n".join(problems))
 
+    # Paths are relative to the repo root; the page lives in mindmaps/, so link from there.
+    rel = lambda path: path and Path(os.path.relpath(ROOT / path, MINDMAPS)).as_posix()
     data = dict(groups=groups, kinds=src.KINDS,
                 probs={p["id"]: dict(t=p["text"], k=p["kind"], kn=p["kind_name"], y=p["year"], p=p["page"],
-                                     f=p["file"], fl=p["file_label"], a=p["answer"], al=p["answer_label"])
+                                     f=rel(p["file"]), fl=p["file_label"], a=rel(p["answer"]),
+                                     al=p["answer_label"])
                        for p in probs})
     years = sorted({p["year"] for p in probs})
     lower = getattr(src, "LOWER_KIND_NAMES", True)  # "345 cá nhân" but "485 Short Answer"
@@ -74,9 +80,9 @@ def build(name):
                         if any(p["kind"] == k for p in probs))
     sub = f"{len(probs)} bài ({counts}) · {years[0]}–{years[-1]}"
 
-    html = (HERE / "template.html").read_text(encoding="utf-8")
+    html = (HERE / "mindmap_template.html").read_text(encoding="utf-8")
     for k, v in {"__TITLE__": cfg["title"], "__H1__": cfg["h1"], "__SUB__": sub, "__ROOT__": cfg["root"],
-                 "__KEY__": cfg["ls_key"], "__DOC__": cfg["doc"], "__HOME__": cfg["home"],
+                 "__KEY__": cfg["ls_key"], "__DOC__": cfg["doc"], "__HOME__": rel(cfg["home"]),
                  "__HOME_LABEL__": cfg["home_label"]}.items():
         html = html.replace(k, v)
     html = html.replace("__DATA__", json.dumps(data, ensure_ascii=False).replace("</", "<\\/"))
@@ -85,7 +91,7 @@ def build(name):
         raise SystemExit(f"unfilled placeholders: {left}")
     # The template is body content (the claude.ai artifact viewer adds its own skeleton);
     # a standalone page needs the document head, or browsers guess the wrong charset.
-    out = categorize.ROOT / cfg["out"]
+    out = MINDMAPS / cfg["out"]
     out.write_text(HEAD + html + "\n</body>\n</html>\n", encoding="utf-8")
     n_leaves = sum(len(s["leaves"]) for g in groups for s in g["subs"])
     print(f"{out.name}: {len(probs)} problems, {n_leaves} leaves")

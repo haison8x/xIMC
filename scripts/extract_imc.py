@@ -1,8 +1,8 @@
 """Extract the problems of every IMC past paper PDF into one text file per keystage.
 
-Input  (next to this script): keystage{2,3}/{year}.pdf and {year}_team.pdf
-Output (next to this script): keystage{2,3}_problems.txt       (Individual papers)
-                              keystage{2,3}_team_problems.txt  (Team papers)
+Input:  papers/imc/keystage{2,3}/{year}.pdf and {year}_team.pdf
+Output: data/keystage{2,3}_problems.txt       (Individual papers)
+        data/keystage{2,3}_team_problems.txt  (Team papers)
 
 Each problem is written as:
     === Year 2012 | Problem 3 | Page 1 ===   (Section A / B problems: "Problem B2";
@@ -19,7 +19,8 @@ from pathlib import Path
 
 import pymupdf
 
-ROOT = Path(__file__).parent
+from paths import DATA, IMC_PAPERS
+
 KEYSTAGES = ["keystage2", "keystage3"]
 
 PROBLEM_RE = re.compile(r"^\s*(?:[QT]\s*)?(\d{1,2})\s*[.．]\s*(.*)$")
@@ -112,11 +113,11 @@ def write_problems(ks: str, suffix: str, out_name: str):
     """Extract all {year}{suffix}.pdf of a keystage into one text file."""
     pdfs = [
         p
-        for p in (ROOT / ks).glob(f"*{suffix}.pdf")
+        for p in (IMC_PAPERS / ks).glob(f"*{suffix}.pdf")
         if p.stem[: len(p.stem) - len(suffix)].isdigit()
     ]
     pdfs.sort(key=lambda p: p.stem)
-    out_path = ROOT / out_name
+    out_path = DATA / out_name
     total = 0
     with out_path.open("w", encoding="utf-8") as fh:
         for pdf in pdfs:

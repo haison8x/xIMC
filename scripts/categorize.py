@@ -1,16 +1,16 @@
 """Classify every extracted IMC problem (Individual + Team) into 8 groups / 33 sub-groups.
 
-Reads   keystage{2,3}_problems.txt and keystage{2,3}_team_problems.txt (from extract-imc-problems.py)
-Writes  keystage{2,3}_categories.txt
+Reads   data/keystage{2,3}_problems.txt and data/keystage{2,3}_team_problems.txt (from extract_imc.py)
+Writes  data/keystage{2,3}_categories.txt
 
 Problem ids:  Individual  2015-3 (KS2) / 2015-A3 (KS3)      Team  2015-T3
 The classification itself is the hand-made table in STAGES below: one sub-group code per
 problem, listed per year in the same order as the problems file.
 """
 import re
-from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+from paths import DATA, IMC_PAPERS, ROOT
+
 HEADER_RE = re.compile(r"=== Year (\d+) \| Problem (\w+)(?: \| Page (\d+))? ===\n(.*?)(?=\n=== Year|\Z)", re.S)
 
 STAGES = {
@@ -235,7 +235,7 @@ def read_problems(path, kind):
 def load(stage):
     """Return (problems in file order, {id: sub-group code}, stage table)."""
     cfg, d = STAGES[stage], DIRS[stage]
-    probs = read_problems(ROOT / f"{d}_problems.txt", "I") + read_problems(ROOT / f"{d}_team_problems.txt", "T")
+    probs = read_problems(DATA / f"{d}_problems.txt", "I") + read_problems(DATA / f"{d}_team_problems.txt", "T")
     assign = {}
     for kind, table in (("I", cfg["individual"]), ("T", cfg["team"])):
         for year, codes in table.items():
@@ -250,12 +250,13 @@ def load(stage):
     missing = [p["id"] for p in probs if p["id"] not in assign]
     if missing:
         raise SystemExit(f"{stage}: unclassified problems {missing[:10]}")
+    pdf = lambda name: (IMC_PAPERS / d / name).relative_to(ROOT).as_posix()
     for p in probs:
         team = p["kind"] == "T"
         p.update(kind_name="Đồng đội" if team else "Cá nhân",
-                 file=f"{d}/{p['year']}{'_team' if team else ''}.pdf",
+                 file=pdf(f"{p['year']}{'_team' if team else ''}.pdf"),
                  file_label=f"Đề {'đồng đội' if team else 'cá nhân'} {p['year']}",
-                 answer=f"{d}/{p['year']}_answer.pdf", answer_label=f"Đáp án {p['year']}")
+                 answer=pdf(f"{p['year']}_answer.pdf"), answer_label=f"Đáp án {p['year']}")
     return probs, assign, cfg
 
 
@@ -297,7 +298,7 @@ def write_categories(stage):
             for p in by.get(k, []):
                 t = p["text"][:110] + ("..." if len(p["text"]) > 110 else "")
                 L.append(f"  {p['id']:<9} {t}")
-    out = ROOT / f"{d}_categories.txt"
+    out = DATA / f"{d}_categories.txt"
     out.write_text("\n".join(L) + "\n", encoding="utf-8")
     print(f"{out.name}: {len(probs)} problems")
 

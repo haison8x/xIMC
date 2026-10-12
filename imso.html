@@ -84,14 +84,14 @@ footer.site a{color:var(--accent);font-weight:600}
         <div><b>148</b><small>dạng bài, cùng 33 nhánh con với IMC KS2</small></div>
       </div>
       <div class="actions">
-        <a class="btn main" href="imso_mindmap.html">Mở mindmap</a>
-        <a class="btn" href="keystage2_mindmap.html">Mindmap IMC KS2 (cùng cấp)</a>
+        <a class="btn main" href="mindmaps/imso.html">Mở mindmap</a>
+        <a class="btn" href="mindmaps/keystage2.html">Mindmap IMC KS2 (cùng cấp)</a>
       </div>
       <div>
         <p class="lbl">Dữ liệu</p>
         <div class="files">
-          <a href="imso_categories.txt">Bảng phân loại</a>
-          <a href="imso_problems.txt">Toàn bộ đề (văn bản)</a>
+          <a href="data/imso_categories.txt">Bảng phân loại</a>
+          <a href="data/imso_problems.txt">Toàn bộ đề (văn bản)</a>
         </div>
       </div>
       <p class="note"><b>Lưu ý:</b> Năm 2005, 2008 và 2009 là đề tuyển chọn của Đài Loan (vòng 1 và vòng 2), kèm lời giải riêng cho từng đề. Năm 2015 không có đề Essay; năm 2024 và 2025 chưa có đáp án.</p>
@@ -111,7 +111,7 @@ footer.site a{color:var(--accent);font-weight:600}
 </div>
 <script>
 // One row per year: [label, path] for each paper; answer links are drawn dashed.
-const D = "IMSO/";
+const D = "papers/imso/";
 const intl = y => [
   ["Short Answer", `${D}ShortAnswer/IMSO_${y}_ShortAnswer.pdf`],
   ...(y === 2015 ? [] : [["Essay", `${D}Essay/IMSO_${y}_Essay.pdf`]]),

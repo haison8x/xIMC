@@ -1,7 +1,7 @@
 """Extract the mathematics problems of every IMSO paper PDF into one text file.
 
-Input  (next to this script): IMSO/{ShortAnswer,Essay,Exploration}/IMSO_{year}_{Paper}[_Taiwan[-RoundN]].pdf
-Output (next to this script): imso_problems.txt
+Input:  papers/imso/{ShortAnswer,Essay,Exploration}/IMSO_{year}_{Paper}[_Taiwan[-RoundN]].pdf
+Output: data/imso_problems.txt
 
 Each problem is written as:
     === Year 2013 | Paper S | Problem 5 | Page 3 ===
@@ -13,18 +13,11 @@ stored under the normal codes.
 
 Requires: pip install pymupdf
 """
-import importlib.util
 import re
 import sys
-from pathlib import Path
 
-ROOT = Path(__file__).parent
-IMSO = ROOT / "IMSO"
-
-# Reuse the line cleaning / problem splitting of the IMC extractor.
-_spec = importlib.util.spec_from_file_location("imc_extract", ROOT / "extract-imc-problems.py")
-imc = importlib.util.module_from_spec(_spec)
-_spec.loader.exec_module(imc)
+import extract_imc as imc  # reuse the line cleaning / problem splitting of the IMC extractor
+from paths import DATA, IMSO_PAPERS as IMSO
 
 FILE_RE = re.compile(r"IMSO_(\d{4})_(ShortAnswer|Essay|Exploration)(?:_Taiwan(?:-Round(\d))?)?\.pdf$")
 PAPER_CODE = {"ShortAnswer": "S", "Essay": "E", "Exploration": "X"}
@@ -92,7 +85,7 @@ def extract(pdf, want):
 
 
 def main():
-    out = ROOT / "imso_problems.txt"
+    out = DATA / "imso_problems.txt"
     total = 0
     with out.open("w", encoding="utf-8") as fh:
         for year, code, taiwan, pdf in papers():

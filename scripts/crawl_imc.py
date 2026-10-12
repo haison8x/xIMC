@@ -1,8 +1,8 @@
 """Download IMC (Chiuchang) past papers and sort them by keystage.
 
-Output layout (next to this script):
-    keystage2/{year}.pdf
-    keystage3/{year}.pdf
+Output layout:
+    papers/imc/keystage2/{year}.pdf
+    papers/imc/keystage3/{year}.pdf
 
 Per year and keystage three files are saved:
     {year}.pdf          Individual paper
@@ -13,12 +13,12 @@ import argparse
 import re
 import sys
 import urllib.request
-from pathlib import Path
 from urllib.parse import urljoin
+
+from paths import IMC_PAPERS
 
 PAGE_URL = "https://chiuchang.org/imc/en/%e6%ad%b7%e5%b1%86%e8%a9%a6%e9%a1%8c/"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
-OUT_DIR = Path(__file__).parent
 
 # One regex walks the page in order: <h2> year, <h3> keystage, <a> paper link.
 TOKEN_RE = re.compile(
@@ -73,7 +73,7 @@ def main():
     for year, keystage, kind, url in parse_papers(html):
         if kind not in wanted:
             continue
-        dest = OUT_DIR / keystage / wanted[kind].format(year=year)
+        dest = IMC_PAPERS / keystage / wanted[kind].format(year=year)
         if dest.exists():
             skipped += 1
             continue

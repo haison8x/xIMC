@@ -1,8 +1,8 @@
 """Classify every extracted IMSO mathematics problem into the 8 groups / 33 sub-groups used
 for IMC Key Stage 2 (see categorize.py).
 
-Reads   imso_problems.txt (from extract-imso-problems.py)
-Writes  imso_categories.txt
+Reads   data/imso_problems.txt (from extract_imso.py)
+Writes  data/imso_categories.txt
 
 Problem ids:  2013-S5 (Short Answer), 2013-E5 (Essay), 2013-X5 (Exploration),
               2008-Q5 (Short Answer, Taiwan first round; 2005/2008/2009 are Taiwan papers)
@@ -13,9 +13,7 @@ import re
 from pathlib import Path
 
 import categorize
-
-ROOT = categorize.ROOT
-IMSO = ROOT / "IMSO"
+from paths import DATA, IMSO_PAPERS as IMSO, ROOT
 HEADER_RE = re.compile(r"=== Year (\d+) \| Paper (\w) \| Problem (\d+) \| Page (\d+) ===\n(.*?)(?=\n=== Year|\Z)", re.S)
 
 # Paper types shown as filter chips in the mind map: (code, name), the first is the default.
@@ -147,7 +145,7 @@ def load(stage="imso"):
     categorize.load, using the Key Stage 2 groups and sub-groups."""
     tax = categorize.STAGES["ks2"]
     probs = []
-    for m in HEADER_RE.finditer((ROOT / "imso_problems.txt").read_text(encoding="utf-8")):
+    for m in HEADER_RE.finditer((DATA / "imso_problems.txt").read_text(encoding="utf-8")):
         year, code, n, page = int(m[1]), m[2], int(m[3]), int(m[4])
         name = label(year, code)
         probs.append(dict(id=f"{year}-{code}{n}", year=year, label=f"{code}{n}", page=page, kind=code,
@@ -201,7 +199,7 @@ def write_categories(stage="imso"):
             for p in by.get(k, []):
                 t = p["text"][:110] + ("..." if len(p["text"]) > 110 else "")
                 L.append(f"  {p['id']:<9} {t}")
-    out = ROOT / "imso_categories.txt"
+    out = DATA / "imso_categories.txt"
     out.write_text("\n".join(L) + "\n", encoding="utf-8")
     print(f"{out.name}: {len(probs)} problems")
 

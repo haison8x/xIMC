@@ -78,7 +78,7 @@ footer.site a{color:var(--accent);font-weight:600}
         <div><b>120</b><small>dạng bài</small></div>
       </div>
       <div class="actions">
-        <a class="btn main" href="keystage2_mindmap.html">Mở mindmap</a>
+        <a class="btn main" href="mindmaps/keystage2.html">Mở mindmap</a>
       </div>
       <div>
         <p class="lbl">Đề gốc và đáp án (PDF)</p>
@@ -87,9 +87,9 @@ footer.site a{color:var(--accent);font-weight:600}
       <div>
         <p class="lbl">Dữ liệu</p>
         <div class="files">
-          <a href="keystage2_categories.txt">Bảng phân loại</a>
-          <a href="keystage2_problems.txt">Đề cá nhân (văn bản)</a>
-          <a href="keystage2_team_problems.txt">Đề đồng đội (văn bản)</a>
+          <a href="data/keystage2_categories.txt">Bảng phân loại</a>
+          <a href="data/keystage2_problems.txt">Đề cá nhân (văn bản)</a>
+          <a href="data/keystage2_team_problems.txt">Đề đồng đội (văn bản)</a>
         </div>
       </div>
     </section>
@@ -102,7 +102,7 @@ footer.site a{color:var(--accent);font-weight:600}
         <div><b>104</b><small>dạng bài</small></div>
       </div>
       <div class="actions">
-        <a class="btn main" href="keystage3_mindmap.html">Mở mindmap</a>
+        <a class="btn main" href="mindmaps/keystage3.html">Mở mindmap</a>
       </div>
       <div>
         <p class="lbl">Đề gốc và đáp án (PDF)</p>
@@ -111,9 +111,9 @@ footer.site a{color:var(--accent);font-weight:600}
       <div>
         <p class="lbl">Dữ liệu</p>
         <div class="files">
-          <a href="keystage3_categories.txt">Bảng phân loại</a>
-          <a href="keystage3_problems.txt">Đề cá nhân (văn bản)</a>
-          <a href="keystage3_team_problems.txt">Đề đồng đội (văn bản)</a>
+          <a href="data/keystage3_categories.txt">Bảng phân loại</a>
+          <a href="data/keystage3_problems.txt">Đề cá nhân (văn bản)</a>
+          <a href="data/keystage3_team_problems.txt">Đề đồng đội (văn bản)</a>
         </div>
       </div>
     </section>
@@ -133,7 +133,7 @@ const YEARS = {
 };
 for (const [stage, years] of Object.entries(YEARS)) {
   const nav = document.getElementById("y-" + stage);
-  const dir = stage === "ks2" ? "keystage2" : "keystage3";
+  const dir = stage === "ks2" ? "papers/imc/keystage2" : "papers/imc/keystage3";
   years.slice().reverse().forEach(y => {
     const row = document.createElement("div"); row.className = "yr";
     const b = document.createElement("b"); b.textContent = y; row.appendChild(b);
