@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ôn luyện IGO</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: same squared-paper page as imso.html; one panel for the IGO map, one for the shelf of booklets by year. */
+:root{
+  --paper:#f3f6f2; --sheet:#fbfcfa; --grid:#e1e8e0; --ink:#17221d; --muted:#5b6a62; --line:#c9d4cc;
+  --ks2:#1d6fa3; --ks3:#b23a62; --imso:#b5532a; --igo:#4d7c0f; --accent:#0d6b58;
+  --f-display:"Bricolage Grotesque", "Be Vietnam Pro", system-ui, sans-serif;
+  --f-body:"Be Vietnam Pro", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono:"JetBrains Mono", ui-monospace, Consolas, monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#111815; --sheet:#18211d; --grid:#1d2823; --ink:#e3ebe6; --muted:#97a69e; --line:#34423b;
+  --ks2:#5fb0e6; --ks3:#ec7aa0; --imso:#f08d5c; --igo:#9ccc65; --accent:#4fc2a5; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#111815; --sheet:#18211d; --grid:#1d2823; --ink:#e3ebe6; --muted:#97a69e; --line:#34423b;
+  --ks2:#5fb0e6; --ks3:#ec7aa0; --imso:#f08d5c; --igo:#9ccc65; --accent:#4fc2a5; color-scheme:dark}
+*{box-sizing:border-box}
+html{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+body{margin:0;background-color:var(--paper);background-image:linear-gradient(var(--grid) 1px,transparent 1px),linear-gradient(90deg,var(--grid) 1px,transparent 1px);background-size:24px 24px;color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.55}
+.wrap{max-width:1180px;margin:0 auto;padding-inline:16px;padding-block:36px 56px;display:grid;gap:28px}
+header{display:grid;gap:10px;max-width:68ch}
+.eyebrow{font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--accent)}
+h1{font-family:var(--f-display);font-weight:800;font-size:clamp(34px,6vw,58px);line-height:1;margin:0;letter-spacing:-.02em;text-wrap:balance}
+header p{margin:0;color:var(--muted);font-size:16px}
+.stages{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,460px),1fr));gap:20px}
+.stage{--c:var(--ks2);background:var(--sheet);border:1px solid var(--line);border-top:6px solid var(--c);border-radius:16px;padding:22px 22px 20px;display:grid;gap:18px;align-content:start;min-width:0}
+.stage.ks3{--c:var(--ks3)}
+.stage h2{font-family:var(--f-display);font-weight:800;font-size:28px;line-height:1.1;margin:0;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.stage h2 span{font-family:var(--f-body);font-size:14px;font-weight:500;color:var(--muted)}
+.facts{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.facts div{border:1px solid var(--line);border-radius:10px;padding:8px 10px;background:var(--paper)}
+.facts b{display:block;font-family:var(--f-display);font-size:24px;line-height:1.1;color:var(--c);font-variant-numeric:tabular-nums}
+.facts small{color:var(--muted);font-size:12px}
+.actions{display:flex;flex-wrap:wrap;gap:8px}
+a.btn{display:inline-flex;align-items:center;gap:8px;text-decoration:none;font-weight:600;font-size:14px;border-radius:10px;padding:10px 14px;border:1.5px solid var(--c);color:var(--c);background:var(--sheet)}
+a.btn.main{background:var(--c);color:var(--sheet)}
+a.btn:hover{filter:brightness(1.08)}
+a:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.lbl{font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 8px}
+.years{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,236px),1fr));gap:2px 16px}
+.yr{display:flex;align-items:center;gap:6px;border-bottom:1px dashed var(--line);padding-block:5px}
+.yr b{font-family:var(--f-mono);font-size:13px;font-weight:500;width:3.2em;flex:none}
+.years a{font-size:12px;font-weight:500;white-space:nowrap;text-decoration:none;color:var(--ink);border:1px solid var(--line);border-radius:7px;padding:3px 7px;background:var(--paper)}
+.years a:hover{border-color:var(--c);color:var(--c)}
+.files{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:14px}
+.files a{color:var(--c);font-weight:500}
+.note{font-size:13.5px;color:var(--muted);background:var(--sheet);border:1px solid var(--line);border-radius:12px;padding:12px 14px;max-width:80ch}
+.note b{color:var(--ink)}
+a.home{font-size:13px;font-weight:600;color:var(--muted);text-decoration:none}
+a.home:hover{color:var(--accent)}
+footer.site{display:flex;flex-wrap:wrap;gap:6px 16px;align-items:center;font-size:13.5px;color:var(--muted);border-top:1px solid var(--line);padding-top:16px}
+footer.site a{color:var(--accent);font-weight:600}
+
+.stage.igo{--c:var(--igo)}
+.years.wide{grid-template-columns:repeat(auto-fill,minmax(min(100%,380px),1fr))}
+.yr{flex-wrap:wrap}
+.yr .tag{font-size:11px;font-weight:700;color:var(--c);border:1px solid var(--c);border-radius:999px;padding:1px 7px}
+.years a.ans{border-style:dashed}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <a class="home" href="index.html">← Trang chủ</a>
+    <div class="eyebrow">Iranian Geometry Olympiad</div>
+    <h1>Ôn luyện IGO</h1>
+    <p>Olympic Hình học Iran: mỗi năm ba cấp Elementary, Intermediate và Advanced, mỗi cấp 5 bài, kèm lời giải chính thức. Các bài được phân loại theo kỹ thuật hình học và gom thành mindmap ôn tập.</p>
+  </header>
+
+  <div class="stages">
+    <section class="stage igo" aria-labelledby="h-map">
+      <h2 id="h-map">Mindmap IGO <span>2017–2025</span></h2>
+      <div class="facts">
+        <div><b>135</b><small>bài toán, 45 bài mỗi cấp</small></div>
+        <div><b>9</b><small>năm thi</small></div>
+        <div><b>94</b><small>dạng bài trong 7 nhánh và 21 nhánh con hình học</small></div>
+      </div>
+      <div class="actions">
+        <a class="btn main" href="mindmaps/igo.html">Mở mindmap</a>
+      </div>
+      <div>
+        <p class="lbl">Dữ liệu</p>
+        <div class="files">
+          <a href="data/igo_categories.txt">Bảng phân loại</a>
+          <a href="data/igo_problems.txt">Toàn bộ đề (văn bản)</a>
+        </div>
+      </div>
+      <p class="note"><b>Lưu ý:</b> Mỗi bài trong mindmap có hai link: trang đề và trang lời giải trong sách. Năm 2017 có một bài dùng chung cho Elementary (bài 5) và Intermediate (bài 4).</p>
+    </section>
+
+    <section class="stage igo" aria-labelledby="h-papers">
+      <h2 id="h-papers">Sách đề và lời giải <span>PDF</span></h2>
+      <nav class="years wide" id="years" aria-label="Sách IGO theo năm"></nav>
+    </section>
+  </div>
+
+  <footer class="site">
+    <span>Liên hệ tác giả:</span>
+    <a href="https://www.facebook.com/haison8x/" target="_blank" rel="noopener">Facebook ↗</a>
+    <a href="https://github.com/haison8x/xIMC" target="_blank" rel="noopener">Mã nguồn trên GitHub ↗</a>
+  </footer>
+</div>
+<script>
+// One row per year: the booklet with the problems and solutions of all three levels.
+const D = "papers/igo/";
+const nav = document.getElementById("years");
+for (let y = 2025; y >= 2017; y--) {
+  const row = document.createElement("div"); row.className = "yr";
+  const b = document.createElement("b"); b.textContent = y; row.appendChild(b);
+  const links = [["Sách đề & lời giải", `${D}IGO${y}.pdf`]];
+  for (const [label, href, ans] of links) {
+    const a = document.createElement("a");
+    a.href = href; a.target = "_blank"; a.rel = "noopener"; a.textContent = label;
+    if (ans) a.className = "ans";
+    a.title = `IGO ${y} – ${label}`;
+    row.appendChild(a);
+  }
+  nav.appendChild(row);
+}
+</script>
+</body>
+</html>

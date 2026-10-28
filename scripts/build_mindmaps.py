@@ -1,11 +1,11 @@
 """Build the study mind maps: mindmaps/keystage2.html, mindmaps/keystage3.html (IMC),
-mindmaps/imso.html (IMSO) and mindmaps/imas_{middle,upper,junior}.html (IMAS).
+mindmaps/imso.html (IMSO), mindmaps/imas_{middle,upper,junior}.html (IMAS) and mindmaps/igo.html (IGO).
 
 Usage:  python scripts/build_mindmaps.py
-Inputs: the problems files (via categorize.load / categorize_imso.load / categorize_imas.load),
+Inputs: the problems files (via the load() of categorize, categorize_imso, categorize_imas, categorize_igo),
         leaves_*.py, mindmap_template.html
-Also rewrites data/keystage{2,3}_categories.txt, data/imso_categories.txt and
-data/imas_{middle,upper,junior}_categories.txt.
+Also rewrites data/keystage{2,3}_categories.txt, data/imso_categories.txt,
+data/imas_{middle,upper,junior}_categories.txt and data/igo_categories.txt.
 """
 import json
 import os
@@ -16,8 +16,10 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 import categorize  # noqa: E402
+import categorize_igo  # noqa: E402
 import categorize_imas  # noqa: E402
 import categorize_imso  # noqa: E402
+import leaves_igo  # noqa: E402
 import leaves_imas_junior  # noqa: E402
 import leaves_imas_middle  # noqa: E402
 import leaves_imas_upper  # noqa: E402
@@ -47,6 +49,9 @@ PAGES = {
     "imas_junior": dict(stage="junior", leaves=leaves_imas_junior, out="imas_junior.html",
                         title="Bản đồ ôn IMAS Junior", h1="Bản đồ ôn IMAS Junior",
                         root="IMAS Junior", ls_key="imas-jr-map", doc="imasjrmap", **IMAS_HOME),
+    "igo": dict(src=categorize_igo, stage="igo", leaves=leaves_igo, out="igo.html",
+                title="Bản đồ ôn IGO", h1="Bản đồ ôn Olympic Hình học Iran", root="IGO",
+                ls_key="igo-map", doc="igomap", home="igo.html", home_label="Ôn luyện IGO"),
 }
 
 HEAD = ('<!doctype html>\n<html lang="vi">\n<head>\n<meta charset="utf-8">\n'
@@ -98,7 +103,8 @@ def build(name):
     html = (HERE / "mindmap_template.html").read_text(encoding="utf-8")
     for k, v in {"__TITLE__": cfg["title"], "__H1__": cfg["h1"], "__SUB__": sub, "__ROOT__": cfg["root"],
                  "__KEY__": cfg["ls_key"], "__DOC__": cfg["doc"], "__HOME__": rel(cfg["home"]),
-                 "__HOME_LABEL__": cfg["home_label"]}.items():
+                 "__HOME_LABEL__": cfg["home_label"], "__NGROUPS__": str(len(tax["groups"])),
+                 "__NSUBS__": str(len(tax["subs"]))}.items():
         html = html.replace(k, v)
     html = html.replace("__DATA__", json.dumps(data, ensure_ascii=False).replace("</", "<\\/"))
     left = re.findall(r"__[A-Z_]+__", html.split("const DATA")[0])
