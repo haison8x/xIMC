@@ -1,0 +1,309 @@
+=== Year 2020 | Paper R1 | Problem 1 | Page 6 | Ref 10 ===
+Consider a 9 × 9 table with a bear in the middle cell of the top row and a beehive in the middle cell of the bottom row. We want to dig a hole in 6 cells (other than initial cells containing the bear and the beehive) of the table. After digging the holes, the bear starts moving towards the beehive. In each step the bear moves from a cell to a cell with no holes that has an adjacent edge to it. The holes must be chosen such that there is at least a valid path that the bear can take to reach the beehive. The bear always chooses the shortest possible path. In all possible ways of digging the holes, what is the maximum number of steps that the bear takes to reach the beehive?
+
+=== Year 2020 | Paper R1 | Problem 2 | Page 6 | Ref 10 ===
+What is the number of sequences of letters a, b and c of length 7 such that no two adjacent letters are the same and no two sub-sequences are equal? A sub-sequence is a consecutive set of letters from the sequence.
+
+=== Year 2020 | Paper R1 | Problem 3 | Page 6 | Ref 10 ===
+Consider the ordered pairs (0, 0), (0, 1),..., (9, 8) and (9, 9). Assign a card to each of these 100 pairs. We have a subset of these 100 cards and a device that takes two cards like (a, b) and (c, d), then other than returning these cards, it also gives us two more cards with ordered pairs of (min{a, c}, min{b, d}) and (max{a, c}, max{b, d}). Find the minimum number of cards needed to obtain all 100 cards using the device.
+
+=== Year 2020 | Paper R1 | Problem 4 | Page 6 | Ref 10 ===
+Football league organization of Abolﬁstan has announced that if the Corona pandemic does not end until December, due to shortage of time in the next season every two team will play against each other exactly once. This league has 2048 teams. To choose the host, the organization uses the following algorithm: For each match in week i, if the teams who have to play each other have not hosted the same number of games in the past i −1 weeks, the host will be the team with lower number of hosting, otherwise the host will be chosen randomly. What is the maximum possible number of times a team can be a host?
+
+=== Year 2020 | Paper R1 | Problem 5 | Page 7 | Ref 10 ===
+Find the total number of possible ways to partition the set {1, 2,..., 99} into some subsets such that the average of elements in each subset equals to the total number of subsets.
+
+=== Year 2020 | Paper R1 | Problem 6 | Page 7 | Ref 10 ===
+For each non-empty subset S of the set A = {10, 12,..., 26}, consider a number cS deﬁned as cS = multiplication of all elements in S 2|S|, where |S| is the number of elements of S. For example, for the subset S = {10, 14, 18}, we have cS = 10×14×18. Find X S⊆A, S̸=∅ cS.
+
+=== Year 2020 | Paper R1 | Problem 7 | Page 7 | Ref 10 ===
+A frog is at the origin point of the Cartesian plane. Each time, it jumps one or two units to the right. Let a b be the possibility of the frog getting to the point (10, 0) after a few jumps, where a and b are positive integers and gcd(a, b) = 1. Determine a + b.
+
+=== Year 2020 | Paper R1 | Problem 8 | Page 7 | Ref 10 ===
+Each diagonal parallel to one of the main diagonals is called a tape. For instance, a tape is shown in the following ﬁgure: Figure 1: A tape Note that each corner cell also counts as a tape, thus there are 26 tapes in the given ﬁgure. Consider a 1399 × 1399 table. We want to put some pins in some of the cells of this rectangle such that each tape covers an odd number of pins. Let a and b respectively be the minimum and maximum number of pins to achieve this. Find the value of a + b.
+
+=== Year 2020 | Paper R1 | Problem 9 | Page 8 | Ref 10 ===
+Determine the maximum number of tiles shown in the ﬁgure bellow that can be placed in a 10 × 10 table such that no two of them share a vertex. Figure 2: L-shaped tetromino
+
+=== Year 2020 | Paper R1 | Problem 10 | Page 8 | Ref 10 ===
+Consider the graph shown in the ﬁgure bellow. The value of an edge is deﬁned to be the number of edges intersecting it (other than the ending points). The maximum value assigned to edges of a graph is called the ugliness of the graph. Asad wants to redraw the given graph in the following ﬁgure to minimize its ugliness. What is the minimum ugliness that he can achieve? Figure 3: Graph of problem 10
+
+=== Year 2020 | Paper R1 | Problem 11 | Page 8 | Ref 10 ===
+Some bids are placed in the cells of a 1399 × 2020 table. In each turn we can choose a cell with more than one bid, take two of them and place one of them in the cell above and place the other in the cell to the right; If the current cell is the highest cell in its column, the bid is placed in the lowest cell of the column and similarly, a bid moves from the rightmost cell to the leftmost cell of the same row. Determine the minimum number of bids needed such that one can continue this processes forever.
+
+=== Year 2020 | Paper R1 | Problem 12 | Page 9 | Ref 10 ===
+We call a set of rectangles as a good set if the following properties are satisﬁed: • All sides of the rectangles are either horizontal or vertical. • The length of the sides of the rectangles can only be from the set {1, 2,..., 10}. • The length of at least one side of each rectangle is 6. • The sum of the area of all rectangles is less than 100. Determine the minimum value of k such that all the rectangles included in an arbitrary good set can be located in a rectangle with width 10 and height k, without overlapping. Read the following passage and answer to the next 3 problems: Suppose that G is a Graph with n vertices labeled by 1, 2,..., n and A is a subset of vertices of G with even number of elements. We want to choose some edges such that the degree of each vertex in A is odd and the degree of each vertex outside of A is even. Denote the minimum number of such edges by f(G, A).
+
+=== Year 2020 | Paper R1 | Problem 13 | Page 9 | Ref 10 ===
+Let n = 10 and A = {1, 2, 3, 4}. For how many initial graphs G we have f(G, A) = n −1?
+
+=== Year 2020 | Paper R1 | Problem 14 | Page 9 | Ref 10 ===
+Let G be a cycle with 19 vertices. Find the total sum of f(G, A) for every possible subset A of G.
+
+=== Year 2020 | Paper R1 | Problem 15 | Page 9 | Ref 10 ===
+Let G be a graph shown in the following ﬁgure. Find the number of subsets A of G satisfying f(G, A) = 9.
+
+=== Year 2020 | Paper R2 | Problem 1 | Page 14 | Ref 18 ===
+Increasing Diﬀerence. A soccer tournament has 2020 teams. Each pair of teams have played each other exactly once. Suppose that no game have led to a draw. The participating teams are ranked ﬁrst by their points, 3 points for a win and 0 point for a loss; then by their goal diﬀerence which is the number of goals scored minus the number of goals against. Is it possible for the goal diﬀerence in such ranking to be strictly increasing from top to bottom?
+
+=== Year 2020 | Paper R2 | Problem 2 | Page 14 | Ref 18 ===
+Friendly Game. Morteza and Amirreza play the following game. First each of them independently rolls a dice 100 times in a row to construct a 100 digit number with digits {1, 2, 3, 4, 5, 6}; None of these players can see the 100 digit number of the other. After that, each of them simultaneously selects a digit of the other’s number. If both selected digits are equal to 6, both players win otherwise they both lose. Is there a playing strategy with more than 36 chance of winning?
+
+=== Year 2020 | Paper R2 | Problem 3 | Page 14 | Ref 19 ===
+Intersecting Chords. On the perimeter of a circle, 1399 points and some chords between them are given. a) In every step we can take two chords RS, PQ with a common point other than P, Q, R, S and erase exactly one of RS, PQ, then we draw PS, PR, QS and QR(if some of them exist then we just keep the existing chords). Let s be the minimum number of chords after some steps. Find the maximum possible value of s over all possible initial arrangements of chords. b) In every step we can take two chords RS, PQ with a common point other than P, Q, R, S and erase both RS and PQ and draw PS, PR, QS, QR(if some of them exist then we just keep the existing chords). Let s be the minimum number of chords after some steps. Find the maximum possible value of s over all possible initial arrangements of chords.
+
+=== Year 2020 | Paper R2 | Problem 4 | Page 15 | Ref 21 ===
+Common Friend. At a party there are 99 guests and each person has at least 81 and at most 90 friends. Prove that there exists a group of 10 people with equal number of friends such that they all have a common friend.
+
+=== Year 2020 | Paper R2 | Problem 5 | Page 15 | Ref 21 ===
+Way to Success. The inﬁnite axis shown in the following ﬁgure is a view of Abol’s way to success! Point 0 refers to his failure. In any other point there is a traﬃc light. Each light is either blinking in green, yellow or red. Abol is at point 1 and by increasing the number of the point he is in, he gets closer to his goal towards success. In each step the following happens: Abol looks at the color of the light in his current point. He will continue moving to the right if the blinking color is green or yellow. If the light blinks red he moves a point to the left; After Abol has moved to either right or left, the light that he previously saw, changes its color from green, yellow and red to yellow, red and green respectively. If Abol sees a red light at point 1 he will resist for the ﬁrst time and stays in the same point (But the light changes). But the second time he sees a red light in point 1 he gives up and will never move again. Prove that Abol eventually meets any positive integer point on the axis.
+
+=== Year 2020 | Paper R2 | Problem 6 | Page 16 | Ref 22 ===
+Triangular Grid. Consider a triangular grid of equilateral triangles with unit sides. Assume that P is a simple polygon with perimeter 1399 and sides from the grid lines. Prove that P has at least one 120◦or one 240◦angle. a simple polygon in a triangular grid
+
+=== Year 2020 | Paper R2 | Problem 7 | Page 16 | Ref 23 ===
+Red Coin. Seyed has 998 white coins, one red coin and an unusual coin with one red side and one white side. He can not see the color of the coins; Instead he has a scanner which he can place a subset of the coins on one of their sides and the scanner tells him whether all of the coin sides touching its glass are white or not. Prove that Seyed can ﬁnd the red coin by using the scanner at most 17 times.
+
+=== Year 2021 | Paper R1 | Problem 1 | Page 5 | Ref 11 ===
+What is the maximum number of points we can place on a plane in such a way that for every subset of these points, we would be able to draw a rectangle whose sides are parallel to the axes and every point in the subset is placed inside the rectangle and others are placed outside of it.
+
+=== Year 2021 | Paper R1 | Problem 2 | Page 5 | Ref 11 ===
+There are some players in a 70-day chess tournament. On each day exactly one game will be played between two players (games can also be repeated).The winner of each game, will not play for at most 8 days, and the loser of each game will not play any other games for at least 9 days. Find the minimum possible number of the participants of this tournament.
+
+=== Year 2021 | Paper R1 | Problem 3 | Page 5 | Ref 11 ===
+There are 35 people in a group which are liars or truth-tellers. Liars always tell lies and truth-tellers always tell the truth. For every i, the i-th person has told us that the number of truth-tellers in this group is a divisor of 2i. Find the number of possible values for the number of truth-tellers in this group.
+
+=== Year 2021 | Paper R1 | Problem 4 | Page 5 | Ref 11 ===
+We have ﬁlled k cells of an 8 × 8 grid with distinct numbers in such a way that the number in each square is greater than at most one ﬁlled square with a common corner. Find the maximum possible value for k.
+
+=== Year 2021 | Paper R1 | Problem 5 | Page 6 | Ref 11 ===
+Find the number of ways that we can tile the ﬁgure below with dominoes. A tiling is a placement of dominoes that covers all the squares of the board perfectly (i.e. no overlaps, no diagonal placements, no protrusions oﬀthe board). Figure 1: The ﬁgure that should be tiled with dominoes.
+
+=== Year 2021 | Paper R1 | Problem 6 | Page 6 | Ref 11 ===
+We have ﬁlled a 10 × 10 grid with numbers +1 and −1. Find the maximum amount of k such that there are exactly k rows with positive sum and exactly k columns with negative sum.
+
+=== Year 2021 | Paper R1 | Problem 7 | Page 6 | Ref 11 ===
+Some mathematicians have participated in a combinatorics competition. Each mathematician can speak several languages. These mathematicians can speak k languages in total. We know that every two mathematicians can talk to each other directly or by a common language mediator among the mathematicians. We also know that if any mathematician leaves this competition, then this fact won’t be true anymore. Find the minimum possible amount for k.
+
+=== Year 2021 | Paper R1 | Problem 8 | Page 7 | Ref 11 ===
+There are 1400 boys around a circle forming a regular 1400-gon. We know that k of them are honest (always tell the truth) but we don’t know which boys are honest, and the others are dishonest (sometimes tell the truth and sometimes lie). One of them, Mr.X, has a diamond in his pocket whom we want to ﬁnd. We ask each one of the boys about the circular distance between him and Mr.X. Find the smallest value for k such that we can certainly ﬁnd Mr.X having all their answers.
+
+=== Year 2021 | Paper R1 | Problem 9 | Page 7 | Ref 11 ===
+Find the number of ways we can color the edges of a labeled complete graph with 5 vertices (vertices are labeled with 1 to 5) with 3 colors in such a way that every vertex has at least one edge with each of the 3 colors.
+
+=== Year 2021 | Paper R1 | Problem 10 | Page 7 | Ref 11 ===
+A 12 × 13 chessboard (12 rows and 13 columns) is tiled with 1 × 3 mosaics in such a way that there are exactly k vertical mosaics in every column. Find the number of diﬀerent possible answers for k. A tiling is a placement of mosaics that covers all the squares of the board perfectly (i.e. no overlaps, no diagonal placements, no protrusions oﬀthe board).
+
+=== Year 2021 | Paper R1 | Problem 11 | Page 8 | Ref 11 ===
+We have 100 vertices labeled from 1 to 100 around a circle as in the ﬁgure. As you can see, beside the small arcs, there are some extra edges which connect vertex 49 to some other vertices. Find the number of diﬀerent paths from point 1 to point 100 in this graph. Figure 2: A cycle of length 100, the vertex labeled 49 is connected to vertices 44-48 and 50-53.
+
+=== Year 2021 | Paper R1 | Problem 12 | Page 8 | Ref 11 ===
+There are 30 (not necessarily distinct) real numbers written on a board. We know that no matter how we divide these numbers into 10 groups of size 3, there would be at least 2 groups with equal sums. Find the maximum number of distinct numbers on the board.
+
+=== Year 2021 | Paper R1 | Problem 13 | Page 8 | Ref 11 ===
+Find the maximum number of 3-digit numbers with digits 1 to 4 in such a way that for every two of them like a1a2a3 and b1b2b3, there exists an index i such that ai + bi = 5.
+
+=== Year 2021 | Paper R1 | Problem 14 | Page 9 | Ref 11 ===
+We call a lattice point (x, y) good if x, y are natural numbers, x ≤100 and y ≤100. Find the minimum number of lines with gradient + 3 7 we should draw in the way that each good point lies on at least one of these lines.
+
+=== Year 2021 | Paper R1 | Problem 15 | Page 9 | Ref 11 ===
+Find the maximum number of bishops that we can place in an 8×8 chessboard in such a way that each bishop threatens at most 3 other bishops. (Every bishop threatens other pieces in diagonal directions, and if a piece is placed between two bishops, the bishops will not threaten each other anymore.)
+
+=== Year 2021 | Paper R2 | Problem 1 | Page 15 | Ref 19 ===
+In the lake, there are 23 stones arranged along a circle. There are 22 frogs numbered 1, 2,..., 22 (each number appears once). Initially, each frog randomly sits on a stone (several frogs might sit on the same stone). Every minute, all frogs jump at the same time as follows: the frog number i jumps i stones forward in the clockwise direction. (In particular, the frog number 22 jumps 1 stone in the counter-clockwise direction.) Prove that at some point, at least 6 stones will be empty.
+
+=== Year 2021 | Paper R2 | Problem 2 | Page 15 | Ref 20 ===
+We assume a truck as a 1 × (k + 1) tile. Our parking is a (2k + 1) × (2k + 1) table and there are t trucks parked in it. Some trucks are parked horizontally and some trucks are parked vertically in the parking. The vertical trucks can only move vertically (in their column) and the horizontal trucks can only move horizontally (in their row). Another truck is willing to enter the parking lot (it can only enter from somewhere on the boundary). 1. For 3k + 1 < t < 4k, prove that we can move other trucks forward or backward in such a way that the new truck would be able to enter the lot. 2. Prove that the statement is not necessarily true for t = 3k + 1.
+
+=== Year 2021 | Paper R2 | Problem 3 | Page 16 | Ref 22 ===
+There is an ant on every vertex of a unit cube. At the time zero, ants start to move across the edges with the velocity of one unit per minute. If an ant reaches a vertex, it alternatively turns right and left (for the ﬁrst time it will turn in a random direction). If two or more ants meet anywhere on the cube, they die! We know an ant survives after three minutes. Prove that there exists an ant that never dies!
+
+=== Year 2021 | Paper R2 | Problem 4 | Page 16 | Ref 23 ===
+The path number of a graph is the minimum number of paths we need to partition the vertices of a graph. Given a connected graph with the independence number k > 1, what is the maximum possible value for the path number in this graph? Find the answer in terms of k. The independence number of a graph G is the maximum possible number k, such that there exist k pairwise non-adjacent vertices in G.
+
+=== Year 2021 | Paper R2 | Problem 5 | Page 16 | Ref 24 ===
+By a tile we mean a polyomino (i.e. a ﬁnite edge-connected set of cells in the inﬁnite grid). There are many ways to place a tile in the inﬁnite table (rotation is allowed but we cannot ﬂip the tile). We call a tile T special if we can place a permutation of the positive integers on all cells of the inﬁnite table in such a way that each number would be maximum between all the numbers that tile covers in at most one placement of the tile. 1. Prove that each square is a special tile. 2. Prove that each non-square rectangle is not a special tile. 3. Prove that tile T is special if and only if it looks the same after 90◦ rotation.
+
+=== Year 2021 | Paper R2 | Problem 6 | Page 17 | Ref 27 ===
+Let P be a convex polygon and T be a triangle with vertices among the vertices of P. By removing T from P, we end up with 0, 1, 2, or 3 smaller polygons (possibly with shared vertices) which we call the eﬀect of T. A triangulation of P is a way of dissecting it into some triangles using some non-intersecting diagonals. We call a triangulation of P beautiful, if for each of its triangles, the eﬀect of this triangle contains exactly one polygon with an odd number of vertices. Prove that a triangulation of P is beautiful if and only if we can remove some of its diagonals and end up with all regions as quadrilaterals.
+
+=== Year 2021 | Paper R2 | Problem 7 | Page 17 | Ref 29 ===
+In a group of 2021 people, 1400 of them are saboteurs. Sherlock wants to ﬁnd one saboteur. There are some missions that each needs exactly 3 people to be done. A mission fails if at least one of the three participants in that mission is a saboteur! In each round, Sherlock chooses 3 people, sends them to a mission and sees whether it fails or not. What is the minimum number of rounds he needs to accomplish his goal?
+
+=== Year 2024 | Paper R1 | Problem 1 | Page 5 | Ref 11 ===
+Morteza and Joseph have 100 boxes such that for each 1 ≤i ≤100 one of these boxes has exactly i coins. Joseph puts the boxes on top of each other in an order that he prefers. Now in 10 steps, Morteza collects coins in the following way: at each step, Morteza picks up the top 10 boxes, opens them, and then selects one of the boxes that he has already opened (this also includes all the boxes that he has opened in the previous steps) and collects all the coins of that box. What is the maximum number of coins that Morteza can always collect regardless of the way Joseph orders the boxes?
+
+=== Year 2024 | Paper R1 | Problem 2 | Page 5 | Ref 11 ===
+Let S be a set of six points in the plane such that no three points of S are collinear. What is the maximum number of ways that we can partition these 6 points into two subsets of size three such that the sides of the triangle formed by the points in each group do not intersect the sides of the triangle formed by the other group?
+
+=== Year 2024 | Paper R1 | Problem 3 | Page 5 | Ref 11 ===
+We say that a sequence x1, x2,..., xn is increasing if xi ≤xi+1 for all 1 ≤i < n. How many ways are there to fill an 8 × 8 table by numbers 1, 2, 3, and 4 such that: • The numbers in each row are increasing from left to right, • The numbers in each column are increasing from top to bottom, • and there is no pair of adjacent cells such that one is filled with 2 and the other one is filled with 3. (We say two distinct cells are adjacent if they share a side)
+
+=== Year 2024 | Paper R1 | Problem 4 | Page 6 | Ref 11 ===
+Matin and Morteza are playing a game together on a graph with 100 vertices. At the beginning of the game, the graph has no edges. In each turn, Matin picks a vertex that is not full, say u and Morteza must add a new edge that has u as one of its endpoints while keeping the graph simple (A vertex is full if it is adjacent to all other vertices of the graph). The game ends as soon as the graph has a cycle of even length. Matin wishes to maximize the number of edges, whereas Morteza wants to minimize this. Assuming both players play optimally, what is the number of edges of the final graph?
+
+=== Year 2024 | Paper R1 | Problem 5 | Page 6 | Ref 11 ===
+We say that a coloring of the 7 × 7 table is nice if, • Every cell is colored by blue or red, • Every cell has precisely one diagonal neighbor that is red. Determine the number of nice colorings. (A cell A is a diagonal neighbor of cell B if A and B share exactly one point. For instance, each of the four cells on the corners of the table has one diagonal neighbor.)
+
+=== Year 2024 | Paper R1 | Problem 6 | Page 6 | Ref 11 ===
+Below we have a figure of a spider named Johny who has 12 feet. The numbers in the figure correspond to the distance of Johny’s feet from his head. For taking a nap on his web, Johny doesn’t need to hold all his feet down but he must keep his balance and that means, (1) he should hold at least one foot down on the web, and (2) the total distances of his left feet that are on the web from his head should be equal to the total distances of his right feet that are on the web from his head. Determine the number of ways that Johny can take a nap.
+
+=== Year 2024 | Paper R1 | Problem 7 | Page 7 | Ref 11 ===
+In a 7 × 7 table initially, all the cells are white. At each step, we can identify a tile as depicted in the figure below (with rotations allowed) on the table and flip the colors (from white to black and black to white) of all those five cells in the table simultaneously. After finitely many steps, what is the maximum possible number of black cells in the table?
+
+=== Year 2024 | Paper R1 | Problem 8 | Page 7 | Ref 11 ===
+Given a sequence S =< a1,..., an > of integers, the number of inversions of S is equal to the number of pairs 1 ≤i < j ≤n such that ai > aj. Let Z =< a1,..., a20 > be a sequence of 20 elements from {1,..., 10}, where a1,..., a10 is a permutation of {1,..., 10} and for every 1 ≤i ≤10, a10+i = 11 −ai. Let A and B be the minimum and maximum possible values for the inversion number of Z, respectively. What is A+B?
+
+=== Year 2024 | Paper R1 | Problem 9 | Page 7 | Ref 11 ===
+Rostam wants to find a sequence of numbers < a1,..., a2025 > such that 0 ≤ai ≤ 1023 and if you place them around a circle in the same order (as they appear in the sequence), then each number is XOR of its two neighbors on the circle. How many ways are there to do this? The XOR of two non-negative integers x and y is defined in the following way: Assume (xk...x1)2 and (yt...y1)2 are their corresponding binary representations and without loss of generality, assume k ≥t. Now, let yt+1 = · · · = yk = 0. Then, the binary representation of their XOR is (z1...zk)2 where zi = 0 if xi = yi and zi = 1 if xi̸ = yi. For instance, let x = 49 and y = 101, then x = (110001)2 and y = (1100101). Now, the binary representation of their XOR is (1010100)2 which means their XOR is 84.
+
+=== Year 2024 | Paper R1 | Problem 10 | Page 8 | Ref 11 ===
+Bahman has an 8 × 8 table. Originally, all the cells are empty and white. He fills each of the cells with a number from 1 to 4. Then, he chooses two numbers a and b such that 1 ≤a < b ≤4 and colors all the cells that are filled with a or b in gray. The value of the table is 64 × t, where t is the number of rows that are completely gray after this process. For instance, in the table below, if we choose i = 2 and j = 3, we would have t = 3 rows that are completely gray, and hence the value of the table is 192. What is the average value of the table over all the possible ways that Bahman can fill the table and choose a and b?
+
+=== Year 2024 | Paper R1 | Problem 11 | Page 9 | Ref 11 ===
+There are 10 cells around a circle and in each cell, there is a digit which is either one or zero. The process of creating a string from a given cell C is to start from C and an empty string S and then in 10 steps, we repeat the following: Move to one of the two neighboring cells and append the digit inside that cell to the end (right) of S. Assume from all the cells we are able to create S = 0101010101. How many different ways are there to initialize the values of all the cells with zero or one such that this is possible? For instance, in the circle below, if we start from the colored cell, we cannot create S = 0101010101 but we can create S = 1010101010. Two ways of initializing the values of the cells such as A and B are the same if you can reach A by shifting B around the circle.
+
+=== Year 2024 | Paper R1 | Problem 12 | Page 9 | Ref 11 ===
+Assume Sn is the set of all ordered n-tuples of 0 and 1 and let A1, A2,..., A32 be a permutation of the elements of S5. Also assume that f(A1) = 1 and for every 1 ≤i ≤32 the value of f(Ai) is equal to the smallest positive integer such that for every j (1 ≤j < i), where Ai and Aj differ in exactly one coordinate, it holds that f(Ai)̸ = f(Aj) (For instance, if Ai = (0, 1, 1, 0, 1) and Aj = (0, 1, 0, 0, 1) then Ai and Aj differ only in the third coordinate). What is the maximum possible value of max{f(A1), f(A2),..., f(A32)}.
+
+=== Year 2024 | Paper R1 | Problem 13 | Page 10 | Ref 11 ===
+Switching A graph is a tree if it is connected and does not contain any cycles. Let T be a tree. The diameter of T is defined as the length (the number of edges) of the longest path of T. At each step, we are allowed to update T by removing an edge and then drawing a new edge such that T remains a tree. If T has 2024 vertices and is of diameter 100, after one step what is the minimum possible diameter of T?
+
+=== Year 2024 | Paper R1 | Problem 14 | Page 10 | Ref 11 ===
+If T has 2024 vertices and is of diameter 100, after one step what is the maximum possible diameter of T?
+
+=== Year 2024 | Paper R1 | Problem 15 | Page 10 | Ref 11 ===
+What is the minimum possible number k, such that for every tree T with 2024 vertices and diameter 100, one can reach a tree of a diameter smaller than 100 in at most k steps?
+
+=== Year 2024 | Paper R2 | Problem 1 | Page 15 | Ref 19 ===
+Consider a 13 × 13 table in which the rows are numbered from top to bottom and the columns are numbered from left to right by numbers 1 to 13. Assume that the cells that are intersections of an even row with an even column are blue and the other cells are red (There are 36 blue cells in the table). What is the maximum number of 1 × 3 and 3 × 1 tiles that we can place inside this table such that (1) each rectangle only contains red cells and (2) no cell belongs to more than one of these rectangles?
+
+=== Year 2024 | Paper R2 | Problem 2 | Page 15 | Ref 21 ===
+We are given a permutation of {1, 2,..., n}, say Π =< π1,..., πn >. The swapping step is defined as follows: • Choose two number s and t, such that 1 ≤s < t ≤n and t −s is odd. • For each 0 ≤i < t−s+1, update Π by swapping πs+2i and πs+2i+1. For instance, applying a swapping step with s = 3 and t = 8 on the permutation < 10, 9, 8, 7, 6, 5, 4, 3, 2, 1 > results in the permutation < 10, 9, 7, 8, 5, 6, 3, 4, 2, 1 >. Assume that n ≥3 and we start with Π =< n, n −1,..., 1 >. a) Prove that at least n steps is required to modify Π to < 1, 2,..., n >. b) Prove that it is possible to modify Π to < 1, 2,..., n > in exactly n steps.
+
+=== Year 2024 | Paper R2 | Problem 3 | Page 16 | Ref 22 ===
+Let A1,..., A20 be subsets of size three of the set X = {1, 2,..., 10}. We say that a subset S of X is a covering subset if for every 1 ≤i ≤20, it holds that S ∩Ai̸ = ∅. What is the minimum possible value of k, such that a covering subset of size k always exists?
+
+=== Year 2024 | Paper R2 | Problem 4 | Page 16 | Ref 23 ===
+We call a graph planar if it can be drawn on the plane so that its edges intersect only at their endpoints. Let n ≥3 be an integer and G be a planar graph on n vertices. Determine the maximum possible number of cycles of length 3 of G in terms of n.
+
+=== Year 2024 | Paper R2 | Problem 5 | Page 16 | Ref 25 ===
+Let G be a simple graph and let V be the set of vertices of G. We denote by f(G) the maximum number k such that there exists a subset S ⊆V with |S| = k, in which every vertex in S has at most one neighbor in S. a) Compute f(G) if V = {0, 1,..., n−1} and E = {uv|u−v ≡r (mod n) where r ∈ {−2, −1, 1, 2}}. b) Assume each vertex v ∈V corresponds to a unique sequence of length n consisting of elements in {0, 1, 2} (|V (G)| = 3n). A pair of vertices are adjacent in G if their corresponding sequences differ in exactly one element (one bit). Prove that f(G) > 3n−1. For example, if n = 4 the vertices corresponding to sequence < 0, 1, 2, 0 > and < 0, 1, 1, 0 > only differ in the third position and hence they are adjacent. Prove that f(G) > 3n−1.
+
+=== Year 2024 | Paper R2 | Problem 6 | Page 16 | Ref 27 ===
+Consider the increasing sequence 1, 2,..., n. In each move, we first take two adjacent elements x and y that are still positive, and then by spending min{x, y} many gold coins we decrease both elements by min{x, y}. What is the minimum number of gold coins that we have to spend in order to reach a sequence in which no more moves are possible?
+
+=== Year 2024 | Paper R2 | Problem 7 | Page 17 | Ref 28 ===
+There are 100 points on the plane, namely P1,..., P100 such that no three points are collinear. Assume for every i and j such that 1 ≤i < j −1 ≤98, the segments PiPi+1, PjPj+1 do not intersect (i.e., do not share a common point). We say that {Pi, Pi+1, Pi+2} is an empty consecutive triple if the triangle △PiPi+1Pi+2 does not contain any of the other points. Find the largest number k such that one can always find at least k empty consecutive triples.
+
+=== Year 2025 | Paper J | Problem 1 | Page 1 | Ref 0 ===
+The domino and L-tromino pieces are as shown below. In how many ways can we tile the given shape shown in the figure below using some number of dominoes and L-trominoes, with no overlaps? Note: rotations of pieces are allowed.
+
+=== Year 2025 | Paper J | Problem 2 | Page 1 | Ref 0 ===
+16 people are sitting around a circle. Two people are called friends if at least 4 people are sitting between them in each of the two arcs connecting them around the circle. In how many ways can we choose three people such that any two of these three people are friends? Note: The order of selection does not matter.
+
+=== Year 2025 | Paper J | Problem 3 | Page 1 | Ref 0 ===
+In how many ways can we color some of the segments in the following figure red so that each of the six points is connected to an odd number of red segments?
+
+=== Year 2025 | Paper J | Problem 4 | Page 2 | Ref 0 ===
+We have a “triangle-drawing machine”. Using this machine at each step we can draw one triangle on the plane. Initially, one equilateral triangle is drawn on the plane. We want to transform it into the following shape: What is the minimum number of steps we need to obtain this shape?
+
+=== Year 2025 | Paper J | Problem 5 | Page 2 | Ref 0 ===
+We have a “rectangle-drawing machine”. Using this machine at each step we can draw one rectangle on the plane. In how many ways can we draw a 3 × 3 table in exactly 3 steps using the rectangle-drawing machine? Note: Two methods that draw the same set of rectangles in a different order are considered the same.
+
+=== Year 2025 | Paper J | Problem 6 | Page 2 | Ref 0 ===
+Find the number of positive integers with at most 11 digits that are not divisible by 10 but are divisible by their rightmost digit.
+
+=== Year 2025 | Paper J | Problem 7 | Page 2 | Ref 0 ===
+117 gangsters are standing in a line. Simultaneously, each gangster shoots the nearest person to himself. (If two people are equally close — one on each side — the gangster may choose either of them.) What is the minimum possible number of gangsters who get shot?
+
+=== Year 2025 | Paper J | Problem 8 | Page 3 | Ref 0 ===
+12 classmates stand around a circle in a fixed order. A natural number d with d < 12 is called interesting if it is possible to partition the 12 classmates into 6 two-person teams so that, in each team, the two teammates have d −1 people between them along the circle (for example, in the figure below, the number of people between A and B can be considered as 3 or 7). How many interesting numbers d are there? A B
+
+=== Year 2025 | Paper J | Problem 9 | Page 3 | Ref 0 ===
+A 2 × 6 table is given, and in some of its cells, strawberries are placed as shown below. In how many ways can we divide this table along the table lines into 6 parts such that each part contains exactly one strawberry? An example of a valid partition is shown in the figure below:
+
+=== Year 2025 | Paper J | Problem 10 | Page 3 | Ref 0 ===
+10 uncolored balls with numbers 1 to 10 are arranged around a circle. In how many ways can we color each ball by red or blue so that (1) there are exactly 5 blue and 5 red balls, and (2) for each red ball, among the two balls immediately to its left and the two balls immediately to its right, there are at least two red balls in total?
+
+=== Year 2025 | Paper J | Problem 11 | Page 4 | Ref 0 ===
+Dara and Sara play the following game: There are 8 points labeled 1 through 8 on the number line. Initially, all points are uncolored. In each turn, Dara chooses one of the uncolored points, and Sara colors it either black or white. After each turn, if it is possible to draw a straight line such that all white points lie on one side of the line and all black points lie on the other side of the line, Dara earns one coin. (Indeed, if all the colored points so far are of the same color, Dara earns one coin.) Dara wants to maximize the number of coins that he earns, and Sara wants to minimize that. Assuming both play optimally, find the number of coins that Dara has at the end of the game.
+
+=== Year 2025 | Paper J | Problem 12 | Page 4 | Ref 0 ===
+Eight teams, numbered 1 to 8, participate in a single-elimination soccer tournament. In a match between host a and guest b: • If a < b, the host wins. • If a > 2b, the guest wins. • In all other cases, either team may win. The tournament is held over three rounds to determine the champion. In each round, the teams are paired into matches, with one team serving as the host. The hosting rule is as follows: If one of the two teams has hosted fewer matches so far, that team becomes the host. If both have hosted the same number of matches, the host is chosen randomly. In how many distinct possible tournament scenarios can team number 8 become the champion? Note: Two tournament scenarios are considered different if there exists a round in which a certain match is played in one but not in the other, or if the same match occurs in both but the host team differs in the two cases.
+
+=== Year 2025 | Paper J | Problem 13 | Page 4 | Ref 0 ===
+The education system of a country consists of exactly five subjects. Each school must schedule these five subjects during the first five days of the week (Monday to Friday), exactly one subject per day. The school employs five teachers (one per subject). Each teacher proposes two possible days of the week on which they can teach their subject as their availabilities. Suppose that based on the proposed days by the teachers, the school can schedule the weekly program in x ways. What is the maximum possible value of x?
+
+=== Year 2025 | Paper J | Problem 14 | Page 5 | Ref 0 ===
+The houses of a village are arranged on the points of a 3 × 12 rectangular grid, as shown in the figure below. That is, the village has 36 houses, one at each grid point. A house located in row i and column j of the grid is labeled (i, j). For instance, the house marked by X is labeled (3, 7). Traveling from house (i, j) to house (i′, j′) using jet takes a number of minutes equal to the difference in their row numbers plus the difference in their column numbers. For example, traveling from house (2, 2) to (1, 4) takes 3 minutes. A family living in (1, 1) wants to visit all the other houses (each house exactly once), and then return to their own house. They use jet for traveling between houses. Find the minimum possible total time required for this process. X
+
+=== Year 2025 | Paper J | Problem 15 | Page 5 | Ref 0 ===
+Hamid’s Grandpa has passed away, and his old suitcase has been inherited by Hamid. The lock on this suitcase is a two-digit display, initially showing 00. For this lock, there is a unique two-digit pass-code. As soon as the correct pass-code appears on the display, the lock opens. There are four buttons: • Button 1 increases the right digit by 1. • Button 2 decreases the right digit by 1. • Button 3 increases the left digit by 1. • Button 4 decreases the left digit by 1. A digit cannot be increased if it is already 9, and cannot be decreased if it is already 0. Hamid does not know the correct pass-code, but he remembers his grandfather saying that (1) neither 09 nor 90 is the lock pass-code, and (2) if the display ever shows 09 or 90, the suitcase will be locked forever. What is the minimum number of times that Hamid must press the buttons to ensure that he will definitely open the lock, regardless of what the correct pass-code is?
+
+=== Year 2025 | Paper I | Problem 1 | Page 1 | Ref 0 ===
+The domino and L-tromino pieces are as shown below. In how many ways can we tile the given shape shown in the figure below using some number of dominoes and L-trominoes, with no overlaps? Note: rotations of pieces are allowed.
+
+=== Year 2025 | Paper I | Problem 2 | Page 1 | Ref 0 ===
+117 gangsters are standing in a line. Simultaneously, each gangster shoots the nearest person to himself. (If two people are equally close — one on each side — the gangster may choose either of them.) What is the minimum possible number of gangsters who get shot?
+
+=== Year 2025 | Paper I | Problem 3 | Page 1 | Ref 0 ===
+Suppose n is an even number, and n people are seated around a circle. We say a number d is interesting for n if it is possible to divide these people into n 2 disjoint pairs such that in each pair, one person is exactly the d-th person clockwise after the other. Find the number of even integers n such that 100 ≤n ≤200, where every positive integer d less than n is interesting for n.
+
+=== Year 2025 | Paper I | Problem 4 | Page 2 | Ref 0 ===
+The houses of a village are arranged on the points of a 3 × 25 rectangular grid, as shown in the figure below. That is, the village has 75 houses, one at each grid point. A house located in row i and column j of the grid is labeled (i, j). For instance, the house marked by X is labeled (3, 7). Traveling from house (i, j) to house (i′, j′) using jet takes √ (i −i′)2 + (j −j′)2 minutes. A family living in (1, 1) wants to visit all the other houses (each house exactly once), and then return to their own house. They use jet for traveling between houses. Assume that this family wants to visit the house (2, 2) immediately after leaving (their house at) (1, 1). In how many different ways can they complete this process while minimizing the total time?... X
+
+=== Year 2025 | Paper I | Problem 5 | Page 2 | Ref 0 ===
+Let n be a natural number. Consider the graph with vertices O, A1, A2,..., An, B1, B2,..., Bn and edges OA1, OA2,..., OAn, OB1, OB2,..., OBn A1B1, A2B2,..., AnBn. We denote this graph by Sn. For example, the structure of S4 is illustrated below: A1 B1 A2 B2 A3 B3 A4 B4 O In how many ways can we color the edges of S15 red and blue so that each vertex is incident to at least one blue edge and at least one red edge?
+
+=== Year 2025 | Paper I | Problem 6 | Page 3 | Ref 0 ===
+Dara and Sara play the following game: There are 100 points labeled 1 through 100 on the number line. Initially, all points are uncolored. In each move, Dara chooses one of the uncolored points, and Sara colors it either black or white. After each turn, if it is possible to draw a straight line such that all white points lie on one side of the line and all black points lie on the other side of the line, Dara earns one coin. (Indeed, if all the colored points so far are of the same color, Dara earns one coin.) Dara wants to maximize the number of coins that he earns, and Sara wants to minimize that. Assuming both play optimally, find the number of coins that Dara has at the end of the game.
+
+=== Year 2025 | Paper I | Problem 7 | Page 3 | Ref 0 ===
+In how many ways can we color some of the segments in the following figure red so that each of the 12 points is connected to an odd number of red segments?
+
+=== Year 2025 | Paper I | Problem 8 | Page 3 | Ref 0 ===
+The education system of a country consists of exactly seven subjects. Each school must schedule these seven subjects during the seven days of the week, exactly one subject per day. The school employs seven teachers (one per subject). Each teacher proposes two possible days of the week on which they can teach their subject as their availabilities. Suppose that based on the proposed days by the teachers, the school can schedule the weekly program in x ways. What is the maximum possible value of x?
+
+=== Year 2025 | Paper I | Problem 9 | Page 3 | Ref 0 ===
+Suppose 2025 boys are seated around a circle. Two boys are called friends if the number of boys sitting between them is an even number smaller than 809. (For example, each boy is friend with both of his immediate neighbors.) In how many ways can we choose three boys such that any two of them are friends? Note: The order of selection does not matter.
+
+=== Year 2025 | Paper I | Problem 10 | Page 4 | Ref 0 ===
+Hamid’s Grandpa has passed away, and his old suitcase has been inherited by Hamid. The lock on this suitcase is a two-digit display, initially showing 00. For this lock, there is a unique two-digit pass-code. As soon as the correct pass-code appears on the display, the lock opens. There are four buttons: • Button 1 increases the right digit by 1. • Button 2 decreases the right digit by 1. • Button 3 increases the left digit by 1. • Button 4 decreases the left digit by 1. A digit cannot be increased if it is already 9, and cannot be decreased if it is already 0. Hamid does not know the correct pass-code, but he remembers his grandfather saying that (1) neither 09 nor 90 is the lock pass-code, and (2) if the display ever shows 09 or 90, the suitcase will be locked forever. What is the minimum number of times that Hamid must press the buttons to ensure that he will definitely open the lock, regardless of what the correct pass-code is?
+
+=== Year 2025 | Paper I | Problem 11 | Page 4 | Ref 0 ===
+Consider a 2 × 10 table. In how many ways can the numbers 1 to 20 be placed in the cells such that: • All numbers are distinct. • For any two cells sharing a side, their corresponding numbers differ by at most 2.
+
+=== Year 2025 | Paper I | Problem 12 | Page 4 | Ref 0 ===
+Ali defends his castle with 20 soldiers, and Hassan attacks it with 10 soldiers. The battle has three fronts. Ali wins the war if, on each front, he deploys at least as many soldiers as Hassan does. Each of Ali and Hassan independent of the other, chooses one of all possible ways of deploying their soldiers, each with equal probability. (For example, Ali might choose (0, 12, 8), meaning 0 soldiers on the first front, 12 on the second, and 8 on the third.) Suppose that the probability that Ali wins the war is p q, where p and q are co-prime positive integers. What is the value of p + q?
+
+=== Year 2025 | Paper I | Problem 13 | Page 4 | Ref 0 ===
+10 uncolored balls with numbers 1 to 10 are arranged around a circle. In how many ways can we color each ball by red or blue so that (1) there are exactly 5 blue and 5 red balls, and (2) for each red ball, among the two balls immediately to its left and the two balls immediately to its right, there are at least two red balls in total?
+
+=== Year 2025 | Paper I | Problem 14 | Page 5 | Ref 0 ===
+Strawberry farm A strawberry farm is a 2 × 6 table such that there is a strawberry in some cells. We want to divide the table along its table lines into 6 connected regions such that each region contains exactly one strawberry. We call such partitioning a valid partitioning. If the farm is filled with strawberries as in the figure below, how many valid partitionings exists? An example of a valid partition is shown in the figure below:
+
+=== Year 2025 | Paper I | Problem 15 | Page 5 | Ref 0 ===
+If the farm is filled with strawberries as in the figure below, how many valid partitionings exists? An example of a valid partition is shown in the figure below:
+
+=== Year 2025 | Paper R2 | Problem 1 | Page 1 | Ref 0 ===
+Nine pairwise distinct positive integers are written in each of the 9 cells of the following figure. Parallel to each side of the outer triangle, there are three rows that contain 1, 3, and 5 cells, respectively. This defines a total of 9 distinct subsets of cells (3 rows in each of the 3 directions). Suppose that among these 9 subsets, there are k subsets whose sums of numbers are equal. What is the largest possible value of k, over all possible assignments of the initial 9 numbers to the cells?
+
+=== Year 2025 | Paper R2 | Problem 2 | Page 1 | Ref 0 ===
+An m × n table is partitioned along its grid lines into several pieces (not necessarily rectangles). The pieces are then reassembled, without rotation or reflection and only through translation, to form a n × m table. Prove that this can be accomplished by partitioning the original table into at most |m −n| + 1 pieces.
+
+=== Year 2025 | Paper R2 | Problem 3 | Page 1 | Ref 0 ===
+A table is tiled with black tiles of sizes 1 × 1, 1 × 2, 1 × 3, 1 × 4, and 1 × 5 (each tile may have appeared horizontally or vertically). Is it always possible to color exactly one square of each tile white, such that a chess king placed on any white square can exit the table by only moving to other white squares?
+
+=== Year 2025 | Paper R2 | Problem 4 | Page 1 | Ref 0 ===
+100 people are working in a company. We know that at least 1 and at most 98 of them are thieves. This company has m warehouses, and each of the 100 people has been told the location of some nonzero number of these warehouses. On the first day of the year, all thieves report the locations of all the warehouses that they know to their chief (who is out of the company), and their chief attacks all the reported warehouses. Fortunately, the way the people were informed of the warehouses’ locations guarantees that after this attack, we can identify at least one of the thieves. Find the smallest value of m that satisfies this condition.
+
+=== Year 2025 | Paper R2 | Problem 5 | Page 1 | Ref 0 ===
+Let S be a set of n points in the plane. For each labeling L of the points in S with numbers from 1 to n, a graph G(L) with the vertex set {v1, v2,..., vn} is defined as follows: For each i from 2 to n, we connect vertex vi to the vertex vj where j is the label of the point which is the farthest point from point i among the points with labels {1, 2,..., i −1}; If there are more than one such point in this set, the one with the smallest label is chosen. Let f(L) be the maximum degree of the vertices in the graph G(L), and let h(S) be the minimum value of f(L) over all n! possible labelings of the members of S. (a) Provide a set S such that h(S) = 3. (b) For any set S, prove that there exists a finite set of points T, such that S ⊆T and h(T) = 2.
+
+=== Year 2025 | Paper R2 | Problem 6 | Page 2 | Ref 0 ===
+Dara and Sara are playing a game. Assume that at the beginning of the game, there are n containers, each with some number of stones. The operation ”throw” consists of choosing a container and throwing a stone into it. The game starts with Dara, and they take turns alternatively. Dara makes one throw in each of his turns, while Sara makes n −1 throws in each of her turns. Prove that Sara can play in such a way that, at least once, at the end of some player’s turn, the greatest common divisor of the numbers of stones in the containers becomes greater than 1.
+
+=== Year 2025 | Paper R2 | Problem 7 | Page 2 | Ref 0 ===
+In a gathering of 2025 people, a game is to be played. Each person, independent of the others, chooses another person from the group to be his ”slap target”. Each person is unaware of who others have chosen. After the choices are made, a random order of these individuals is selected. The people, in the specified order, insert themselves into a queue. The i-th person to enter has i choices for his position in the queue among the previous people. Each person’s goal is to end up directly behind his slap target. Therefore, each person, among all possible positions, chooses the one that maximizes his probability of achieving his goal. Furthermore, each person knows that each of the other people is also pursuing his own goal. What is the probability that a given person will achieve his goal?
+

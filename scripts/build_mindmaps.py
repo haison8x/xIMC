@@ -1,11 +1,13 @@
 """Build the study mind maps: mindmaps/keystage2.html, mindmaps/keystage3.html (IMC),
-mindmaps/imso.html (IMSO), mindmaps/imas_{middle,upper,junior}.html (IMAS) and mindmaps/igo.html (IGO).
+mindmaps/imso.html (IMSO), mindmaps/imas_{middle,upper,junior}.html (IMAS), mindmaps/igo.html (IGO)
+and mindmaps/ico.html (ICO).
 
 Usage:  python scripts/build_mindmaps.py
-Inputs: the problems files (via the load() of categorize, categorize_imso, categorize_imas, categorize_igo),
+Inputs: the problems files (via the load() of categorize, categorize_imso, categorize_imas, categorize_igo,
+        categorize_ico),
         leaves_*.py, mindmap_template.html
 Also rewrites data/keystage{2,3}_categories.txt, data/imso_categories.txt,
-data/imas_{middle,upper,junior}_categories.txt and data/igo_categories.txt.
+data/imas_{middle,upper,junior}_categories.txt, data/igo_categories.txt and data/ico_categories.txt.
 """
 import json
 import os
@@ -16,9 +18,11 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 import categorize  # noqa: E402
+import categorize_ico  # noqa: E402
 import categorize_igo  # noqa: E402
 import categorize_imas  # noqa: E402
 import categorize_imso  # noqa: E402
+import leaves_ico  # noqa: E402
 import leaves_igo  # noqa: E402
 import leaves_imas_junior  # noqa: E402
 import leaves_imas_middle  # noqa: E402
@@ -52,6 +56,9 @@ PAGES = {
     "igo": dict(src=categorize_igo, stage="igo", leaves=leaves_igo, out="igo.html",
                 title="Bản đồ ôn IGO", h1="Bản đồ ôn Olympic Hình học Iran", root="IGO",
                 ls_key="igo-map", doc="igomap", home="igo.html", home_label="Ôn luyện IGO"),
+    "ico": dict(src=categorize_ico, stage="ico", leaves=leaves_ico, out="ico.html",
+                title="Bản đồ ôn ICO", h1="Bản đồ ôn Olympic Tổ hợp Iran", root="ICO",
+                ls_key="ico-map", doc="icomap", home="ico.html", home_label="Ôn luyện ICO"),
 }
 
 HEAD = ('<!doctype html>\n<html lang="vi">\n<head>\n<meta charset="utf-8">\n'
