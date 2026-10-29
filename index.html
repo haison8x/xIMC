@@ -10,7 +10,7 @@
 /* Layout: landing page on the same squared paper; one large card per competition, linking to its page and mind maps. */
 :root{
   --paper:#f3f6f2; --sheet:#fbfcfa; --grid:#e1e8e0; --ink:#17221d; --muted:#5b6a62; --line:#c9d4cc;
-  --ks2:#1d6fa3; --ks3:#b23a62; --imso:#b5532a; --imas:#6a4bb0; --igo:#4d7c0f; --ico:#a16207; --rmo:#0e7490; --accent:#0d6b58;
+  --ks2:#1d6fa3; --ks3:#b23a62; --imso:#b5532a; --imas:#6a4bb0; --igo:#4d7c0f; --ico:#a16207; --rmo:#0e7490; --apmops:#b4232f; --accent:#0d6b58;
   --f-display:"Bricolage Grotesque", "Be Vietnam Pro", system-ui, sans-serif;
   --f-body:"Be Vietnam Pro", system-ui, -apple-system, "Segoe UI", sans-serif;
   --f-mono:"JetBrains Mono", ui-monospace, Consolas, monospace;
@@ -18,10 +18,10 @@
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
   --paper:#111815; --sheet:#18211d; --grid:#1d2823; --ink:#e3ebe6; --muted:#97a69e; --line:#34423b;
-  --ks2:#5fb0e6; --ks3:#ec7aa0; --imso:#f08d5c; --imas:#a993f0; --igo:#9ccc65; --ico:#f2c14e; --rmo:#5ccfe6; --accent:#4fc2a5; color-scheme:dark}}
+  --ks2:#5fb0e6; --ks3:#ec7aa0; --imso:#f08d5c; --imas:#a993f0; --igo:#9ccc65; --ico:#f2c14e; --rmo:#5ccfe6; --apmops:#f28b8b; --accent:#4fc2a5; color-scheme:dark}}
 :root[data-theme="dark"]{
   --paper:#111815; --sheet:#18211d; --grid:#1d2823; --ink:#e3ebe6; --muted:#97a69e; --line:#34423b;
-  --ks2:#5fb0e6; --ks3:#ec7aa0; --imso:#f08d5c; --imas:#a993f0; --igo:#9ccc65; --ico:#f2c14e; --rmo:#5ccfe6; --accent:#4fc2a5; color-scheme:dark}
+  --ks2:#5fb0e6; --ks3:#ec7aa0; --imso:#f08d5c; --imas:#a993f0; --igo:#9ccc65; --ico:#f2c14e; --rmo:#5ccfe6; --apmops:#f28b8b; --accent:#4fc2a5; color-scheme:dark}
 *{box-sizing:border-box}
 html{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 body{margin:0;background-color:var(--paper);background-image:linear-gradient(var(--grid) 1px,transparent 1px),linear-gradient(90deg,var(--grid) 1px,transparent 1px);background-size:24px 24px;color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.55}
@@ -64,6 +64,7 @@ footer.site a{color:var(--accent);font-weight:600}
 .stage.igo{--c:var(--igo)}
 .stage.ico{--c:var(--ico)}
 .stage.rmo{--c:var(--rmo)}
+.stage.apmops{--c:var(--apmops)}
 .years.wide{grid-template-columns:repeat(auto-fill,minmax(min(100%,380px),1fr))}
 .yr{flex-wrap:wrap}
 .yr .tag{font-size:11px;font-weight:700;color:var(--c);border:1px solid var(--c);border-radius:999px;padding:1px 7px}
@@ -80,7 +81,7 @@ footer.site a{color:var(--accent);font-weight:600}
   <header>
     <div class="eyebrow">Olympic Toán tiểu học và THCS</div>
     <h1>Ôn luyện Olympic Toán</h1>
-    <p>Đề thi các năm của sáu kỳ thi, được trích ra văn bản, phân loại theo nhánh và nhánh con, và gom thành mindmap để ôn theo dạng bài. Chọn một kỳ thi để bắt đầu.</p>
+    <p>Đề thi các năm của bảy kỳ thi, được trích ra văn bản, phân loại theo nhánh và nhánh con, và gom thành mindmap để ôn theo dạng bài. Chọn một kỳ thi để bắt đầu.</p>
   </header>
 
   <div class="stages">
@@ -163,6 +164,19 @@ footer.site a{color:var(--accent);font-weight:600}
       <div class="actions">
         <a class="btn main" href="rmo.html">Vào trang RMO</a>
         <a class="btn" href="mindmaps/rmo.html">Mindmap RMO</a>
+      </div>
+    </section>
+
+    <section class="stage apmops" aria-labelledby="h-apmops">
+      <h2 id="h-apmops">APMOPS <span>Asia Pacific Mathematical Olympiad for Primary Schools</span></h2>
+      <p class="desc">Kỳ thi Toán tiểu học của Singapore, có năm mang tên SMOPS: vòng 1 gồm 30 bài trả lời ngắn, thêm vòng 2 của bốn năm, kèm đáp số.</p>
+      <div class="facts two">
+        <div><b>797</b><small>bài · 2001–2026</small></div>
+        <div><b>203</b><small>dạng bài, hệ nhánh gần giống IMC KS2</small></div>
+      </div>
+      <div class="actions">
+        <a class="btn main" href="apmops.html">Vào trang APMOPS</a>
+        <a class="btn" href="mindmaps/apmops.html">Mindmap APMOPS</a>
       </div>
     </section>
   </div>

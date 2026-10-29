@@ -1,14 +1,14 @@
 """Build the study mind maps: mindmaps/keystage2.html, mindmaps/keystage3.html (IMC),
 mindmaps/imso.html (IMSO), mindmaps/imas_{middle,upper,junior}.html (IMAS), mindmaps/igo.html (IGO),
-mindmaps/ico.html (ICO) and mindmaps/rmo.html (RMO).
+mindmaps/ico.html (ICO), mindmaps/rmo.html (RMO) and mindmaps/apmops.html (APMOPS).
 
 Usage:  python scripts/build_mindmaps.py
 Inputs: the problems files (via the load() of categorize, categorize_imso, categorize_imas, categorize_igo,
-        categorize_ico, categorize_rmo),
+        categorize_ico, categorize_rmo, categorize_apmops),
         leaves_*.py, mindmap_template.html
 Also rewrites data/keystage{2,3}_categories.txt, data/imso_categories.txt,
-data/imas_{middle,upper,junior}_categories.txt, data/igo_categories.txt, data/ico_categories.txt and
-data/rmo_categories.txt.
+data/imas_{middle,upper,junior}_categories.txt, data/igo_categories.txt, data/ico_categories.txt,
+data/rmo_categories.txt and data/apmops_categories.txt.
 """
 import json
 import os
@@ -19,11 +19,13 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 import categorize  # noqa: E402
+import categorize_apmops  # noqa: E402
 import categorize_ico  # noqa: E402
 import categorize_igo  # noqa: E402
 import categorize_imas  # noqa: E402
 import categorize_imso  # noqa: E402
 import categorize_rmo  # noqa: E402
+import leaves_apmops  # noqa: E402
 import leaves_ico  # noqa: E402
 import leaves_igo  # noqa: E402
 import leaves_imas_junior  # noqa: E402
@@ -65,6 +67,9 @@ PAGES = {
     "rmo": dict(src=categorize_rmo, stage="rmo", leaves=leaves_rmo, out="rmo.html",
                 title="Bản đồ ôn RMO", h1="Bản đồ ôn Raffles Mathematical Olympiad", root="RMO",
                 ls_key="rmo-map", doc="rmomap", home="rmo.html", home_label="Ôn luyện RMO"),
+    "apmops": dict(src=categorize_apmops, stage="apmops", leaves=leaves_apmops, out="apmops.html",
+                   title="Bản đồ ôn APMOPS", h1="Bản đồ ôn APMOPS (SMOPS)", root="APMOPS",
+                   ls_key="apmops-map", doc="apmopsmap", home="apmops.html", home_label="Ôn luyện APMOPS"),
 }
 
 HEAD = ('<!doctype html>\n<html lang="vi">\n<head>\n<meta charset="utf-8">\n'
