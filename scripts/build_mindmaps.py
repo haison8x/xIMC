@@ -1,15 +1,17 @@
-"""Build the study mind maps: mindmaps/keystage2.html, mindmaps/keystage3.html (IMC),
+"""Build the study mind maps: mindmaps/imc_ks2.html, mindmaps/imc_ks3.html (IMC),
 mindmaps/imso.html (IMSO), mindmaps/imas_{middle,upper,junior}.html (IMAS), mindmaps/igo.html (IGO),
-mindmaps/ico.html (ICO), mindmaps/rmo.html (RMO), mindmaps/apmops.html (APMOPS) and
-mindmaps/sasmo.html (SASMO).
+mindmaps/ico.html (ICO), mindmaps/rmo.html (RMO), mindmaps/apmops.html (APMOPS),
+mindmaps/sasmo.html (SASMO), mindmaps/nmos.html (NMOS) and mindmaps/scmo_{primary,secondary}.html (SCMO).
 
 Usage:  python scripts/build_mindmaps.py
 Inputs: the problems files (via the load() of categorize, categorize_imso, categorize_imas, categorize_igo,
-        categorize_ico, categorize_rmo, categorize_apmops, categorize_sasmo),
+        categorize_ico, categorize_rmo, categorize_apmops, categorize_sasmo,
+        categorize_nmos, categorize_scmo),
         leaves_*.py, mindmap_template.html
 Also rewrites data/keystage{2,3}_categories.txt, data/imso_categories.txt,
 data/imas_{middle,upper,junior}_categories.txt, data/igo_categories.txt, data/ico_categories.txt,
-data/rmo_categories.txt, data/apmops_categories.txt and data/sasmo_categories.txt.
+data/rmo_categories.txt, data/apmops_categories.txt, data/sasmo_categories.txt,
+data/nmos_categories.txt and data/scmo_{primary,secondary}_categories.txt.
 """
 import json
 import os
@@ -25,8 +27,10 @@ import categorize_ico  # noqa: E402
 import categorize_igo  # noqa: E402
 import categorize_imas  # noqa: E402
 import categorize_imso  # noqa: E402
+import categorize_nmos  # noqa: E402
 import categorize_rmo  # noqa: E402
 import categorize_sasmo  # noqa: E402
+import categorize_scmo  # noqa: E402
 import leaves_apmops  # noqa: E402
 import leaves_ico  # noqa: E402
 import leaves_igo  # noqa: E402
@@ -36,17 +40,21 @@ import leaves_imas_upper  # noqa: E402
 import leaves_imso  # noqa: E402
 import leaves_ks2  # noqa: E402
 import leaves_ks3  # noqa: E402
+import leaves_nmos  # noqa: E402
 import leaves_rmo  # noqa: E402
 import leaves_sasmo  # noqa: E402
+import leaves_scmo_primary  # noqa: E402
+import leaves_scmo_secondary  # noqa: E402
 from paths import MINDMAPS, ROOT  # noqa: E402
 
 IMC_HOME = dict(home="ximc.html", home_label="Ôn luyện IMC")
 IMAS_HOME = dict(src=categorize_imas, home="imas.html", home_label="Ôn luyện IMAS")
+SCMO_HOME = dict(src=categorize_scmo, home="scmo.html", home_label="Ôn luyện SCMO")
 PAGES = {
-    "ks2": dict(src=categorize, stage="ks2", leaves=leaves_ks2, out="keystage2.html",
+    "ks2": dict(src=categorize, stage="ks2", leaves=leaves_ks2, out="imc_ks2.html",
                 title="Bản đồ ôn IMC KS2", h1="Bản đồ ôn IMC Key Stage 2", root="IMC KS2",
                 ls_key="imc-ks2-map", doc="ks2map", **IMC_HOME),
-    "ks3": dict(src=categorize, stage="ks3", leaves=leaves_ks3, out="keystage3.html",
+    "ks3": dict(src=categorize, stage="ks3", leaves=leaves_ks3, out="imc_ks3.html",
                 title="Bản đồ ôn IMC KS3", h1="Bản đồ ôn IMC Key Stage 3", root="IMC KS3",
                 ls_key="imc-ks3-map", doc="ks3map", **IMC_HOME),
     "imso": dict(src=categorize_imso, stage="imso", leaves=leaves_imso, out="imso.html",
@@ -76,6 +84,15 @@ PAGES = {
     "sasmo": dict(src=categorize_sasmo, stage="sasmo", leaves=leaves_sasmo, out="sasmo.html",
                   title="Bản đồ ôn SASMO", h1="Bản đồ ôn Singapore and Asian Schools Math Olympiad", root="SASMO",
                   ls_key="sasmo-map", doc="sasmomap", home="sasmo.html", home_label="Ôn luyện SASMO"),
+    "nmos": dict(src=categorize_nmos, stage="nmos", leaves=leaves_nmos, out="nmos.html",
+                 title="Bản đồ ôn NMOS", h1="Bản đồ ôn National Mathematical Olympiad of Singapore", root="NMOS",
+                 ls_key="nmos-map", doc="nmosmap", home="nmos.html", home_label="Ôn luyện NMOS"),
+    "scmo_primary": dict(stage="primary", leaves=leaves_scmo_primary, out="scmo_primary.html",
+                         title="Bản đồ ôn SCMO Primary", h1="Bản đồ ôn Spring Cup Mathematical Olympiad – Tiểu học",
+                         root="SCMO Primary", ls_key="scmo-pri-map", doc="scmopmap", **SCMO_HOME),
+    "scmo_secondary": dict(stage="secondary", leaves=leaves_scmo_secondary, out="scmo_secondary.html",
+                           title="Bản đồ ôn SCMO Secondary", h1="Bản đồ ôn Spring Cup Mathematical Olympiad – THCS",
+                           root="SCMO Secondary", ls_key="scmo-sec-map", doc="scmosmap", **SCMO_HOME),
 }
 
 HEAD = ('<!doctype html>\n<html lang="vi">\n<head>\n<meta charset="utf-8">\n'
@@ -113,14 +130,16 @@ def build(name):
 
     # Paths are relative to the repo root; the page lives in mindmaps/, so link from there.
     rel = lambda path: path and Path(os.path.relpath(ROOT / path, MINDMAPS)).as_posix()
-    data = dict(groups=groups, kinds=src.KINDS,
+    # KINDS is one list, or one list per stage (SCMO).
+    kinds = src.KINDS[cfg["stage"]] if isinstance(src.KINDS, dict) else src.KINDS
+    data = dict(groups=groups, kinds=kinds,
                 probs={p["id"]: dict(t=p["text"], k=p["kind"], kn=p["kind_name"], y=p["year"], p=p["page"],
                                      f=rel(p["file"]), fl=p["file_label"], a=rel(p["answer"]),
                                      al=p["answer_label"])
                        for p in probs})
     years = sorted({p["year"] for p in probs})
     lower = getattr(src, "LOWER_KIND_NAMES", True)  # "345 cá nhân" but "485 Short Answer"
-    counts = " · ".join(f"{sum(p['kind'] == k for p in probs)} {n.lower() if lower else n}" for k, n in src.KINDS
+    counts = " · ".join(f"{sum(p['kind'] == k for p in probs)} {n.lower() if lower else n}" for k, n in kinds
                         if any(p["kind"] == k for p in probs))
     sub = f"{len(probs)} bài ({counts}) · {years[0]}–{years[-1]}"
 

@@ -1,0 +1,253 @@
+=== Year 2022 | Paper SJ | Round 1 | Problem 1 | Page 2 | Ref 0 ===
+Simplify (4/3^2 × 7/4^2) / ((1/3^2 + 7/8^2)^2 − (1/3^2 − 7/8^2)^2) + |2 − π|^0 − (−2)^3.
+
+=== Year 2022 | Paper SJ | Round 1 | Problem 2 | Page 2 | Ref 0 ===
+Given that the algebraic expression ax^3 + bx + c has a value of 2 when x = 0 and a value of −145 when x = −3, find the value of the expression when x = 3.
+
+=== Year 2022 | Paper SJ | Round 1 | Problem 3 | Page 2 | Ref 0 ===
+As shown in the figure, given that ∠A = 18°, points B, C, D, E, F, and G all lie on the two sides of ∠A, ∠ABC = 89°, ∠ACB = ∠DCE, ∠ADC = ∠EDF, ∠CED = ∠FEG, find the value of ∠F. [Figure: angle A with a horizontal lower side and a slanted upper side. B, D, F lie on the upper side in that order from A; C, E, G lie on the lower side in that order from A. Segments BC, CD, DE, EF form a zigzag between the two sides.]
+
+=== Year 2022 | Paper SJ | Round 1 | Problem 4 | Page 3 | Ref 0 ===
+Given that a^2 + 3a + 1 = 0, and a^4 + ma^2 + 1 = 11(a^3 + ma^2 + a), find the value of the real number m.
+
+=== Year 2022 | Paper SJ | Round 1 | Problem 5 | Page 3 | Ref 0 ===
+As shown in the figure, AB // EG, ∠ACB = ∠C = ∠BFE, ∠CBF = ∠EDF. Find the value of ∠C. [Figure: AB is a horizontal segment at the top (A left, B right), EG a horizontal segment at the bottom (E left, F between, G right). B is joined to C (to the lower right of B); segment CE goes down-left from C to E; segment BF goes down from B to F; BF and CE cross at D. There is no segment AC: the first angle, printed "∠ACB", matches ∠ABC in the figure.]
+
+=== Year 2022 | Paper SJ | Round 1 | Problem 6 | Page 3 | Ref 0 ===
+Given that two systems of equations in x and y, {ax − 3y = 2, 4x + y = 32} and {3x + by = 29, 7x − 9y = 13}, have the same solution, find the value of a + b.
+
+=== Year 2022 | Paper SJ | Round 1 | Problem 7 | Page 4 | Ref 0 ===
+Given that a1, a2, …, a9 is an arrangement of 1, 2, …, 9, S = |a1 − 2a2| + |3a3 − 4a4| + |5a5 − 6a6| + |7a7 − 8a8| + |9a9 − 10|, find the minimum value of S.
+
+=== Year 2022 | Paper SJ | Round 1 | Problem 8 | Page 4 | Ref 0 ===
+Two prime numbers p and q form the expression p^2 − 4q^4 which is a perfect square. How many pairs of (p, q) are there?
+
+=== Year 2022 | Paper SJ | Round 1 | Problem 9 | Page 4 | Ref 0 ===
+Line a is parallel to line b, with 20 points on line a and 22 points on line b. Connect these 42 points as vertices to form 14 triangles such that each point is used exactly once, and no two triangles share any common sides. How many different ways are there to connect them?
+
+=== Year 2022 | Paper SJ | Round 1 | Problem 10 | Page 4 | Ref 0 ===
+Writing a two-digit number before a three-digit number results in a five-digit number, which is exactly the square of the sum of the original two numbers. What is this five-digit number?
+
+=== Year 2022 | Paper SJ | Round 1 | Problem 11 | Page 5 | Ref 0 ===
+A and B take turns writing 2n natural numbers on the blackboard. Each time, they may only write one of the numbers 1, 2, 3, or 4. A goes first, and each player writes n numbers. If the sum of the 2n natural numbers at the end is a multiple of 6, then B wins; otherwise, A wins. Assuming both players are sufficiently intelligent, among the positive integers n not exceeding 2022, for how many values of n does A have a guaranteed winning strategy?
+
+=== Year 2022 | Paper SJ | Round 1 | Problem 12 | Page 5 | Ref 0 ===
+There are real numbers a, b, and c where a^2 + b^2 + c^2 = 100, (a − b)^2 ≥ 50, (b − c)^2 ≥ 50, and (c − a)^2 ≥ 50, find the value of a^4 + b^4 + c^4.
+
+=== Year 2022 | Paper SJ | Round 1 | Problem 13 | Page 5 | Ref 0 ===
+On a sheet of paper there are n distinct rational numbers. It is known that for any three different numbers chosen from them, at least two of them have a product that is also one of the numbers on the paper. Find the maximum possible value of n.
+
+=== Year 2022 | Paper SA | Round 1 | Problem 1 | Page 2 | Ref 0 ===
+Find the value of the expression sqrt(3(sqrt(2) + sqrt(3) + sqrt(5))(3sqrt(2) + 2sqrt(3) − sqrt(30))).
+
+=== Year 2022 | Paper SA | Round 1 | Problem 2 | Page 2 | Ref 0 ===
+If a^2 + b^2 = 100, and (a − b)^2 ≥ 200, calculate the value of a^4 + b^4.
+
+=== Year 2022 | Paper SA | Round 1 | Problem 3 | Page 2 | Ref 0 ===
+If a^2 + 4a + 1 = 0, and (a^4 + ma^2 + 1)/(2a^3 + ma^2 + 2a) = −10, find the value of m.
+
+=== Year 2022 | Paper SA | Round 1 | Problem 4 | Page 2 | Ref 0 ===
+If a = sqrt(sqrt(3)/6 + 1/48) − sqrt(3)/12, find the value of (a^2 + sqrt(a^4 + a + 2))^2.
+
+=== Year 2022 | Paper SA | Round 1 | Problem 5 | Page 2 | Ref 0 ===
+Find the value of integer m that make the result of expression n^3 − 14n^2 + 56n − 64 is prime number. [The integer asked for is n.]
+
+=== Year 2022 | Paper SA | Round 1 | Problem 6 | Page 3 | Ref 0 ===
+As shown in the figure, three vertices of square DEFG lie on the three sides of right triangle △ABC, and points E, G, and B are collinear. Given that ∠A = 90°, AC = 9, and AB = 12, find the area of square DEFG. [Figure: right angle at A (bottom left), C above A, B to the right of A. E is on AC, D is on CB, F is on AB, and G is inside the triangle on segment EB; the square is D-E-F-G.]
+
+=== Year 2022 | Paper SA | Round 1 | Problem 7 | Page 3 | Ref 0 ===
+Let k be an integer. The equation in x, ((k + 4)x^2 + (k + 2)x − 8)/((k + 1)x − 2) = kx + 1, has real solutions. If the absolute value of the product of all distinct real roots corresponding to all different integers k equals m/n (where m and n are coprime positive integers), find the value of m + n.
+
+=== Year 2022 | Paper SA | Round 1 | Problem 8 | Page 3 | Ref 0 ===
+If a positive integer a is given, and there are exactly 2022 pairs of positive integers (b, c) such that 2x^2 + 3xy + y^2 + ax + by + c can be factored into the product of two linear factors, find the sum of all possible values of a.
+
+=== Year 2022 | Paper SA | Round 1 | Problem 9 | Page 4 | Ref 0 ===
+As shown, H is the orthocenter of triangle ABC. Points D, E, M are the midpoints of AB, AC and AH respectively. If ∠BAC = 70° and ∠ACB = 50°, find the value of ∠DME. [Figure: triangle ABC with A at the top and BC horizontal; H on the altitude from A, M between A and H; D on AB; segments MD, DE and ME are drawn. Note: in the figure, E is drawn as the midpoint of BC, not of AC.]
+
+=== Year 2022 | Paper SA | Round 1 | Problem 10 | Page 4 | Ref 0 ===
+Given the function y = (sqrt(a^2 − x^2) + m)(sqrt(a + x) + sqrt(a − x) + n) where m, n are natural numbers and a is a perfect square, the difference between the maximum and minimum values of the function is 2022. Find the value of m + n + a.
+
+=== Year 2022 | Paper SA | Round 1 | Problem 11 | Page 4 | Ref 0 ===
+In the 9×9 grid shown on the right, we want to select nine 1×1 cells to color black, leaving all other cells white, such that each row, each column, and each diagonal contains exactly one black cell, and the entire figure remains axis-symmetric. Find the number of possible selections. [Figure: an empty 9×9 grid.]
+
+=== Year 2022 | Paper SA | Round 1 | Problem 12 | Page 5 | Ref 0 ===
+As shown in the figure, the incircle of △ABC touches sides AB and AC at points D and E respectively. Let I be the incenter. The extensions of BI and CI intersect segment DE at points F and G respectively. The extensions of BF and CG meet at point H. Given that BC/HI = sqrt(15), find the value of AD/DE. [Figure: tall triangle ABC with A at the top; the incircle touches AB at D and AC at E; chord DE crosses the circle; H is above I near the top of the circle. Note: in the figure, F (the left point on DE) lies on line CI and G (the right point) lies on line BI, the reverse of the text; lines BF and CG meet at H.]
+
+=== Year 2022 | Paper SA | Round 1 | Problem 13 | Page 5 | Ref 0 ===
+As shown in the figure, three vertices of the right triangle △AOB lie on the graph of the parabola y = x^2 + 2x, with the right-angled vertex at the origin. Let P be the foot of the perpendicular from the right angle to the hypotenuse AB. Find the sum of the maximum and minimum distances from the vertex of the parabola to point P. [No figure is printed.]
+
+=== Year 2023 | Paper S1 | Round 1 | Problem 1 | Page 2 | Ref 2 ===
+Let a and b be positive number satisfying a·b^2 = 3 and a^4·b^5 = 6. Find the value of a^7·b^8.
+
+=== Year 2023 | Paper S1 | Round 1 | Problem 2 | Page 2 | Ref 2 ===
+What are the last four digits of the sum 1 + 12 + 123 + 1234 + 12345 + 123456 + 1234567 + 12345678 + 123456789? Give your answer as a 4-digit number.
+
+=== Year 2023 | Paper S1 | Round 1 | Problem 3 | Page 2 | Ref 2 ===
+As shown in the figure, BE is the bisector of ∠ABD and CF is the bisector of ∠ACD. If BE and CF intersect at G. If ∠BDC = 140° and ∠BGC = 100°, what is the degree of ∠A? [Figure: triangle ABC with A at the top, B bottom-left, C bottom-right; D is a point inside the triangle joined to B and C; E lies on AC and F lies on AB; segments BE and CF cross at G, which lies above D.]
+
+=== Year 2023 | Paper S1 | Round 1 | Problem 4 | Page 3 | Ref 2 ===
+Let n be a positive integer. If the highest common factor of n and 140 is 14, and the highest common factor of n and 66 is 6, what is the sum of the two smallest positive values of n?
+
+=== Year 2023 | Paper S1 | Round 1 | Problem 5 | Page 3 | Ref 3 ===
+Let m and n be two positive integers satisfying 5/6 − 7/12 + 9/20 − 11/30 + 13/42 − 15/56 + 17/72 = m/n. Find the minimum value of m + n.
+
+=== Year 2023 | Paper S1 | Round 1 | Problem 6 | Page 3 | Ref 3 ===
+If a, b and c are integers satisfying abc = 240, ac + b = 46 and a + bc = 64. Find the value of a + b + c.
+
+=== Year 2023 | Paper S1 | Round 1 | Problem 7 | Page 4 | Ref 4 ===
+In the quadrilateral ABCD, △ABC and △ACD are both isosceles triangles and point C is the common apex. Given that ∠ACD = 90°, ∠ACB = 45° and BD = 12. Find the area of quadrilateral ABCD. [Figure: convex quadrilateral with B at the top, A at the left, C at the right, D at the bottom; diagonals AC (horizontal) and BD drawn; right angle marked at C between CA and CD. CA = CB = CD.]
+
+=== Year 2023 | Paper S1 | Round 1 | Problem 8 | Page 4 | Ref 5 ===
+If (4x − 1)^4 = a0 + a1·x + a2·x^2 + a3·x^3 + a4·x^4, find the value of a0 − a1/2 + a2/2^2 − a3/2^3 + a4/2^4.
+
+=== Year 2023 | Paper S1 | Round 1 | Problem 9 | Page 4 | Ref 5 ===
+If x − z = y − w = 26, find the minimum value of x^2 + y^2 + z^2 + w^2 − xy − yz − zw − wx.
+
+=== Year 2023 | Paper S1 | Round 1 | Problem 10 | Page 5 | Ref 5 ===
+How many integers k are there such that the equation ((k + 4)x^2 + (k + 2)x − 8) / ((k + 1)x − 2) = kx + 1 has real number solutions?
+
+=== Year 2023 | Paper S1 | Round 1 | Problem 11 | Page 5 | Ref 6 ===
+There are nine robots numbered 1~9 standing in the 3 × 3 grid table, and each robot says one sentence. It is found that exactly one robot in each row tells lies, and exactly one robot in each column tells lies. Find the 3-digit number def. [Grid: row 1: a b c; row 2: d e f; row 3: g h i.] a: The numbers of the three robots in my column can be appropriately adjusted to form an arithmetic sequence; b: The difference between the numbers of my left and right robots is 1; c: I'm number 5; d: There are two robots in my row telling lies; e: My number is the smallest in my row; f: The sum of the numbers of robots in my row is 21; g: The sum of the numbers of two robots adjacent to me is 12; h: The product of the three number of robots in my row is 6; i: The numbers in my column are all even numbers.
+
+=== Year 2023 | Paper S1 | Round 1 | Problem 12 | Page 6 | Ref 6 ===
+Find the value of sqrt(3(sqrt(2) + sqrt(3) + sqrt(5))(3·sqrt(2) + 2·sqrt(3) − sqrt(30))).
+
+=== Year 2023 | Paper S1 | Round 1 | Problem 13 | Page 6 | Ref 7 ===
+Given that a^2 + 4a + 1 = 0 and (a^4 + m·a^2 + 1)/(2a^3 + m·a^2 + 2a) = −10, find the value of m.
+
+=== Year 2023 | Paper S1 | Round 1 | Problem 14 | Page 7 | Ref 7 ===
+Let a, b and c be rational numbers satisfying a(b + c) + 1 = bc, b(c + a) − 7 = 2ca, c(a + b) − 4 = 4ab. Find the value of a^2 + b^2 + c^2.
+
+=== Year 2023 | Paper S1 | Round 1 | Problem 15 | Page 7 | Ref 8 ===
+If n is an integer satisfying the value of n^3 − 14n^2 + 56n − 64 is a prime number, find the value of n.
+
+=== Year 2023 | Paper S1 | Round 1 | Problem 16 | Page 8 | Ref 8 ===
+Let ABCD be a square sheet of paper with AB = 12. If we fold the sheet of paper along the line EF, point B will coincide with G, the midpoint of AD as shown in the diagram. Find the area of the quadrilateral BCFE. [Figure: square with A top-left, D top-right, B bottom-left, C bottom-right; G is the midpoint of the top side AD; E is on the left side AB and F is on the right side CD near C; the fold line EF is dashed; after folding, B lands on G and C lands on H, a point outside the square to the right of F; dashed segments EG, GH and HF show the folded flap.]
+
+=== Year 2023 | Paper S1 | Round 1 | Problem 17 | Page 8 | Ref 9 ===
+If p and q are two prime numbers such that p^2 − 4q^4 is a square number, how many such pairs of (p, q) can be found?
+
+=== Year 2025 | Paper SJ | Round 1 | Problem 1 | Page 1 | Ref 1 ===
+|1/3 − 1/2| × 36 − (−2)^2 + (3 − π)^0 = ____.
+
+=== Year 2025 | Paper SJ | Round 1 | Problem 2 | Page 1 | Ref 1 ===
+Given that A = x^2 + xy − 2x − 3, B = −x^2 + 3xy − 9. If 3A − B is −2, then the value for the expression x^2 − (3/2)x + 5/2 = ____.
+
+=== Year 2025 | Paper SJ | Round 1 | Problem 3 | Page 1 | Ref 1 ===
+If real numbers x, y satisfy 4x + y = 9 and 2x − y = a with x + y ≥ 0, then the maximum value of a = ____.
+
+=== Year 2025 | Paper SJ | Round 1 | Problem 4 | Page 1 | Ref 2 ===
+As shown in the figure below, ∠B = 26°, ∠D = 62°, the angle bisectors of ∠DAE and ∠BCD cross at point F, then the degree measure of ∠AFC = ____°. [Figure: B, A, E lie on a horizontal line in that order. Segments AD (down to D, lower left), DC, and BC (from B down-right to C) are drawn; BC crosses AD. AF bisects ∠DAE and CF bisects ∠BCD, meeting at F inside the figure.]
+
+=== Year 2025 | Paper SJ | Round 1 | Problem 5 | Page 2 | Ref 2 ===
+If a positive integer n satisfy the condition that when 66, 78 and 42 are divided by n, the resulting remainders are all equal and nonzero, then the sum of all possible values of n is ____.
+
+=== Year 2025 | Paper SJ | Round 1 | Problem 6 | Page 2 | Ref 2 ===
+The minimum value of algebraic expression 4x^2 − 12xy + 10y^2 + 6y + 14 is ____.
+
+=== Year 2025 | Paper SJ | Round 1 | Problem 7 | Page 2 | Ref 3 ===
+The minimum value of |x − 1| + 2|x − 2| + 3|x − 3| + ⋯ + 100|x − 100| is ____.
+
+=== Year 2025 | Paper SJ | Round 1 | Problem 8 | Page 2 | Ref 3 ===
+Three squares ABCD, BEFG, PKRF are placed as shown below, point G is on the line segment DK, and square BEFG has a side length of 2. Then the area of △DEK is ____. [Figure: square ABCD (large, left) and square BEFG (middle) share vertex B, with A, B, E on a horizontal base line and G on side BC. The small square PKRF sits to the right with F its top-left vertex and P on FE. Segments DK (through G), DE, EK are drawn; DE meets BG at H and GK meets FP at I. Dashed lines DB, GE, FK are drawn (parallel).]
+
+=== Year 2025 | Paper SJ | Round 1 | Problem 9 | Page 3 | Ref 4 ===
+From a convex n-gon (a polygon with n sides), several non-adjacent interior angles are picked, and the maximum possible value for the sum of these interior angles is 600°, then the sum of all the possible values of n is ____.
+
+=== Year 2025 | Paper SJ | Round 1 | Problem 10 | Page 3 | Ref 4 ===
+A 3-digit integer is written as abc (overlined), where a, b, c are three distinct numbers. When abc is divided by the 2-digit integers bc, ac respectively, the resulting remainders are both a, then the sum of all the possible abc is ____.
+
+=== Year 2025 | Paper SJ | Round 1 | Problem 11 | Page 3 | Ref 5 ===
+Two table tennis players, A and B, are competing. The current score is tied at 5-5. It is known that throughout the entire match, player B has only led player A once. Then the number of different possible score progressions is ____.
+
+=== Year 2025 | Paper SJ | Round 1 | Problem 12 | Page 4 | Ref 7 ===
+A real number a > 0, b is the decimal part of a, and a^2 + b^2 = 2024, find the value of a^3 − b^3.
+
+=== Year 2025 | Paper SJ | Round 1 | Problem 13 | Page 4 | Ref 7 ===
+From 1, 2, 3, ⋯, 1000, n numbers are picked. These n numbers can be arranged in a row such that the product of every three adjacent numbers does not exceed 2000. Prove: n ≤ 34.
+
+=== Year 2026 | Paper SJ | Round 1 | Problem 1 | Page 2 | Ref 2 ===
+If a = 3^110, b = 4^88, c = 5^66, find the letter with the greatest value.
+
+=== Year 2026 | Paper SJ | Round 1 | Problem 2 | Page 2 | Ref 2 ===
+As shown in the figure, if ∠E = 55°, ∠F = 56°, ∠G = 66°, and ∠A + ∠B = ∠C + ∠D, find the value of ∠H. [Figure: a closed zig-zag polyline A–B–E–H–C–D–G–F–A: AB is horizontal at the top; B goes down-left to E, E down-right to H, H down-left to C, C down-right to D, D up-left to G, G up-right to F, F up-left back to A. Points E, G, C are on the left; F, H, D on the right; the segments cross each other.]
+
+=== Year 2026 | Paper SJ | Round 1 | Problem 3 | Page 2 | Ref 2 ===
+If real number a satisfies |2025 − a| + sqrt(a − 2026) = a, find the value of a − 2025^2.
+
+=== Year 2026 | Paper SJ | Round 1 | Problem 4 | Page 3 | Ref 3 ===
+As shown in the figure, in rhombus ABCD, AB = 6, DF = 2, ∠DAB = 60°, ∠EFG = 15°, FG ⊥ BC, find the length of AE. [Figure: rhombus ABCD with A bottom-left, B bottom-right, C top-right, D top-left. F on AD, E on AB near B, G on BC with FG ⊥ BC; segments FE and FG drawn.]
+
+=== Year 2026 | Paper SJ | Round 1 | Problem 5 | Page 3 | Ref 3 ===
+If rational numbers a1, a2, a3, …, a2026 satisfy a1 + a2 + … + a2026 = 0, find how many different possible values of a1/|a1| + a2/|a2| + a3/|a3| + … + a2026/|a2026|.
+
+=== Year 2026 | Paper SJ | Round 1 | Problem 6 | Page 3 | Ref 4 ===
+If 0 < a < 1, and a satisfies ⌊a + 1/50⌋ + ⌊a + 2/50⌋ + … + ⌊a + 49/50⌋ = 29 (⌊x⌋ means the greatest integer less than or equal to x), find the value of ⌊10a⌋.
+
+=== Year 2026 | Paper SJ | Round 1 | Problem 7 | Page 4 | Ref 4 ===
+Given two distinct positive integers a and b such that (3b − 1) is divisible by (2a + 1) and (3a − 1) is divisible by (2b + 1). Find the value of a + b.
+
+=== Year 2026 | Paper SJ | Round 1 | Problem 8 | Page 4 | Ref 5 ===
+As shown in the figure. If ∠A = ∠B, AD, PQ, BC are all perpendicular to CD, AD = 10, PQ = 8, BC = 13, CD = 24, find the value of PA + PB. [Figure: D, Q, C on a horizontal base line (Q between D and C); vertical segments DA, QP, CB; segments AP and PB drawn, with ∠DAP = ∠CBP.]
+
+=== Year 2026 | Paper SJ | Round 1 | Problem 9 | Page 4 | Ref 5 ===
+If real numbers x, y satisfy x ≥ y ≥ 1 and 2x^2 − 2xy − 6x + y^2 = −9, find the value of x + y.
+
+=== Year 2026 | Paper SJ | Round 1 | Problem 10 | Page 5 | Ref 6 ===
+As shown in the figure, AD, BE, CF are the three heights of triangle ABC. If AB = 12, BC = 10, EF = 6, find the length of BE. [Figure: acute triangle ABC with D on BC, E on CA, F on AB; altitudes AD, BE, CF meet at one point; segment EF drawn.]
+
+=== Year 2026 | Paper SJ | Round 1 | Problem 11 | Page 5 | Ref 6 ===
+Find the number of positive integer pairs (x, y) that satisfy the following equation. x·sqrt(y) + y·sqrt(x) − sqrt(2026x) − sqrt(2026y) + sqrt(2026xy) = 2026
+
+=== Year 2026 | Paper SJ | Round 1 | Problem 12 | Page 5 | Ref 7 ===
+If m^2 = n + 5, n^2 = m + 5, m ≠ n, find the value of m^5 − 2mn + n^5.
+
+=== Year 2026 | Paper SJ | Round 1 | Problem 13 | Page 6 | Ref 8 ===
+Fill the 12 boxes shown in the diagram with consecutive positive integers 1, 2, 3, ... in ascending order. Each time you place a number, you must choose a box that is empty and whose adjacent boxes are also empty. Continue this process until no more numbers can be placed. How many different filling methods are there in total? [Figure: a single row of 12 boxes.]
+
+=== Year 2026 | Paper SJ | Round 1 | Problem 14 | Page 6 | Ref 9 ===
+Let t be a real number. If a and b are the two non-negative real roots of the quadratic equation x^2 − 4x + t − 1 = 0, find the minimum value of (a^2 − 1)(b^2 − 1).
+
+=== Year 2026 | Paper SJ | Round 1 | Problem 15 | Page 7 | Ref 10 ===
+n balls numbered from 1 to n are placed into two boxes such that any two balls whose numbers add up to a perfect square must be placed in the same box. Each box must contain at least one ball. Find the maximum possible value of n that satisfies these conditions.
+
+=== Year 2026 | Paper SA | Round 1 | Problem 1 | Page 2 | Ref 2 ===
+Given that for any x ∈ R, the function f(x) satisfies f(x + 1) = (f(x) − 1)/(f(x) + 1), and f(1) = −2, find the value of f(2026).
+
+=== Year 2026 | Paper SA | Round 1 | Problem 2 | Page 2 | Ref 2 ===
+Let x and y be positive real numbers. What is the smallest possible value of 16/x + 108/y + xy?
+
+=== Year 2026 | Paper SA | Round 1 | Problem 3 | Page 2 | Ref 3 ===
+The result of the expression cbrt(26 + 15sqrt(3)) − cbrt(−26 + 15sqrt(3)) is ____. (cbrt = cube root)
+
+=== Year 2026 | Paper SA | Round 1 | Problem 4 | Page 3 | Ref 3 ===
+As shown in the figure, in a right triangle ABC, ∠C = 90°, AC = 6, BC = 8, point D is on the hypotenuse AB, and ∠CDB = 2∠B. Find the length of CD. [Figure: right angle at C (bottom-left), B directly above C, A to the right of C; D on hypotenuse AB nearer A; segment CD drawn.]
+
+=== Year 2026 | Paper SA | Round 1 | Problem 5 | Page 3 | Ref 3 ===
+Find the units digit of (2^1 + 1)(2^2 + 1)(2^3 + 1)…(2^2017 + 1).
+
+=== Year 2026 | Paper SA | Round 1 | Problem 6 | Page 3 | Ref 4 ===
+Given that two real numbers x, y satisfy 20x^2 − 14x − 5 = 0, y^2 + 26y + 20 = 0, and xy ≠ y + 1, find the value of (xy − y + x)/y.
+
+=== Year 2026 | Paper SA | Round 1 | Problem 7 | Page 4 | Ref 4 ===
+Find the value of sin6° sin42° sin66° sin78°.
+
+=== Year 2026 | Paper SA | Round 1 | Problem 8 | Page 4 | Ref 5 ===
+As shown in the figure, in an isosceles triangle ABC, AB = AC, BC = 20, point O is the midpoint of BC, OE ⊥ AC at point E, AF ⊥ BE at point F and AF intersects OE at point G, OG = 3. Find the area of triangle ABC. [Figure: triangle with apex A on top, base BC horizontal, O midpoint of BC; E on AC with OE ⊥ AC; segment BE drawn; line from A perpendicular to BE meets BE at F and continues to meet OE at G.]
+
+=== Year 2026 | Paper SA | Round 1 | Problem 9 | Page 5 | Ref 6 ===
+On the six faces of a cube, each face is labelled with a distinct positive integer. The product of the numbers on two adjacent faces is written on their common edge, and the product of the numbers on the three faces meeting at a vertex is written at that vertex. Among these 26 numbers written (6 faces, 12 edges, 8 vertices),
+(a) At most how many different values can appear among these 26 numbers? (7 marks)
+(b) At least how many different values must appear? Please explain your reasoning. (7 marks)
+
+=== Year 2026 | Paper SA | Round 1 | Problem 10 | Page 5 | Ref 7 ===
+In an acute triangle ABC, ∠ABC = 45° and H is the orthocenter. A circle passing through points B, H, and C intersects AB at point D. Another circle passing through points A, D, and H intersects BH at point E. Given that DE = 2 and EH = 3sqrt(2), find the length of EA. [Figure: acute triangle ABC (A top, B bottom-left, C bottom-right) with orthocenter H; an arc through B, D, H, C; a circle through A, D, E, H above it; segments AH, AE, DE, DH and BH drawn, with E on BH.]
+
+=== Year 2026 | Paper SA | Round 1 | Problem 11 | Page 6 | Ref 8 ===
+The inequality a^2 + 4b^2 + 2n − 2025 ≤ 2ab + 3a + 6b (where n is a positive integer) has exactly 16 integer solutions (a, b). What is the value of n?
+
+=== Year 2026 | Paper SA | Round 1 | Problem 12 | Page 6 | Ref 9 ===
+Find all non-negative integer solutions (x, y, z) to the equation 2^x − 5^y · 7^z = 1.
+
+=== Year 2026 | Paper SA | Round 1 | Problem 13 | Page 7 | Ref 10 ===
+Prove that if p is a prime number, then p^2 | (C(2p, p) − 2), where C(2p, p) is the binomial coefficient "2p choose p".

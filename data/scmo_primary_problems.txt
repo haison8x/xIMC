@@ -1,0 +1,1258 @@
+=== Year 2016 | Paper P3 | Round 1 | Problem 1 | Page 1 | Ref 1 ===
+210 + 6 − 12 − 19 = ____.
+
+=== Year 2016 | Paper P3 | Round 1 | Problem 2 | Page 1 | Ref 1 ===
+Qiqi did calculation exercises and did 15 questions in 5 minutes. At this speed, she can do ____ questions in 8 minutes.
+
+=== Year 2016 | Paper P3 | Round 1 | Problem 3 | Page 1 | Ref 1 ===
+One day, Jiajia was picking a type of grass with three leaves in the big forest. Suddenly, she picked a type of grass with four leaves. At this time, she found that the grass she picked had a total of 40 leaves, and she already had ____ grass with three leaves.
+
+=== Year 2016 | Paper P3 | Round 1 | Problem 4 | Page 1 | Ref 1 ===
+There are a total of ____ squares in the figure below. [Figure: a 4×4 square divided into four 2×2 quarters: the top-left and bottom-right quarters are single undivided squares; the top-right and bottom-left quarters are each divided into four 1×1 squares.]
+
+=== Year 2016 | Paper P3 | Round 1 | Problem 5 | Page 1 | Ref 1 ===
+Haohao has 22 pieces of candy, and Yuanyuan's candy is 3 pieces more than half of Haohao's. Then Haohao gives Yuanyuan ____ pieces of candy, and they both have the same number of candies.
+
+=== Year 2016 | Paper P3 | Round 1 | Problem 6 | Page 2 | Ref 1 ===
+In the following two calculations, the same Chinese characters represent the same numbers, and different Chinese characters represent different numbers: 数学花园 + 探秘 = 2015, 探秘 + 1 + 2 + 3 + … + 10 = 花园. So 数学花园 = ____. [Each character is a digit; 数学花园 is a four-digit number, 探秘 and 花园 are two-digit numbers.]
+
+=== Year 2016 | Paper P3 | Round 1 | Problem 7 | Page 2 | Ref 1 ===
+Teacher Wang teaches in a special school. He can take one day off after three days of class. It is known that his first day off this semester is on Tuesday, so his fifth day off is ____.
+
+=== Year 2016 | Paper P3 | Round 1 | Problem 8 | Page 2 | Ref 1 ===
+Use sticks with a length of 6 cm to make a square. It takes 4 sticks to make a square with a side length of 6 cm. It takes at least ____ sticks to make 5 such squares.
+
+=== Year 2016 | Paper P3 | Round 1 | Problem 9 | Page 2 | Ref 1 ===
+Fill in the "+" or "−" in □ of the formula 1□2□3□6□12. There may be a total of ____ different results.
+
+=== Year 2016 | Paper P3 | Round 1 | Problem 10 | Page 3 | Ref 1 ===
+Fill in the numbers 2, 0, 1, 5, 9 in the blanks. So that each row and each column have a 2, 0, 1, 5. It is required that the same numbers cannot be diagonally adjacent (except 9). Then the first five positions of the fifth line are ____. [Figure: a 6×6 grid. Given: row 1 = _ _ _ 2 0 1; row 2 = 0 1 5 _ _ _; rows 3, 4, 5 empty; row 6 = _ 2 0 1 5 _.]
+
+=== Year 2016 | Paper P3 | Round 1 | Problem 11 | Page 3 | Ref 1 ===
+1 kilogram of soybeans can be made into 3 kilograms of tofu, and 6 kilograms of soybeans are needed to make 1 kilogram of soybean oil. 1 kilogram of tofu earns 3 yuan, 1 kilogram of soybean oil earns 15 yuan. There is a batch of soybeans totalling 460 kilograms. After being made into tofu or soybean oil and sold, 1800 yuan was obtained. ____ kilograms of soybeans in this batch were made into soybean oil.
+
+=== Year 2019 | Paper P3 | Round 1 | Problem 1 | Page 1 | Ref 1 ===
+On October 1, 1949, the People's Republic of China was officially established. Therefore, the 70th anniversary of the founding of the People's Republic of China is celebrated in ____ (which year).
+
+=== Year 2019 | Paper P3 | Round 1 | Problem 2 | Page 1 | Ref 1 ===
+There are ____ triangles in the figure below. [Figure: two congruent rhombi (tall, vertical long diagonal) side by side, touching at one vertex; the three side vertices lie on one horizontal line, which is drawn as each rhombus's horizontal diagonal. In each half (upper and lower triangle) of each rhombus there is an interior point joined to the three corners of that half.]
+
+=== Year 2019 | Paper P3 | Round 1 | Problem 3 | Page 1 | Ref 1 ===
+There is a straight road outside Xiaoming's house. Whenever he leaves home during the Spring Festival holiday, his grandmother watches him leave at the door. Xiaoming always turns back two steps and shakes his hands five steps. Xiaoming walks 40 centimetres per step, and as his grandmother gets older, the farthest distance she can see clearly is 40 meters. So, within the range that her grandmother can see clearly, the sum of Xiaoming's turns and hand waving is ____ times.
+
+=== Year 2019 | Paper P3 | Round 1 | Problem 4 | Page 2 | Ref 1 ===
+The 4-digit number ICPC is ____. [Vertical addition: ACM + ACM = ICPC, where each letter stands for a digit.]
+
+=== Year 2019 | Paper P3 | Round 1 | Problem 5 | Page 2 | Ref 1 ===
+When there was no unified unit of length in ancient times, steps were commonly used to measure length, but sometimes they are still used today. The military has a unified rule for step size, with a single step length of 75 centimetres. If a soldier moves at a speed of 120 steps per minute, then he has travelled ____ meters in 5 minutes.
+
+=== Year 2019 | Paper P3 | Round 1 | Problem 6 | Page 2 | Ref 1 ===
+The hexagon in the figure below is divided into two triangles and a rectangle. The perimeter of the rectangle and each triangle is 30 centimetres, and the length of the rectangle is twice the width. Therefore, the perimeter of the entire hexagon is ____ centimetres. [Figure: a horizontal rectangle in the middle with a triangle attached to each of its two short (vertical) sides, pointing left and right, forming a hexagon.]
+
+=== Year 2019 | Paper P3 | Round 1 | Problem 7 | Page 3 | Ref 1 ===
+The pine cones collected by Squirrel A is 1 more than five times that of Squirrel B, and the pine cones collected by Squirrel A is exactly three times that of Squirrel C; B and D collected a total of 66 pine cones, of which D collected 44. So, C collected ____ pine cones.
+
+=== Year 2019 | Paper P3 | Round 1 | Problem 8 | Page 3 | Ref 1 ===
+Little Raccoon Crispy Noodles Activity: Each pack of crispy noodles comes with a "gift card" with a five-pointed star sticker and a triangular sticker (see the figure below, the five-pointed star sticker and triangular sticker can be used separately). Two five-pointed star stickers can be exchanged for one pack of Little Raccoon Crispy Noodles, and four triangular stickers can also be exchanged for one pack of Little Raccoon Crispy Noodles. Alex now has four gift cards, so he can exchange them for at most ____ Little Raccoon Crispy Noodles (can use newly exchanged gift cards, but cannot borrow someone else's gift card.) [Figure: a card with a star sticker on top and a triangle sticker below, separated by a dashed line.]
+
+=== Year 2019 | Paper P3 | Round 1 | Problem 9 | Page 3 | Ref 1 ===
+Wei Wei is a young man who loves basketball. He played a basketball singles match against A, B, and C respectively. In these three matches: (1) Wei Wei's score in the match against C differs by 5 points from the score in the previous match; (2) Wei Wei scored 37 points in the match against A and 43 points in the next match; (3) Wei Wei scored the highest score in the match against C. So, Wei Wei scored ____ points in the match against C.
+
+=== Year 2019 | Paper P3 | Round 1 | Problem 10 | Page 4 | Ref 1 ===
+As shown in the figure, the numbers in each grid represent the number of candies in this grid. Starting from the blank grid in the bottom left corner, Xiaoxin can only take one step to the right or one step up to adjacent grids at a time, and finally reach the grid in the top right corner. Every time he reaches a grid, he will take all the candies in the grid. Therefore, Xiaoxin can obtain up to ____ candies. [Figure: 4×4 grid, rows from top to bottom: 12 13 19 20 / 3 11 15 18 / 2 5 10 17 / (blank) 1 7 9.]
+
+=== Year 2019 | Paper P3 | Round 1 | Problem 11 | Page 4 | Ref 1 ===
+Five children A, B, C, D, and E play two programming games. After the first game, A gets 5 points, B gets 4 points, C gets 3 points, D gets 2 points, and E gets 1 point. After the second game, the five of them get 5 points, 4 points, 3 points, 2 points, and 1 point respectively. Coincidentally, when each person adds up their two scores, the total scores happen to be 5 consecutive whole numbers. There may be ____ possible scoring situations for A, B, C, D, and E in the second game.
+
+=== Year 2020 | Paper P3 | Round 1 | Problem 1 | Page 1 | Ref 1 ===
+2020 − 1919 = ____
+
+=== Year 2020 | Paper P3 | Round 1 | Problem 2 | Page 1 | Ref 1 ===
+There are ____ squares in the figure below. [Figure: a fish drawn with lines at 45°: a small tilted square (the tail) touching at a corner a large tilted square (the body, twice the tail's side); the tail is cut by lines into a small square and other pieces, and the body is cut into small squares and 1×2 rectangles; a dot marks the eye.]
+
+=== Year 2020 | Paper P3 | Round 1 | Problem 3 | Page 1 | Ref 1 ===
+There is a group of magical elves living in the forest. Three little elves will automatically merge into a middle elf, and three middle elves will automatically merge into a big elf. If there are initially 50 little elves in the forest, then after the automatic merging is completed, there will be at least ____ small, middle, and big elves in total.
+
+=== Year 2020 | Paper P3 | Round 1 | Problem 4 | Page 1 | Ref 1 ===
+Fill in numbers 1-4 in the space so that each row and column does not repeat. The number outside the row indicates that these two numbers are adjacent to each other in the given order, while the number outside the column indicates that these two numbers are adjacent to each other in the given order. The four-digit number from left to right in the last row is ____. [Figure: 4×4 grid. Above column 1: "4" over "3" (4 is directly above 3 in that column). Left of row 2: "2 3"; left of row 3: "1 3"; left of row 4: "3 1" (these two numbers are next to each other in that order, left to right).]
+
+=== Year 2020 | Paper P3 | Round 1 | Problem 5 | Page 2 | Ref 1 ===
+Xiaoming pieced together 11 identical white small rectangles to form the "20" pattern shown in the following figure. It is known that the shaded area in pattern "0" is 16 square centimetres larger than that in pattern "2". Therefore, the area of a white small rectangle is ____ square centimetres. [Figure: the "2" uses 5 rectangles (top bar, upper-right vertical, middle bar, lower-left vertical, bottom bar) enclosing two shaded rectangles; the "0" uses 6 rectangles (top and bottom bars, two verticals stacked on each side) enclosing one large shaded rectangle. Both digits are the same height.]
+
+=== Year 2020 | Paper P3 | Round 1 | Problem 6 | Page 2 | Ref 1 ===
+We divide the oil wells in a certain mining area into three categories: A, B, and C. Among them, the number of Class B oil wells is 1 more than twice that of Class A oil wells, the number of Class C oil wells is three times the total of the other two categories, and the number of Class C oil wells is 212 more than that of Class B oil wells. Therefore, the number of Class C oil wells is ____.
+
+=== Year 2020 | Paper P3 | Round 1 | Problem 7 | Page 2 | Ref 1 ===
+In the following figure, the same Chinese characters represent the same number, while different Chinese characters represent different numbers. Therefore, the maximum four-digit number represented by "同心共筑" is ____. [Vertical addition: 中国梦 + 同心共筑 = 2019, each character a digit.]
+
+=== Year 2020 | Paper P3 | Round 1 | Problem 8 | Page 3 | Ref 1 ===
+Xiaoyu raised some chickens and rabbits at home. The number of chickens was three more than twice that of rabbits. One day, Xiaoyu sprinkled some deformation potion on the chickens and rabbits. All the chickens turned into two heads and three legs, and all the rabbits turned into one head and five legs. After counting, Xiaoyu found that the total number of legs of all the animals was 93 more than the total number of animals, so there were a total of ____ chickens and rabbits.
+
+=== Year 2020 | Paper P3 | Round 1 | Problem 9 | Page 3 | Ref 1 ===
+A, B, and C are three different numbers from 1 to 9, and A < B < C. Find the difference of the two numbers at each line to get three differences, the three differences exactly form an arithmetic sequence. There are ____ filling methods that meet the requirements. [Figure: a triangle with three circles at its vertices labelled A (bottom left), B (top), C (bottom right), joined by three lines.]
+
+=== Year 2020 | Paper P3 | Round 1 | Problem 10 | Page 3 | Ref 1 ===
+There are two magical small islands. The people on Truth Island only tell the truth, and the people on Devil Island only tell lies. One day, seven people from Truth Island and Devil Island went on a boat trip together. The boatman asked, "Who comes from Truth Island and who comes from Devil Island?" Assuming these 7 people are called 1, 2, 3, 4, 5, 6, 7 respectively. 1 said, "2, 3, and 4 are all from Devil's Island." 2 said, "3 is from Devil's Island." 3 said, "Neither 2 nor I are from Devil's Island." 4 said, "Both 5 and 6 are people from Truth Island." 5 said, "4 is from Devil's Island." 6 said, "7 is not from Truth Island." 7 said, "I come from Truth Island." So, the numbers of all the people from Devil's Island, arranged in ascending order, make up a number. The number is ____.
+
+=== Year 2020 | Paper P3 | Round 1 | Problem 11 | Page 4 | Ref 1 ===
+The teacher wrote down 1 on the blackboard. A and B took turns to perform the following operations: A erases the number on the blackboard each time, and then writes a number that is twice or three times of the erased number; B erases the number on the blackboard each time and writes a number that differs by 1 from the erased number. One operation of A and one operation of B are called a round. First, A operates. At least by the end of round ____, the number on the blackboard happens to be 2020.
+
+=== Year 2020 | Paper P4 | Round 1 | Problem 1 | Page 1 | Ref 0 ===
+(1949 + 70 + 1) ÷ (100 + 1) = ____.
+
+=== Year 2020 | Paper P4 | Round 1 | Problem 2 | Page 1 | Ref 0 ===
+During the 70th National Day military parade, there were three aircraft formations containing fighter jets, helicopters, and transport planes. If there were 15 planes that were not fighter jets, 16 planes that were not helicopters, and 17 planes that were not transport planes, then the total number of planes in these three formations is ____.
+
+=== Year 2020 | Paper P4 | Round 1 | Problem 3 | Page 1 | Ref 0 ===
+In the figure below, the number of rectangles containing the shaded triangle is ____. [Figure: a grid of unit squares tilted 45°, shaped like a wide inverted "V": it is a 4×4 square grid with one 2×2 corner block removed (12 unit squares). The small shaded triangle sits inside the unit square in the 2nd row and 2nd column, counted from the corner opposite the removed block.]
+
+=== Year 2020 | Paper P4 | Round 1 | Problem 4 | Page 1 | Ref 0 ===
+Big Eater, with a large appetite, can eat a lot. Big Eater eats 1 bowl of rice on the first day, and each day afterward, the amount of rice eaten is twice that of the previous day. Once Big Eater finds that the remaining rice is not enough for one day, he will only eat 1 bowl. If 100 bowls of rice are prepared for Big Eater, then these bowls of rice are enough for Big Eater to eat for ____ days.
+
+=== Year 2020 | Paper P4 | Round 1 | Problem 5 | Page 2 | Ref 0 ===
+New Year is here, and Xiaoyue and Dayue have prepared a total of fewer than 20 candies. Dayue first gives some of his candies to Xiaoyue, and at this point, Xiaoyue's number of candies is three times that of Dayue. Later, Xiaoyue returns three times the number of candies Dayue gave him. At this point, Dayue's number of candies is three times that of Xiaoyue. So, originally, Xiaoyue and Dayue had a total of ____ candies.
+
+=== Year 2020 | Paper P4 | Round 1 | Problem 6 | Page 2 | Ref 0 ===
+In the figure, cut out 8 small squares (each with a side length of 1) along the grid lines of a 5×5 square grid paper, so that the remaining shape is a whole. The maximum perimeter of the remaining shape is ____. [Figure: a 5×5 square grid.]
+
+=== Year 2020 | Paper P4 | Round 1 | Problem 7 | Page 2 | Ref 0 ===
+The four-digit number 2020 is quite special. In this four-digit number, there are exactly 2 zeros, 0 ones, 2 twos, and 0 threes. If we arrange the occurrences of 0 to 3 from left to right, it exactly forms 2020. We call such numbers "New Year numbers." Write another four-digit "New Year number": ____.
+
+=== Year 2020 | Paper P4 | Round 1 | Problem 8 | Page 3 | Ref 0 ===
+In the figure, given that the areas of the three rectangles are 16, 4, and 8, the area of triangle ABC is ____. [Figure: right triangle ABC with the right angle at C (bottom left), A at the top and B at the right. Inside, three rectangles with sides along CA and CB: rectangle 4 in corner C; rectangle 16 directly above it (same width); rectangle 8 directly to the right of it (same height). The top-right corner of rectangle 16 and the top-right corner of rectangle 8 lie on the hypotenuse AB.]
+
+=== Year 2020 | Paper P4 | Round 1 | Problem 9 | Page 3 | Ref 0 ===
+On the first day, each breadfruit tree has 1 breadfruit hanging on it. On the second day, the elf can use magic to make all the surviving breadfruit trees have 2 breadfruits each (regardless of how many there were originally). On the third day, the elf can use magic to make all the surviving breadfruit trees have 3 breadfruits each (regardless of how many there were originally). And so on... When all the breadfruits are picked from a tree, the tree immediately dies. If the elf needs to pick 20 breadfruits every day, there should be at least ____ breadfruit trees in the forest on the first day to ensure that the elf can survive continuously.
+
+=== Year 2020 | Paper P4 | Round 1 | Problem 10 | Page 3 | Ref 0 ===
+Fill in the blanks with numbers from 1 to 5, ensuring that each row and each column has unique numbers. The numbers outside each row (left or right) indicate the sum of the first x numbers when viewed from that direction. Similarly, the numbers outside each column (up or down) indicate the sum of the first x numbers when viewed from that direction. The five-digit number formed by the third row from left to right is ____. [Figure: 5×5 grid. Clues above columns 1-5: 14, 15, 1, 6, 6; below columns 1-5: 1, 8, 6, 15, 12; left of rows 1-5: 12, 15, 12, 3, 1; right of rows 1-5: 6, 1, 3, 15, 14. (x is the first number seen from that direction.)]
+
+=== Year 2020 | Paper P4 | Round 1 | Problem 11 | Page 4 | Ref 0 ===
+The bottom-left figure is a 3×2 rectangle. Xiaoya wants to use the 2 (1) triangles in the bottom-right figure and 8 (2) triangles without overlap to cover the bottom-left figure. There are ____ ways to cover it. [Figure: a 3×2 rectangle with dots at all lattice points (unit spacing). Triangle (1): isosceles right triangle with hypotenuse 2 and legs sqrt(2) (apex 1 unit above the midpoint of the hypotenuse). Triangle (2): isosceles right triangle with legs 1.]
+
+=== Year 2021 | Paper P3 | Round 1 | Problem 1 | Page 1 | Ref 1 ===
+2 + 0 × 2 + 2 = ____.
+
+=== Year 2021 | Paper P3 | Round 1 | Problem 2 | Page 1 | Ref 1 ===
+Teacher Zhao's new book is available in two versions: a regular edition and a signed edition. The regular edition is priced at 9 yuan a copy, and the signed edition is priced at 10 yuan. A customer spent 37 yuan to buy several new books, among which there were ____ signed editions.
+
+=== Year 2021 | Paper P3 | Round 1 | Problem 3 | Page 1 | Ref 1 ===
+The figure on the left below is a mosaic diagram composed of the "Cairo Pentagon". Each pentagon in the figure has the same shape and size. Observe the figure below, there are a total of ____ right figures in the left figure. (The right figure can be rotated) [Figure: left, a strip of Cairo pentagonal tiling (about 30 congruent pentagons in 3 rows); right, a hexagon made of 4 of these pentagons.]
+
+=== Year 2021 | Paper P3 | Round 1 | Problem 4 | Page 1 | Ref 1 ===
+Xiao Ming has a box of chess pieces in his hand. The box is full of white pieces at the beginning. He first took out 1 white piece, then put in 2 black pieces, then took out 3 white pieces, and then put in 4 black pieces. At this time, Xiao Ming found that the white pieces in the box were exactly half of the number of black pieces. So there are ____ white pieces in the box at the beginning.
+
+=== Year 2021 | Paper P3 | Round 1 | Problem 5 | Page 2 | Ref 1 ===
+12 students formed a circle. Each student found that among the two people next to him or her, there was one boy and one girl. Among the 12 classmates there are ____ boys.
+
+=== Year 2021 | Paper P3 | Round 1 | Problem 6 | Page 2 | Ref 1 ===
+Fill in the numbers 1 to 5 in each circle so that the numbers in each row, column and line are 5 non-repeating numbers. The figure on the left is an example that meets the conditions. After filling in the figure on the right as required, the five-digit number formed by the numbers in the five circles in the bottom row from left to right is ____. [Figure: two 5×5 arrays of circles; segments join the circles into five "lines" of 5 circles each. Left (example), rows top to bottom: 1 5 2 4 3 / 2 4 1 3 5 / 4 3 5 2 1 / 3 1 4 5 2 / 5 2 3 1 4. Right (to fill), rows top to bottom (_ = empty): _ 2 1 3 5 / _ 5 3 _ 4 / _ _ 2 1 _ / _ 3 4 _ 1 / _ _ _ _ _. Lines in the right figure (R = row, C = column): {R1C1, R1C2, R1C3, R2C3, R2C2}; {R1C4, R1C5, R2C5, R2C4, R3C4}; {R2C1, R3C1, R3C2, R4C2, R4C1}; {R3C3, R4C3, R5C3, R5C2, R5C1}; {R3C5, R4C5, R5C5, R5C4, R4C4}.]
+
+=== Year 2021 | Paper P3 | Round 1 | Problem 7 | Page 2 | Ref 1 ===
+Cut a small rectangle from the lower left corner of a rectangular piece of paper, and then cut it into three pieces. These three pieces can be assembled into a triangle. If the width of the rectangle is 12 and the length of AB is 5 times that of CD, then the length of EC is ____. [Figure: left, a tall rectangle of width 12 with A at the top-right and B at the bottom-right corner; a small rectangle is cut from the lower-left corner, leaving a notch with E on the left side, inner corner C, and D on the bottom edge below C. Cuts: from A to a point on the left side (red triangle at the top-left), and from A to D (thin yellow triangle ADB); the rest is a blue piece. Right, the three pieces reassembled into a triangle: the yellow triangle lies along the bottom with AB horizontal and D below B; the red triangle sits on the left with its right angle at E; the blue piece fills the right part with C at the same point as B.]
+
+=== Year 2021 | Paper P3 | Round 1 | Problem 8 | Page 3 | Ref 1 ===
+There are some whole numbers, such as 121 and 2552. The order of numbers from left to right and from right to left is the same. We call such whole numbers "palindromes". It is known that the sum of two different palindrome numbers is 2022, then the difference between the two palindrome numbers is ____.
+
+=== Year 2021 | Paper P3 | Round 1 | Problem 9 | Page 3 | Ref 1 ===
+Lili wants to use three kinds of squares with sizes of 1×1, 2×2, and 3×3 to form the figure below (the side length of each small square in the picture is 1), and the total area of the squares used is 15, and no overlap is allowed during the splicing process, and the number of each square is not limited (You don't need to use every type). There are ____ different splicing methods. (Different placements or numbers of squares count as different splicing methods.) [Figure: a staircase of unit squares: bottom row 7 squares (columns 1-7), middle row 5 squares (columns 1-5), top row 3 squares (columns 3-5); 15 squares in all.]
+
+=== Year 2021 | Paper P3 | Round 1 | Problem 10 | Page 3 | Ref 1 ===
+There is a 2-meter-tall sapling in the courtyard. The witch can prepare two different potions. Each bottle of magical potion can make a sapling grow 3 meters tall, and each bottle of super potion can double the height of a sapling. However, using the super potion will have side effects, which can cause the next potion to have the opposite effect (if A magical potion will make the sapling 3 meters shorter, a super potion will make the sapling half shorter). Super potions have limited raw materials and can only prepare up to 2 bottles, while magical potions have enough raw materials and can be prepared at will. If the witch wants to make the sapling grow to exactly 50 meters, she must prepare at least ____ bottles of magic potion.
+
+=== Year 2021 | Paper P3 | Round 1 | Problem 11 | Page 4 | Ref 1 ===
+Four peerless masters A, B, C and D met at the top of Huashan Mountain to compete in sword fighting and compete for the title of "No. 1 in the World". The four people drew lots and divided into two groups to determine the winner. The two winners competed again. The first and second place will be decided, and the two losers will decide the third and fourth place. After the competition, the four people communicated, and each said two sentences: A: I won the battle with C. But I lost to D. B: I deserve the title of No. 1 in the world, and A's ranking is lower than that of C. C: I was defeated by A. B lost to D in the competition. D: Fortunately, my ranking is not at the bottom. C is ranked higher than B. It is known that the number of wins is the same as the number of truths spoken. Then the four-digit number composed of A, B, C and D's ranking in order is ____.
+
+=== Year 2023 | Paper P1P2 | Round 1 | Problem 1 | Page 3 | Ref 1 ===
+The same figure below represents the same number. Which number do the square and triangle represent respectively? □ + □ + □ + △ + △ = 25, □ + △ = 11. □ = ( ), △ = ( )
+
+=== Year 2023 | Paper P1P2 | Round 1 | Problem 2 | Page 3 | Ref 1 ===
+How many more triangles are there than rectangles in the figure below? [Figure: a clown. The hat is a large triangle divided by two lines from its apex into 3 small triangles side by side (with a small tuft of lines above the apex); the face is a half-circle with two circle eyes and a small triangle nose; the body below is a rectangle divided by a vertical line into 2 equal rectangles.]
+
+=== Year 2023 | Paper P1P2 | Round 1 | Problem 3 | Page 3 | Ref 2 ===
+Fill in the blanks according to the pattern. ★(black) ○ △ □ ☆ ●(black) △ □ ☆ ○ ▲(black) □ ☆ ○ ____ ____ [The shapes star, circle, triangle, square repeat; in each group of four, one shape is black: the star in the 1st group, the circle in the 2nd, the triangle in the 3rd.]
+
+=== Year 2023 | Paper P1P2 | Round 1 | Problem 4 | Page 3 | Ref 2 ===
+How many natural numbers are there in the sequence? 7, 8, 9, …, 67, 68, 69
+
+=== Year 2023 | Paper P1P2 | Round 1 | Problem 5 | Page 3 | Ref 2 ===
+Five 10s plus four 1s equals to ____.
+
+=== Year 2023 | Paper P1P2 | Round 1 | Problem 6 | Page 4 | Ref 2 ===
+The pony, calf, crocodile and elephant had a race. According to the dialogue below, the fastest runner is the ____. Pony: "I run slower than the elephant." Crocodile: "I run faster than the elephant." Calf: "I'm not the fastest." Elephant: "I run slower than the calf."
+
+=== Year 2023 | Paper P1P2 | Round 1 | Problem 7 | Page 4 | Ref 3 ===
+In the equation below, write "+" or "−" between each two numbers such that the equation is true. 1 2 3 4 5 6 = 13
+
+=== Year 2023 | Paper P1P2 | Round 1 | Problem 8 | Page 4 | Ref 3 ===
+The naughty rabbit Coco put some carrots into four figures, the first three are as shown in the figure below. According to this pattern, there are ____ carrots in total. [Figure: (1) 1 carrot; (2) 3 carrots in a triangle (1 on top, 2 below); (3) 6 carrots in a triangle (rows of 1, 2, 3).]
+
+=== Year 2023 | Paper P1P2 | Round 1 | Problem 9 | Page 5 | Ref 3 ===
+Lily's home is 45 meters away from school. One day when Lily was heading to school, after walking 9 meters, she realised that she forgot to pack her assignment. She went back home to take her assignment, then went to school. What is the total distance Lily travelled?
+
+=== Year 2023 | Paper P1P2 | Round 1 | Problem 10 | Page 5 | Ref 4 ===
+Given a square piece of paper, if we cut off a corner, what are the possible numbers of corners we can form? (Write down all the possible answers)
+
+=== Year 2023 | Paper P1P2 | Round 1 | Problem 11 | Page 5 | Ref 4 ===
+Alex and Ben compete to climb the stairs. They start from the first floor at the same time and their speed remains the same. When Alex reaches the third floor, Ben has reached the fourth floor. When Alex reaches the fifth floor, Ben has reached the ____ floor.
+
+=== Year 2023 | Paper P1P2 | Round 1 | Problem 12 | Page 5 | Ref 4 ===
+There are ____ matchsticks in total. [Figure: matchsticks forming a grid of 3 rows × 4 columns of unit squares (each side of each small square is one matchstick, shared sides counted once).]
+
+=== Year 2023 | Paper P1P2 | Round 1 | Problem 13 | Page 5 | Ref 5 ===
+Fill in the blanks according to the pattern. 2, 1, 4, 1, 6, 2, 8, 3, 10, 5, 12, ( ), ( ), 13
+
+=== Year 2023 | Paper P1P2 | Round 1 | Problem 14 | Page 6 | Ref 5 ===
+There are four small balls with different weights. According to the figure below, please rank the balls from the heaviest to the lightest: ____ > ____ > ____ > ____. [Figure: three seesaws. (1) D on the left end, A on the right end; the left (D) side is down. (2) A and C on the left end, B and D on the right end; the left (A, C) side is down. (3) D and A on the left end, B and C on the right end; the seesaw is level (balanced).]
+
+=== Year 2023 | Paper P1P2 | Round 1 | Problem 15 | Page 6 | Ref 5 ===
+There are 3 groups of numbers below. Which 2 numbers can we swap such that when we sum the numbers in each group, we get the same answer? Group 1: 1, 6, 5. Group 2: 7, 2, 9. Group 3: 4, 8, 3.
+
+=== Year 2023 | Paper P1P2 | Round 1 | Problem 16 | Page 6 | Ref 6 ===
+Bajie and Wukong compete to eat steamed buns. After the competition, Wukong said, "Even if I eat six more steamed buns, the number of steamed buns I eat is still 2 less than that of Bajie." So how many more steamed buns did Bajie eat than Wukong?
+
+=== Year 2023 | Paper P1P2 | Round 1 | Problem 17 | Page 7 | Ref 6 ===
+A smart bee needs to fill in 10 numbers, 0-9, on the hive so that the difference between any two numbers with a common side is not 1. For example, 1 and 6 are two numbers with a common side, and their difference is 5 instead of 1. [Figure: a honeycomb of 10 hexagons in three staggered rows: top row of 3 cells (the right one contains 3), middle row of 4 cells (the 2nd contains 1, the 3rd contains 8), bottom row of 3 cells (the left one contains 6). Each top/bottom cell sits between two adjacent middle cells. The other 6 cells are empty, to be filled with 0, 2, 4, 5, 7, 9.]
+
+=== Year 2023 | Paper P1P2 | Round 1 | Problem 18 | Page 7 | Ref 7 ===
+Below, we have a figure made of cubes. Now we paint the outer faces green. Each cube has 6 faces. Among all the faces of these cubes, how many faces are not coloured in total? [Figure: a 3-D stack of unit cubes (9 cubes per the solution): a column 3 cubes high at the back left, a column 2 cubes high in front of it towards the middle, and bottom-layer cubes extending to the front and to the right, with a single cube at the far right.]
+
+=== Year 2023 | Paper P1P2 | Round 1 | Problem 19 | Page 8 | Ref 8 ===
+In the grid below, fill in the empty squares with numbers 1~6 such that every column and row will not have a repeated number. What are the values of ▲ and ★ respectively? [6×6 grid, rows top to bottom, blanks as _: Row 1: 1 _ _ _ 3 _; Row 2: _ 3 6 _ 2 4; Row 3: 6 _ ★ _ _ _; Row 4: 4 _ _ 3 _ 1; Row 5: 2 6 _ 5 4 ▲; Row 6: _ 4 _ _ _ _]
+
+=== Year 2023 | Paper P3 | Round 1 | Problem 1 | Page 3 | Ref 1 ===
+There are 25 more girls than boys in the class last year, after 80 boys and 65 girls joined the class this year, do we have more girls or boys in the class now? How many more?
+
+=== Year 2023 | Paper P3 | Round 1 | Problem 2 | Page 3 | Ref 1 ===
+Lily's home is 450 meters away from school. One day when Lily was heading to school, after walking 90 meters, she realised that she forgot to pack her assignment. She went back home to take her assignment, then went to school. What is the total distance Lily travelled?
+
+=== Year 2023 | Paper P3 | Round 1 | Problem 3 | Page 3 | Ref 1 ===
+Wong's exam result is placed 26th among his class if we start counting from the 1st place. If we start counting from the last place, he is also the 26th. How many students are in his class?
+
+=== Year 2023 | Paper P3 | Round 1 | Problem 4 | Page 3 | Ref 2 ===
+A wooden stick is 24 cm long and a carpenter wants to cut it into 4 equal pieces. If each cut takes 3 minutes and he needs to rest 2 minutes for every cut, how much time does it take?
+
+=== Year 2023 | Paper P3 | Round 1 | Problem 5 | Page 3 | Ref 2 ===
+If there are five weekends in June, then June 1 is ____. (The answer range is Monday to Sunday)
+
+=== Year 2023 | Paper P3 | Round 1 | Problem 6 | Page 4 | Ref 2 ===
+Alice is 5 years older than Brandon; Brandon is 2 years older than Carla; Carla is 4 years older than David. Among them, ____ is the oldest and ____ is the youngest. The oldest is ____ years older than the youngest.
+
+=== Year 2023 | Paper P3 | Round 1 | Problem 7 | Page 4 | Ref 3 ===
+Alex and Ben were playing on the beach. They used a stick to draw several straight lines on the sand. Alex's goal was to have as few intersections as possible on the lines he drew while Ben's goal was to have as many intersections as possible on the lines he drew. Now, they begin with Alex drawing the first line, then Ben, then Alex, then Ben. They drew a total of 4 lines. There is a total of ____ intersections.
+
+=== Year 2023 | Paper P3 | Round 1 | Problem 8 | Page 4 | Ref 4 ===
+There are ____ angles. (Only angles smaller than straight angle are considered) [Figure: a triangle with its apex at the top; two segments are drawn from the apex to points on the base, and one segment is drawn from the bottom-left vertex to a point on the right side, crossing both of the apex segments.]
+
+=== Year 2023 | Paper P3 | Round 1 | Problem 9 | Page 4 | Ref 5 ===
+There are 6 bricks placed as shown in the figure. A brick can only be removed when there is no brick above it. Alex wants to take away all the bricks. How many different ways are there to remove the bricks? [Figure: a pyramid of bricks: bottom row D, E, F; middle row B, C, with B resting on D and E, and C resting on E and F; top brick A resting on B and C.]
+
+=== Year 2023 | Paper P3 | Round 1 | Problem 10 | Page 5 | Ref 6 ===
+There are some chickens and rabbits in a cage with 50 legs in total. If we replace every chicken with rabbit and every rabbit with chicken, there are 52 legs in total. There are ____ chickens and ____ rabbits.
+
+=== Year 2023 | Paper P3 | Round 1 | Problem 11 | Page 5 | Ref 6 ===
+What is the perimeter of the figure below? [Figure: a rectilinear polygon (all angles right angles). Its right side is a vertical edge of length 10 from the top-right corner down; then a step goes left 4 and down 2 to the bottom edge, which has length 6; the left side rises from the bottom edge, steps out to the left, has a vertical segment of length 2, then climbs back in through two small steps to the top edge. Labelled lengths: 10, 4, 2 (bottom-right step), 6 (bottom), 2 (left).]
+
+=== Year 2023 | Paper P3 | Round 1 | Problem 12 | Page 5 | Ref 7 ===
+Fill in the boxes below such that it satisfies the calculation. □□237 − □6□6 = □8□ (vertical subtraction: a 5-digit number □□237 minus a 4-digit number □6□6 gives a 3-digit number □8□)
+
+=== Year 2023 | Paper P3 | Round 1 | Problem 13 | Page 5 | Ref 7 ===
+Use the numbers 2, 3, 4, 5, 8, 10, 11, 15 to fill in the small circles below such that the sum of the numbers lying on each large circle is 34. (Just fill in one of the possible answers) [Figure: two large overlapping circles carrying 8 small circles: 3 small circles lie only on the left large circle, 3 only on the right large circle, and 2 at the two points where the large circles cross (on both). Each large circle therefore has 5 small circles.]
+
+=== Year 2023 | Paper P3 | Round 1 | Problem 14 | Page 6 | Ref 8 ===
+Using numbers 1 to 8 without repetition, fill in the 8 empty squares in the figure below such that it satisfies the calculations on each side of the square. [Figure: a square frame of boxes (5 cells per side). Top side: □ − □ = □. Left side (reading down from the top-left corner): □ ÷ □ = □. Right side (reading down from the top-right corner): □ + □ = □. Bottom side: □ × □ = □. The four corner boxes are shared by two equations, giving 8 empty boxes.]
+
+=== Year 2023 | Paper P3 | Round 1 | Problem 15 | Page 6 | Ref 8 ===
+If the following figure shows that three trees are planted into two lanes and there are two trees on each lane. How to plant 6 trees into 4 lanes such that there are 3 trees on each lane? (Draw out the diagram) [Figure: two crossing straight lines (lanes) with 3 dots (trees): one at the crossing point and one more on each line.]
+
+=== Year 2023 | Paper P3 | Round 1 | Problem 16 | Page 6 | Ref 8 ===
+We have a rectangle and a square with equal perimeter. The length of the rectangle is 10 m. The width of the rectangle is 2 m shorter than the length. What is the area of the square and rectangle respectively?
+
+=== Year 2023 | Paper P3 | Round 1 | Problem 17 | Page 7 | Ref 9 ===
+Given that: 2#4 = 8, 5#3 = 13, 3#5 = 11, 9#7 = 25. Calculate: 7#3.
+
+=== Year 2023 | Paper P3 | Round 1 | Problem 18 | Page 7 | Ref 9 ===
+Alex, Ben, Cedric and Diane have a total of 17 sweets. They had the following conversation: Alex said to Ben: "If I give you 1 sweet, we will have the same number of sweets." Ben said to Alex: "If you give me 2 sweets, I will have 3 times as many sweets as you." Cedric said to Alex: "If I give you 3 sweets, you will have 3 times as many sweets as me." Diane said to Alex: "If you give me 4 sweets, I will have 4 times as many sweets as you." It turns out that, those with an odd number of sweets were correct while those with an even number of sweets were wrong. Given that Alex, Ben, Cedric and Diane have A, B, C and D number of sweets respectively, what is the four-digit number ABCD?
+
+=== Year 2023 | Paper P3 | Round 1 | Problem 19 | Page 8 | Ref 9 ===
+Alex and Ben put 3 different numbers in the boxes. Alex selects a number and Ben selects a box to fill in. Alex wants the difference to be as large as possible, and Ben wants the difference to be as small as possible. Both of them follow the best strategy. What is the difference? 20□□ − 22□ (vertical subtraction: the 4-digit number 2 0 □ □ minus the 3-digit number 2 2 □)
+
+=== Year 2023 | Paper P4 | Round 1 | Problem 1 | Page 2 | Ref 2 ===
+Calculate 1 + 2 + 3 + … + 18 + 19 + 20 + 19 + 18 + … + 3 + 2 + 1 =
+
+=== Year 2023 | Paper P4 | Round 1 | Problem 2 | Page 2 | Ref 2 ===
+There are some monks in a mountain, and they need to draw water from the river. Two old monks can carry a bucket of water slung on a bamboo pole across their shoulders. Or, one young monk can carry two buckets of water slung on a bamboo pole across his shoulder. If 38 bamboo poles and 58 buckets are used, how many young monks are there? How many old monks?
+
+=== Year 2023 | Paper P4 | Round 1 | Problem 3 | Page 2 | Ref 2 ===
+In the year-end examination, Frank's average mark of Chinese, Mathematics and Music Theory is 96. When the result of English exam is released, his overall average mark of four subjects is decreased by 2, what did Frank get for English?
+
+=== Year 2023 | Paper P4 | Round 1 | Problem 4 | Page 2 | Ref 2 ===
+Anna, Blake and Cooper have 73 pieces of chocolate in total. If Cooper eats 3 pieces of chocolate, Blake and Cooper would have the same number of chocolates. If Blake gives Anna 2 pieces of chocolate, Anna's chocolate would be two times the amount of Blake. How many chocolates does Cooper have originally?
+
+=== Year 2023 | Paper P4 | Round 1 | Problem 5 | Page 3 | Ref 3 ===
+As shown in the figure, ABCD and DEFG are both squares. If CE = 14 and AG = 2, what is the sum of the area of these two squares. [Figure: big square ABCD with B top-left, A top-right, C bottom-left, D bottom-right; smaller square DEFG to its right sharing vertex D, with E on the extension of CD to the right, F top-right and G on side AD. C, D, E are collinear along the bottom.]
+
+=== Year 2023 | Paper P4 | Round 1 | Problem 6 | Page 3 | Ref 3 ===
+Four classes participated in a contest, Arthur and Benedict are guessing the outcome, they make the following predictions: Arthur predicts: "3rd class will be the champion, 2nd class will be the first runner-up, 1st class will be the second runner-up and 4th class will be the third runner-up". Benedict predicts: "2nd class will be the champion, 4th class will be the first runner-up, 3rd class will be the second runner-up and 1st class will be the third runner-up". It turned out that only Benedict's prediction on the "4th class will be the first runner-up" is true and all the other predictions made by them are wrong. The correct ranking of the four classes should be: Champion: ____ class, first runner-up: ____ class, second runner-up: ____ class, third runner-up: ____.
+
+=== Year 2023 | Paper P4 | Round 1 | Problem 7 | Page 3 | Ref 3 ===
+As shown in the figure, the rectangle AFEB and rectangle FDCE combined to form another rectangle ABCD with height 20 and width 12. The area of the shaded region is ____. [Figure: rectangle ABCD (A top-left, B top-right, C bottom-right, D bottom-left) split by the horizontal segment FE (F on AD, E on BC) into an upper rectangle ABEF and a lower rectangle FECD. In the upper rectangle a zigzag runs A → a point on FE → a point on AB → a point on FE → B; the parts between the zigzag and FE (three triangles with bases on FE, at the left, middle and right) are shaded. In the lower rectangle a zigzag runs D → a point on FE → a point on DC → a point on FE → C; the parts between the zigzag and FE are shaded.]
+
+=== Year 2023 | Paper P4 | Round 1 | Problem 8 | Page 4 | Ref 3 ===
+Starting with a certain number of cells, two cells will die every hour and each of the remaining cells will split into two. If there are 1284 cells after 8 hours, how many cells are there at the beginning?
+
+=== Year 2023 | Paper P4 | Round 1 | Problem 9 | Page 4 | Ref 4 ===
+Jonah is writing down a sequence according to the following rule: If he wrote down an even number, the next number is the current number divided by 2 and add 2. If he wrote down an odd number, the next number is the current number multiplied with 2 and subtract 2. By starting with the number 36, he wrote down: 36, 20, 12, 8, …, what is the 2016th number in this sequence?
+
+=== Year 2023 | Paper P4 | Round 1 | Problem 10 | Page 4 | Ref 4 ===
+The figure below depicts a staircase of a building from ground floor to first floor. If there are 15 steps in this staircase, each step is 16cm high with depth 26cm and the width of this staircase is 3m, how much money it would take to cover the staircase with carpet that costs 80 cents for every meter squared? [Figure: side view of a straight staircase: a right-angled profile whose sloping side is a row of equal steps.]
+
+=== Year 2023 | Paper P4 | Round 1 | Problem 11 | Page 5 | Ref 4 ===
+If a 6-digit number 1992□□ is divisible by 105, what are the last two digits?
+
+=== Year 2023 | Paper P4 | Round 1 | Problem 12 | Page 5 | Ref 4 ===
+As shown in the figure, a big rectangle is divided into 7 smaller rectangles. The area of these small rectangles are 8, 10, 16, 3, 1 respectively, find the area of the shaded region. [Figure: a big rectangle. Top strip: rectangle 8 (left) and rectangle 10 (right). Below 8: rectangle 16 (same width as 8). Below 10, a block of the same width as 10 split into: on the right a narrow column with rectangle 3 on top and rectangle 1 below it; on the left an unlabelled blank rectangle on top and the shaded rectangle below it, the shaded one level with rectangle 1 and the blank one level with rectangle 3.]
+
+=== Year 2023 | Paper P4 | Round 1 | Problem 13 | Page 5 | Ref 5 ===
+Adam and Bradley are playing table tennis, whoever wins the first two games consecutively is the winner. If no one wins the first two games consecutively, whoever wins three games (not necessarily consecutively) is the winner. If they play until there is a winner, how many ways there are?
+
+=== Year 2023 | Paper P4 | Round 1 | Problem 14 | Page 6 | Ref 5 ===
+Tony and Steve are driving towards each other and they depart from Point A and B respectively at the same time. 2 hours after their departure, they are 141km apart. If they meet each other 5 hours after their departure, what is the distance between point A and B?
+
+=== Year 2023 | Paper P4 | Round 1 | Problem 15 | Page 6 | Ref 5 ===
+Given that abcd + abc + ab + a = 1370 (abcd, abc, ab are numbers written with digits a, b, c, d), find abcd.
+
+=== Year 2023 | Paper P4 | Round 1 | Problem 16 | Page 6 | Ref 5 ===
+What is the perimeter of the following shape? [Figure: a rectilinear hook ("C"-shaped) figure, all angles right angles. Outer left edge 40, top edge 60, bottom edge 70. A horizontal slot is cut in from the right between the upper and lower arms; the slot's inner (left) end is 5 from the outer left edge. The upper arm's right end steps down by a small amount marked 2, and the lower arm's right end has a small step down to the 70 bottom edge.]
+
+=== Year 2023 | Paper P4 | Round 1 | Problem 17 | Page 6 | Ref 6 ===
+As shown in the figure, there are ten rooms labelled with the numbers 1 to 10. A person is only allowed to move to an adjacent room whose labelled number is greater than his current room. How many possible paths are there to travel from room number 1 to room number 10? [Figure: rooms stacked like bricks in a pyramid, each room touching the two rooms below it: top row 1; second row 3, 2; third row 6, 5, 4; bottom row 10, 9, 8, 7 (left to right). Rooms side by side in a row are also adjacent.]
+
+=== Year 2023 | Paper P4 | Round 1 | Problem 18 | Page 7 | Ref 6 ===
+The monkey king is distributing peaches. If the older monkeys receive 5 peaches each and the younger monkeys receive 3 peaches each, the monkey king can keep the remaining 10. If the older monkeys and the younger monkeys each receive 4, the monkey king can keep the remaining 20. The number of older monkeys is ____ more than the number of younger monkeys.
+
+=== Year 2023 | Paper P4 | Round 1 | Problem 19 | Page 7 | Ref 6 ===
+Sunflowers, Lily flowers and Orchid flowers are planted in a garden. It is known that: 1. There is only one day in a week, three flowers can be found bloom together. 2. All three flowers cannot bloom for more than three consecutive days. 3. In a week, any two flowers will not bloom together for at most one day. 4. Sunflowers do not bloom on Tuesday, Thursday and Sunday. 5. Lily flowers do not bloom on Thursday and Saturday. 6. Orchid flowers do not bloom on Sunday. On which day of the week, we can find three flowers bloom together?
+
+=== Year 2023 | Paper P5 | Round 1 | Problem 1 | Page 2 | Ref 2 ===
+Calculate: (13/35) × 5 + (13/35) × 6 + (13/35) × 7 + (13/35) × 8 + (13/35) × 9
+
+=== Year 2023 | Paper P5 | Round 1 | Problem 2 | Page 2 | Ref 2 ===
+The sum of 7 natural numbers is 210. By arranging them in ascending order, the difference between each pair of adjacent numbers is 5, what is the 6th number?
+
+=== Year 2023 | Paper P5 | Round 1 | Problem 3 | Page 2 | Ref 2 ===
+It takes 225 digits to number the pages of a book, how many pages are there in this book?
+
+=== Year 2023 | Paper P5 | Round 1 | Problem 4 | Page 2 | Ref 2 ===
+The "net" of a three-dimensional shape refers to its two-dimensional figure when laid out flat. Which of the following "net" corresponds to the cube on the right?
+[Figure: a cube with one diagonal drawn on each of three visible faces: front face from top-left to bottom-right corner, top face from front-left to back-right corner, right face from back-top to front-bottom corner; the three diagonals join end to end to form a triangle. Four nets of six squares, some squares containing one diagonal: (A) cross shape (row of 4 with one square above and one below the 2nd), diagonals in row squares 1, 2 and 4, the diagonals of squares 1 and 2 meeting at their shared bottom corner (V shape); (B) row of 4 with one square above the 3rd and one below the 1st, diagonals in row squares 1 and 4 and in the top square, the top-square diagonal continuing into square 4's diagonal; (C) staircase of three steps of 2 squares, the left square of each step has a "\" diagonal, each touching the next at a shared corner; (D) staircase net (1 square, then 2, then 3 squares in rows) with diagonals in three squares.]
+(A) A (B) B (C) C (D) D
+
+=== Year 2023 | Paper P5 | Round 1 | Problem 5 | Page 3 | Ref 3 ===
+As shown in the figure, the square ABCD has side 6cm and point P is a point lying in this square. If the sides of the square ABCD are divided into two or three segments evenly such that they can form triangles with the point P, find the area of the shaded region.
+[Figure: square with A top-left, D top-right, B bottom-left, C bottom-right; P inside. Four shaded triangles with apex P: on top side AD, the right half (midpoint to D); on bottom side BC, the left half (B to midpoint); on left side AB, the middle third; on right side DC, the middle third.]
+
+=== Year 2023 | Paper P5 | Round 1 | Problem 6 | Page 3 | Ref 3 ===
+Worker A takes 20 days to finish a job. Worker B takes 15 days to finish the same job. If worker A does the job for a few days before worker B takes over the job, it takes 18 days to finish the job. How many days does worker A and B work in this job respectively?
+
+=== Year 2023 | Paper P5 | Round 1 | Problem 7 | Page 3 | Ref 4 ===
+A triangle is folded along the line DE as shown below. Given that ∠B = 74°, ∠A = 70° and ∠CEB = 20°, what is ∠ADC?
+[Figure: triangle ABC (A bottom-left, B top) with D on side AC and E on side BC; the corner at C is folded over along DE so that C lands at a new position C; the folded edge DC crosses BE at F. The visible outline is A, B, F, C, E, D.]
+
+=== Year 2023 | Paper P5 | Round 1 | Problem 8 | Page 4 | Ref 4 ===
+How many squares can be found in the figure below?
+[Figure: five 4×4 grids of unit squares, tilted 45° (diamonds), placed in a row; each pair of neighbouring 4×4 grids overlaps in a 2×2 grid.]
+
+=== Year 2023 | Paper P5 | Round 1 | Problem 9 | Page 4 | Ref 4 ===
+Amelia and Benjamin want to purchase an item. According to the price tag, Amelia is short of 40 dollars and Benjamin is short of 1/4 of the price. After negotiating, they received a 10% discount for the item, and they managed to make the purchase by combining their money. If they are left with 28 dollars, what was the original price of the item?
+
+=== Year 2023 | Paper P5 | Round 1 | Problem 10 | Page 4 | Ref 5 ===
+The ratio between red balls and white balls in a bag is 19 : 13. First after adding in some red balls into the bag, the ratio becomes 5 : 3. Then after adding in some white balls, the ratio becomes 13 : 11. Given that the number of red balls added is 80 less than the number of white balls added, how many balls are there in the beginning?
+
+=== Year 2023 | Paper P5 | Round 1 | Problem 11 | Page 4 | Ref 5 ===
+It takes a train 52 seconds to go through a 320 meters long bridge. If the train speeds up by 1/4 of its original speed, it can go across a bridge of 864 meters within 1 minutes and 36 seconds. Find the speed of the train when it goes across the bridge and the length of the train.
+
+=== Year 2023 | Paper P5 | Round 1 | Problem 12 | Page 5 | Ref 5 ===
+A total of 362880 distinct 9-digit numbers can be formed by using the number 1 to 9 without repetition. Find the greatest common divisor of the 362880 numbers.
+
+=== Year 2023 | Paper P5 | Round 1 | Problem 13 | Page 5 | Ref 5 ===
+Given the following vertical algorithm of multiplication between two numbers, if the blanks can only be filled with prime numbers, what is the two numbers that are being multiplied together? (Only write out the two numbers, not the product).
+[Figure: long multiplication □7□ × □□; first partial product □□□□, second partial product □□□□ (shifted one place left), final product □□□□□. Every blank is a prime digit.]
+
+=== Year 2023 | Paper P5 | Round 1 | Problem 14 | Page 5 | Ref 6 ===
+A 5-digit number gives different remainders when divided by 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12. What is the largest possible value of this 5-digit number?
+
+=== Year 2023 | Paper P5 | Round 1 | Problem 15 | Page 5 | Ref 6 ===
+Between the number 1000 to 1999 there are 1000 natural numbers, how many numbers are there in these 1000 numbers that have exactly two digits that are the same at the thousands, hundreds, tens and ones place?
+
+=== Year 2023 | Paper P5 | Round 1 | Problem 16 | Page 6 | Ref 6 ===
+The figure below is formed by a big square and a small square. If the side of the small square is 4cm, find the area of the shaded triangle ABC.
+[Figure: big square with corners A (top-left), E (bottom-left), D (bottom-right) and an unlabelled top-right corner; small square of side 4 to its right with corners D (bottom-left), C (bottom-right), F (top-right), B (top-left, on the big square's right side). Triangle ABC is shaded; AC crosses side BD at G.]
+
+=== Year 2023 | Paper P5 | Round 1 | Problem 17 | Page 6 | Ref 7 ===
+The distance between Jurong port and Pasir Panjang port is 360km, it takes a ferry 35 hours to travel back and forth these two ports and it takes 5 hours more to travel against the current than along the current. Now, there is a motor boat that can travel 12km/h in still water. How long does it would take for the motor boat to travel back and forth the two ports?
+
+=== Year 2023 | Paper P5 | Round 1 | Problem 18 | Page 6 | Ref 7 ===
+Given that a, b, c are three distinct numbers in 1 to 9. If a, b, c can form six 3-digit numbers and the sum of five of them is 2234, what is the other 3-digit number?
+
+=== Year 2023 | Paper P5 | Round 1 | Problem 19 | Page 7 | Ref 7 ===
+A natural number N can be written as the sum of 9 consecutive natural numbers, and can also be written as the sum of 10 consecutive natural numbers, and can also be written as the sum of 11 consecutive numbers, what is the smallest value of N?
+
+=== Year 2023 | Paper P6 | Round 1 | Problem 1 | Page 2 | Ref 2 ===
+A new operation symbol ※ is defined as a※b = 3a − 2b. If x※(4※1) = 7, then x = ____.
+
+=== Year 2023 | Paper P6 | Round 1 | Problem 2 | Page 2 | Ref 2 ===
+The numbers 1 to 65 are arranged according to the figure below. After removing the multiples of 6, there are 55 numbers left. What is the sum of the remaining 55 numbers?
+[Figure: table of 5 rows and 11 columns filled column by column, skipping the multiples of 6; rows are 1 7 13 19 25 31 37 43 49 55 61 / 2 8 14 20 26 32 38 44 50 56 62 / 3 9 15 21 27 33 39 45 51 57 63 / 4 10 16 22 28 34 40 46 52 58 64 / 5 11 17 23 29 35 41 47 53 59 65.]
+
+=== Year 2023 | Paper P6 | Round 1 | Problem 3 | Page 2 | Ref 2 ===
+In a charity, Adam, Bob and Carla donated 80 dollars in total. If Adam donated 18 dollars more than Carla and the ratio between the sum of donation of Adam and Bob, and the sum of donation of Bob and Carla is 10 : 7, how much did Carla donate?
+
+=== Year 2023 | Paper P6 | Round 1 | Problem 4 | Page 2 | Ref 3 ===
+As shown in the figure, three semicircles were drawn in a square with a side of 2cm. If the diameter of the semicircles is the side of the square, the area of the shaded region is ____ cm^2.
+[Figure: square of side 2. Semicircles on the top side (bulging down), on the left side (bulging right) and on the right side (bulging left); the left and right semicircles touch at the centre of the square. Shaded: the whole top half-disc, and the region below the centre bounded by the left semicircle, the right semicircle and the bottom side.]
+
+=== Year 2023 | Paper P6 | Round 1 | Problem 5 | Page 3 | Ref 3 ===
+How many ways are there to pick two numbers from numbers 1 to 40 such that the sum of the two numbers is divisible by 4?
+
+=== Year 2023 | Paper P6 | Round 1 | Problem 6 | Page 3 | Ref 4 ===
+Alice bought 10 kg of mushrooms. The mushrooms contain 99% water. After putting it under the sun, the mushrooms now contain 98% water. The weight of water that has evaporated is ____ kg.
+
+=== Year 2023 | Paper P6 | Round 1 | Problem 7 | Page 3 | Ref 4 ===
+As shown in the figure, ABCD is a trapezium with two parallel lines AB and CD, the diagonal AC and BD intersects at point O. If the area of △AOB and △BOC is 25 cm^2 and 35 cm^2 respectively, the area of trapezium ABCD is ____ cm^2.
+[Figure: trapezium with short top side AB and long bottom side DC; diagonals meet at O; triangle AOB marked 25, triangle BOC marked 35.]
+
+=== Year 2023 | Paper P6 | Round 1 | Problem 8 | Page 4 | Ref 4 ===
+Jockey is writing some digits after the number 1989, he follows the rule that the next number he writes down is the ones place of the product of the previous two numbers (for example, 8 × 9 = 72, so Jockey writes down 2 after 9, 9 × 2 = 18, so Jockey writes down 8 after 2). Since the first 4 digits are 1, 9, 8 and 9, from left to right, what is the sum of the first 1999 digits?
+
+=== Year 2023 | Paper P6 | Round 1 | Problem 9 | Page 4 | Ref 5 ===
+As shown in the figure, the sum of the area of a cuboid's front and top is 209. If its length, height and width are all prime numbers, what is the volume of this cuboid?
+[Figure: cuboid with length a (along the front), width b (depth, right top edge) and height c (left vertical edge).]
+
+=== Year 2023 | Paper P6 | Round 1 | Problem 10 | Page 4 | Ref 5 ===
+(1/2)/(1 + 1/2) + (1/3)/((1 + 1/2) × (1 + 1/3)) + … + (1/1999)/((1 + 1/2) × (1 + 1/3) × … × (1 + 1/1999)) = ____
+
+=== Year 2023 | Paper P6 | Round 1 | Problem 11 | Page 5 | Ref 6 ===
+Three remainders can be obtained after dividing a whole number N by 70, 110 and 160, if the sum of the three remainders is 50, what is the number N?
+
+=== Year 2023 | Paper P6 | Round 1 | Problem 12 | Page 5 | Ref 6 ===
+Student A, B, C, D and E entered a drawing competition. After the competition, student A and B went to ask the judge about the results, the judge told student A: "Unfortunately, you and student B are not the champion" and he told student B "You're not in the last place". Based on this information, how many possible ways are there to rank the five students?
+
+=== Year 2023 | Paper P6 | Round 1 | Problem 13 | Page 5 | Ref 7 ===
+There are 25 tokens labelled with an odd number from 1 to 49. Two pupils each take turns to take a token. If one of them take the token with label x, the next person must take the token labelled with the greatest odd number factor of 99 − x. If the first pupil takes the token with label 5, how many tokens would be left when the game ends?
+
+=== Year 2023 | Paper P6 | Round 1 | Problem 14 | Page 5 | Ref 7 ===
+100 cards were placed on the floor written with the number 1 to 100 and none of the number repeats. At least how many cards must be drawn to ensure the product of the number on the drawn cards is divisible by 12?
+
+=== Year 2023 | Paper P6 | Round 1 | Problem 15 | Page 6 | Ref 7 ===
+Aaron and Ben started running from two opposite points on the diameter of a circular running track. Aaron runs in the clockwise direction and Ben runs in the anti-clockwise direction. When Ben has ran for 100 meters, they meet for the first time. They meet for the second time when Aaron left 60 meters to reaching his starting point. What is the perimeter of this circular track?
+[Figure: circular track with starting points A and B at opposite ends of a horizontal diameter; arrows show the two runners going in opposite directions and dots mark the two meeting points.]
+
+=== Year 2023 | Paper P6 | Round 1 | Problem 16 | Page 6 | Ref 8 ===
+As shown in the figure below, ∠ABC and ∠ADC are two right angles in the quadrilateral ABCD. If AD = DC, BD = 6 and AC = 8, find the area of the triangle ABC.
+[Figure: quadrilateral ABCD with right angles at B (bottom-left) and D (top); BC is the long bottom side, AB a short vertical side; diagonals AC and BD drawn.]
+
+=== Year 2023 | Paper P6 | Round 1 | Problem 17 | Page 6 | Ref 8 ===
+Port A and B are 15 km apart along a river. Port A is upstream and port B is downstream. A ferry and a boat start travelling downstream from port A to port B respectively at the same time. After 5 hours, the ferry catches up with the boat. After travelling for another 1 hour, the ferry dropped an item into the river (the item floats on the river and does not move). The crew on the ferry only realized this after 6 minutes and they quickly made a turn to look for the item. When they reach the item, they meet again with the boat. What is the speed of the boat in km/h?
+
+=== Year 2023 | Paper P6 | Round 1 | Problem 18 | Page 7 | Ref 9 ===
+Complete the following vertical algorithm by filling in the blanks. If we know the quotient is an odd number, what is the dividend?
+[Figure: long division. Divisor □□□ (3 digits), dividend □□□□□□ (6 digits), quotient □□□ (3 digits, over the last three dividend digits). Working rows: first product □□2 (under dividend digits 2-4); next line □0□; next product □0□; next line 9□□; last product □□□; remainder 0.]
+
+=== Year 2023 | Paper P6 | Round 1 | Problem 19 | Page 7 | Ref 10 ===
+At least how many cubes with edge of length 1 does it take to form a cuboid with surface area 52?
+
+=== Year 2023 | Paper LP | Round 2 | Problem 1 | Page 1 | Ref 1 ===
+Level 1: Puzzle's password. As shown in the figure below, the four Chinese characters 數, 學, 花 and 園 each represents one of the four numbers 0, 1, 2 and 3. Please carefully observe the puzzle below and determine which number is represented by the puzzle piece with the character "數" written on it.
+數 + 學 + 花 + 園 = 數 + 數 + 數. 數 = ?
+
+=== Year 2023 | Paper LP | Round 2 | Problem 2 | Page 1 | Ref 1 ===
+Level 2: I am a race car driver. Mary decided to go karting. The track of the go-kart is shown in the figure below. Mary needs to drive from the starting point on the left to the end point on the right. If each runway can only be driven through once, how many gold coins can Mary get at most? (Intersections A and B can be passed repeatedly)
+[Figure: straight road from Start to junction A with 2 coins; between A and B three roads: a straight middle road with 4 coins, an upper loop road with 6 coins, a lower loop road with 6 coins; straight road from B to the Finish with 2 coins.]
+
+=== Year 2023 | Paper LP | Round 2 | Problem 3 | Page 2 | Ref 1 ===
+Level 3: Happy New Year. It's about to be Chinese New Year. This year's Spring Festival is February 12, 2021. If you fill in 3 "+" and 3 "−" in the ○ of the formula below, what is the greatest number you can get?
+2 ○ 0 ○ 2 ○ 1 ○ 2 ○ 1 ○ 2
+
+=== Year 2023 | Paper LP | Round 2 | Problem 4 | Page 2 | Ref 1 ===
+Level 4: Parking lot. The picture below is a model of a parking lot with five rows and six columns. John wants to park his own car in it. If each car occupies 2 adjacent grids (cannot be placed diagonally), and the grid with traffic cones cannot accommodate cars, then how many cars can be placed in the parking lot at most?
+[Figure: 5 × 6 grid with traffic cones at (row, column): (1,2), (1,6), (2,5), (3,1), (4,5), (5,3), (5,6); examples show a car covering two side-by-side or two stacked cells is allowed, diagonal or covering a cone is not.]
+
+=== Year 2023 | Paper LP | Round 2 | Problem 5 | Page 3 | Ref 1 ===
+Level 5: The race of the 7 dwarfs. The 7 dwarfs participated in a running competition, and after the competition they saw that their rankings were as following:
+(1) The 5th dwarf is in second place, and is behind the 3rd dwarf;
+(2) The 4th dwarf is behind the 1st dwarf;
+(3) The 4th dwarf is in front of the 6th dwarf;
+(4) The 4th dwarf is ranked between the 2nd and 7th dwarf.
+Question: What is the ranking of the 4th dwarf?
+
+=== Year 2023 | Paper LP | Round 2 | Problem 6 | Page 3 | Ref 1 ===
+Level 6: A magical year. We can get a sum by adding the number represented by a year to the numbers in all its digits. For example, this year is 2021, 2021 + 2 + 0 + 2 + 1 = 2026; we can get 2026. In some years, the number represented by adding the sum of the numbers on each digit can only reach 2021. Consider the following: among the years that meet this requirement, which year is the closest to 2021 and gives the result of 2021?
+
+=== Year 2023 | Paper LP | Round 2 | Problem 7 | Page 4 | Ref 1 ===
+Level 7: Who's the heaviest? There are 5 building blocks. Two of which are 10 grams, two of which are 20 grams, and one of which is 30 grams. Please analyze according to the picture above: which letter is on the 30g building blocks?
+[Figure: three balances. 1) A + D on the left balances C on the right (level). 2) E, A, D on the left pan is higher (lighter) than B, C on the right pan. 3) B, E on the left pan is higher (lighter) than A, C on the right pan.]
+
+=== Year 2023 | Paper LP | Round 2 | Problem 8 | Page 5 | Ref 1 ===
+Level 8: Even bridge Sudoku. Fill in the numbers 1-6 in the blanks so that the numbers in each row, each column, and each thick line box are not repeated. If the ○ in the upper left corner of the question is the starting point, and the ○ in the lower right corner is the end point, you can find a route by moving up, down, left, and right (not diagonally, only one space at a time), and the numbers on the route are all 2, 4, and 6. What is the six-digit number composed of the six numbers from left to right in the third row?
+[Figure: 6 × 6 Sudoku with 2 × 3 boxes (an example solved grid is also shown). Givens by row (· = blank, ○ = circled blank): row 1: ○ 3 · 4 · 1; row 2: all blank; row 3: 5 · · · · 4; row 4: 3 · · · · 5; row 5: all blank; row 6: 2 · 3 · 1 ○.]
+
+=== Year 2023 | Paper LP | Round 2 | Problem 9 | Page 6 | Ref 1 ===
+Level 9: The adjacent ○ in a cube. The cube shown in the figure on the left, if there is an edge in the middle of two adjacent ○, the two ○ are said to be a group of "adjacent ○". Then, if the unfolded diagram on the right is folded into a cube, how many groups of "adjacent ○" will be produced in total?
+[Figure: left, two cubes each showing two circles in the corners next to a shared edge of two faces (the red frame marks a group of adjacent ○). Right, a cross-shaped net: one face on top, a row of four faces, one face at the bottom (top and bottom attached to the 2nd face of the row). Each face is a 2 × 2 array of symbols (circle ○, square □, triangle △), listed top-left, top-right / bottom-left, bottom-right: top face ○ □ / △ ○; row face 1: ○ △ / □ ○; row face 2: △ ○ / □ △; row face 3: ○ △ / □ □; row face 4: △ ○ / □ △; bottom face: △ ○ / △ △.]
+
+=== Year 2023 | Paper LP | Round 2 | Problem 10 | Page 7 | Ref 1 ===
+Level 10: Matchsticks' transformation. As shown in the picture on the left, the numbers Mary made with matchsticks are "16", and what John saw on the opposite side happened to be a two-digit number, but this two-digit number would become "91". If Mary puts another three-digit number on the table, and what John sees on the opposite side happens to be a three-digit number, and if the sum of the three-digit number with Mary's original three-digit number is 810, then what would be the smallest number placed by Mary? (The picture on the right is the method of placing numbers 0-9 with matchsticks)
+[Figure: Mary and John sit on opposite sides of a table (John sees the digits rotated 180°); digits 0-9 drawn in seven-segment matchstick style.]
+
+=== Year 2023 | Paper LP | Round 2 | Problem 11 | Page 8 | Ref 1 ===
+Level 11: Stop on red, go on green. As shown in the figure, Mary's journey from school to home is divided into 5 sections of equal lengths by 4 traffic lights, and she needs to walk each section for 2 minutes. It is known that each traffic light operates in the following way: stop for red light, and go for green light. The red light is on for 1 minute, and the green light is alternately on for 1 minute.
+One day when Mary was walking home from school after classes, all four traffic lights had just turned red, and when she had just reached the second traffic light, Mary realized that she had forgotten to bring her homework, so she went back to school immediately to pick it up. After getting the homework, she went home the same way.
+If we ignore the time she used to pick up her homework, how many minutes did it take Mary to go home from school?
+[Figure: road from the school (left) to home (right) with 4 traffic lights evenly spaced.]
+
+=== Year 2023 | Paper LP | Round 2 | Problem 12 | Page 9 | Ref 1 ===
+Level 12: The slide kingdom. John wanted to create a slide kingdom, so he drew the design of the kingdom and made some rules:
+(1) Each small square in the picture represents a room.
+(2) Draw a diagonal line in each room to represent the slide in this room, and each room has exactly one slide.
+(3) The number in the circle indicates how many slides there are at this intersection.
+(4) All slides cannot form a square or a rectangle.
+John has now designed the room of the slide kingdom and marked some numbers as shown in the picture below. Please help John design the placement of the slides in each room. How many grids ╲ (diagonal from top-left to bottom-right) are there in all the rooms?
+[Figure: page 9 shows three small examples (each cell must have a diagonal; a circled number counts diagonals touching that grid point; diagonals may not form a closed square or rectangle). Page 10: a 5 × 5 grid of rooms (6 × 6 grid points). Clues at grid points (row r, column c, both 0-5 from the top-left): r0: c0=1, c2=1, c3=1, c4=2; r1: c2=1, c4=1, c5=2; r2: c0=2, c3=3; r3: c0=0, c4=3; r4: c1=3, c2=1; r5: c0=1, c3=0, c4=1, c5=1.]
+
+=== Year 2023 | Paper MP | Round 2 | Problem 1 | Page 1 | Ref 1 ===
+12 ÷ 3 + 45 × 6 − 78 = ____.
+
+=== Year 2023 | Paper MP | Round 2 | Problem 2 | Page 1 | Ref 1 ===
+In the diagram on the right, there are ____ triangles.
+[Figure: three congruent isosceles triangles pointing right, each shifted horizontally from the previous one so they overlap; their vertical left sides are parallel and the slanted sides cross one another.]
+
+=== Year 2023 | Paper MP | Round 2 | Problem 3 | Page 1 | Ref 1 ===
+The 2022 Qatar World Cup is the 22nd FIFA World Cup football tournament; it is known that the World Cup is held every four years, and there are two years when it should have been held were not due to war. The first World Cup held in Uruguay was in ____ AD.
+
+=== Year 2023 | Paper MP | Round 2 | Problem 4 | Page 1 | Ref 1 ===
+As shown in the diagram, a large square is divided into four smaller rectangles with perimeters of 70, 80, 90 and 100 in an order; then the area of the smallest of these smaller rectangles is ____.
+[Figure: a square cut by three horizontal lines into four full-width strips, the strips getting taller from top to bottom.]
+
+=== Year 2023 | Paper MP | Round 2 | Problem 5 | Page 2 | Ref 1 ===
+A worker has transported 1,000 pieces of porcelain. It is known that transporting a complete piece to the destination would earn $5, but damage to one piece would compensate for $120. After the shipment of porcelain, the worker received a total of $4,500. He has damaged ____ pieces of porcelain.
+
+=== Year 2023 | Paper MP | Round 2 | Problem 6 | Page 2 | Ref 1 ===
+Fill 1 to 9 into the boxes on the right, using each number once so that the vertical equation holds; now that the numbers 6, 7 and 8 have been filled in, the sum of the vertical equation is ____.
+[Figure: vertical addition □□6 + □7□ = 8□□.]
+
+=== Year 2023 | Paper MP | Round 2 | Problem 7 | Page 2 | Ref 1 ===
+There are three tigers, three foxes and three monkeys, with each animal staying in each room shown on the right (rooms are numbered from 1-9). It is found that each animal says there is a tiger in their adjacent room (two rooms share a common side are adjacent). If the tigers all tell the truth, the foxes all tell lies and the monkeys say things that are not known to be true, then the sum of the room numbers of the monkeys that tell the truth is ____.
+[Figure: 3 × 3 grid of rooms numbered 1 2 3 / 4 5 6 / 7 8 9.]
+
+=== Year 2023 | Paper MP | Round 2 | Problem 8 | Page 2 | Ref 1 ===
+As shown in the diagram, nine small triangles are put together to form a large triangle, and the ten small circles are filled with 1 to 10 respectively. For each operation, when the numbers on the three vertices of a small triangle are all positive integers, it can add 1 or subtract 1 to all three numbers at the same time. When the numbers in the nine small circles on the sides of the large triangle all become 0, the number in the central small circle would become ____.
+[Figure: triangular array of circles, rows 1 / 2 3 / 4 5 6 / 7 8 9 10, joined into 9 small triangles; 5 is the central circle.]
+
+=== Year 2023 | Paper MP | Round 2 | Problem 9 | Page 3 | Ref 1 ===
+As shown on the right, fill in two of each of the eight circles with 1, 2, 3 and 4 so that the number in the shaded circle is greater than the number in the adjacent white circles on either side of it; then there is a total of ____ different ways to fill in the circles.
+[Figure: eight circles in a ring (octagon), alternately shaded and white (4 shaded, 4 white).]
+
+=== Year 2023 | Paper MP | Round 2 | Problem 10 | Page 3 | Ref 1 ===
+There are some red marbles and white marbles in a box; if taking out one red marble and one white marble at a time, there will be 30 white marbles left when the red marbles are finished; if taking out one red marble and three white marbles at a time, there will be 30 red marbles left when there are two white marbles in the box, not enough to take one more time. There are ____ white marbles in the box.
+
+=== Year 2023 | Paper MP | Round 2 | Problem 11 | Page 4 | Ref 1 ===
+In the maze shown on the right, it can only pass between two numbers whose sum is an odd number, and the reward points you get after passing through is the sum of these two numbers. Each path can be passed at most once.
+As shown in figure (1), the reward pointed is obtained as (1 + 12) + (15 + 6) + (6 + 7) + (10 + 11) + (11 + 2) + (5 + 16).
+Fill in the 16 natural numbers from 1 to 16 in the small square in figure (2), using each number once; then the maximum reward points obtained is ____.
+[Figure: 4 × 4 array of number squares with corridors between them. Figure (1): rows 1 15 14 4 / 12 6 7 9 / 8 10 11 5 / 13 3 2 16; entrance on the left between rows 1 and 2, exit on the right between rows 3 and 4; the path goes right between rows 1-2, down between columns 2-3, then right between rows 3-4. Figure (2): empty 4 × 4 array, entrance on the left and exit on the right, both between rows 2 and 3.]
+
+=== Year 2023 | Paper UP | Round 2 | Problem 1 | Page 1 | Ref 1 ===
+(2.4 + 0.1) × (2.4 − 0.1) ÷ 0.25 = ____.
+
+=== Year 2023 | Paper UP | Round 2 | Problem 2 | Page 1 | Ref 1 ===
+The sectors in the diagram on the right all have a circular angle of 90°; if the radius of the larger sector is 10, then the sum of the areas of the shaded parts of the diagram is ____. (π is taken as 3.14)
+[Figure: a small circle cut into four quarter-sectors by a horizontal and a vertical diameter; two larger quarter-sectors of radius 10 with the same centre, one in the top-right quadrant and one in the bottom-left quadrant. Shaded: the top-left and bottom-right small quarters, and the parts of the two large quarter-sectors outside the small circle.]
+
+=== Year 2023 | Paper UP | Round 2 | Problem 3 | Page 1 | Ref 1 ===
+An item is sold at a 20% discount and still earns a 40% profit; then the original profit percentage before the discount on the item is ____%.
+
+=== Year 2023 | Paper UP | Round 2 | Problem 4 | Page 1 | Ref 1 ===
+If a figure in the plane is rotated 180° about a point, and the rotated figure coincides with the original figure, then the figure is called a centrosymmetric figure, and the point is called its centre of symmetry. As shown on the right are some pokers with face values 1-8. The sum of the face values on the pokers that are centrosymmetric is ____.
+[Figure: eight playing cards A(1), 2♥, 3♣, 4♦, 5♦, 6♣, 7♥, 8♠ with the standard pip layouts (Ace has one large central spade; pips in the lower half are printed upside down; corner indices at top-left and, rotated, at bottom-right).]
+
+=== Year 2023 | Paper UP | Round 2 | Problem 5 | Page 2 | Ref 1 ===
+Fill in each box on the right with a number that makes the vertical equation hold; then the product of the vertical equation is ____.
+[Figure: long multiplication □□□ × □□; first partial product 2023, second partial product □□□ (shifted one place left), final product □□□□□.]
+
+=== Year 2023 | Paper UP | Round 2 | Problem 6 | Page 2 | Ref 1 ===
+The judges at the Qatar World Cup are divided into: Chief judges, Assistant judges, and Video judges; where there are 1/3 fewer Video judges than Chief judges, and 33 more Assistant judges than Chief judges, but the Assistant judges are 3 less than three times as many Video judges; there are ____ judges in total in the Qatar World Cup.
+
+=== Year 2023 | Paper UP | Round 2 | Problem 7 | Page 2 | Ref 1 ===
+A five-digit number with different digits is divisible by the difference of any two digits of itself; then the smallest value of this five-digit number is ____.
+
+=== Year 2023 | Paper UP | Round 2 | Problem 8 | Page 2 | Ref 1 ===
+After Mr. Chan told Amelia and Brian two numbers each, the three of them had the following conversation in turn:
+Mr. Chen: "These four numbers are different natural numbers from 1 to 7, and the sum of each of your numbers is not equal. You both only know your own numbers, are you able to tell whose sum is greater?"
+Amelia: "I can't tell."
+Brian: "I still can't tell."
+Amelia: "Now I still can't tell."
+Brian: "Now I can tell that my sum is greater than Amelia's, but I can't tell what each of Amelia's two numbers is."
+Amelia: "Now I can tell what each of Brian's two numbers is. He has a number that differs from one of mine by 1."
+None of them lies in the conversation and that if A's numbers are A and B, B's numbers are C and D and A < B and C < D, then the four-digit number ABCD is ____.
+
+=== Year 2023 | Paper UP | Round 2 | Problem 9 | Page 3 | Ref 1 ===
+Fill in each of the six circles on the right with the smallest six prime numbers, using each prime number exactly once, so that the sum of the numbers in each line is equal; then the value of A × B × C is ____.
+[Figure: six circles. Line 1: A – B – C (B in the middle). Line 2: an unlabelled circle above B – B – an unlabelled circle below B. Line 3: the circle below B – one more unlabelled circle to its right.]
+
+=== Year 2023 | Paper UP | Round 2 | Problem 10 | Page 3 | Ref 1 ===
+Amelia travels from City A to City B, while Brian travels from City B to City A. They meet head-on for the first time at Place C, 100 km from City A. Upon reaching each other's starting point, they both turn around and increase their speed to twice their original speed; they both turn around and travel for some time before meeting head-on for the second time, and Amelia travels another 48 km before reaching Place C for the second time. The distance between City A and City B is then ____ km.
+
+=== Year 2023 | Paper UP | Round 2 | Problem 11 | Page 3 | Ref 1 ===
+Colour the circles in the diagram on the right with Red, Yellow and Blue, such that:
+for each red circle there are yellow and blue circles adjacent to it;
+for each yellow circle there are red and blue circles adjacent to it;
+for each blue circle, there are yellow and red circles adjacent to it.
+Then there are a total of ____ different colouring methods that satisfy the condition.
+[Figure: 10 circles in a triangular arrangement (rows of 1, 2, 3, 4) joined by segments into 9 small equilateral triangles; adjacent = joined by a segment.]
+
+=== Year 2023 | Paper UP | Round 2 | Problem 13 | Page 4 | Ref 1 ===
+As shown, rectangle ABCD is divided into six triangles and a quadrilateral; if the areas of △AGH, △CEH and △ABE are 33, 44 and 55 respectively:
+(1) Find the area of rectangle ABCD. (6 marks)
+(2) Find the area of the shaded quadrilateral CFGH. (9 marks)
+[Figure: rectangle with A bottom-left, B bottom-right, C top-right, D top-left; E on side BC, F on side DC. Segments AC, AE, AF and DE are drawn; G = AF ∩ DE, H = AC ∩ DE. △AGH = 33, △CEH = 44, △ABE = 55; quadrilateral CFGH is shaded.]
+
+=== Year 2023 | Paper UP | Round 2 | Problem 14 | Page 4 | Ref 1 ===
+Each of the cell in the 50×50 table on the right is filled with a natural number which is arranged according to a certain pattern.
+(1) Find the sum of the 50 numbers in the fourth column from the left. (3 marks)
+(2) What is the smallest positive integer that does not appear in the table? (5 marks)
+(3) If we put a "cross" in this table (e.g. the shaded region) such that the sum of the five integers inside this "cross" is a multiple of 2023, what is the largest number inside this "cross"? (7 marks)
+[Figure: table rows: 1 2 3 4 … 49 50 / 4 5 6 7 … 52 53 / 9 10 11 12 … 57 58 / 16 17 18 19 … 64 65 / … / 2500 2501 2502 2503 … 2548 2549 (row n runs from n^2 to n^2 + 49). Example cross shaded: 6 on top, 10 11 12 in the middle, 18 below.]
+
+=== Year 2024 | Paper P2P3 | Round 1 | Problem 1 | Page 3 | Ref 1 ===
+2 − 0 × 2 + 4 = ____.
+
+=== Year 2024 | Paper P2P3 | Round 1 | Problem 2 | Page 3 | Ref 1 ===
+In the following calculations, the same shape represents the same number. Fill in the blanks.
+◇ + ◇ + ◇ + □ + □ + □ + □ = 32
+◇ + □ = 9
+□ = ( ), ◇ = ( )
+[Figure: ◇ is a pink diamond, □ is a blue rectangle.]
+
+=== Year 2024 | Paper P2P3 | Round 1 | Problem 3 | Page 3 | Ref 1 ===
+How many triangles are there? [Figure: a large isosceles triangle. A horizontal segment cuts off a small top triangle; the trapezoid below is divided into a central inverted triangle (apex on the base midpoint) and, on each side, a triangle that is further split by a short horizontal segment and a small inverted triangle into 4 small triangles.]
+
+=== Year 2024 | Paper P2P3 | Round 1 | Problem 4 | Page 3 | Ref 1 ===
+There are 3 groups of numbers below. Which 2 numbers can you swap such that when you sum the numbers in each group, you get the same answer? [Figure: three groups of cards: (7, 2, 6), (3, 1, 4), (8, 5, 9).]
+
+=== Year 2024 | Paper P2P3 | Round 1 | Problem 5 | Page 4 | Ref 2 ===
+1 × 9 + 2 = 11
+12 × 9 + 3 = 111
+123 × 9 + 4 = 1111
+......
+According to the above pattern, Δ and O are 2 numbers, Δ × 9 + O = 1111111. What is the sum of the digits in Δ and O? (For example: the sum of the digits in 123 and 4 is 1+2+3+4=10.)
+
+=== Year 2024 | Paper P2P3 | Round 1 | Problem 6 | Page 4 | Ref 2 ===
+Perimeter is the total length around the outside of a shape. The following figure consists of two squares, with the perimeter of the large square being 36cm and the perimeter of the small square being 20cm. What is the perimeter of this composite shape? [Figure: a small square placed against the right side of a large square, bottoms aligned.]
+
+=== Year 2024 | Paper P2P3 | Round 1 | Problem 7 | Page 4 | Ref 2 ===
+Each cube dice has six faces with 1, 2, 3, 4, 5, and 6 points, and the sum of the points on any two opposite faces is 7. The sum of the points on any two overlapping faces is 8. How many points are there on the face where the "?" is located? [Figure: two dice side by side, touching. Left die: top face 1, front face 2. Right die: top covered by a cloth, front face 4, right side face marked "?".]
+
+=== Year 2024 | Paper P2P3 | Round 1 | Problem 8 | Page 5 | Ref 3 ===
+1 ÷ 2 × 2 ÷ 3 × 3 ÷ 4 × 4 ÷ ⋯ ÷ 2022 × 2022 ÷ 2023 × 2023 × 2024 = ____.
+
+=== Year 2024 | Paper P2P3 | Round 1 | Problem 9 | Page 5 | Ref 3 ===
+David and his friends went to the Mayday Noah's Ark concert. They spent a total of $2050 and bought a total of 11 tickets for CAT6 and CAT7. Among them, CAT6 tickets cost $200 per ticket, and CAT7 tickets cost $170 per ticket. How many CAT7 tickets did they buy?
+
+=== Year 2024 | Paper P2P3 | Round 1 | Problem 10 | Page 5 | Ref 3 ===
+If it is specified that numbers like 121, 6666 and 2442 that read the same from left to right and from right to left are called "palindromes". So, among all the 4-digit numbers, how many "palindromes" are there?
+
+=== Year 2024 | Paper P2P3 | Round 1 | Problem 11 | Page 6 | Ref 4 ===
+Alvin, Beryl, Celia and Derek are passing the ball, and Beryl always passes it to Celia every time. They have passed the ball 3 times. How many different passing situations are there? (For example, A→D→B→C, this is one passing situation)
+
+=== Year 2024 | Paper P2P3 | Round 1 | Problem 12 | Page 6 | Ref 4 ===
+The same letter represents the same number, while different letters represent different numbers. What is the four-digit number ABCD?
+  C D C
++ A B C
+-------
+A B C D
+
+=== Year 2024 | Paper P2P3 | Round 1 | Problem 13 | Page 6 | Ref 4 ===
+Ada works part-time at a restaurant and her daily salary is the same. If she works for 30 days, she can buy a pair of shoes and have $240 left. After working for 25 days, she took her salary. After buying the shoes, she had $190 left. So how much do the shoes cost?
+
+=== Year 2024 | Paper P2P3 | Round 1 | Problem 14 | Page 7 | Ref 5 ===
+Some students lined up in a row. From left to right, Anna is the 7th student; From right to left, Brendan is the 8th student; There are two students between these two people. How many students are there in total? Write all the answers.
+
+=== Year 2024 | Paper P2P3 | Round 1 | Problem 15 | Page 7 | Ref 5 ===
+30 tigers and 30 foxes are divided into 20 groups, with 3 animals in each group. Tigers always tell the truth and foxes always tell lies. When asked if there are foxes in the group, 39 of these 60 animals answered "no". So how many groups without foxes are there?
+
+=== Year 2024 | Paper P2P3 | Round 1 | Problem 16 | Page 8 | Ref 6 ===
+Four rectangles form a shape, and the length of each side of the rectangle is uncertain, so the shape of the entire shape is also uncertain. For example, Figure 1 and figure 2 are possible shapes. However, no matter how the length of each side changes, the perimeter of the rectangle ABED is always 15cm, and the perimeter of the rectangle EFIH is always 25cm. What is the maximum area of this entire shape? [Figure: a large rectangle ACIG divided by a vertical line BH and a horizontal line DF crossing at E into four rectangles: ABED (top-left), BCFE (top-right), DEHG (bottom-left), EFIH (bottom-right). Figure 1 is roughly square; Figure 2 is tall and narrow.]
+
+=== Year 2024 | Paper P2P3 | Round 1 | Problem 17 | Page 9 | Ref 7 ===
+Select 9 numbers from the 10 numbers from 0 to 9 without repetition and fill them in the boxes in the following figure, so that the equation holds. What is the maximum four-digit number in the following figure?
+□□ + □□□ = □□□□
+
+=== Year 2024 | Paper P2P3 | Round 1 | Problem 18 | Page 10 | Ref 8 ===
+Choose a non-zero whole number, if it is even, divide it by 2. If it is odd, multiply it by 3 and add 1. So we can get a new whole number. If we keep using this method, many of them will eventually become 1. For example: 5 is an odd number, so 5×3+1=16, 16 is an even number, so 16÷2=8, 8÷2=4, 4÷2=2, 2÷2=1. So, 5 needs to go through 5 times to become 1 for the first time. What is the sum of all the numbers that needs 10 times to become 1 for the first time?
+
+=== Year 2024 | Paper P2P3 | Round 1 | Problem 19 | Page 11 | Ref 9 ===
+Fill in an arrow in each blank cell at the edge, and the number in the square represents the number of arrows pointing to that number. The direction of the arrow can be up, down, left, right, top left, bottom left, top right, or bottom right, but each arrow points to at least one number. For example, the filling method in Figure 2 is the answer to Figure 1. Please fill in the arrow in Figure 3 according to this rule. How many arrows are pointing to the bottom right direction? [Figure: each puzzle is a 3×3 block of numbers surrounded by 12 blank edge cells (3 above, 3 below, 3 left, 3 right). Figure 1 numbers: row 1: 3 4 1; row 2: 5 2 0; row 3: 5 6 3. Figure 2 (its solution): top cells ↓ ↓ ↙; left cells ↘ ↘ →; right cells ← ↙ ←; bottom cells ↑ ↑ ↖. Figure 3 numbers: row 1: 2 3 3; row 2: 1 1 4; row 3: 2 5 6.]
+
+=== Year 2024 | Paper P4P5 | Round 1 | Problem 1 | Page 2 | Ref 2 ===
+2024 × (1/11 + 2/23) =
+
+=== Year 2024 | Paper P4P5 | Round 1 | Problem 2 | Page 2 | Ref 2 ===
+The sum of three whole numbers A, B and C is 138. Suppose that A is 20% more than B while B is 20% less than C. Find the value of C.
+
+=== Year 2024 | Paper P4P5 | Round 1 | Problem 3 | Page 2 | Ref 2 ===
+It is known that the whole number in each box below is the same.
+□ × □ + □ = 870
+What is the whole number?
+
+=== Year 2024 | Paper P4P5 | Round 1 | Problem 4 | Page 2 | Ref 2 ===
+In the figure below, three 3 cm × 6 cm rectangles are placed together in a row. Find the area (in cm^2) of the unshaded region. [Figure: a 9 cm × 6 cm rectangle split into three vertical 3 × 6 strips. A diagonal runs from the bottom-left corner to the top-right corner. A point P lies on this diagonal. Shaded triangle 1: bottom-left corner, top of the first strip divider, P. Shaded triangle 2: top-right corner, bottom of the second strip divider, P.]
+
+=== Year 2024 | Paper P4P5 | Round 1 | Problem 5 | Page 2 | Ref 3 ===
+The sum of the father and son's ages is 45 years. 5 years from now, father's age will be exactly 4 times that of the son. What is the current age of father?
+
+=== Year 2024 | Paper P4P5 | Round 1 | Problem 6 | Page 3 | Ref 3 ===
+There are 100 numbers in a row, as shown: a1, a2, a3, …, a100. Given that the average of these 100 numbers is 95, while the average of the first 51 numbers is 100 and the last 50 numbers is 90. Find the value of a51.
+
+=== Year 2024 | Paper P4P5 | Round 1 | Problem 7 | Page 3 | Ref 3 ===
+A train with a length of 200 meters passes through a tunnel. The time between the train head to enter and the train tail to exit the tunnel is 60 seconds. The time for the train to be completely inside the tunnel is 40 seconds. What is the speed of the train?
+
+=== Year 2024 | Paper P4P5 | Round 1 | Problem 8 | Page 3 | Ref 4 ===
+Benjamin drove a car from city A to city B with constant speed. If he drove 10% faster than this speed, he will reach city B twenty minutes earlier. How long, in minutes, did Benjamin spend for his journey, using his initial speed?
+
+=== Year 2024 | Paper P4P5 | Round 1 | Problem 9 | Page 4 | Ref 4 ===
+A glass with water weighs 172 grams when it is one-third full and 192 grams when it is half full. What is the weight, in grams, of a full glass of water (including the glass)?
+
+=== Year 2024 | Paper P4P5 | Round 1 | Problem 10 | Page 4 | Ref 4 ===
+In the figure below, find the value of x + y. [Figure: a triangle with its base on a horizontal line extended to both sides. A transversal starts on the left side of the triangle, crosses the right side, and meets the base line extended to the right. The angle between the left side (towards the apex) and the transversal is 100°; the angle at the crossing of the transversal with the right side, on the inner (lower-left) side, is 150°. x° is the exterior angle at the bottom-left vertex (between the left side and the base line extended left); y° is the angle at the bottom-right vertex between the right side and the base line extended right.]
+
+=== Year 2024 | Paper P4P5 | Round 1 | Problem 11 | Page 4 | Ref 4 ===
+The two figures in the diagram (solid lines) are each surrounded by 10 and 16 sticks, respectively. If following this pattern (each layer has two additional small squares compared to the layer above) a figure surrounded by 64 sticks is formed, how many layers does the figure have? [Figure: stepped figures of unit squares: the first has 2 layers (1 square on top of 3), the second has 3 layers (1, 3, 5 squares); only the outline is solid.]
+
+=== Year 2024 | Paper P4P5 | Round 1 | Problem 12 | Page 5 | Ref 5 ===
+How many four-digit numbers, where the thousands digit is 8 and each number has exactly two identical digits (e.g., 8336, 8545, 8782), are there?
+
+=== Year 2024 | Paper P4P5 | Round 1 | Problem 13 | Page 5 | Ref 5 ===
+In a bag, there are black and white balls. After removing 15 white balls, black balls constitute 2/3 of the total. After removing 45 black balls, black balls constitute 1/6 of the total. Find the initial number of black and white balls in total.
+
+=== Year 2024 | Paper P4P5 | Round 1 | Problem 14 | Page 5 | Ref 5 ===
+The diagram shows an equilateral triangle ABC with OD, OE and OF perpendicular to AB, BC and CA respectively. If OD+OE+OF=28cm and the height of triangle ABC = x cm, find the value of x. [Figure: equilateral triangle with AB on top and C at the bottom; O is inside; D on AB, E on BC, F on CA are the feet of the perpendiculars from O.]
+
+=== Year 2024 | Paper P4P5 | Round 1 | Problem 15 | Page 6 | Ref 6 ===
+What is the average of all 4-digit numbers that can be formed by using each of the digits 2, 4, 6 and 8 exactly once?
+
+=== Year 2024 | Paper P4P5 | Round 1 | Problem 16 | Page 6 | Ref 6 ===
+Given the figure, a rectangle is divided into 8 smaller rectangles, with the perimeters of rectangles A, B, C, D, and E being 26 cm, 28 cm, 30 cm, 32 cm, and 34 cm respectively. What is the maximum possible area of the largest rectangle in square centimeters? [Figure: a rectangle cut into 2 columns × 4 rows of smaller rectangles. Left column, top to bottom: A, B, C, D. Right column: E is the cell beside B (second row); the other three cells are unlabelled.]
+
+=== Year 2024 | Paper P4P5 | Round 1 | Problem 17 | Page 6 | Ref 7 ===
+The figure below shows a 7 × 5 grid. Suppose that the side length of each small square is 1 cm. What is the sum of the areas of all rectangles with a perimeter of 12? (The square is also a rectangle.) [Figure: a grid 7 squares wide and 5 squares tall.]
+
+=== Year 2024 | Paper P4P5 | Round 1 | Problem 18 | Page 7 | Ref 7 ===
+Abel, Ben and Calvin completed a project together in 13 days. For the first 6 days, Abel and Ben completed 1/3 of the project together. For the next 2 days, Ben and Calvin completed 1/6 of the project together. For the last 5 days, Abel, Ben and Calvin completed the rest of the project together. Ben was paid $1820, which was distributed among them according to the amount of work they did in this project. How much money should be given to Abel?
+
+=== Year 2024 | Paper P4P5 | Round 1 | Problem 19 | Page 7 | Ref 8 ===
+ABCD is a square with a side length of 12, as shown in the diagram. P is a random point inside, and BL = DM = 4, BK = DN = 5. Find the area of the shaded region. [Figure: square with A top-left, B top-right, C bottom-right, D bottom-left. L is on AB, K on BC, M on DC, N on DA. P is an interior point; the shaded regions are triangles PLK and PNM.]
+
+=== Year 2024 | Paper P6 | Round 1 | Problem 1 | Page 2 | Ref 0 ===
+The diagram below represents the model is formed by gluing together three cubic blocks with side lengths of 1 meter, 2 meters, and 4 meters. If the bottom of the largest cube is not painted, what is the painted surface area of the model in square meters? [Figure: the 4 m cube at the bottom, the 2 m cube on top of it, and the 1 m cube on top of the 2 m cube.]
+
+=== Year 2024 | Paper P6 | Round 1 | Problem 2 | Page 2 | Ref 0 ===
+Mr. Zhou and Mr. Wang are taking a walk along the circular path in the school. Mr. Wang walks at a speed of 55 meters per minute, while Mr. Zhou walks at a speed of 65 meters per minute. The length of the path is 480 meters, and they start walking in opposite directions from the same point and at the same time. After their 10th encounter, if Mr. Wang wants to return to the starting point, how many more meters does he need to walk?
+
+=== Year 2024 | Paper P6 | Round 1 | Problem 3 | Page 2 | Ref 0 ===
+Two candles of the same thickness and material have a length ratio of 29:26. After burning for 50 minutes, the length ratio between the longer and shorter candles becomes 11:9. How many more minutes can the longer candle burn?
+
+=== Year 2024 | Paper P6 | Round 1 | Problem 4 | Page 2 | Ref 0 ===
+In the figure, the area of the rectangle is 1. M is the midpoint of AD, and 2AN = BN. What is the area of the shaded region? [Figure: rectangle ABCD with A top-left, D top-right, B bottom-left, C bottom-right. M is on top side AD, N is on left side AB. The shaded region is quadrilateral NMDB, bounded by NM, MD, the diagonal DB and BN.]
+
+=== Year 2024 | Paper P6 | Round 1 | Problem 5 | Page 3 | Ref 0 ===
+If (1 × 2 × 3 × ⋯ × 2024)/12^n is a positive integer, the maximum value of n is ____.
+
+=== Year 2024 | Paper P6 | Round 1 | Problem 6 | Page 3 | Ref 0 ===
+Four little monkeys are eating peaches. The first monkey eats 1/3 of the total eaten by the other three monkeys. The second monkey eats 1/4 of the total eaten by the other three, and the third monkey eats 1/5 of the total eaten by the other three. The fourth monkey finishes the remaining 69 peaches. How many peaches did the four monkeys eat in total?
+
+=== Year 2024 | Paper P6 | Round 1 | Problem 7 | Page 3 | Ref 0 ===
+The area of ABCDEF is 2016 square centimeters. M is the midpoint of AB, N is the midpoint of CD, and P is the midpoint of EF. What is the area of triangle MNP in square centimeters? [Figure: regular hexagon with A top-left, F top-right, B left, E right, C bottom-left, D bottom-right; MP is horizontal and N is at the bottom; triangle MNP is shaded.]
+
+=== Year 2024 | Paper P6 | Round 1 | Problem 8 | Page 3 | Ref 0 ===
+Calculate 1/4 + 1/4^2 + 1/4^3 + 1/4^4 + 1/4^5 + 1/4^6.
+
+=== Year 2024 | Paper P6 | Round 1 | Problem 9 | Page 4 | Ref 0 ===
+A certain seven-digit number is represented as 2abcdef (overlined), and its product with 3 is represented as abcdef6 (overlined). Find the value of abcdef.
+
+=== Year 2024 | Paper P6 | Round 1 | Problem 10 | Page 4 | Ref 0 ===
+The following figure is obtained by drawing semicircles outward with the sides of the right-angled triangle ABC as diameters. The numbers inside the semicircles represent the area of each respective semicircle. Determine the area of the unknown semicircle. [Figure: right angle at C; the semicircle on AC has area 15, the semicircle on BC has area 7, the semicircle on hypotenuse AB is marked "?".]
+
+=== Year 2024 | Paper P6 | Round 1 | Problem 11 | Page 4 | Ref 0 ===
+Alex and Ben depart from points A and B simultaneously, moving towards each other. At the start, their speeds are in the ratio of 3:2. After they meet, Alex's speed increases by 20%, and Ben's speed increases by 1/3. When Alex reaches point B, Ben is still 41 kilometers away from point A. What is the distance between points A and B?
+
+=== Year 2024 | Paper P6 | Round 1 | Problem 12 | Page 4 | Ref 0 ===
+If the number 2023 2026 2026 2026 ⋯ 2026 (the digits 2023 followed by n copies of "2026") is divisible by 33, what is the minimum value of n?
+
+=== Year 2024 | Paper P6 | Round 1 | Problem 13 | Page 5 | Ref 0 ===
+What is the integer part of the value of 1 / (1/10 + 1/11 + 1/12 + ⋯ + 1/19)?
+
+=== Year 2024 | Paper P6 | Round 1 | Problem 14 | Page 5 | Ref 0 ===
+Distribute 31 peaches to several monkeys, and each monkey will receive no more than 3 peaches. So at least how many monkeys get the same number of peaches?
+
+=== Year 2024 | Paper P6 | Round 1 | Problem 15 | Page 5 | Ref 0 ===
+A pile of pearls consists of 6468 beads. If a prime number of beads is taken each time, after several times, exactly all the beads are taken, and there are a total of a ways to do this. If an odd number of beads is taken each time, after several times, exactly all the beads are taken, and there are b different ways to do this. Find the value of a + b. (the number of beads taken each time is the same).
+
+=== Year 2024 | Paper P6 | Round 1 | Problem 16 | Page 5 | Ref 0 ===
+How many six-digit numbers have a digit sum of 45?
+
+=== Year 2024 | Paper P6 | Round 1 | Problem 17 | Page 6 | Ref 0 ===
+In the blank space, fill in the appropriate numbers to make the following vertical equation valid, and try to minimize the product. What is the minimum product?
+      □ □ □ □
+  ×       □ 6
+  -----------
+    □ □ □ □ 4
+    □ □ □ 0
+  -----------
+    □ □ □ □ □
+(The first partial product is a 5-digit number ending in 4; the second partial product, shifted one place left, is a 4-digit number ending in 0; the final product has 5 digits.)
+
+=== Year 2024 | Paper P6 | Round 1 | Problem 18 | Page 6 | Ref 0 ===
+What is the sum of all simplified proper fractions with a denominator of 2024?
+
+=== Year 2024 | Paper P6 | Round 1 | Problem 19 | Page 6 | Ref 0 ===
+A series of numbers a1, a2, ⋯, an; S(ai) is represented by the sum of the digits of ai. (For example, S(22) = 2 + 2 = 4.) Given a1 = 2017, a2 = 22, and an = S(a(n−1)) + S(a(n−2)), (For example, a3 = S(a2) + S(a1) = S(22) + S(2017) = 4 + 10 = 14), then find the value of a2017.
+
+=== Year 2025 | Paper P2P3 | Round 1 | Problem 1 | Page 3 | Ref 3 ===
+2 − 0 × 2 + 5 = ____.
+
+=== Year 2025 | Paper P2P3 | Round 1 | Problem 2 | Page 3 | Ref 3 ===
+SCMO started in 1984. In the following calculations, the same shape represents the same number. Find the value of the rectangle.
+□ + □ + ▭ + ▭ + ▭ = 1984
+□ + □ + ▭ + ▭ + ▭ + ▭ = 2025
+(□ = square, ▭ = rectangle)
+
+=== Year 2025 | Paper P2P3 | Round 1 | Problem 3 | Page 3 | Ref 3 ===
+Alex used an AI application to draw a special "Chinese knot". This figure is formed by squares, rectangles and circles only. How many squares are there in this picture? [Figure: a diamond (square tilted 45°) divided by grid lines into a 3 × 3 grid of small squares, with semicircular loops on the four slanted edges, and at each of the four tips a circle containing a small filled square.]
+
+=== Year 2025 | Paper P2P3 | Round 1 | Problem 4 | Page 3 | Ref 3 ===
+There are two types of camels: one-humped camels with only one hump on their back and two-humped camels with two humps on their back. There is a group of camels with 23 humps and 60 legs. How many one-humped camels are there in this group?
+
+=== Year 2025 | Paper P2P3 | Round 1 | Problem 5 | Page 4 | Ref 4 ===
+Each of the four people said a sentence:
+Alex said, "The number of times 0 appears in what we said is A."
+Ben said, "The number of times 1 appears in what we said is B."
+Cindy said, "The number of times 2 appears in what we said is C."
+Deft said, "The number of times 4 appears in what we said is D."
+Now replace A, B, C, and D (A, B, C, D can be the same) with numbers from 0 to 9, so that what they are saying is true. What is the value of B?
+
+=== Year 2025 | Paper P2P3 | Round 1 | Problem 6 | Page 4 | Ref 4 ===
+The average of 5 numbers is 88. After changing one of the numbers to 10, the average becomes 66. What was the original number that was changed?
+
+=== Year 2025 | Paper P2P3 | Round 1 | Problem 7 | Page 4 | Ref 4 ===
+In the figure on the right, 7 small squares are pieced together to form a large rectangle. If the side lengths of these 7 small squares are 1, 1, 2, 3, 5, 8, and 13 in ascending order, what is the perimeter of this large rectangle? [Figure: Fibonacci-spiral tiling: the 13-square on the right; on the left the 8-square at the bottom, the 5-square above it, and the 3, 2, 1, 1 squares filling the remaining corner.]
+
+=== Year 2025 | Paper P2P3 | Round 1 | Problem 8 | Page 5 | Ref 5 ===
+A palindrome number is a number that is the same when read in reverse. For example, 88, 123321, 26562. Some people have found that it seems that any natural number, by adding itself to its reverse order, and then adding the resulting sum to its reverse order, will eventually yield a palindrome number. For example, 12+21=33, and the number 12 only requires one step to obtain the palindrome. For example, the number 265:
+265+562=827
+827+728=1555
+1555+5551=7106
+7106+6017=13123
+13123+32131=45254
+It takes five steps to obtain a palindrome.
+How many steps are needed to obtain the first palindrome number from 96.
+
+=== Year 2025 | Paper P2P3 | Round 1 | Problem 9 | Page 5 | Ref 5 ===
+According to the pattern of the first three images, mark the corresponding square in the fourth image black. What is the sum of the numbers filled in the black square? [Figure: four 5 × 5 grids (rows top to bottom, columns left to right). Image 1 black: (1,1), (2,2), (3,4), (4,3), (5,1), (5,5). Image 2 black: (1,1), (1,5), (2,4), (3,2), (4,3), (5,1). Image 3 black: (1,1), (1,5), (2,3), (3,2), (4,4), (5,5). Image 4 is numbered 1–25 row by row (1–5 in row 1, …, 21–25 in row 5).]
+
+=== Year 2025 | Paper P2P3 | Round 1 | Problem 10 | Page 6 | Ref 6 ===
+There are 50 pieces of chocolate, and Alex and Ben played a game. Alex takes 5 pieces of chocolate every time he wins, eats 4 pieces, and puts the remaining 1 piece in his pocket; Ben takes 5 pieces of chocolate every time he wins, eats 3 pieces, and puts the remaining 2 pieces in his pocket. At the end of the game, the chocolate is just finished, and the number of chocolates in Ben's pocket is exactly three times that of Alex's. So, how many chocolates did the two of them eat in total?
+
+=== Year 2025 | Paper P2P3 | Round 1 | Problem 11 | Page 6 | Ref 6 ===
+There is a rope, fold it in half for the first time using the method shown in the left picture, and mark ① at the fold point; For the second time, we folded it according to the method shown in the middle picture, and marked ② and ③ at the folding points respectively; For the third time, we will fold it in the same way as shown in the picture on the right. If the distance between point ① and point ③ in the image on the right is 30 centimeters, what is the total length of this rope in centimeters? (There is no gap between the ropes, and the rope thickness and loss at the turning point are ignored.) [Figure: left: rope folded in half, fold ① at the right end. Middle: the doubled rope folded again so both ends turn back, ① now in the middle and folds ② (left end) and ③ (right end). Right: after the third fold in the same way, ① and ③ lie on the bundle 30 cm apart, ② near the right end.]
+
+=== Year 2025 | Paper P2P3 | Round 1 | Problem 12 | Page 7 | Ref 7 ===
+The same letter represents the same number, while different letters represent different numbers. What is largest value of the four-digit number DEFG?
+      A B C
+  + D E F G
+  ---------
+    2 0 2 5
+
+=== Year 2025 | Paper P2P3 | Round 1 | Problem 13 | Page 7 | Ref 7 ===
+The perimeter is the total length outside the shape. The following figure consists of two identical triangles and a square. The perimeter of a triangle is 20cm. What is the perimeter of this whole shape? [Figure: a trapezoid made of a square in the middle with an identical right triangle attached on each side; each triangle's vertical leg is a side of the square.]
+
+=== Year 2025 | Paper P2P3 | Round 1 | Problem 14 | Page 8 | Ref 8 ===
+Four people took an exam. The sum of the scores of the first two places was 17 points higher than the sum of the scores of the last two places. The first place was 4 points higher than the second place, and the third place was 5 points higher than the fourth place. How many points was the first place higher than the fourth place?
+
+=== Year 2025 | Paper P2P3 | Round 1 | Problem 15 | Page 8 | Ref 8 ===
+2025 students are arranged in a row from front to back and are required to write numbers according to the following rule: If a student writes a 1-digit number, the next student must write the sum of that number and 8; If a student writes a 2-digit number, the next student need to write the sum of the number's ones digit and 7. For example, if the first student wrote 4, the second student should write 12, and the third student should write 9. Now if the first student writes 1, what is the number written by the last student?
+
+=== Year 2025 | Paper P2P3 | Round 1 | Problem 16 | Page 9 | Ref 9 ===
+A and B stand facing each other 30 meters apart. They play "Rock, Paper, Scissors". The winner walks 3 meters forward and the loser walks 2 meters backward. If it is a tie, each person walks 1 meter forward. After playing 15 games, A is 17 meters away from his starting point and B is 2 meters away from his starting point. How many games did A win?
+
+=== Year 2025 | Paper P2P3 | Round 1 | Problem 17 | Page 9 | Ref 9 ===
+Alex is playing at a special amusement park with 10 different games numbered 1-10, each of which requires a corresponding number of coins to be spent. He can earn 1 coin for each game he plays and cannot play the same game again. For example, if he wants to play the 7th game, he needs to spend 7 coins and can receive 1 coin after finishing, but he cannot play the 7th game again. He initially had 31 coins. If we add up all the numbers of the games he played, for example, if he played the third and ninth games, the sum is 9+3=12. What is the maximum sum?
+
+=== Year 2025 | Paper P2P3 | Round 1 | Problem 18 | Page 10 | Ref 10 ===
+At the Spring Games, Knight, Greg, Chief, Flippy, and Peter ran a 400-meter race. After the race, they discussed the results:
+The first place said, "Knight runs faster than Chief."
+The second place said, "I run faster than Flippy."
+The third place said, "I run faster than Peter."
+The fourth place said, "Knight runs faster than Greg."
+The fifth place said, "Flippy runs faster than Peter."
+If only Peter told a lie, what place is Knight?
+
+=== Year 2025 | Paper P2P3 | Round 1 | Problem 19 | Page 10 | Ref 10 ===
+Alex was looking at an incorrect one-digit multiplication formula A × B = CD (CD a two-digit number; A, B, C, and D represent different digits), and Alex discovered that if he changed only one of the digits, there are 3 different ways to make the multiplication correct; If we only change the order of A, B, C, and D, he can also correct the multiplication. What is the sum of these four letters?
+
+=== Year 2025 | Paper P4P5 | Round 1 | Problem 1 | Page 2 | Ref 1 ===
+14 + 28 + 57 + 142 + 857 = ____.
+
+=== Year 2025 | Paper P4P5 | Round 1 | Problem 2 | Page 2 | Ref 1 ===
+January 1, 2025 (New Year's Day) falls on a Wednesday. In year ____ the New Year's Day will again fall on a Wednesday.
+
+=== Year 2025 | Paper P4P5 | Round 1 | Problem 3 | Page 2 | Ref 1 ===
+An L-shaped piece of paper has a perimeter of 14cm. Four such L-shaped pieces are used to form a larger square as shown in the diagram. The corner of the L-shaped paper (marked by dotted lines) is a small square, and its size matches that of the blank small square at the centre of the large square. The perimeter of the large square is ____ cm. [Figure: one L-shaped piece (a long horizontal arm and a shorter vertical arm, with the corner square marked by dotted lines); four copies rotated 90° from each other tile a large square around a small empty square in the centre (pinwheel arrangement).]
+
+=== Year 2025 | Paper P4P5 | Round 1 | Problem 4 | Page 2 | Ref 2 ===
+Yuki bought a new Chinese knot as shown in the diagram. The number of rectangles (including squares) that can be counted in total is ____. [Figure: a knot shaped like a diamond: 4 parallel lines in each of two diagonal directions form a 3 × 3 grid of small squares, with loops on the sides, and at each of the four tips a circle containing a small square.]
+
+=== Year 2025 | Paper P4P5 | Round 1 | Problem 5 | Page 3 | Ref 2 ===
+With the rapid development of AI technology, a technology company's total number of AI servers at the end of 2024 is more than three times the total at the end of 2023. At the end of 2023, the company had 1,000 AI servers. If the number of new servers added each month in 2024 increases by 20 servers compared to the previous month, then in June 2024, the company added at least ____ servers.
+
+=== Year 2025 | Paper P4P5 | Round 1 | Problem 6 | Page 3 | Ref 2 ===
+As shown, different letter represent different digits, and the same letter represent the same digits. Then A + B + C + D + E = ____.
+    A B A C
+  +     A D E
+  -----------
+    2 0 2 5
+
+=== Year 2025 | Paper P4P5 | Round 1 | Problem 7 | Page 3 | Ref 3 ===
+Two rectangles are arranged as shown in the diagram below. If the areas of the three shaded regions are 20 each, the area of the blank triangle is ____. [Figure: a narrow upper rectangle stands on top of a wider lower rectangle, left sides aligned. Segments join the bottom-left corner of the lower rectangle to the top-right corner of the upper rectangle and to the top-right corner of the lower rectangle, and the top-right corners of the two rectangles are joined. Shaded regions: the light triangle left of the first segment (with the left edge and the upper rectangle's top), the dark quadrilateral between the two segments (bounded above by the upper rectangle's right side and the lower rectangle's top edge), and the light triangle in the lower rectangle below the second segment. The blank triangle is formed by the upper rectangle's top-right corner, its bottom-right corner and the lower rectangle's top-right corner.]
+
+=== Year 2025 | Paper P4P5 | Round 1 | Problem 8 | Page 4 | Ref 4 ===
+Under 5 cups, there are 1, 3, 5, 7, 9 pieces of freeze-dried food respectively. Three children – Alex, Bella and Charlie – each pick one cup and eat the food inside. They have the following conversations:
+Alex: I don't know who ate the least or who ate the most.
+Bella: I know the amount of food I ate and Alex ate are not multiples of each other.
+Charlie: I know the total amount of food that both of you ate.
+If all three children are honest, the product of the amounts of food they ate is ____.
+
+=== Year 2025 | Paper P4P5 | Round 1 | Problem 9 | Page 4 | Ref 4 ===
+Three monkeys, A, B and C, are dividing some red and green apples. They play multiple rounds of rock-paper-scissors with the following rules:
+The loser of each round takes one green apple
+The winner of each round takes one red apple
+After several rounds, it is noted that Monkey A's red apples are 10 more than Monkey B's green apples. Monkey A's green apples are 5 more than Monkey C's red apples. Monkey A lost 15 rounds to Monkey B. The number of rounds that Monkey C lost to Monkey A is ____.
+
+=== Year 2025 | Paper P4P5 | Round 1 | Problem 10 | Page 5 | Ref 4 ===
+In a 5×5 grid, place chess pieces according to the following rule: If all 5 squares in a row, a column, or a diagonal contain a chess piece, it is called a "Five-in-a-Row." For example, Figures 1 and 2 each show a valid Five-in-a-Row. In Figure 3, place chess pieces so that there are exactly 4 Five-in-a-Row patterns. The minimum number of chess pieces required is ____. [Figure: Fig.1: a 5 × 5 grid with pieces filling the top row. Fig.2: pieces on the main diagonal from top-left to bottom-right. Fig.3: an empty 5 × 5 grid.]
+
+=== Year 2025 | Paper P4P5 | Round 1 | Problem 11 | Page 5 | Ref 5 ===
+In a fixed grid, each square is filled with a number. Each number represents the number of 0s in the adjacent squares (squares that share a common edge or vertex). There are ____ ways where the grid can be filled to satisfy this condition? [Figure: an empty 3 × 3 grid.]
+
+=== Year 2026 | Paper P1 | Round 1 | Problem 1 | Page 3 | Ref 2 ===
+The same shape represents the same number. Fill the blanks. △ − ○ = ○, ◇ + ◇ + ◇ + ◇ = △, ◇ + 5 = 7. ○ = ( ), ◇ = ( ), △ = ( ). [Figure: shapes drawn as a green triangle △, an orange circle ○ and a pink diamond ◇.]
+
+=== Year 2026 | Paper P1 | Round 1 | Problem 2 | Page 3 | Ref 3 ===
+According to the pattern, draw the figure in the blank space. [Figure: a row of shapes: parallelogram, black circle, triangle pointing up, square, parallelogram, black circle, triangle pointing left, square, parallelogram, black circle, triangle pointing down, square, parallelogram, ____, ____ (two blanks to fill).]
+
+=== Year 2026 | Paper P1 | Round 1 | Problem 3 | Page 4 | Ref 4 ===
+The same shape represents the same number. Find the value of the steak picture: steak = ____. [Figure: a vertical addition: the two-digit number made of two steak pictures (steak steak) plus a single steak picture, written under the ones place, equals 84; i.e. (steak steak) + steak = 84. A lion picture stands beside it.]
+
+=== Year 2026 | Paper P1 | Round 1 | Problem 4 | Page 4 | Ref 5 ===
+To make the figure below, how many orange figures are needed? [Figure: the orange piece is a thin triangle-like shape with two straight sides and one inward-curving (concave arc) side. The big figure is an 8-pointed star-like shape whose edges between the points are inward-curving arcs; straight lines from the centre to some of the points and edge midpoints are drawn only on the left half, showing how pieces fit; the whole figure must be tiled by copies of the orange piece.]
+
+=== Year 2026 | Paper P1 | Round 1 | Problem 5 | Page 5 | Ref 6 ===
+Each pair of children shakes hands once, but the child wearing glasses does not shake hands with the other child wearing glasses. How many times do they shake hands in total? [Figure: 6 children holding hands in a row; exactly 2 of them (the 2nd and the 5th) wear glasses.]
+
+=== Year 2026 | Paper P1 | Round 1 | Problem 6 | Page 5 | Ref 7 ===
+How many [blue–white–blue] strips are there in the picture? [Figure: the target pattern is a 1×3 strip: blue square, white square, blue square. The picture is a 5-row × 8-column grid; blue squares are at row 1: columns 2, 4, 6, 8; row 2: none; row 3: columns 2, 4, 5, 7; row 4: none; row 5: columns 2, 4, 6, 8; all other squares are white. Strips may be horizontal or vertical.]
+
+=== Year 2026 | Paper P1 | Round 1 | Problem 7 | Page 6 | Ref 8 ===
+Bunny goes from the 1st floor to the 5th floor. There are 9 steps between every 2 floors. Bunny starts with her right foot: first step right foot, second step left foot, third step right foot, and so on. When she reaches the last step, which foot does she use — her left foot or her right foot? [Figure: a 5-storey building and a staircase with a bunny at the bottom.]
+
+=== Year 2026 | Paper P1 | Round 1 | Problem 8 | Page 6 | Ref 9 ===
+Please place the numbers 1, 2, 3, 4, 5, 9, and 10 into the circles in the diagram below so that the sum of the numbers on each straight line equals 14. [Figure: 7 circles. A corner circle at the top-left is shared by three straight lines: a horizontal line of 3 circles (corner + 2 more to the right), a vertical line of 2 circles (corner + 1 below), and a diagonal line of 4 circles (corner + 3 more going down to the right).]
+
+=== Year 2026 | Paper P1 | Round 1 | Problem 9 | Page 7 | Ref 10 ===
+Swap exactly 4 cards so that the sum of the 4 numbers in each group is 15. Write down the numbers in each group after the swap. [Figure: four groups of 4 cards: blue group 1, 2, 4, 5; pink group 1, 2, 4, 6; green group 1, 3, 7, 9; yellow group 1, 2, 4, 8.]
+
+=== Year 2026 | Paper P1 | Round 1 | Problem 10 | Page 7 | Ref 11 ===
+According to the pattern, how many small cubes should there be in the 6th figure? [Figure: triangular-pyramid stacks of cubes. Figure 1: a single cube. Figure 2: 2 layers (3 cubes in a triangle on the bottom, 1 on top). Figure 3: 3 layers. Figure 4: 4 layers; each layer is a triangular arrangement of cubes, followed by "……".]
+
+=== Year 2026 | Paper P1 | Round 1 | Problem 11 | Page 8 | Ref 12 ===
+Both the animals, the penguin and the fox, like to lie. Whenever they can lie, they will definitely lie. The king therefore set a rule: the penguin can lie only on Wednesdays, Thursdays, and Fridays, while the fox can lie only on Fridays, Saturdays, and Sundays. One day, a penguin met a fox. The penguin said: "Tomorrow I cannot lie." The fox said: "Tomorrow I can lie." On which day of the week did they meet?
+
+=== Year 2026 | Paper P2 | Round 1 | Problem 1 | Page 3 | Ref 2 ===
+Fill the blank. ball + ball + ball = rabbit; ball + rabbit = doll; bear = ball + rabbit + doll. bear = ( ) balls. [Figure: pictures of a beach ball, a toy rabbit, a doll and a teddy bear stand for numbers; the same picture is the same number.]
+
+=== Year 2026 | Paper P2 | Round 1 | Problem 2 | Page 3 | Ref 3 ===
+Alex bought 22 bottles of juice. Each bag can hold at most 4 bottles of juice. Alex needs at least ____ bags. [Figure: 22 juice cans.]
+
+=== Year 2026 | Paper P2 | Round 1 | Problem 3 | Page 4 | Ref 4 ===
+A red fruit cannot be paired with a red drink. How many different ways are there to pair one drink with one fruit? [Figure: 3 drinks: a red drink, a green (lime) drink, a purple drink. 5 fruits: pineapple, red apple, red strawberry, orange, mango.]
+
+=== Year 2026 | Paper P2 | Round 1 | Problem 4 | Page 4 | Ref 5 ===
+Find the pattern and fill in the blank. 1×1 = 1, 11×11 = 121, 111×111 = 12321, 1111×1111 = 1234321, ⋮, 111111111×111111111 = ( ).
+
+=== Year 2026 | Paper P2 | Round 1 | Problem 5 | Page 5 | Ref 6 ===
+How many rectangles are there in the picture? [Figure: a cat-like picture. The body is a long rectangle made of 7 equal vertical rectangles side by side (coloured dark grey, grey, light grey, dark grey, grey, light grey, pink); small circles act as feet and tail. The head is a large white triangle standing on the right part of the body; two "ears" are triangles each split by 2 lines from its apex into 3 thin triangles.]
+
+=== Year 2026 | Paper P2 | Round 1 | Problem 6 | Page 5 | Ref 7 ===
+Alex and Ben originally had a total of 49 oranges. After Alex ate 5 of his own oranges, he then gave 10 oranges to Ben. In the end, Ben had 4 more oranges than Alex. How many oranges did Alex have originally?
+
+=== Year 2026 | Paper P2 | Round 1 | Problem 7 | Page 6 | Ref 8 ===
+Fill in the circles with "−" or "÷" to make the equation true. 36 ○ 4 ○ 8 = 8 ○ 56 ○ 8
+
+=== Year 2026 | Paper P2 | Round 1 | Problem 8 | Page 6 | Ref 9 ===
+Cindy plants flowers in the pattern of 2 yellow flowers and 5 red flowers. She plants a total of 29 flowers. Deft then plants 3 blue flowers and 6 yellow flowers. Altogether, they plant ____ yellow flowers.
+
+=== Year 2026 | Paper P2 | Round 1 | Problem 9 | Page 7 | Ref 10 ===
+According to the pattern, how many small cubes should there be in the 8th figure? [Figure: triangular-pyramid stacks of cubes. Figure 1: a single cube. Figure 2: 2 layers (3 cubes in a triangle on the bottom, 1 on top). Figure 3: 3 layers. Figure 4: 4 layers; each layer is a triangular arrangement of cubes, followed by "……".]
+
+=== Year 2026 | Paper P2 | Round 1 | Problem 10 | Page 7 | Ref 11 ===
+Swap exactly 3 cards so that the sum of the 4 numbers in each group is 15. Write down the numbers in each group after the swap. [Figure: four groups of 4 cards: blue group 1, 2, 4, 5; pink group 1, 2, 4, 6; green group 1, 3, 7, 9; yellow group 1, 2, 4, 8.]
+
+=== Year 2026 | Paper P2 | Round 1 | Problem 11 | Page 8 | Ref 12 ===
+The perimeter of the figure on the right is 6 cm longer than the perimeter of the figure on the left. The perimeter of one small square is ____ cm. [Figure: left figure of 10 unit squares numbered 1–10 in rows: row 1: square 1 in column 3; row 2: squares 2, 3, 4 in columns 2–4; row 3: squares 5, 6, 7 in columns 1–3; row 4: squares 8, 9, 10 in columns 1–3. Right figure: the same with squares 7 and 8 removed.]
+
+=== Year 2026 | Paper P2 | Round 1 | Problem 12 | Page 8 | Ref 13 ===
+The diagram below is a treasure map. You can only obtain the final treasure by passing through every door in each room. Under the fastest route, which two rooms serve as the starting and ending points? [Figure: a rectangular map divided by walls into 9 rooms A–I; gaps in the walls are doors. Number of doors of each room: A 2, B 2, C 1, D 4, E 3, F 2, G 4, H 2, I 4.]
+
+=== Year 2026 | Paper P2 | Round 1 | Problem 13 | Page 9 | Ref 14 ===
+Five students, A, B, C, D and E, shake hands with each other, with each pair shaking hands at most once. In the case where not every pair shakes hands, is it possible for each student to have a different number of handshakes? If it is possible, please provide one example (how many handshakes each student has and with whom). If it is not possible, assuming that four of them have different numbers of handshakes, determine the number of handshakes of the fifth student.
+
+=== Year 2026 | Paper P3 | Round 1 | Problem 1 | Page 3 | Ref 3 ===
+Fill in the blank. 2026 = 7 × 11 × 13 × 2 + ( )
+
+=== Year 2026 | Paper P3 | Round 1 | Problem 2 | Page 3 | Ref 3 ===
+Add "( )" to make the equation correct. 1 + 4 × 9 − 2 = 29
+
+=== Year 2026 | Paper P3 | Round 1 | Problem 3 | Page 3 | Ref 3 ===
+There are several pears and several people. If each person gets 6 pears, there will be 12 left; if each person gets 7 pears, there will be 11 needed. How many people are there?
+
+=== Year 2026 | Paper P3 | Round 1 | Problem 4 | Page 4 | Ref 4 ===
+Suppose a bag contains 4 red balls, 5 pink balls, 6 yellow balls, and 7 black balls. To ensure that at least 3 different colors are taken, what is the minimum number of balls needed to take?
+
+=== Year 2026 | Paper P3 | Round 1 | Problem 5 | Page 4 | Ref 4 ===
+Cindy was born in June 2016. When she is 49 months old, what year and month will it be?
+
+=== Year 2026 | Paper P3 | Round 1 | Problem 6 | Page 5 | Ref 5 ===
+At a school book fair, Alice and Ben bought some stickers. Alice bought 7 more stickers than 3 times the number of stickers Ben bought. Altogether, they bought 55 stickers. How many stickers did Ben buy?
+
+=== Year 2026 | Paper P3 | Round 1 | Problem 7 | Page 5 | Ref 6 ===
+How many more rectangles than triangles are there in the picture? [Figure: a cat-like picture. The body is a long rectangle made of 7 equal vertical rectangles side by side; small circles act as feet and tail. The head is a large triangle standing on the right part of the body; two "ears" are triangles each split by 2 lines from its apex into 3 thin triangles.]
+
+=== Year 2026 | Paper P3 | Round 1 | Problem 8 | Page 6 | Ref 6 ===
+Grandpa plans to enclose a rectangular vegetable garden in his backyard with wooden boards (as shown in the diagram). One side of the garden is against a wall. The garden is 7 meters long and 6 meters wide. What is the minimum total length of wooden boards he needs? [Figure: a straight wall drawn as a hatched line.]
+
+=== Year 2026 | Paper P3 | Round 1 | Problem 9 | Page 6 | Ref 7 ===
+The four letters below represent the numbers 2, 3, 5, and 9. The same letter represents the same number. Find the value of "M". (SS represents a two-digit number.) S + C + C + M + O + O = SS
+
+=== Year 2026 | Paper P3 | Round 1 | Problem 10 | Page 7 | Ref 7 ===
+A school is preparing gift packs for a charity event. Each gift pack contains only notebooks and pens. For every 2 notebooks, there are 3 pens. Altogether, there are 190 items in all the gift packs. How many notebooks are there?
+
+=== Year 2026 | Paper P3 | Round 1 | Problem 11 | Page 7 | Ref 8 ===
+Captain America has 4 shields, among which 2 are fake. The fake shields look and feel exactly the same as the real ones, but they are lighter. He has only a balance scale and no weights. What is the minimum number of weighings needed to guarantee finding all the fake shields?
+
+=== Year 2026 | Paper P3 | Round 1 | Problem 12 | Page 8 | Ref 9 ===
+Harry cut a large square piece of paper along the dotted lines shown on the left in the diagram, obtaining four identical small square pieces. He then rearranged the four small squares into a "staircase" shape. The perimeter of the "staircase" is 6 cm longer than the perimeter of the original large square. What is the perimeter of the original large square (in centimeters)? [Figure: left, a large square cut by dotted lines into a 2×2 grid of small squares. Right, the "staircase": two small squares side by side on top, and two side by side underneath shifted one square to the right (an S/Z-tetromino shape).]
+
+=== Year 2026 | Paper P3 | Round 1 | Problem 13 | Page 8 | Ref 9 ===
+Sixteen people take part in a table tennis tournament using a knockout system (two people play one match, and the loser is eliminated). How many matches does the second-place player play in total? (There are no ties.)
+
+=== Year 2026 | Paper P3 | Round 1 | Problem 14 | Page 9 | Ref 10 ===
+Amy used 12 small white cubes to build a large model and attached it to a wall (as shown in the diagram). He then painted all the exposed surfaces blue. Among all the faces of the small cubes, how many faces were not painted blue? [Figure: 12 unit cubes in two layers standing on the floor: 8 cubes in the bottom layer and 4 cubes in the top layer placed in a staggered (checkerboard-like) pattern; seen from the top 8 cube tops are visible; the model is drawn next to the corner lines of a wall and floor.]
+
+=== Year 2026 | Paper P3 | Round 1 | Problem 15 | Page 9 | Ref 11 ===
+How old is Principal Zhang this year? [Figure: a girl asks: "How old are you, Principal Zhang?" Principal Zhang answers: "When I was your age, you were half my age. When you are as old as I am, I will be 56 years old."]
+
+=== Year 2026 | Paper P3 | Round 1 | Problem 16 | Page 10 | Ref 12 ===
+Place the numbers 2, 3, 5, 6, 7, 8, 9, and 9 into the small circles shown in the diagram so that the sum of the three numbers on each straight line is 20, and the sum of the four numbers in each green circle is also 20. [Figure: two overlapping big green circles side by side. Each big circle has a vertical diameter with 3 small circles on it (top, centre, bottom). The two big circles cross at 2 points (upper and lower), each holding a small circle. So 8 small circles: each straight line has 3, and each big green circle passes through 4 (its top, its bottom and the 2 crossing points).]
+
+=== Year 2026 | Paper P3 | Round 1 | Problem 17 | Page 10 | Ref 13 ===
+Both the animals, the penguin and the fox, like to lie. Whenever they can lie, they will definitely lie. The king therefore set a rule: the penguin can lie only on Wednesdays, Thursdays, and Fridays, while the fox can lie only on Fridays, Saturdays, and Sundays. One day, a penguin met a fox. The penguin said: "Tomorrow I cannot lie." The fox said: "Tomorrow I can lie." On which day of the week did they meet?
+
+=== Year 2026 | Paper P3 | Round 1 | Problem 18 | Page 11 | Ref 14 ===
+A palindrome is a number that reads the same forward and backward. Examples: 33, 121, 1331. Adding a 2-digit number to its reversed 2-digit number may result in a palindrome. For example, take 12. Its reversed number is 21, and 12 + 21 = 33, which is a palindrome. Another example: 29 + 92 = 121, and 121 is also a palindrome. However, 84 + 48 = 132, and 132 is not a palindrome. How many 2-digit numbers can be added to their reversed numbers to obtain a palindrome? (Note: 12 and 21 are considered as 2 cases.)
+
+=== Year 2026 | Paper P3 | Round 1 | Problem 19 | Page 11 | Ref 14 ===
+In the sequence 1, 1, 2, 3, 5, 8, ..., starting from the third number, each number is the sum of the two preceding numbers. How many of the first 2000 numbers in this sequence are multiples of 3?
+
+=== Year 2026 | Paper P4 | Round 1 | Problem 1 | Page 2 | Ref 2 ===
+Find the value of (9 × 8 × 7 + 6 − 5) × 4 + 3 × 2 × 1.
+
+=== Year 2026 | Paper P4 | Round 1 | Problem 2 | Page 2 | Ref 2 ===
+There are several pears and several people. If each person gets 6 pears, there will be 12 left; if each person gets 7 pears, there will be 11 needed. How many people are there?
+
+=== Year 2026 | Paper P4 | Round 1 | Problem 3 | Page 2 | Ref 2 ===
+Clara is 4 years older than Daisy. Clara's age in 3 years will be twice Daisy's age 1 year ago. What is Daisy's age now?
+
+=== Year 2026 | Paper P4 | Round 1 | Problem 4 | Page 2 | Ref 2 ===
+Two trains, A and B, are traveling towards each other from two locations 770 kilometers apart. Train A travels at 45 km/h, while Train B travels at 41 km/h. Train B departs 2 hours before Train A. How many hours after Train A departs will it meet Train B?
+
+=== Year 2026 | Paper P4 | Round 1 | Problem 5 | Page 3 | Ref 3 ===
+The figure below consists of 16 squares of equal size. If the area of this shape is 400 square centimeters, what is its perimeter in cm? [Figure: on a 7-column × 4-row grid, the shaded squares are: column 1 (all 4 rows), row 4 columns 2–3, column 4 (all 4 rows), row 1 columns 5–6, column 7 (all 4 rows) — a "U" joined to an upside-down "U", 16 squares in all.]
+
+=== Year 2026 | Paper P4 | Round 1 | Problem 6 | Page 3 | Ref 3 ===
+The figure below shows the 'Lucky Bird' design. How many triangles are there in this pattern? [Figure: a bird made of line segments. Body: a square with both diagonals drawn. Wings: a horizontal line extends the square's top edge to each side; above it on each side is a large wing-tip triangle; below it on each side, a slanted segment and a segment back to the square's bottom corner cut the region beside the square into two triangles. Tail: below the square an inverted triangle on the square's bottom edge, whose lowest vertex touches the top vertex of an upright small triangle. A round head with a beak sits above the square.]
+
+=== Year 2026 | Paper P4 | Round 1 | Problem 7 | Page 3 | Ref 3 ===
+In a class of 30 students, the average score for a Science test is 68. Two students, Daniel and Ethan, leave the class. The average score of the remaining students increases to 69. Find the average score of Daniel and Ethan.
+
+=== Year 2026 | Paper P4 | Round 1 | Problem 8 | Page 4 | Ref 4 ===
+44 students went on a trip. They rented 10 boats in total, consisting of large boats with 5 seats and small boats with 4 seats, all fully occupied. They need to calculate the total cost for renting these boats. A large boat costs $30 and a small boat costs $25. How much would it cost in total?
+
+=== Year 2026 | Paper P4 | Round 1 | Problem 9 | Page 4 | Ref 4 ===
+Suppose a bag contains 4 red balls, 5 pink balls, 7 yellow balls, and 8 black balls. To ensure that at least 3 different colors are drawn, what is the minimum number of balls needed to draw?
+
+=== Year 2026 | Paper P4 | Round 1 | Problem 10 | Page 4 | Ref 4 ===
+As shown in the figure, the square ABCD has a side length of 8 cm, and the rectangle EBGF has a length of 10 cm. What is the width of the rectangle? [Figure: square ABCD with A top-left, B top-right, C bottom-right, D bottom-left. G is on side DC; the tilted rectangle EBGF has BG as its long side (10 cm), E above-left of AB, F left of AD, and A lies on side EF.]
+
+=== Year 2026 | Paper P4 | Round 1 | Problem 11 | Page 4 | Ref 5 ===
+In the calendar of a certain month, there are more Fridays than Tuesdays and more Wednesdays than Saturdays. On which day is the 15th day of the month?
+
+=== Year 2026 | Paper P4 | Round 1 | Problem 12 | Page 5 | Ref 5 ===
+A workshop needs to process 3960 parts. Three workers completed 1320 parts in 10 hours, with the remaining parts to be finished within 15 hours. Assume all workers work at the same rate, how many additional workers are required?
+
+=== Year 2026 | Paper P4 | Round 1 | Problem 13 | Page 5 | Ref 5 ===
+A and B are two prime numbers. Given that A × 5 + B × 7 = 409, find the value of A + B.
+
+=== Year 2026 | Paper P4 | Round 1 | Problem 14 | Page 5 | Ref 6 ===
+As shown in the figure, in a square with an area of 225, place four small squares to form a symmetrical figure with two lines of symmetry. Two squares with an area of 32 are marked and the other 2 squares are also the same. Find the area of the shaded region. [Figure: a 15×15 square. Two equal axis-aligned squares sit in the top-right and bottom-left corners. Two tilted squares (rotated 45°, area 32 each, labelled 32) sit in the top-left and bottom-right corners, each with its diagonal along the big square's main diagonal from top-left to bottom-right. Dashed lines show both diagonals of the big square (the lines of symmetry). The shaded region is the small region near the centre between the two tilted squares and the two axis-aligned squares.]
+
+=== Year 2026 | Paper P4 | Round 1 | Problem 15 | Page 6 | Ref 6 ===
+The diagram shows 10 numbered rooms. You can move from a smaller-number room to an adjacent larger-number room, but not the other way around. How many distinct paths are there from room 1 to room 10 (not necessary to pass through all rooms)? [Figure: rooms stacked like a brick pyramid in 4 rows: row 1: room 1; row 2: rooms 2, 3; row 3: rooms 4, 5, 6; row 4: rooms 7, 8, 9, 10; each row is offset by half a room, so each room touches the room(s) next to it in its row and the rooms directly above/below it.]
+
+=== Year 2026 | Paper P4 | Round 1 | Problem 16 | Page 6 | Ref 7 ===
+As shown in the figure below, A~G represent the digits 1~7, the same letter represents the same digit, different letters represent different digits. Find the 4-digit number "ABCD". [Figure: long multiplication: AB × CD; first partial product FCD; second partial product EAE (shifted one place left); final product EGAD.]
+
+=== Year 2026 | Paper P4 | Round 1 | Problem 17 | Page 6 | Ref 7 ===
+Alex writes a sequence with 2 patterns as below; he can write any one pattern randomly, but he must finish writing it before writing the next pattern. (i) AAABAAC (ii) AABBACC. After he finished a whole number of patterns, he finds there are 125 "A"s and 46 "B"s. Find the number of complete patterns of (i).
+
+=== Year 2026 | Paper P4 | Round 1 | Problem 18 | Page 7 | Ref 8 ===
+There are 12 lamps, each with one of three colors: red, yellow, or green. Allen, Benjamin, Cindy, and Daniel don't know the actual lighting status. The table below summarizes their color guesses for each lamp (1 to 12) and the number of correct guesses (Y - Yellow, R - Red, G - Green):
+Allen: Y R Y G R R G Y G G Y R — 6 correct
+Benjamin: Y G G R G Y Y G R Y R Y — 7 correct
+Cindy: R G Y R G G Y Y R R Y Y — 9 correct
+Daniel: G Y R R Y R R G R Y G G — ?
+Find the number of correct guesses of Daniel.
+
+=== Year 2026 | Paper P4 | Round 1 | Problem 19 | Page 7 | Ref 9 ===
+The figure below presents an irregular Sudoku puzzle, requiring each row, column, and irregular cell enclosed by thick lines to contain exactly one digit from 1 to 5. The black dots indicate all intersections within the grid where three thick lines intersect. In the lower right version, the thick lines between cells are omitted, but all black dots are clearly marked. Find the 5-digit number formed by the digits in the fifth row, arranged from left to right. [Figure: left, a solved 5×5 example with thick region borders and its black dots; rows 13245 / 24531 / 35412 / 42153 / 51324. Right, the puzzle: 5×5 grid with givens r1c1 = 2, r1c5 = 1, r2c1 = 4, r2c5 = 3, r3c2 = 4, r3c4 = 1. Numbering grid lines 0–5 (vertical lines from left, horizontal lines from top), the black dots are at (vertical line, horizontal line): (1,0), (4,0) on the top edge; (2,2), (3,2), (3,3) inside; (0,3) on the left edge; (5,4) on the right edge; (2,5) on the bottom edge.]
+
+=== Year 2026 | Paper P5 | Round 1 | Problem 1 | Page 3 | Ref 3 ===
+Find the value of 76 × (1/23 − 1/53) + 23 × (1/53 + 1/76) − 53 × (1/23 − 1/76).
+
+=== Year 2026 | Paper P5 | Round 1 | Problem 2 | Page 3 | Ref 3 ===
+As shown, the pentagon ABCDE is a regular pentagon and the triangle CDF is an equilateral triangle. Find ∠BFE (less than 180 degrees). [Figure: regular pentagon ABCDE with A at the top, B upper-left, C lower-left, D lower-right, E upper-right; equilateral triangle CDF drawn on side CD with F inside the pentagon; segments FB and FE drawn.]
+
+=== Year 2026 | Paper P5 | Round 1 | Problem 3 | Page 3 | Ref 4 ===
+In a football round-robin tournament involving four teams—A, B, C, and D—each pair of teams plays exactly 1 match. A win earns 2 points, a loss earns 0 points, and a draw earns 1 point for each team. Teams A, B, and C currently have 5 points, 1 point, and 4 points respectively. Given that Team A ties with Team B, what is Team D's score?
+
+=== Year 2026 | Paper P5 | Round 1 | Problem 4 | Page 4 | Ref 4 ===
+Find the number of triangles of the figure. [Figure: a large triangle with apex at the top and a horizontal base. A horizontal segment joins a point on the left side to a point on the right side (about halfway up). From each base vertex a segment goes to the opposite end of that horizontal segment (bottom-left to the right end, bottom-right to the left end); these two segments cross at a point O below the horizontal segment. A vertical segment runs from the apex down to O, crossing the horizontal segment. The figure is divided into 7 small regions.]
+
+=== Year 2026 | Paper P5 | Round 1 | Problem 5 | Page 4 | Ref 5 ===
+In a class of 30 students, the average score for a Science test is 68. Two students, Daniel and Ethan, leave the class. The average score of the remaining students increases to 69. Given that Daniel scores 4 more marks than Ethan, what is Daniel's score?
+
+=== Year 2026 | Paper P5 | Round 1 | Problem 6 | Page 4 | Ref 5 ===
+A car travels from point A to point B at 100 km/h, then returns along the same route at 60 km/h. Find the car's average speed for the whole trip.
+
+=== Year 2026 | Paper P5 | Round 1 | Problem 7 | Page 4 | Ref 5 ===
+There is a 2-digit number x. The remainder when (x + 6) is divided by 3 is 1, the remainder when (x − 8) is divided by 4 is 1. Find the maximum possible value for x.
+
+=== Year 2026 | Paper P5 | Round 1 | Problem 8 | Page 5 | Ref 6 ===
+As shown in the figure, the square ABCD has a side length of 8 cm, and the rectangle BFIH has a length of 10 cm. What is the width of the rectangle? [Figure: square ABCD with A top-left, B top-right, C bottom-right, D bottom-left; G is a point on DC. Rectangle BFIH is tilted, sharing vertex B: F lies to the lower-left of A (outside the square), I to the upper-left, H above B; BF is the length 10. E is a point on side IH; segments EB, EF (passing through A), FG, GB and FB are drawn.]
+
+=== Year 2026 | Paper P5 | Round 1 | Problem 9 | Page 5 | Ref 6 ===
+As shown in the figure, in a square with an area of 225, place four small squares to form a symmetrical figure with two lines of symmetry. Two squares with an area of 32 are marked and the other 2 squares are also the same. Find the area of the shaded region. [Figure: big square of area 225 with its two diagonals dashed as the lines of symmetry. Two equal upright squares sit in the top-right and bottom-left corners. Two tilted squares (rotated 45°), each of area 32, sit in the top-left and bottom-right parts, centred on the diagonal from top-left to bottom-right. The shaded region is the small bow-tie shaped region in the centre between the tilted squares and the upright squares.]
+
+=== Year 2026 | Paper P5 | Round 1 | Problem 10 | Page 5 | Ref 7 ===
+Use the 2026 numbers 2, 3, 4, ..., 2026, 2027 as numerators and denominators to construct 1013 fractions. The minimum value of the largest fraction among these 1013 fractions is b/a. Find the value of a + b.
+
+=== Year 2026 | Paper P5 | Round 1 | Problem 11 | Page 6 | Ref 7 ===
+From City P to City Q, it takes Car A 3 hours and Car B 7 hours. Two cars travel towards each other from two cities and meet at a point 21 km away from the midpoint of PQ. What is the distance between City P and City Q in km?
+
+=== Year 2026 | Paper P5 | Round 1 | Problem 12 | Page 6 | Ref 8 ===
+Alex writes a sequence with 2 patterns as below; he can write any one pattern randomly, but he must finish writing a pattern before moving to the next pattern.
+(i) AAABAAC
+(ii) AABBACC
+After he finished a whole number of patterns, he found there are 125 "A"s and 46 "B"s. Find the number of complete patterns of (i).
+
+=== Year 2026 | Paper P5 | Round 1 | Problem 13 | Page 6 | Ref 8 ===
+Given that N = 2^a × 3^b, the number of its factors is 12, and the sum of all factors is 1092. Find the sum of a and b.
+
+=== Year 2026 | Paper P5 | Round 1 | Problem 14 | Page 6 | Ref 9 ===
+As shown in the figure below, A~G represent the digits 1~7; the same letter represents the same digit, different letters represent different digits. Find the 4-digit number "ABCD". [Vertical multiplication: AB × CD; first partial product FCD; second partial product EAE (shifted one place left); final product EGAD.]
+
+=== Year 2026 | Paper P5 | Round 1 | Problem 15 | Page 7 | Ref 9 ===
+Write the squares of 1~100 together to form a number 1491625…980110000. Find the remainder when 1491625…980110000 is divided by 9.
+
+=== Year 2026 | Paper P5 | Round 1 | Problem 16 | Page 7 | Ref 10 ===
+A student is conducting a controlled experiment to investigate the relationship between auxin concentration and plant growth. He plans to prepare 2026 grams of each of 10%, 20%, 30%, 40%, and 50% auxin solutions using 60% auxin and distilled water. Find the total amount of distilled water required for preparation (in grams).
+
+=== Year 2026 | Paper P5 | Round 1 | Problem 17 | Page 7 | Ref 10 ===
+There are 12 lamps, each with one of three colours: red, yellow, or green. Allen, Benjamin, Cindy, and Daniel don't know the actual lighting status. The table below summarizes their colour guesses for each lamp (1 to 12) and the number of correct guesses (Y - Yellow, R - Red, G - Green):
+Allen: Y R Y G R R G Y G G Y R (6 correct)
+Benjamin: Y G G R G Y Y G R Y R Y (7 correct)
+Cindy: R G Y R G G Y Y R R Y Y (9 correct)
+Daniel: G Y R R Y R R G R Y G G (? correct)
+Find the number of correct guesses of Daniel.
+
+=== Year 2026 | Paper P5 | Round 1 | Problem 18 | Page 8 | Ref 11 ===
+How many ways are there to colour the 2×5 grid below using 4 different colours such that each cell is coloured with only one colour and the colours of adjacent cells must be different? [Figure: a grid of 2 rows and 5 columns of square cells.]
+
+=== Year 2026 | Paper P5 | Round 1 | Problem 19 | Page 8 | Ref 12 ===
+As shown in the figure, triangle ABC has an area of 140. AD = DE = EB, BF = FG = GC, CH = HI = IA. Find the area of the shaded part. [Figure: triangle ABC with A at the top, B bottom-left, C bottom-right. D, E trisect AB (D nearer A); F, G trisect BC (F nearer B); H, I trisect CA (H nearer C, I nearer A). Six cevians are drawn: AF, AG, BH, BI, CD, CE. The shaded part is the central star-like hexagonal region bounded by these six cevians, around the middle of the triangle.]
+
+=== Year 2026 | Paper P6 | Round 1 | Problem 1 | Page 3 | Ref 2 ===
+Find the value of (2026 + 202.6 + 20.26 + 2.026) ÷ 1.01 ÷ 1.1.
+
+=== Year 2026 | Paper P6 | Round 1 | Problem 2 | Page 3 | Ref 2 ===
+As shown, the pentagon ABCDE is a regular pentagon and the triangle CDF is an equilateral triangle. Find ∠BFE (less than 180 degrees). [Figure: regular pentagon ABCDE with A at the top, B upper-left, C lower-left, D lower-right, E upper-right; equilateral triangle CDF drawn on side CD with F inside the pentagon; segments FB and FE drawn.]
+
+=== Year 2026 | Paper P6 | Round 1 | Problem 3 | Page 3 | Ref 2 ===
+If there are four Mondays and four Thursdays in January of a given leap year, what day is June 1?
+
+=== Year 2026 | Paper P6 | Round 1 | Problem 4 | Page 3 | Ref 3 ===
+What is the average of all possible 3-digit numbers formed by the digits 1, 9, and 8 without repeated digits?
+
+=== Year 2026 | Paper P6 | Round 1 | Problem 5 | Page 4 | Ref 3 ===
+A car travels from point A to point B at 100 km/h, then returns along the same route at 60 km/h. Find the car's average speed for the whole trip.
+
+=== Year 2026 | Paper P6 | Round 1 | Problem 6 | Page 4 | Ref 3 ===
+Find the number of triangles of the figure. [Figure: a large triangle with apex at the top and a horizontal base. A horizontal segment joins a point on the left side to a point on the right side (about halfway up). From each base vertex a segment goes to the opposite end of that horizontal segment (bottom-left to the right end, bottom-right to the left end); these two segments cross at a point O below the horizontal segment. A vertical segment runs from the apex down to O, crossing the horizontal segment. The figure is divided into 7 small regions.]
+
+=== Year 2026 | Paper P6 | Round 1 | Problem 7 | Page 4 | Ref 4 ===
+Fill in the blanks in the multiplication formula to complete it. What is the sum of the two 3-digit numbers that are multiplied together? [Vertical multiplication with boxes for unknown digits: □□2 × □0□; first partial product □□□□ (4 digits, ending in the units column); second partial product □6□ (3 digits, ending in the hundreds column, with 6 in the thousands column); final product □□2□□□ (6 digits, with 2 in the thousands place).]
+
+=== Year 2026 | Paper P6 | Round 1 | Problem 8 | Page 5 | Ref 4 ===
+As shown in the figure, the side length of the rhombus is 20. Draw 4 circles with a radius of 10 with the 4 vertices as the centres. Find the sum of the areas of the shaded parts. (Take π = 3.14) [Figure: a wide rhombus with left and right acute vertices and top and bottom obtuse vertices; a circle of radius 10 is centred at each vertex. The shaded parts are the parts of the four circles lying outside the rhombus; the inside of the rhombus is unshaded.]
+
+=== Year 2026 | Paper P6 | Round 1 | Problem 9 | Page 5 | Ref 5 ===
+For any number x, ⌈x⌉ denotes the smallest whole number not less than x, for example ⌈7.23⌉ = 8, ⌈9⌉ = 9. Find the value of ⌈1/41⌉ + ⌈2/41⌉ + … + ⌈2025/41⌉.
+
+=== Year 2026 | Paper P6 | Round 1 | Problem 10 | Page 5 | Ref 5 ===
+Use the 2026 numbers 2, 3, 4, ..., 2026, 2027 as numerators and denominators to construct 1013 fractions. The minimum value of the largest fraction among these 1013 fractions is b/a. Find the value of a + b.
+
+=== Year 2026 | Paper P6 | Round 1 | Problem 11 | Page 6 | Ref 6 ===
+A student is conducting a controlled experiment to investigate the relationship between auxin concentration and plant growth. He plans to prepare 2026 grams of each of 10%, 20%, 30%, 40%, and 50% auxin solutions using 60% auxin and distilled water. Find the total amount of distilled water required for preparation (in grams).
+
+=== Year 2026 | Paper P6 | Round 1 | Problem 12 | Page 6 | Ref 6 ===
+As shown in the figure, in the regular hexagon ABCDEF, M and N are the midpoints of sides AB and BC, respectively. If the area of the parallelogram MNDK is 125, what is the area of the regular hexagon ABCDEF? [Figure: regular hexagon with A, B along the top (A left, B right), C at the right, D bottom-right, E bottom-left, F at the left. M is the midpoint of AB, N the midpoint of BC. The shaded parallelogram MNDK has sides MN and KD parallel, and sides MK and ND parallel, with K inside the hexagon to the left of D.]
+
+=== Year 2026 | Paper P6 | Round 1 | Problem 13 | Page 7 | Ref 7 ===
+Ivan and Peter start from points A and B respectively, with Ivan walking at 60 meters per minute and Peter at 36 meters per minute. If they set off at the same time, they meet at point C. If Ivan had started 10 minutes later, they would have met at point D. Given that the distances from the midpoint of AB to C and D are equal, what is the distance between points A and B?
+
+=== Year 2026 | Paper P6 | Round 1 | Problem 14 | Page 7 | Ref 7 ===
+Emma and Frank are playing an arithmetic game. Emma first selects a whole number less than 2026 and writes it on the blackboard. Frank then takes turns with Emma, following this sequence: Frank erases the number and writes the sum of 2025 times it and 3; Emma erases the number and writes the sum of 2027 times it and 4. The game ends when either player's result becomes a multiple of 2026. How many different ways could Emma have chosen the number initially to keep the game going?
+
+=== Year 2026 | Paper P6 | Round 1 | Problem 15 | Page 8 | Ref 8 ===
+As shown in the figure, two identical circular paper sheets are cut into a net of the largest possible cube as illustrated. If the side length of the small square on the left is 10, what is the area of the small square on the right? [Figure: two equal circles. Left circle: a cross-shaped cube net — a horizontal row of 4 squares with one square above and one below the second square; the ends of the row of 4 touch the circle. Right circle: a staircase cube net of 6 squares in three rows of 2, each row shifted one square to the right (row 1: columns 1–2, row 2: columns 2–3, row 3: columns 3–4), inscribed in the circle.]
+
+=== Year 2026 | Paper P6 | Round 1 | Problem 16 | Page 8 | Ref 8 ===
+Given that the positive integer M is a common multiple of 12, 18 and 24, and in its prime factorization each prime factor has an odd power. If the sum of all factors of M is 32760, what is the value of M?
+
+=== Year 2026 | Paper P6 | Round 1 | Problem 17 | Page 8 | Ref 9 ===
+A box contains marbles numbered from 1 to 7. Eight marbles are drawn with replacement, and only the numbers are recorded. How many different combinations of numbers are possible if the order does not matter? (12345677 and 77654321 are the same)
+
+=== Year 2026 | Paper P6 | Round 1 | Problem 18 | Page 9 | Ref 9 ===
+As shown in the figure, in the isosceles trapezium ABCD, the top base AB is 4 cm, the bottom base CD is 12 cm, and the angle between the leg AD and the base DC is 45°. If AF = FE = ED and BC = 4BG, what is the area of triangle EFG? [Figure: isosceles trapezium with AB on top (A left, B right) and DC at the bottom (D left, C right). F and E trisect leg AD (F nearer A), G is on leg BC near B; segments FG and EG are drawn.]
+
+=== Year 2026 | Paper P6 | Round 1 | Problem 19 | Page 9 | Ref 10 ===
+The king has forgotten the password to his treasure vault. The password consists of the 8 letters of 'Kangaroo' and any 2 adjacent letters are distinct. What is the number of possible passwords?

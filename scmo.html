@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ôn luyện SCMO</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: same squared-paper page as igo.html; one panel per SCMO map (primary, secondary), then the shelf of papers and solutions by year. */
+:root{
+  --paper:#f3f6f2; --sheet:#fbfcfa; --grid:#e1e8e0; --ink:#17221d; --muted:#5b6a62; --line:#c9d4cc;
+  --ks2:#1d6fa3; --ks3:#b23a62; --imso:#b5532a; --igo:#4d7c0f; --ico:#a16207; --rmo:#0e7490; --scmo:#4f46e5; --accent:#0d6b58;
+  --f-display:"Bricolage Grotesque", "Be Vietnam Pro", system-ui, sans-serif;
+  --f-body:"Be Vietnam Pro", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono:"JetBrains Mono", ui-monospace, Consolas, monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#111815; --sheet:#18211d; --grid:#1d2823; --ink:#e3ebe6; --muted:#97a69e; --line:#34423b;
+  --ks2:#5fb0e6; --ks3:#ec7aa0; --imso:#f08d5c; --igo:#9ccc65; --ico:#f2c14e; --rmo:#5ccfe6; --scmo:#a5b4fc; --accent:#4fc2a5; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#111815; --sheet:#18211d; --grid:#1d2823; --ink:#e3ebe6; --muted:#97a69e; --line:#34423b;
+  --ks2:#5fb0e6; --ks3:#ec7aa0; --imso:#f08d5c; --igo:#9ccc65; --ico:#f2c14e; --rmo:#5ccfe6; --scmo:#a5b4fc; --accent:#4fc2a5; color-scheme:dark}
+*{box-sizing:border-box}
+html{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+body{margin:0;background-color:var(--paper);background-image:linear-gradient(var(--grid) 1px,transparent 1px),linear-gradient(90deg,var(--grid) 1px,transparent 1px);background-size:24px 24px;color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.55}
+.wrap{max-width:1180px;margin:0 auto;padding-inline:16px;padding-block:36px 56px;display:grid;gap:28px}
+header{display:grid;gap:10px;max-width:68ch}
+.eyebrow{font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--accent)}
+h1{font-family:var(--f-display);font-weight:800;font-size:clamp(34px,6vw,58px);line-height:1;margin:0;letter-spacing:-.02em;text-wrap:balance}
+header p{margin:0;color:var(--muted);font-size:16px}
+.stages{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,460px),1fr));gap:20px}
+.stage{--c:var(--ks2);background:var(--sheet);border:1px solid var(--line);border-top:6px solid var(--c);border-radius:16px;padding:22px 22px 20px;display:grid;gap:18px;align-content:start;min-width:0}
+.stage.ks3{--c:var(--ks3)}
+.stage h2{font-family:var(--f-display);font-weight:800;font-size:28px;line-height:1.1;margin:0;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.stage h2 span{font-family:var(--f-body);font-size:14px;font-weight:500;color:var(--muted)}
+.facts{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.facts div{border:1px solid var(--line);border-radius:10px;padding:8px 10px;background:var(--paper)}
+.facts b{display:block;font-family:var(--f-display);font-size:24px;line-height:1.1;color:var(--c);font-variant-numeric:tabular-nums}
+.facts small{color:var(--muted);font-size:12px}
+.actions{display:flex;flex-wrap:wrap;gap:8px}
+a.btn{display:inline-flex;align-items:center;gap:8px;text-decoration:none;font-weight:600;font-size:14px;border-radius:10px;padding:10px 14px;border:1.5px solid var(--c);color:var(--c);background:var(--sheet)}
+a.btn.main{background:var(--c);color:var(--sheet)}
+a.btn:hover{filter:brightness(1.08)}
+a:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.lbl{font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 8px}
+.years{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,236px),1fr));gap:2px 16px}
+.yr{display:flex;align-items:center;gap:6px;border-bottom:1px dashed var(--line);padding-block:5px}
+.yr b{font-family:var(--f-mono);font-size:13px;font-weight:500;width:3.2em;flex:none}
+.years a{font-size:12px;font-weight:500;white-space:nowrap;text-decoration:none;color:var(--ink);border:1px solid var(--line);border-radius:7px;padding:3px 7px;background:var(--paper)}
+.years a:hover{border-color:var(--c);color:var(--c)}
+.files{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:14px}
+.files a{color:var(--c);font-weight:500}
+.note{font-size:13.5px;color:var(--muted);background:var(--sheet);border:1px solid var(--line);border-radius:12px;padding:12px 14px;max-width:80ch}
+.note b{color:var(--ink)}
+a.home{font-size:13px;font-weight:600;color:var(--muted);text-decoration:none}
+a.home:hover{color:var(--accent)}
+footer.site{display:flex;flex-wrap:wrap;gap:6px 16px;align-items:center;font-size:13.5px;color:var(--muted);border-top:1px solid var(--line);padding-top:16px}
+footer.site a{color:var(--accent);font-weight:600}
+
+.stage.scmo{--c:var(--scmo)}
+.stage.wide{grid-column:1/-1}
+.yr{flex-wrap:wrap}
+.yr .tag{font-size:11px;font-weight:700;color:var(--c);border:1px solid var(--c);border-radius:999px;padding:1px 7px}
+.years a.ans{border-style:dashed}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <a class="home" href="index.html">← Trang chủ</a>
+    <div class="eyebrow">Spring Cup Mathematical Olympiad</div>
+    <h1>Ôn luyện SCMO</h1>
+    <p>Kỳ thi Toán mùa xuân ở Singapore, mỗi cấp một đề riêng: tiểu học từ P1 đến P6 (có năm gộp P1 & P2, P2 & P3, P4 & P5) và THCS (Secondary 1, Junior, Advanced), mỗi đề 11–20 bài điền đáp số. Đề các năm 2016–2026, cùng vòng chung kết 2023, được phân loại theo dạng và gom thành hai mindmap: tiểu học và THCS.</p>
+  </header>
+
+  <div class="stages">
+    <section class="stage scmo" aria-labelledby="h-pri">
+      <h2 id="h-pri">Mindmap Tiểu học <span>P1–P6 · 2016–2026</span></h2>
+      <div class="facts">
+        <div><b>373</b><small>bài toán</small></div>
+        <div><b>24</b><small>đề (21 vòng 1, 3 vòng chung kết)</small></div>
+        <div><b>54</b><small>dạng bài trong 5 nhánh và 16 nhánh con</small></div>
+      </div>
+      <div class="actions">
+        <a class="btn main" href="mindmaps/scmo_primary.html">Mở mindmap</a>
+      </div>
+      <div>
+        <p class="lbl">Dữ liệu</p>
+        <div class="files">
+          <a href="data/scmo_primary_categories.txt">Bảng phân loại</a>
+          <a href="data/scmo_primary_problems.txt">Toàn bộ đề (văn bản)</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="stage scmo" aria-labelledby="h-sec">
+      <h2 id="h-sec">Mindmap THCS <span>Secondary · 2022–2026</span></h2>
+      <div class="facts">
+        <div><b>84</b><small>bài toán</small></div>
+        <div><b>6</b><small>đề (Secondary 1, Junior, Advanced)</small></div>
+        <div><b>22</b><small>dạng bài trong 4 nhánh và 8 nhánh con</small></div>
+      </div>
+      <div class="actions">
+        <a class="btn main" href="mindmaps/scmo_secondary.html">Mở mindmap</a>
+      </div>
+      <div>
+        <p class="lbl">Dữ liệu</p>
+        <div class="files">
+          <a href="data/scmo_secondary_categories.txt">Bảng phân loại</a>
+          <a href="data/scmo_secondary_problems.txt">Toàn bộ đề (văn bản)</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="stage scmo wide" aria-labelledby="h-papers">
+      <h2 id="h-papers">Đề và lời giải <span>PDF</span></h2>
+      <nav class="years" id="years" aria-label="Đề SCMO theo năm"></nav>
+    </section>
+  </div>
+
+  <p class="note"><b>Lưu ý:</b> Đề 2016–2021 là bản dịch tiếng Anh của đề vòng 1, kèm bảng đáp số. Đề "2022" của THCS được thi ngày 28/1/2023, cùng ngày với đề 2023 tiểu học. Câu cuối "bạn thích câu nào nhất" (cho điểm tự do) của nhiều đề không được đưa vào mindmap. Lời giải 2025 P4 & P5 là bản gốc tiếng Trung; đáp án 2025 P2 & P3 được viết tay trên đề. Chưa có đáp án cho 2020 P4, 2022 và 2024 P6. Lời giải câu 1 đề 2026 Advanced làm theo một đề cũ (f(x + 2)), không khớp với đề in; theo đề in, đáp số là 3.</p>
+
+  <footer class="site">
+    <span>Liên hệ tác giả:</span>
+    <a href="https://www.facebook.com/haison8x/" target="_blank" rel="noopener">Facebook ↗</a>
+    <a href="https://github.com/haison8x/xIMC" target="_blank" rel="noopener">Mã nguồn trên GitHub ↗</a>
+  </footer>
+</div>
+<script>
+// One row per paper. Files are papers/scmo/SCMO-{year}-{level}-Rd-{round}-{Paper|Answers}.pdf;
+// the third field of a row is the answer link label ("" = no answers file).
+const D = "papers/scmo/";
+const pdf = (y, lv, rd, kind) => `${D}SCMO-${y}-${lv}-Rd-${rd}-${kind}.pdf`;
+const SOL = "Lời giải", ANS = "Đáp án";
+const ROWS = [
+  [2026, "P1", "P1", 1, SOL], [2026, "P2", "P2", 1, SOL], [2026, "P3", "P3", 1, SOL], [2026, "P4", "P4", 1, SOL],
+  [2026, "P5", "P5", 1, SOL], [2026, "P6", "P6", 1, SOL],
+  [2026, "Junior", "SecJunior", 1, SOL], [2026, "Advanced", "SecAdvanced", 1, SOL],
+  [2025, "P2 & P3", "P2P3", 1, ANS], [2025, "P4 & P5", "P4P5", 1, SOL + " (tiếng Trung)"],
+  [2025, "Junior", "SecJunior", 1, SOL],
+  [2024, "P2 & P3", "P2P3", 1, SOL], [2024, "P4 & P5", "P4P5", 1, SOL], [2024, "P6", "P6", 1, ""],
+  [2023, "P1 & P2", "P1P2", 1, SOL], [2023, "P3", "P3", 1, SOL], [2023, "P4", "P4", 1, SOL],
+  [2023, "P5", "P5", 1, SOL], [2023, "P6", "P6", 1, SOL], [2023, "Secondary 1", "S1", 1, SOL],
+  [2023, "CK Lower", "LowerPrimary", 2, ANS], [2023, "CK Middle", "MiddlePrimary", 2, ANS],
+  [2023, "CK Upper", "UpperPrimary", 2, ANS],
+  [2022, "Junior", "SecJunior", 1, ""], [2022, "Advanced", "SecAdvanced", 1, ""],
+  [2021, "P3", "P3", 1, ANS], [2020, "P3", "P3", 1, ANS], [2020, "P4", "P4", 1, ""],
+  [2019, "P3", "P3", 1, ANS], [2016, "P3", "P3", 1, ANS],
+];
+const nav = document.getElementById("years");
+for (const [y, tag, lv, rd, ans] of ROWS) {
+  const row = document.createElement("div"); row.className = "yr";
+  const b = document.createElement("b"); b.textContent = y; row.appendChild(b);
+  const s = document.createElement("span"); s.className = "tag"; s.textContent = tag; row.appendChild(s);
+  const links = [["Đề", pdf(y, lv, rd, "Paper"), ""]];
+  if (ans) links.push([ans, pdf(y, lv, rd, "Answers"), "ans"]);
+  for (const [label, file, cls] of links) {
+    const a = document.createElement("a");
+    a.href = file; a.target = "_blank"; a.rel = "noopener"; a.textContent = label;
+    if (cls) a.className = cls;
+    a.title = `SCMO ${y} ${tag} – ${label}`;
+    row.appendChild(a);
+  }
+  nav.appendChild(row);
+}
+</script>
+</body>
+</html>

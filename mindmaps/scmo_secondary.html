@@ -1,0 +1,413 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<style>*,*::before,*::after{box-sizing:border-box}html{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}[hidden]{display:none!important}</style>
+</head>
+<body>
+<title>Bản đồ ôn SCMO Secondary</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: a left-to-right mind-map tree on squared exercise paper; a study drawer opens beside it. */
+:root{
+  --paper:#f3f6f2; --sheet:#fbfcfa; --grid:#e1e8e0; --ink:#17221d; --muted:#5b6a62; --line:#b9c6bd;
+  --accent:#0d6b58; --accent-ink:#ffffff;
+  --g:#1f8a4c; --y:#c48a06; --r:#c8402f; --none:#a9b5ad;
+  --c1:#1d6fa3; --c2:#8a4fb5; --c3:#c0592b; --c4:#2a8a7c; --c5:#b23a62; --c6:#4b6bd6; --c7:#7d7a1e; --c8:#3f7d3a;
+  --f-display:"Bricolage Grotesque", "Be Vietnam Pro", system-ui, sans-serif;
+  --f-body:"Be Vietnam Pro", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono:"JetBrains Mono", ui-monospace, Consolas, monospace;
+  --shadow:0 10px 30px rgba(20,40,30,.14);
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#111815; --sheet:#18211d; --grid:#1d2823; --ink:#e3ebe6; --muted:#97a69e; --line:#3b4a43;
+  --accent:#4fc2a5; --accent-ink:#0b1512;
+  --g:#45c27a; --y:#e6b23a; --r:#f0705e; --none:#56635c;
+  --c1:#5fb0e6; --c2:#c193eb; --c3:#f08d5c; --c4:#5cc9b8; --c5:#ec7aa0; --c6:#8ea6ff; --c7:#c8c45a; --c8:#7fc276;
+  --shadow:0 10px 30px rgba(0,0,0,.5); color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#111815; --sheet:#18211d; --grid:#1d2823; --ink:#e3ebe6; --muted:#97a69e; --line:#3b4a43;
+  --accent:#4fc2a5; --accent-ink:#0b1512;
+  --g:#45c27a; --y:#e6b23a; --r:#f0705e; --none:#56635c;
+  --c1:#5fb0e6; --c2:#c193eb; --c3:#f08d5c; --c4:#5cc9b8; --c5:#ec7aa0; --c6:#8ea6ff; --c7:#c8c45a; --c8:#7fc276;
+  --shadow:0 10px 30px rgba(0,0,0,.5); color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.5}
+.wrap{padding-inline:16px;padding-block:20px 48px;max-width:1500px;margin:0 auto;display:grid;gap:18px}
+header.top{display:flex;flex-wrap:wrap;gap:16px 28px;align-items:flex-end;justify-content:space-between}
+h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,4vw,40px);line-height:1.05;margin:0;letter-spacing:-.01em;text-wrap:balance}
+h1 small{display:block;font-family:var(--f-body);font-weight:500;font-size:14px;color:var(--muted);letter-spacing:0;margin-top:6px}
+.progress{display:grid;gap:8px;min-width:min(100%,340px)}
+.bar{display:flex;height:12px;border-radius:6px;overflow:hidden;background:var(--grid)}
+.bar i{display:block;height:100%}
+.legend{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
+.legend b{color:var(--ink);font-weight:600}
+.dot{display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--none);vertical-align:middle;margin-right:5px;flex:none}
+.dot.g{background:var(--g)} .dot.y{background:var(--y)} .dot.r{background:var(--r)}
+.toolbar{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.chip{font:inherit;font-size:13px;font-weight:500;border:1.5px solid var(--line);background:var(--sheet);color:var(--ink);padding:6px 12px;border-radius:999px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.chip.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);font-weight:600}
+.chip:focus-visible,.node:focus-visible,.leaf:focus-visible,.mbtn:focus-visible,summary:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.spacer{flex:1}
+.save{font-size:12px;color:var(--muted)}
+.board{background-color:var(--sheet);background-image:linear-gradient(var(--grid) 1px,transparent 1px),linear-gradient(90deg,var(--grid) 1px,transparent 1px);background-size:22px 22px;border:1px solid var(--line);border-radius:14px;overflow-x:auto;padding:24px 20px}
+/* horizontal tree */
+.tree{display:flex;align-items:center;width:max-content}
+.tree ul{list-style:none;margin:0;padding:0 0 0 26px;position:relative;display:flex;flex-direction:column}
+.tree ul::before{content:"";position:absolute;left:0;top:50%;width:26px;border-top:2px solid var(--bc,var(--line))}
+.tree li{position:relative;display:flex;align-items:center;padding:3px 0 3px 22px}
+.tree li::before{content:"";position:absolute;left:0;top:50%;width:22px;border-top:2px solid var(--bc,var(--line))}
+.tree li::after{content:"";position:absolute;left:0;top:0;bottom:0;border-left:2px solid var(--bc,var(--line))}
+.tree li:first-child::after{top:50%} .tree li:last-child::after{bottom:50%} .tree li:only-child::after{display:none}
+.tree li.closed>ul{display:none}
+.tree li.hide{display:none}
+.root{font-family:var(--f-display);font-weight:800;font-size:20px;background:var(--ink);color:var(--paper);padding:14px 18px;border-radius:14px;text-align:center;line-height:1.1}
+.root small{display:block;font-family:var(--f-body);font-weight:500;font-size:12px;opacity:.75;margin-top:4px}
+.node{font:inherit;cursor:pointer;display:flex;align-items:center;gap:8px;text-align:left;border:2px solid var(--bc);background:var(--sheet);color:var(--ink);border-radius:10px;padding:7px 11px}
+.node.g1{font-weight:700;font-size:15px;background:var(--bc);color:var(--sheet);border-color:var(--bc);min-width:210px;flex-direction:column;align-items:stretch;gap:5px}
+.node.g1 .mini{display:flex;height:5px;border-radius:3px;overflow:hidden;background:color-mix(in srgb,var(--sheet) 35%,transparent)}
+.node.g1 .mini i{display:block;height:100%}
+.node.g1 .mini i.g{background:var(--sheet)} .node.g1 .mini i.y{background:color-mix(in srgb,var(--sheet) 60%,transparent)} .node.g1 .mini i.r{background:color-mix(in srgb,var(--sheet) 30%,transparent)}
+.node.g1 .row{display:flex;justify-content:space-between;gap:10px;align-items:baseline}
+.node.g1 .row span:last-child{font-family:var(--f-mono);font-size:11px;font-weight:500;opacity:.85}
+.node.s{font-size:14px;font-weight:600;min-width:220px;justify-content:space-between}
+.node.s .code{font-family:var(--f-mono);font-size:11px;color:var(--bc);font-weight:500}
+.node.s .scount{display:inline-block;margin-left:7px;font-family:var(--f-mono);font-size:10.5px;font-weight:500;line-height:1;color:var(--bc);border:1px solid color-mix(in srgb,var(--bc) 45%,transparent);border-radius:999px;padding:2px 6px;vertical-align:1px;font-variant-numeric:tabular-nums}
+.node.s .cnt{display:flex;gap:3px;align-items:center}
+.node.s .cnt .dot{width:7px;height:7px;margin:0}
+.caret{font-size:11px;opacity:.6;transition:transform .15s}
+li.closed>.node .caret{transform:rotate(-90deg)}
+.leaf{font:inherit;font-size:13.5px;cursor:pointer;display:flex;align-items:center;gap:2px;border:1px solid var(--line);background:var(--sheet);color:var(--ink);border-radius:8px;padding:5px 10px 5px 8px;max-width:330px;text-align:left}
+.leaf:hover{border-color:var(--bc)}
+.leaf.active{outline:2px solid var(--bc);outline-offset:1px}
+/* drawer */
+.drawer{position:fixed;top:0;right:0;bottom:0;width:min(470px,100%);background:var(--sheet);border-left:1px solid var(--line);box-shadow:var(--shadow);transform:translateX(105%);transition:transform .22s ease;z-index:20;display:flex;flex-direction:column;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+.drawer.open{transform:none}
+.dhead{padding:16px 18px 12px;border-bottom:1px solid var(--line);display:grid;gap:6px;border-top:5px solid var(--bc,var(--accent))}
+.crumb{font-size:12px;color:var(--muted);font-weight:500}
+.dhead h2{font-family:var(--f-display);font-weight:800;font-size:22px;line-height:1.15;margin:0;text-wrap:balance}
+.close{position:absolute;top:calc(10px + env(safe-area-inset-top,0px));right:10px;font:inherit;font-size:20px;line-height:1;border:none;background:transparent;color:var(--muted);cursor:pointer;padding:6px 10px;border-radius:8px}
+.dbody{overflow-y:auto;padding:16px 18px 28px;display:grid;gap:18px;align-content:start}
+.lbl{font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 5px}
+.sign{margin:0;font-style:italic}
+.key{margin:0;background:color-mix(in srgb,var(--bc,var(--accent)) 10%,var(--sheet));border-left:4px solid var(--bc,var(--accent));padding:10px 12px;border-radius:0 8px 8px 0}
+.mastery{display:flex;gap:6px;flex-wrap:wrap}
+.mbtn{font:inherit;font-size:13px;font-weight:600;cursor:pointer;display:flex;align-items:center;gap:6px;border:1.5px solid var(--line);background:var(--sheet);color:var(--ink);padding:7px 11px;border-radius:9px}
+.mbtn[aria-pressed="true"].g{border-color:var(--g);background:color-mix(in srgb,var(--g) 16%,var(--sheet))}
+.mbtn[aria-pressed="true"].y{border-color:var(--y);background:color-mix(in srgb,var(--y) 18%,var(--sheet))}
+.mbtn[aria-pressed="true"].r{border-color:var(--r);background:color-mix(in srgb,var(--r) 15%,var(--sheet))}
+.mbtn.clear{font-weight:500;color:var(--muted)}
+textarea{width:100%;min-height:84px;font:inherit;font-size:14px;color:var(--ink);background:var(--paper);border:1.5px solid var(--line);border-radius:9px;padding:9px 11px;resize:vertical}
+textarea:focus{outline:2px solid var(--accent);border-color:transparent}
+.probs{display:grid;gap:6px}
+.dbody,.probs{grid-template-columns:minmax(0,1fr)}
+details.prob{border:1px solid var(--line);border-radius:9px;background:var(--paper);min-width:0}
+details.prob summary{cursor:pointer;padding:7px 10px;display:flex;gap:10px;align-items:baseline;font-size:13px;list-style:none}
+details.prob summary::-webkit-details-marker{display:none}
+details.prob summary .id{font-family:var(--f-mono);font-size:12px;color:var(--bc,var(--accent));flex:none}
+details.prob summary .pv{color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+details.prob[open] summary .pv{display:none}
+details.prob p{margin:0;padding:0 12px 11px;font-size:14px}
+details.prob .kind{flex:none;font-size:11px;font-weight:600;border-radius:999px;padding:1px 8px;border:1px solid var(--line);color:var(--muted)}
+details.prob .kind.alt{border-color:var(--bc,var(--accent));color:var(--bc,var(--accent))}
+a.home{font-size:13px;font-weight:600;color:var(--muted);text-decoration:none}
+a.home:hover{color:var(--accent)}
+footer.site{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:13px;color:var(--muted)}
+footer.site a{color:var(--accent);font-weight:600}
+details.prob .links{display:flex;flex-wrap:wrap;gap:6px 16px;padding:0 12px 11px}
+details.prob .links a{font-size:13px;font-weight:600;color:var(--bc,var(--accent))}
+.seg{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+.seg>span,.seg>label{font-size:12px;font-weight:600;color:var(--muted)}
+.seg select{font:inherit;font-size:13px;font-weight:500;color:var(--ink);background:var(--sheet);border:1.5px solid var(--line);border-radius:999px;padding:5px 10px;cursor:pointer}
+.seg select:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.seg select.on{border-color:var(--ink)}
+details.more>summary{cursor:pointer;font-size:13px;font-weight:600;color:var(--muted);padding:4px 0}
+.scrim{position:fixed;inset:0;background:rgba(10,20,15,.28);opacity:0;pointer-events:none;transition:opacity .2s;z-index:15}
+.scrim.on{opacity:1;pointer-events:auto}
+.how{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,230px),1fr));gap:10px;font-size:13.5px;color:var(--muted)}
+.how div{background:var(--sheet);border:1px solid var(--line);border-radius:10px;padding:10px 12px}
+.how b{color:var(--ink);display:block;font-size:13px;margin-bottom:2px}
+@media (prefers-reduced-motion: reduce){.drawer,.scrim,.caret{transition:none}}
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <div><a class="home" id="home" href="../scmo.html">← Ôn luyện SCMO</a>
+    <h1>Bản đồ ôn Spring Cup Mathematical Olympiad – THCS<small>84 bài (17 Secondary 1 · 41 Secondary Junior · 26 Secondary Advanced) · 2022–2026 · 4 nhánh lớn · 8 nhánh con · <span id="nLeaves"></span> dạng bài</small></h1></div>
+    <div class="progress" aria-label="Tiến độ thành thạo">
+      <div class="bar" id="bar"></div>
+      <div class="legend" id="legend"></div>
+    </div>
+  </header>
+
+  <div class="how">
+    <div><b>1. Mở nhánh</b>Bấm vào nhánh lớn hoặc nhánh con để mở. Mỗi lá là một dạng bài.</div>
+    <div><b>2. Ôn một dạng</b>Đọc dấu hiệu nhận biết, tự nhớ lại chìa khóa, rồi làm lại bài mẫu.</div>
+    <div><b>3. Tô màu</b>🟢 tự giải trong 5 phút · 🟡 chậm hoặc cần gợi ý · 🔴 chưa giải được. Ghi lại bẫy đã gặp.</div>
+  </div>
+
+  <div class="toolbar">
+    <button class="chip" data-f="all" aria-pressed="true">Tất cả</button>
+    <button class="chip" data-f="review" aria-pressed="false">Cần ôn (đỏ + vàng)</button>
+    <button class="chip" data-f="none" aria-pressed="false">Chưa đánh dấu</button>
+    <button class="chip" data-f="g" aria-pressed="false">Đã thành thạo</button>
+    <span class="spacer"></span>
+    <div class="seg" role="group" aria-label="Loại đề">
+      <span>Loại đề</span>
+      <button class="chip" data-k="all" aria-pressed="true">Tất cả</button>
+    </div>
+    <div class="seg">
+      <label for="yearFrom">Năm</label>
+      <select id="yearFrom"><option value="0">Tất cả các năm</option></select>
+    </div>
+    <button class="chip" id="expand">Mở tất cả</button>
+    <button class="chip" id="collapse">Thu gọn</button>
+    <button class="chip primary" id="random">Bốc một dạng cần ôn</button>
+  </div>
+  <div class="save" id="save">Đang kết nối nơi lưu tiến độ…</div>
+
+  <div class="board"><div class="tree" id="tree"></div></div>
+  <footer class="site"><span>Liên hệ tác giả:</span><a href="https://www.facebook.com/haison8x/" target="_blank" rel="noopener">Facebook ↗</a></footer>
+</div>
+
+<div class="scrim" id="scrim"></div>
+<aside class="drawer" id="drawer" aria-hidden="true" aria-labelledby="dTitle">
+  <button class="close" id="close" aria-label="Đóng">✕</button>
+  <div class="dhead"><div class="crumb" id="dCrumb"></div><h2 id="dTitle"></h2></div>
+  <div class="dbody">
+    <section><p class="lbl">Dấu hiệu nhận biết</p><p class="sign" id="dSign"></p></section>
+    <section><p class="lbl">Chìa khóa</p><p class="key" id="dKey"></p></section>
+    <section><p class="lbl">Mức thành thạo</p>
+      <div class="mastery" id="dMastery">
+        <button class="mbtn g" data-m="g" aria-pressed="false"><span class="dot g"></span>Thành thạo</button>
+        <button class="mbtn y" data-m="y" aria-pressed="false"><span class="dot y"></span>Còn chậm</button>
+        <button class="mbtn r" data-m="r" aria-pressed="false"><span class="dot r"></span>Chưa giải được</button>
+        <button class="mbtn clear" data-m="" aria-pressed="false">Bỏ đánh dấu</button>
+      </div></section>
+    <section><p class="lbl"><label for="trap">Bẫy đã gặp</label></p>
+      <textarea id="trap" placeholder="Ví dụ: quên điều kiện số chia lớn hơn số dư…"></textarea></section>
+    <section><p class="lbl">Bài mẫu – làm lại khi ôn</p><div class="probs" id="dEx"></div></section>
+    <section><details class="more"><summary id="dMoreSum"></summary><div class="probs" id="dMore" style="margin-top:8px"></div></details></section>
+  </div>
+</aside>
+
+<script>
+const DATA = {"groups": [{"id": 1, "vn": "Đại số", "count": 38, "subs": [{"id": "1.1", "vn": "Lũy thừa, căn thức, phân số & giá trị tuyệt đối", "leaves": [{"id": "1.1-a", "t": "Lũy thừa và so sánh lũy thừa", "sign": "tích các lũy thừa, so sánh a^110 với b^88, số mũ 0 và số mũ âm", "key": "đưa về cùng số mũ (hoặc cùng cơ số) rồi so sánh; nhóm a^m b^n từ các biểu thức đã biết", "ex": ["2023-S1-1", "2026-SJ-1", "2025-SJ-1", "2022-SJ-1"]}, {"id": "1.1-b", "t": "Căn thức: căn lồng nhau, liên hợp, căn bậc ba", "sign": "căn trong căn, tổng hai căn liên hợp, 26 + 15√3", "key": "viết biểu thức dưới căn thành bình phương (lập phương) đúng: a ± 2√b = (√x ± √y)^2; nhân liên hợp; điều kiện xác định của căn chặn được biến", "ex": ["2022-SA-1", "2022-SA-4", "2023-S1-12", "2026-SA-3", "2026-SJ-3"]}, {"id": "1.1-c", "t": "Tổng phân số, thay giá trị, hàm dấu, tích sin", "sign": "tổng tách được thành hiệu, hệ số của khai triển, mỗi số hạng chỉ là ±1, tích nhiều sin", "key": "tách 1/(k(k+1)) = 1/k − 1/(k+1); tổng hệ số thì thay x bằng một giá trị đặc biệt; tích sin / cos thì nhân thêm để dùng công thức góc nhân đôi", "ex": ["2023-S1-5", "2023-S1-8", "2026-SJ-5", "2026-SA-7"]}], "probs": ["2022-SJ-1", "2022-SA-1", "2022-SA-4", "2023-S1-1", "2023-S1-5", "2023-S1-8", "2023-S1-12", "2025-SJ-1", "2026-SJ-1", "2026-SJ-3", "2026-SJ-5", "2026-SA-3", "2026-SA-7"]}, {"id": "1.2", "vn": "Phương trình, hệ, Vieta & hàm số", "leaves": [{"id": "1.2-a", "t": "a + 1/a, biểu thức đối xứng và Vieta", "sign": "a^2 + 3a + 1 = 0 hỏi biểu thức chứa a và 1/a; m + n và mn biết trước, tính m^5 + n^5", "key": "chia cho a để được a + 1/a, rồi bình phương lên dần; biến đổi về tổng và tích, dùng định lý Vieta", "ex": ["2022-SJ-4", "2022-SA-3", "2023-S1-13", "2026-SJ-12", "2026-SA-6", "2023-S1-14"]}, {"id": "1.2-b", "t": "Hệ phương trình và phương trình chứa ẩn ở mẫu", "sign": "hệ có nghiệm chung, phương trình phân thức có nghiệm ngoại lai, phân tích đa thức hai biến", "key": "giải phần không chứa tham số trước; quy đồng rồi nhớ loại nghiệm làm mẫu bằng 0; dùng biệt thức để có nghiệm", "ex": ["2022-SJ-6", "2022-SA-7", "2023-S1-6", "2023-S1-10", "2025-SJ-2", "2022-SA-8"]}, {"id": "1.2-c", "t": "Hàm số: hàm lẻ, phương trình hàm tuần hoàn", "sign": "f(x) + f(−x) là hằng số, f(x + 1) cho theo f(x), hỏi f(2026)", "key": "ghép f(x) với f(−x); lặp công thức vài lần để tìm chu kỳ (thường 2, 4 hay 6) rồi chia 2026 cho chu kỳ", "ex": ["2022-SJ-2", "2026-SA-1"]}], "probs": ["2022-SJ-2", "2022-SJ-4", "2022-SJ-6", "2022-SA-3", "2022-SA-7", "2022-SA-8", "2023-S1-6", "2023-S1-10", "2023-S1-13", "2023-S1-14", "2025-SJ-2", "2026-SJ-12", "2026-SA-1", "2026-SA-6"]}, {"id": "1.3", "vn": "Cực trị & bất đẳng thức: bình phương, giá trị tuyệt đối, AM-GM", "leaves": [{"id": "1.3-a", "t": "Bình phương không âm, hoàn thành bình phương", "sign": "giá trị nhỏ nhất của biểu thức bậc hai hai biến, tổng các bình phương bằng 0", "key": "viết thành tổng các bình phương cộng hằng số; tổng bình phương bằng 0 thì mỗi bình phương bằng 0", "ex": ["2023-S1-9", "2025-SJ-6", "2026-SJ-9", "2022-SA-2", "2022-SJ-12"]}, {"id": "1.3-b", "t": "Tổng các giá trị tuyệt đối", "sign": "tìm giá trị nhỏ nhất của |x − a1| + |x − a2| + …", "key": "giá trị nhỏ nhất đạt tại trung vị của các điểm (đếm theo trọng số)", "ex": ["2022-SJ-7", "2025-SJ-7"]}, {"id": "1.3-c", "t": "AM-GM, tính đơn điệu, ràng buộc", "sign": "biến dương, tích không đổi, hàm có căn, nghiệm không âm", "key": "AM-GM: tổng các số dương có tích không đổi nhỏ nhất khi các số bằng nhau; đặt ẩn phụ rồi xét miền giá trị của ẩn phụ", "ex": ["2026-SA-2", "2022-SA-10", "2025-SJ-3", "2026-SJ-14"]}], "probs": ["2022-SJ-7", "2022-SJ-12", "2022-SA-2", "2022-SA-10", "2023-S1-9", "2025-SJ-3", "2025-SJ-6", "2025-SJ-7", "2026-SJ-9", "2026-SJ-14", "2026-SA-2"]}]}, {"id": 2, "vn": "Số học", "count": 16, "subs": [{"id": "2.1", "vn": "Số nguyên tố, phân tích nhân tử & phương trình nghiệm nguyên", "leaves": [{"id": "2.1-a", "t": "Phân tích nhân tử để ra số nguyên tố", "sign": "đa thức theo n là số nguyên tố, p^2 − k^2 = 4q^4", "key": "phân tích thành tích; tích là số nguyên tố thì mọi thừa số trừ một phải là ±1; hiệu hai bình phương (p − k)(p + k)", "ex": ["2022-SA-5", "2023-S1-15", "2022-SJ-8", "2023-S1-17"]}, {"id": "2.1-b", "t": "Phương trình nghiệm nguyên", "sign": "ghép hai số thành số chính phương, hai biểu thức chia hết cho nhau, phương trình mũ 2^x − 1 = …", "key": "đưa về tích bằng hằng số rồi liệt kê ước; đặt thương bằng ẩn mới rồi chặn; xét số dư theo mô-đun phù hợp", "ex": ["2022-SJ-10", "2026-SJ-7", "2026-SJ-11", "2026-SA-12"]}, {"id": "2.1-c", "t": "Hệ số nhị thức và tính chia hết", "sign": "chứng minh C(2p, p) − 2 chia hết cho p^2", "key": "khai triển C(2p, p) = Σ C(p, k)^2; các số hạng giữa đều chia hết cho p", "ex": ["2026-SA-13"]}], "probs": ["2022-SJ-8", "2022-SJ-10", "2022-SA-5", "2023-S1-15", "2023-S1-17", "2026-SJ-7", "2026-SJ-11", "2026-SA-12", "2026-SA-13"]}, {"id": "2.2", "vn": "Chia hết, số dư, chữ số & phần nguyên", "leaves": [{"id": "2.2-a", "t": "Số dư, ƯCLN và chữ số tận cùng", "sign": "các số chia cho n có cùng số dư, ước chung lớn nhất cho trước, chữ số tận cùng của tích lớn", "key": "cùng số dư thì n chia hết các hiệu; chữ số tận cùng chỉ cần nhân các chữ số tận cùng (có thừa số 5 và số lẻ thì tận cùng 5)", "ex": ["2023-S1-2", "2023-S1-4", "2025-SJ-5", "2025-SJ-10", "2026-SA-5"]}, {"id": "2.2-b", "t": "Phần nguyên và phần lẻ", "sign": "[x] và {x}, tổng nhiều số hạng [a + k/50]", "key": "x = [x] + {x} với 0 ≤ {x} < 1; đếm xem có bao nhiêu số hạng vượt qua một số nguyên để chặn a", "ex": ["2025-SJ-12", "2026-SJ-6"]}], "probs": ["2023-S1-2", "2023-S1-4", "2025-SJ-5", "2025-SJ-10", "2025-SJ-12", "2026-SJ-6", "2026-SA-5"]}]}, {"id": 3, "vn": "Hình học", "count": 19, "subs": [{"id": "3.1", "vn": "Góc", "leaves": [{"id": "3.1-a", "t": "Song song, phân giác và tổng các góc", "sign": "đường song song, hai đường phân giác cắt nhau, hình răng cưa, tứ giác lõm", "key": "góc so le, đồng vị; góc ngoài tam giác bằng tổng hai góc trong không kề; tứ giác lõm: góc lõm = tổng ba góc còn lại", "ex": ["2022-SJ-3", "2022-SJ-5", "2023-S1-3", "2025-SJ-4", "2026-SJ-2"]}, {"id": "3.1-b", "t": "Góc trong đa giác và trực tâm", "sign": "góc trong của đa giác lồi, trung điểm và đường cao trong tam giác", "key": "tổng các góc trong của n-giác là (n − 2) × 180°, mỗi góc nhỏ hơn 180°; dùng đường trung bình song song với cạnh", "ex": ["2025-SJ-9", "2022-SA-9"]}], "probs": ["2022-SJ-3", "2022-SJ-5", "2022-SA-9", "2023-S1-3", "2025-SJ-4", "2025-SJ-9", "2026-SJ-2"]}, {"id": "3.2", "vn": "Độ dài, diện tích & tam giác đồng dạng", "leaves": [{"id": "3.2-a", "t": "Pythagore, tam giác đặc biệt, gấp hình", "sign": "tam giác vuông cân, tam giác 30-60-90, gấp hình vuông, góc gấp đôi góc", "key": "kẻ đường cao để tạo tam giác vuông đặc biệt; gấp hình thì hai phần trùng nhau bằng nhau; kéo dài cạnh để tạo tam giác cân", "ex": ["2023-S1-7", "2023-S1-16", "2026-SJ-4", "2026-SJ-8", "2026-SA-4"]}, {"id": "3.2-b", "t": "Tam giác đồng dạng và tứ giác nội tiếp", "sign": "chân các đường cao, tâm đường tròn nội tiếp, tam giác cân có đường tròn", "key": "bốn điểm cùng nằm trên một đường tròn cho các góc bằng nhau, suy ra tam giác đồng dạng; định lý Ptolemy cho tứ giác nội tiếp", "ex": ["2026-SJ-10", "2026-SA-8", "2026-SA-10", "2022-SA-12"]}, {"id": "3.2-c", "t": "Diện tích và tọa độ", "sign": "các đường song song trong hình vuông, hình vuông nội tiếp tam giác vuông, parabol", "key": "đổi tam giác lấy tam giác cùng đáy cùng chiều cao giữa hai đường song song; đặt tọa độ khi hình có góc vuông", "ex": ["2025-SJ-8", "2022-SA-6", "2022-SA-13"]}], "probs": ["2022-SA-6", "2022-SA-12", "2022-SA-13", "2023-S1-7", "2023-S1-16", "2025-SJ-8", "2026-SJ-4", "2026-SJ-8", "2026-SJ-10", "2026-SA-4", "2026-SA-8", "2026-SA-10"]}]}, {"id": 4, "vn": "Tổ hợp", "count": 11, "subs": [{"id": "4.1", "vn": "Đếm, logic & cực trị rời rạc", "leaves": [{"id": "4.1-a", "t": "Đếm: tổ hợp, đường đi, điểm nguyên", "sign": "đếm tam giác không chồng nhau, cách xếp đối xứng, diễn biến tỉ số trận đấu, số điểm nguyên trong elip", "key": "chọn tổ hợp C(n, k); diễn biến tỉ số là đường đi trên lưới; chia trường hợp theo số phần tử được chọn", "ex": ["2022-SJ-9", "2022-SA-11", "2025-SJ-11", "2026-SJ-13", "2026-SA-11"]}, {"id": "4.1-b", "t": "Cực trị rời rạc và sắp xếp", "sign": "tập lớn nhất có tính chất, xếp số quanh vòng tròn, giá trị trên các đỉnh hình lập phương", "key": "tìm một ví dụ đạt, rồi chứng minh chặn bằng đánh giá (tích ba số liên tiếp, thứ tự các giá trị)", "ex": ["2022-SJ-13", "2025-SJ-13", "2026-SA-9", "2026-SJ-15"]}, {"id": "4.1-c", "t": "Trò chơi và logic", "sign": "hai người lần lượt chọn số, người nói thật – nói dối trên bảng ô vuông", "key": "người đi sau giữ một bất biến (tổng theo mô-đun); với nói thật – nói dối thì xét người chắc chắn nói dối trước rồi chia trường hợp", "ex": ["2022-SJ-11", "2023-S1-11"]}], "probs": ["2022-SJ-9", "2022-SJ-11", "2022-SJ-13", "2022-SA-11", "2023-S1-11", "2025-SJ-11", "2025-SJ-13", "2026-SJ-13", "2026-SJ-15", "2026-SA-9", "2026-SA-11"]}]}], "kinds": [["S1", "Secondary 1"], ["SJ", "Secondary Junior"], ["SA", "Secondary Advanced"]], "probs": {"2022-SJ-1": {"t": "Simplify (4/3^2 × 7/4^2) / ((1/3^2 + 7/8^2)^2 − (1/3^2 − 7/8^2)^2) + |2 − π|^0 − (−2)^3.", "k": "SJ", "kn": "Secondary Junior", "y": 2022, "p": 2, "f": "../papers/scmo/SCMO-2022-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Junior", "a": "", "al": ""}, "2022-SJ-2": {"t": "Given that the algebraic expression ax^3 + bx + c has a value of 2 when x = 0 and a value of −145 when x = −3, find the value of the expression when x = 3.", "k": "SJ", "kn": "Secondary Junior", "y": 2022, "p": 2, "f": "../papers/scmo/SCMO-2022-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Junior", "a": "", "al": ""}, "2022-SJ-3": {"t": "As shown in the figure, given that ∠A = 18°, points B, C, D, E, F, and G all lie on the two sides of ∠A, ∠ABC = 89°, ∠ACB = ∠DCE, ∠ADC = ∠EDF, ∠CED = ∠FEG, find the value of ∠F. [Figure: angle A with a horizontal lower side and a slanted upper side. B, D, F lie on the upper side in that order from A; C, E, G lie on the lower side in that order from A. Segments BC, CD, DE, EF form a zigzag between the two sides.]", "k": "SJ", "kn": "Secondary Junior", "y": 2022, "p": 2, "f": "../papers/scmo/SCMO-2022-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Junior", "a": "", "al": ""}, "2022-SJ-4": {"t": "Given that a^2 + 3a + 1 = 0, and a^4 + ma^2 + 1 = 11(a^3 + ma^2 + a), find the value of the real number m.", "k": "SJ", "kn": "Secondary Junior", "y": 2022, "p": 3, "f": "../papers/scmo/SCMO-2022-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Junior", "a": "", "al": ""}, "2022-SJ-5": {"t": "As shown in the figure, AB // EG, ∠ACB = ∠C = ∠BFE, ∠CBF = ∠EDF. Find the value of ∠C. [Figure: AB is a horizontal segment at the top (A left, B right), EG a horizontal segment at the bottom (E left, F between, G right). B is joined to C (to the lower right of B); segment CE goes down-left from C to E; segment BF goes down from B to F; BF and CE cross at D. There is no segment AC: the first angle, printed \"∠ACB\", matches ∠ABC in the figure.]", "k": "SJ", "kn": "Secondary Junior", "y": 2022, "p": 3, "f": "../papers/scmo/SCMO-2022-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Junior", "a": "", "al": ""}, "2022-SJ-6": {"t": "Given that two systems of equations in x and y, {ax − 3y = 2, 4x + y = 32} and {3x + by = 29, 7x − 9y = 13}, have the same solution, find the value of a + b.", "k": "SJ", "kn": "Secondary Junior", "y": 2022, "p": 3, "f": "../papers/scmo/SCMO-2022-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Junior", "a": "", "al": ""}, "2022-SJ-7": {"t": "Given that a1, a2, …, a9 is an arrangement of 1, 2, …, 9, S = |a1 − 2a2| + |3a3 − 4a4| + |5a5 − 6a6| + |7a7 − 8a8| + |9a9 − 10|, find the minimum value of S.", "k": "SJ", "kn": "Secondary Junior", "y": 2022, "p": 4, "f": "../papers/scmo/SCMO-2022-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Junior", "a": "", "al": ""}, "2022-SJ-8": {"t": "Two prime numbers p and q form the expression p^2 − 4q^4 which is a perfect square. How many pairs of (p, q) are there?", "k": "SJ", "kn": "Secondary Junior", "y": 2022, "p": 4, "f": "../papers/scmo/SCMO-2022-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Junior", "a": "", "al": ""}, "2022-SJ-9": {"t": "Line a is parallel to line b, with 20 points on line a and 22 points on line b. Connect these 42 points as vertices to form 14 triangles such that each point is used exactly once, and no two triangles share any common sides. How many different ways are there to connect them?", "k": "SJ", "kn": "Secondary Junior", "y": 2022, "p": 4, "f": "../papers/scmo/SCMO-2022-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Junior", "a": "", "al": ""}, "2022-SJ-10": {"t": "Writing a two-digit number before a three-digit number results in a five-digit number, which is exactly the square of the sum of the original two numbers. What is this five-digit number?", "k": "SJ", "kn": "Secondary Junior", "y": 2022, "p": 4, "f": "../papers/scmo/SCMO-2022-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Junior", "a": "", "al": ""}, "2022-SJ-11": {"t": "A and B take turns writing 2n natural numbers on the blackboard. Each time, they may only write one of the numbers 1, 2, 3, or 4. A goes first, and each player writes n numbers. If the sum of the 2n natural numbers at the end is a multiple of 6, then B wins; otherwise, A wins. Assuming both players are sufficiently intelligent, among the positive integers n not exceeding 2022, for how many values of n does A have a guaranteed winning strategy?", "k": "SJ", "kn": "Secondary Junior", "y": 2022, "p": 5, "f": "../papers/scmo/SCMO-2022-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Junior", "a": "", "al": ""}, "2022-SJ-12": {"t": "There are real numbers a, b, and c where a^2 + b^2 + c^2 = 100, (a − b)^2 ≥ 50, (b − c)^2 ≥ 50, and (c − a)^2 ≥ 50, find the value of a^4 + b^4 + c^4.", "k": "SJ", "kn": "Secondary Junior", "y": 2022, "p": 5, "f": "../papers/scmo/SCMO-2022-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Junior", "a": "", "al": ""}, "2022-SJ-13": {"t": "On a sheet of paper there are n distinct rational numbers. It is known that for any three different numbers chosen from them, at least two of them have a product that is also one of the numbers on the paper. Find the maximum possible value of n.", "k": "SJ", "kn": "Secondary Junior", "y": 2022, "p": 5, "f": "../papers/scmo/SCMO-2022-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Junior", "a": "", "al": ""}, "2022-SA-1": {"t": "Find the value of the expression sqrt(3(sqrt(2) + sqrt(3) + sqrt(5))(3sqrt(2) + 2sqrt(3) − sqrt(30))).", "k": "SA", "kn": "Secondary Advanced", "y": 2022, "p": 2, "f": "../papers/scmo/SCMO-2022-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Advanced", "a": "", "al": ""}, "2022-SA-2": {"t": "If a^2 + b^2 = 100, and (a − b)^2 ≥ 200, calculate the value of a^4 + b^4.", "k": "SA", "kn": "Secondary Advanced", "y": 2022, "p": 2, "f": "../papers/scmo/SCMO-2022-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Advanced", "a": "", "al": ""}, "2022-SA-3": {"t": "If a^2 + 4a + 1 = 0, and (a^4 + ma^2 + 1)/(2a^3 + ma^2 + 2a) = −10, find the value of m.", "k": "SA", "kn": "Secondary Advanced", "y": 2022, "p": 2, "f": "../papers/scmo/SCMO-2022-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Advanced", "a": "", "al": ""}, "2022-SA-4": {"t": "If a = sqrt(sqrt(3)/6 + 1/48) − sqrt(3)/12, find the value of (a^2 + sqrt(a^4 + a + 2))^2.", "k": "SA", "kn": "Secondary Advanced", "y": 2022, "p": 2, "f": "../papers/scmo/SCMO-2022-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Advanced", "a": "", "al": ""}, "2022-SA-5": {"t": "Find the value of integer m that make the result of expression n^3 − 14n^2 + 56n − 64 is prime number. [The integer asked for is n.]", "k": "SA", "kn": "Secondary Advanced", "y": 2022, "p": 2, "f": "../papers/scmo/SCMO-2022-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Advanced", "a": "", "al": ""}, "2022-SA-6": {"t": "As shown in the figure, three vertices of square DEFG lie on the three sides of right triangle △ABC, and points E, G, and B are collinear. Given that ∠A = 90°, AC = 9, and AB = 12, find the area of square DEFG. [Figure: right angle at A (bottom left), C above A, B to the right of A. E is on AC, D is on CB, F is on AB, and G is inside the triangle on segment EB; the square is D-E-F-G.]", "k": "SA", "kn": "Secondary Advanced", "y": 2022, "p": 3, "f": "../papers/scmo/SCMO-2022-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Advanced", "a": "", "al": ""}, "2022-SA-7": {"t": "Let k be an integer. The equation in x, ((k + 4)x^2 + (k + 2)x − 8)/((k + 1)x − 2) = kx + 1, has real solutions. If the absolute value of the product of all distinct real roots corresponding to all different integers k equals m/n (where m and n are coprime positive integers), find the value of m + n.", "k": "SA", "kn": "Secondary Advanced", "y": 2022, "p": 3, "f": "../papers/scmo/SCMO-2022-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Advanced", "a": "", "al": ""}, "2022-SA-8": {"t": "If a positive integer a is given, and there are exactly 2022 pairs of positive integers (b, c) such that 2x^2 + 3xy + y^2 + ax + by + c can be factored into the product of two linear factors, find the sum of all possible values of a.", "k": "SA", "kn": "Secondary Advanced", "y": 2022, "p": 3, "f": "../papers/scmo/SCMO-2022-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Advanced", "a": "", "al": ""}, "2022-SA-9": {"t": "As shown, H is the orthocenter of triangle ABC. Points D, E, M are the midpoints of AB, AC and AH respectively. If ∠BAC = 70° and ∠ACB = 50°, find the value of ∠DME. [Figure: triangle ABC with A at the top and BC horizontal; H on the altitude from A, M between A and H; D on AB; segments MD, DE and ME are drawn. Note: in the figure, E is drawn as the midpoint of BC, not of AC.]", "k": "SA", "kn": "Secondary Advanced", "y": 2022, "p": 4, "f": "../papers/scmo/SCMO-2022-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Advanced", "a": "", "al": ""}, "2022-SA-10": {"t": "Given the function y = (sqrt(a^2 − x^2) + m)(sqrt(a + x) + sqrt(a − x) + n) where m, n are natural numbers and a is a perfect square, the difference between the maximum and minimum values of the function is 2022. Find the value of m + n + a.", "k": "SA", "kn": "Secondary Advanced", "y": 2022, "p": 4, "f": "../papers/scmo/SCMO-2022-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Advanced", "a": "", "al": ""}, "2022-SA-11": {"t": "In the 9×9 grid shown on the right, we want to select nine 1×1 cells to color black, leaving all other cells white, such that each row, each column, and each diagonal contains exactly one black cell, and the entire figure remains axis-symmetric. Find the number of possible selections. [Figure: an empty 9×9 grid.]", "k": "SA", "kn": "Secondary Advanced", "y": 2022, "p": 4, "f": "../papers/scmo/SCMO-2022-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Advanced", "a": "", "al": ""}, "2022-SA-12": {"t": "As shown in the figure, the incircle of △ABC touches sides AB and AC at points D and E respectively. Let I be the incenter. The extensions of BI and CI intersect segment DE at points F and G respectively. The extensions of BF and CG meet at point H. Given that BC/HI = sqrt(15), find the value of AD/DE. [Figure: tall triangle ABC with A at the top; the incircle touches AB at D and AC at E; chord DE crosses the circle; H is above I near the top of the circle. Note: in the figure, F (the left point on DE) lies on line CI and G (the right point) lies on line BI, the reverse of the text; lines BF and CG meet at H.]", "k": "SA", "kn": "Secondary Advanced", "y": 2022, "p": 5, "f": "../papers/scmo/SCMO-2022-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Advanced", "a": "", "al": ""}, "2022-SA-13": {"t": "As shown in the figure, three vertices of the right triangle △AOB lie on the graph of the parabola y = x^2 + 2x, with the right-angled vertex at the origin. Let P be the foot of the perpendicular from the right angle to the hypotenuse AB. Find the sum of the maximum and minimum distances from the vertex of the parabola to point P. [No figure is printed.]", "k": "SA", "kn": "Secondary Advanced", "y": 2022, "p": 5, "f": "../papers/scmo/SCMO-2022-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2022 Secondary Advanced", "a": "", "al": ""}, "2023-S1-1": {"t": "Let a and b be positive number satisfying a·b^2 = 3 and a^4·b^5 = 6. Find the value of a^7·b^8.", "k": "S1", "kn": "Secondary 1", "y": 2023, "p": 2, "f": "../papers/scmo/SCMO-2023-S1-Rd-1-Paper.pdf", "fl": "Đề SCMO 2023 Secondary 1", "a": "../papers/scmo/SCMO-2023-S1-Rd-1-Answers.pdf#page=2", "al": "Lời giải, trang 2"}, "2023-S1-2": {"t": "What are the last four digits of the sum 1 + 12 + 123 + 1234 + 12345 + 123456 + 1234567 + 12345678 + 123456789? Give your answer as a 4-digit number.", "k": "S1", "kn": "Secondary 1", "y": 2023, "p": 2, "f": "../papers/scmo/SCMO-2023-S1-Rd-1-Paper.pdf", "fl": "Đề SCMO 2023 Secondary 1", "a": "../papers/scmo/SCMO-2023-S1-Rd-1-Answers.pdf#page=2", "al": "Lời giải, trang 2"}, "2023-S1-3": {"t": "As shown in the figure, BE is the bisector of ∠ABD and CF is the bisector of ∠ACD. If BE and CF intersect at G. If ∠BDC = 140° and ∠BGC = 100°, what is the degree of ∠A? [Figure: triangle ABC with A at the top, B bottom-left, C bottom-right; D is a point inside the triangle joined to B and C; E lies on AC and F lies on AB; segments BE and CF cross at G, which lies above D.]", "k": "S1", "kn": "Secondary 1", "y": 2023, "p": 2, "f": "../papers/scmo/SCMO-2023-S1-Rd-1-Paper.pdf", "fl": "Đề SCMO 2023 Secondary 1", "a": "../papers/scmo/SCMO-2023-S1-Rd-1-Answers.pdf#page=2", "al": "Lời giải, trang 2"}, "2023-S1-4": {"t": "Let n be a positive integer. If the highest common factor of n and 140 is 14, and the highest common factor of n and 66 is 6, what is the sum of the two smallest positive values of n?", "k": "S1", "kn": "Secondary 1", "y": 2023, "p": 3, "f": "../papers/scmo/SCMO-2023-S1-Rd-1-Paper.pdf", "fl": "Đề SCMO 2023 Secondary 1", "a": "../papers/scmo/SCMO-2023-S1-Rd-1-Answers.pdf#page=2", "al": "Lời giải, trang 2"}, "2023-S1-5": {"t": "Let m and n be two positive integers satisfying 5/6 − 7/12 + 9/20 − 11/30 + 13/42 − 15/56 + 17/72 = m/n. Find the minimum value of m + n.", "k": "S1", "kn": "Secondary 1", "y": 2023, "p": 3, "f": "../papers/scmo/SCMO-2023-S1-Rd-1-Paper.pdf", "fl": "Đề SCMO 2023 Secondary 1", "a": "../papers/scmo/SCMO-2023-S1-Rd-1-Answers.pdf#page=3", "al": "Lời giải, trang 3"}, "2023-S1-6": {"t": "If a, b and c are integers satisfying abc = 240, ac + b = 46 and a + bc = 64. Find the value of a + b + c.", "k": "S1", "kn": "Secondary 1", "y": 2023, "p": 3, "f": "../papers/scmo/SCMO-2023-S1-Rd-1-Paper.pdf", "fl": "Đề SCMO 2023 Secondary 1", "a": "../papers/scmo/SCMO-2023-S1-Rd-1-Answers.pdf#page=3", "al": "Lời giải, trang 3"}, "2023-S1-7": {"t": "In the quadrilateral ABCD, △ABC and △ACD are both isosceles triangles and point C is the common apex. Given that ∠ACD = 90°, ∠ACB = 45° and BD = 12. Find the area of quadrilateral ABCD. [Figure: convex quadrilateral with B at the top, A at the left, C at the right, D at the bottom; diagonals AC (horizontal) and BD drawn; right angle marked at C between CA and CD. CA = CB = CD.]", "k": "S1", "kn": "Secondary 1", "y": 2023, "p": 4, "f": "../papers/scmo/SCMO-2023-S1-Rd-1-Paper.pdf", "fl": "Đề SCMO 2023 Secondary 1", "a": "../papers/scmo/SCMO-2023-S1-Rd-1-Answers.pdf#page=4", "al": "Lời giải, trang 4"}, "2023-S1-8": {"t": "If (4x − 1)^4 = a0 + a1·x + a2·x^2 + a3·x^3 + a4·x^4, find the value of a0 − a1/2 + a2/2^2 − a3/2^3 + a4/2^4.", "k": "S1", "kn": "Secondary 1", "y": 2023, "p": 4, "f": "../papers/scmo/SCMO-2023-S1-Rd-1-Paper.pdf", "fl": "Đề SCMO 2023 Secondary 1", "a": "../papers/scmo/SCMO-2023-S1-Rd-1-Answers.pdf#page=5", "al": "Lời giải, trang 5"}, "2023-S1-9": {"t": "If x − z = y − w = 26, find the minimum value of x^2 + y^2 + z^2 + w^2 − xy − yz − zw − wx.", "k": "S1", "kn": "Secondary 1", "y": 2023, "p": 4, "f": "../papers/scmo/SCMO-2023-S1-Rd-1-Paper.pdf", "fl": "Đề SCMO 2023 Secondary 1", "a": "../papers/scmo/SCMO-2023-S1-Rd-1-Answers.pdf#page=5", "al": "Lời giải, trang 5"}, "2023-S1-10": {"t": "How many integers k are there such that the equation ((k + 4)x^2 + (k + 2)x − 8) / ((k + 1)x − 2) = kx + 1 has real number solutions?", "k": "S1", "kn": "Secondary 1", "y": 2023, "p": 5, "f": "../papers/scmo/SCMO-2023-S1-Rd-1-Paper.pdf", "fl": "Đề SCMO 2023 Secondary 1", "a": "../papers/scmo/SCMO-2023-S1-Rd-1-Answers.pdf#page=5", "al": "Lời giải, trang 5"}, "2023-S1-11": {"t": "There are nine robots numbered 1~9 standing in the 3 × 3 grid table, and each robot says one sentence. It is found that exactly one robot in each row tells lies, and exactly one robot in each column tells lies. Find the 3-digit number def. [Grid: row 1: a b c; row 2: d e f; row 3: g h i.] a: The numbers of the three robots in my column can be appropriately adjusted to form an arithmetic sequence; b: The difference between the numbers of my left and right robots is 1; c: I'm number 5; d: There are two robots in my row telling lies; e: My number is the smallest in my row; f: The sum of the numbers of robots in my row is 21; g: The sum of the numbers of two robots adjacent to me is 12; h: The product of the three number of robots in my row is 6; i: The numbers in my column are all even numbers.", "k": "S1", "kn": "Secondary 1", "y": 2023, "p": 5, "f": "../papers/scmo/SCMO-2023-S1-Rd-1-Paper.pdf", "fl": "Đề SCMO 2023 Secondary 1", "a": "../papers/scmo/SCMO-2023-S1-Rd-1-Answers.pdf#page=6", "al": "Lời giải, trang 6"}, "2023-S1-12": {"t": "Find the value of sqrt(3(sqrt(2) + sqrt(3) + sqrt(5))(3·sqrt(2) + 2·sqrt(3) − sqrt(30))).", "k": "S1", "kn": "Secondary 1", "y": 2023, "p": 6, "f": "../papers/scmo/SCMO-2023-S1-Rd-1-Paper.pdf", "fl": "Đề SCMO 2023 Secondary 1", "a": "../papers/scmo/SCMO-2023-S1-Rd-1-Answers.pdf#page=6", "al": "Lời giải, trang 6"}, "2023-S1-13": {"t": "Given that a^2 + 4a + 1 = 0 and (a^4 + m·a^2 + 1)/(2a^3 + m·a^2 + 2a) = −10, find the value of m.", "k": "S1", "kn": "Secondary 1", "y": 2023, "p": 6, "f": "../papers/scmo/SCMO-2023-S1-Rd-1-Paper.pdf", "fl": "Đề SCMO 2023 Secondary 1", "a": "../papers/scmo/SCMO-2023-S1-Rd-1-Answers.pdf#page=7", "al": "Lời giải, trang 7"}, "2023-S1-14": {"t": "Let a, b and c be rational numbers satisfying a(b + c) + 1 = bc, b(c + a) − 7 = 2ca, c(a + b) − 4 = 4ab. Find the value of a^2 + b^2 + c^2.", "k": "S1", "kn": "Secondary 1", "y": 2023, "p": 7, "f": "../papers/scmo/SCMO-2023-S1-Rd-1-Paper.pdf", "fl": "Đề SCMO 2023 Secondary 1", "a": "../papers/scmo/SCMO-2023-S1-Rd-1-Answers.pdf#page=7", "al": "Lời giải, trang 7"}, "2023-S1-15": {"t": "If n is an integer satisfying the value of n^3 − 14n^2 + 56n − 64 is a prime number, find the value of n.", "k": "S1", "kn": "Secondary 1", "y": 2023, "p": 7, "f": "../papers/scmo/SCMO-2023-S1-Rd-1-Paper.pdf", "fl": "Đề SCMO 2023 Secondary 1", "a": "../papers/scmo/SCMO-2023-S1-Rd-1-Answers.pdf#page=8", "al": "Lời giải, trang 8"}, "2023-S1-16": {"t": "Let ABCD be a square sheet of paper with AB = 12. If we fold the sheet of paper along the line EF, point B will coincide with G, the midpoint of AD as shown in the diagram. Find the area of the quadrilateral BCFE. [Figure: square with A top-left, D top-right, B bottom-left, C bottom-right; G is the midpoint of the top side AD; E is on the left side AB and F is on the right side CD near C; the fold line EF is dashed; after folding, B lands on G and C lands on H, a point outside the square to the right of F; dashed segments EG, GH and HF show the folded flap.]", "k": "S1", "kn": "Secondary 1", "y": 2023, "p": 8, "f": "../papers/scmo/SCMO-2023-S1-Rd-1-Paper.pdf", "fl": "Đề SCMO 2023 Secondary 1", "a": "../papers/scmo/SCMO-2023-S1-Rd-1-Answers.pdf#page=8", "al": "Lời giải, trang 8"}, "2023-S1-17": {"t": "If p and q are two prime numbers such that p^2 − 4q^4 is a square number, how many such pairs of (p, q) can be found?", "k": "S1", "kn": "Secondary 1", "y": 2023, "p": 8, "f": "../papers/scmo/SCMO-2023-S1-Rd-1-Paper.pdf", "fl": "Đề SCMO 2023 Secondary 1", "a": "../papers/scmo/SCMO-2023-S1-Rd-1-Answers.pdf#page=9", "al": "Lời giải, trang 9"}, "2025-SJ-1": {"t": "|1/3 − 1/2| × 36 − (−2)^2 + (3 − π)^0 = ____.", "k": "SJ", "kn": "Secondary Junior", "y": 2025, "p": 1, "f": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2025 Secondary Junior", "a": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Answers.pdf#page=1", "al": "Lời giải, trang 1"}, "2025-SJ-2": {"t": "Given that A = x^2 + xy − 2x − 3, B = −x^2 + 3xy − 9. If 3A − B is −2, then the value for the expression x^2 − (3/2)x + 5/2 = ____.", "k": "SJ", "kn": "Secondary Junior", "y": 2025, "p": 1, "f": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2025 Secondary Junior", "a": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Answers.pdf#page=1", "al": "Lời giải, trang 1"}, "2025-SJ-3": {"t": "If real numbers x, y satisfy 4x + y = 9 and 2x − y = a with x + y ≥ 0, then the maximum value of a = ____.", "k": "SJ", "kn": "Secondary Junior", "y": 2025, "p": 1, "f": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2025 Secondary Junior", "a": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Answers.pdf#page=1", "al": "Lời giải, trang 1"}, "2025-SJ-4": {"t": "As shown in the figure below, ∠B = 26°, ∠D = 62°, the angle bisectors of ∠DAE and ∠BCD cross at point F, then the degree measure of ∠AFC = ____°. [Figure: B, A, E lie on a horizontal line in that order. Segments AD (down to D, lower left), DC, and BC (from B down-right to C) are drawn; BC crosses AD. AF bisects ∠DAE and CF bisects ∠BCD, meeting at F inside the figure.]", "k": "SJ", "kn": "Secondary Junior", "y": 2025, "p": 1, "f": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2025 Secondary Junior", "a": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Answers.pdf#page=2", "al": "Lời giải, trang 2"}, "2025-SJ-5": {"t": "If a positive integer n satisfy the condition that when 66, 78 and 42 are divided by n, the resulting remainders are all equal and nonzero, then the sum of all possible values of n is ____.", "k": "SJ", "kn": "Secondary Junior", "y": 2025, "p": 2, "f": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2025 Secondary Junior", "a": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Answers.pdf#page=2", "al": "Lời giải, trang 2"}, "2025-SJ-6": {"t": "The minimum value of algebraic expression 4x^2 − 12xy + 10y^2 + 6y + 14 is ____.", "k": "SJ", "kn": "Secondary Junior", "y": 2025, "p": 2, "f": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2025 Secondary Junior", "a": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Answers.pdf#page=2", "al": "Lời giải, trang 2"}, "2025-SJ-7": {"t": "The minimum value of |x − 1| + 2|x − 2| + 3|x − 3| + ⋯ + 100|x − 100| is ____.", "k": "SJ", "kn": "Secondary Junior", "y": 2025, "p": 2, "f": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2025 Secondary Junior", "a": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Answers.pdf#page=3", "al": "Lời giải, trang 3"}, "2025-SJ-8": {"t": "Three squares ABCD, BEFG, PKRF are placed as shown below, point G is on the line segment DK, and square BEFG has a side length of 2. Then the area of △DEK is ____. [Figure: square ABCD (large, left) and square BEFG (middle) share vertex B, with A, B, E on a horizontal base line and G on side BC. The small square PKRF sits to the right with F its top-left vertex and P on FE. Segments DK (through G), DE, EK are drawn; DE meets BG at H and GK meets FP at I. Dashed lines DB, GE, FK are drawn (parallel).]", "k": "SJ", "kn": "Secondary Junior", "y": 2025, "p": 2, "f": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2025 Secondary Junior", "a": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Answers.pdf#page=3", "al": "Lời giải, trang 3"}, "2025-SJ-9": {"t": "From a convex n-gon (a polygon with n sides), several non-adjacent interior angles are picked, and the maximum possible value for the sum of these interior angles is 600°, then the sum of all the possible values of n is ____.", "k": "SJ", "kn": "Secondary Junior", "y": 2025, "p": 3, "f": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2025 Secondary Junior", "a": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Answers.pdf#page=4", "al": "Lời giải, trang 4"}, "2025-SJ-10": {"t": "A 3-digit integer is written as abc (overlined), where a, b, c are three distinct numbers. When abc is divided by the 2-digit integers bc, ac respectively, the resulting remainders are both a, then the sum of all the possible abc is ____.", "k": "SJ", "kn": "Secondary Junior", "y": 2025, "p": 3, "f": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2025 Secondary Junior", "a": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Answers.pdf#page=4", "al": "Lời giải, trang 4"}, "2025-SJ-11": {"t": "Two table tennis players, A and B, are competing. The current score is tied at 5-5. It is known that throughout the entire match, player B has only led player A once. Then the number of different possible score progressions is ____.", "k": "SJ", "kn": "Secondary Junior", "y": 2025, "p": 3, "f": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2025 Secondary Junior", "a": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Answers.pdf#page=5", "al": "Lời giải, trang 5"}, "2025-SJ-12": {"t": "A real number a > 0, b is the decimal part of a, and a^2 + b^2 = 2024, find the value of a^3 − b^3.", "k": "SJ", "kn": "Secondary Junior", "y": 2025, "p": 4, "f": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2025 Secondary Junior", "a": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Answers.pdf#page=7", "al": "Lời giải, trang 7"}, "2025-SJ-13": {"t": "From 1, 2, 3, ⋯, 1000, n numbers are picked. These n numbers can be arranged in a row such that the product of every three adjacent numbers does not exceed 2000. Prove: n ≤ 34.", "k": "SJ", "kn": "Secondary Junior", "y": 2025, "p": 4, "f": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2025 Secondary Junior", "a": "../papers/scmo/SCMO-2025-SecJunior-Rd-1-Answers.pdf#page=7", "al": "Lời giải, trang 7"}, "2026-SJ-1": {"t": "If a = 3^110, b = 4^88, c = 5^66, find the letter with the greatest value.", "k": "SJ", "kn": "Secondary Junior", "y": 2026, "p": 2, "f": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Junior", "a": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Answers.pdf#page=2", "al": "Lời giải, trang 2"}, "2026-SJ-2": {"t": "As shown in the figure, if ∠E = 55°, ∠F = 56°, ∠G = 66°, and ∠A + ∠B = ∠C + ∠D, find the value of ∠H. [Figure: a closed zig-zag polyline A–B–E–H–C–D–G–F–A: AB is horizontal at the top; B goes down-left to E, E down-right to H, H down-left to C, C down-right to D, D up-left to G, G up-right to F, F up-left back to A. Points E, G, C are on the left; F, H, D on the right; the segments cross each other.]", "k": "SJ", "kn": "Secondary Junior", "y": 2026, "p": 2, "f": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Junior", "a": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Answers.pdf#page=2", "al": "Lời giải, trang 2"}, "2026-SJ-3": {"t": "If real number a satisfies |2025 − a| + sqrt(a − 2026) = a, find the value of a − 2025^2.", "k": "SJ", "kn": "Secondary Junior", "y": 2026, "p": 2, "f": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Junior", "a": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Answers.pdf#page=2", "al": "Lời giải, trang 2"}, "2026-SJ-4": {"t": "As shown in the figure, in rhombus ABCD, AB = 6, DF = 2, ∠DAB = 60°, ∠EFG = 15°, FG ⊥ BC, find the length of AE. [Figure: rhombus ABCD with A bottom-left, B bottom-right, C top-right, D top-left. F on AD, E on AB near B, G on BC with FG ⊥ BC; segments FE and FG drawn.]", "k": "SJ", "kn": "Secondary Junior", "y": 2026, "p": 3, "f": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Junior", "a": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Answers.pdf#page=3", "al": "Lời giải, trang 3"}, "2026-SJ-5": {"t": "If rational numbers a1, a2, a3, …, a2026 satisfy a1 + a2 + … + a2026 = 0, find how many different possible values of a1/|a1| + a2/|a2| + a3/|a3| + … + a2026/|a2026|.", "k": "SJ", "kn": "Secondary Junior", "y": 2026, "p": 3, "f": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Junior", "a": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Answers.pdf#page=3", "al": "Lời giải, trang 3"}, "2026-SJ-6": {"t": "If 0 < a < 1, and a satisfies ⌊a + 1/50⌋ + ⌊a + 2/50⌋ + … + ⌊a + 49/50⌋ = 29 (⌊x⌋ means the greatest integer less than or equal to x), find the value of ⌊10a⌋.", "k": "SJ", "kn": "Secondary Junior", "y": 2026, "p": 3, "f": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Junior", "a": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Answers.pdf#page=4", "al": "Lời giải, trang 4"}, "2026-SJ-7": {"t": "Given two distinct positive integers a and b such that (3b − 1) is divisible by (2a + 1) and (3a − 1) is divisible by (2b + 1). Find the value of a + b.", "k": "SJ", "kn": "Secondary Junior", "y": 2026, "p": 4, "f": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Junior", "a": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Answers.pdf#page=4", "al": "Lời giải, trang 4"}, "2026-SJ-8": {"t": "As shown in the figure. If ∠A = ∠B, AD, PQ, BC are all perpendicular to CD, AD = 10, PQ = 8, BC = 13, CD = 24, find the value of PA + PB. [Figure: D, Q, C on a horizontal base line (Q between D and C); vertical segments DA, QP, CB; segments AP and PB drawn, with ∠DAP = ∠CBP.]", "k": "SJ", "kn": "Secondary Junior", "y": 2026, "p": 4, "f": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Junior", "a": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Answers.pdf#page=5", "al": "Lời giải, trang 5"}, "2026-SJ-9": {"t": "If real numbers x, y satisfy x ≥ y ≥ 1 and 2x^2 − 2xy − 6x + y^2 = −9, find the value of x + y.", "k": "SJ", "kn": "Secondary Junior", "y": 2026, "p": 4, "f": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Junior", "a": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Answers.pdf#page=5", "al": "Lời giải, trang 5"}, "2026-SJ-10": {"t": "As shown in the figure, AD, BE, CF are the three heights of triangle ABC. If AB = 12, BC = 10, EF = 6, find the length of BE. [Figure: acute triangle ABC with D on BC, E on CA, F on AB; altitudes AD, BE, CF meet at one point; segment EF drawn.]", "k": "SJ", "kn": "Secondary Junior", "y": 2026, "p": 5, "f": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Junior", "a": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Answers.pdf#page=6", "al": "Lời giải, trang 6"}, "2026-SJ-11": {"t": "Find the number of positive integer pairs (x, y) that satisfy the following equation. x·sqrt(y) + y·sqrt(x) − sqrt(2026x) − sqrt(2026y) + sqrt(2026xy) = 2026", "k": "SJ", "kn": "Secondary Junior", "y": 2026, "p": 5, "f": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Junior", "a": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Answers.pdf#page=6", "al": "Lời giải, trang 6"}, "2026-SJ-12": {"t": "If m^2 = n + 5, n^2 = m + 5, m ≠ n, find the value of m^5 − 2mn + n^5.", "k": "SJ", "kn": "Secondary Junior", "y": 2026, "p": 5, "f": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Junior", "a": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Answers.pdf#page=7", "al": "Lời giải, trang 7"}, "2026-SJ-13": {"t": "Fill the 12 boxes shown in the diagram with consecutive positive integers 1, 2, 3, ... in ascending order. Each time you place a number, you must choose a box that is empty and whose adjacent boxes are also empty. Continue this process until no more numbers can be placed. How many different filling methods are there in total? [Figure: a single row of 12 boxes.]", "k": "SJ", "kn": "Secondary Junior", "y": 2026, "p": 6, "f": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Junior", "a": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Answers.pdf#page=8", "al": "Lời giải, trang 8"}, "2026-SJ-14": {"t": "Let t be a real number. If a and b are the two non-negative real roots of the quadratic equation x^2 − 4x + t − 1 = 0, find the minimum value of (a^2 − 1)(b^2 − 1).", "k": "SJ", "kn": "Secondary Junior", "y": 2026, "p": 6, "f": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Junior", "a": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Answers.pdf#page=9", "al": "Lời giải, trang 9"}, "2026-SJ-15": {"t": "n balls numbered from 1 to n are placed into two boxes such that any two balls whose numbers add up to a perfect square must be placed in the same box. Each box must contain at least one ball. Find the maximum possible value of n that satisfies these conditions.", "k": "SJ", "kn": "Secondary Junior", "y": 2026, "p": 7, "f": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Junior", "a": "../papers/scmo/SCMO-2026-SecJunior-Rd-1-Answers.pdf#page=10", "al": "Lời giải, trang 10"}, "2026-SA-1": {"t": "Given that for any x ∈ R, the function f(x) satisfies f(x + 1) = (f(x) − 1)/(f(x) + 1), and f(1) = −2, find the value of f(2026).", "k": "SA", "kn": "Secondary Advanced", "y": 2026, "p": 2, "f": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Advanced", "a": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Answers.pdf#page=2", "al": "Lời giải, trang 2"}, "2026-SA-2": {"t": "Let x and y be positive real numbers. What is the smallest possible value of 16/x + 108/y + xy?", "k": "SA", "kn": "Secondary Advanced", "y": 2026, "p": 2, "f": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Advanced", "a": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Answers.pdf#page=2", "al": "Lời giải, trang 2"}, "2026-SA-3": {"t": "The result of the expression cbrt(26 + 15sqrt(3)) − cbrt(−26 + 15sqrt(3)) is ____. (cbrt = cube root)", "k": "SA", "kn": "Secondary Advanced", "y": 2026, "p": 2, "f": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Advanced", "a": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Answers.pdf#page=3", "al": "Lời giải, trang 3"}, "2026-SA-4": {"t": "As shown in the figure, in a right triangle ABC, ∠C = 90°, AC = 6, BC = 8, point D is on the hypotenuse AB, and ∠CDB = 2∠B. Find the length of CD. [Figure: right angle at C (bottom-left), B directly above C, A to the right of C; D on hypotenuse AB nearer A; segment CD drawn.]", "k": "SA", "kn": "Secondary Advanced", "y": 2026, "p": 3, "f": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Advanced", "a": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Answers.pdf#page=3", "al": "Lời giải, trang 3"}, "2026-SA-5": {"t": "Find the units digit of (2^1 + 1)(2^2 + 1)(2^3 + 1)…(2^2017 + 1).", "k": "SA", "kn": "Secondary Advanced", "y": 2026, "p": 3, "f": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Advanced", "a": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Answers.pdf#page=3", "al": "Lời giải, trang 3"}, "2026-SA-6": {"t": "Given that two real numbers x, y satisfy 20x^2 − 14x − 5 = 0, y^2 + 26y + 20 = 0, and xy ≠ y + 1, find the value of (xy − y + x)/y.", "k": "SA", "kn": "Secondary Advanced", "y": 2026, "p": 3, "f": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Advanced", "a": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Answers.pdf#page=4", "al": "Lời giải, trang 4"}, "2026-SA-7": {"t": "Find the value of sin6° sin42° sin66° sin78°.", "k": "SA", "kn": "Secondary Advanced", "y": 2026, "p": 4, "f": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Advanced", "a": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Answers.pdf#page=4", "al": "Lời giải, trang 4"}, "2026-SA-8": {"t": "As shown in the figure, in an isosceles triangle ABC, AB = AC, BC = 20, point O is the midpoint of BC, OE ⊥ AC at point E, AF ⊥ BE at point F and AF intersects OE at point G, OG = 3. Find the area of triangle ABC. [Figure: triangle with apex A on top, base BC horizontal, O midpoint of BC; E on AC with OE ⊥ AC; segment BE drawn; line from A perpendicular to BE meets BE at F and continues to meet OE at G.]", "k": "SA", "kn": "Secondary Advanced", "y": 2026, "p": 4, "f": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Advanced", "a": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Answers.pdf#page=5", "al": "Lời giải, trang 5"}, "2026-SA-9": {"t": "On the six faces of a cube, each face is labelled with a distinct positive integer. The product of the numbers on two adjacent faces is written on their common edge, and the product of the numbers on the three faces meeting at a vertex is written at that vertex. Among these 26 numbers written (6 faces, 12 edges, 8 vertices), (a) At most how many different values can appear among these 26 numbers? (7 marks) (b) At least how many different values must appear? Please explain your reasoning. (7 marks)", "k": "SA", "kn": "Secondary Advanced", "y": 2026, "p": 5, "f": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Advanced", "a": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Answers.pdf#page=6", "al": "Lời giải, trang 6"}, "2026-SA-10": {"t": "In an acute triangle ABC, ∠ABC = 45° and H is the orthocenter. A circle passing through points B, H, and C intersects AB at point D. Another circle passing through points A, D, and H intersects BH at point E. Given that DE = 2 and EH = 3sqrt(2), find the length of EA. [Figure: acute triangle ABC (A top, B bottom-left, C bottom-right) with orthocenter H; an arc through B, D, H, C; a circle through A, D, E, H above it; segments AH, AE, DE, DH and BH drawn, with E on BH.]", "k": "SA", "kn": "Secondary Advanced", "y": 2026, "p": 5, "f": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Advanced", "a": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Answers.pdf#page=7", "al": "Lời giải, trang 7"}, "2026-SA-11": {"t": "The inequality a^2 + 4b^2 + 2n − 2025 ≤ 2ab + 3a + 6b (where n is a positive integer) has exactly 16 integer solutions (a, b). What is the value of n?", "k": "SA", "kn": "Secondary Advanced", "y": 2026, "p": 6, "f": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Advanced", "a": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Answers.pdf#page=8", "al": "Lời giải, trang 8"}, "2026-SA-12": {"t": "Find all non-negative integer solutions (x, y, z) to the equation 2^x − 5^y · 7^z = 1.", "k": "SA", "kn": "Secondary Advanced", "y": 2026, "p": 6, "f": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Advanced", "a": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Answers.pdf#page=9", "al": "Lời giải, trang 9"}, "2026-SA-13": {"t": "Prove that if p is a prime number, then p^2 | (C(2p, p) − 2), where C(2p, p) is the binomial coefficient \"2p choose p\".", "k": "SA", "kn": "Secondary Advanced", "y": 2026, "p": 7, "f": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Paper.pdf", "fl": "Đề SCMO 2026 Secondary Advanced", "a": "../papers/scmo/SCMO-2026-SecAdvanced-Rd-1-Answers.pdf#page=10", "al": "Lời giải, trang 10"}}};
+const $ = s => document.querySelector(s);
+// PDFs sit next to this page when it is served from the repo (GitHub Pages or a local copy), not inside the claude.ai viewer
+const SHOW_PDF = !window.claude;
+const LS_KEY = "scmo-sec-map-v1";
+let state = {m:{}, n:{}};
+let store = null;       // {save(state)} once connected
+let filter = "all";
+let kindF = "all";      // problem-paper filter: all / I (individual) / T (team)
+let yearF = 0;          // only problems from this year on (0 = every year)
+let current = null;
+
+// ---------- persistence ----------
+function lsLoad(){ try{ const v = JSON.parse(localStorage.getItem(LS_KEY)||"null"); if(v&&v.m) return v; }catch(e){} return null; }
+function lsSave(){ try{ localStorage.setItem(LS_KEY, JSON.stringify(state)); }catch(e){} }
+let writing = Promise.resolve(), pending = false, timer = null;
+function persist(delay){
+  lsSave();
+  if(!store) return;
+  clearTimeout(timer);
+  timer = setTimeout(()=>{
+    if(pending) return; pending = true;
+    writing = writing.then(()=>{ pending = false; return store.save({m:state.m, n:state.n, at:Date.now()}); })
+      .then(()=>setSave("Đã lưu vào tài khoản của bạn."))
+      .catch(()=>{ pending = false; setSave("Chưa lưu được lên tài khoản. Tiến độ vẫn được giữ trên trình duyệt này."); });
+  }, delay||0);
+}
+function setSave(t){ $("#save").textContent = t; }
+async function connect(){
+  const local = lsLoad(); if(local){ state = local; refresh(); }
+  try{
+    const db = await window.claude?.use?.("db");
+    const user = await window.claude?.use?.("user");
+    const uid = user ? await user.id() : null;
+    if(!db || !uid){ setSave(local ? "Tiến độ được lưu trên trình duyệt này." : "Tiến độ sẽ được lưu trên trình duyệt này."); return; }
+    const ref = db.doc("data/users/"+uid+"/scmosmap");
+    const snap = await ref.get();
+    if(snap.exists){
+      const d = snap.data()||{};
+      state = {m:Object.assign({}, d.m||{}), n:Object.assign({}, d.n||{})};
+      lsSave(); refresh();
+    }
+    store = {save: body => ref.set(body)};
+    if(!snap.exists && local && Object.keys(local.m).length){ persist(0); }
+    setSave("Tiến độ được lưu vào tài khoản của bạn, mở trên máy khác vẫn còn.");
+  }catch(e){ setSave("Tiến độ được lưu trên trình duyệt này."); }
+}
+
+// ---------- model helpers ----------
+const leaves = []; const leafById = {};
+DATA.groups.forEach(g=>g.subs.forEach(s=>s.leaves.forEach(l=>{ l.g=g; l.s=s; leaves.push(l); leafById[l.id]=l; })));
+const mOf = id => state.m[id] || "";
+function counts(list){ const c={g:0,y:0,r:0,n:0}; list.forEach(l=>{ const m=mOf(l.id); c[m||"n"]++; }); return c; }
+function matches(l){ const m=mOf(l.id);
+  return filter==="all" || (filter==="review" && (m==="r"||m==="y")) || (filter==="none" && !m) || (filter==="g" && m==="g"); }
+
+// ---------- render tree ----------
+function el(tag, cls, txt){ const e=document.createElement(tag); if(cls) e.className=cls; if(txt!=null) e.textContent=txt; return e; }
+function build(){
+  const tree=$("#tree"); tree.textContent="";
+  const root=el("div","root","SCMO Secondary"); root.appendChild(el("small",null,"Ôn theo dạng bài"));
+  tree.appendChild(root);
+  const ul=el("ul"); tree.appendChild(ul);
+  DATA.groups.forEach((g)=>{
+    const li=el("li","closed"); li.style.setProperty("--bc",`var(--c${g.id})`); li.dataset.g=g.id;
+    const b=el("button","node g1"); b.setAttribute("aria-expanded","false");
+    const row=el("div","row"); row.appendChild(el("span",null,`${g.id}. ${g.vn}`)); row.appendChild(el("span","gcount",`${g.count} bài`));
+    b.appendChild(row); const mini=el("div","mini"); b.appendChild(mini);
+    b.onclick=()=>toggle(li,b);
+    li.appendChild(b);
+    const ul2=el("ul");
+    g.subs.forEach(s=>{
+      const li2=el("li","closed"); li2.dataset.s=s.id;
+      const b2=el("button","node s"); b2.setAttribute("aria-expanded","false");
+      const left=el("span"); left.appendChild(el("span","code",s.id+" ")); left.appendChild(document.createTextNode(s.vn));
+      left.appendChild(el("span","scount"));
+      b2.appendChild(left);
+      const cnt=el("span","cnt"); b2.appendChild(cnt); b2.appendChild(el("span","caret","▾"));
+      b2.onclick=()=>toggle(li2,b2);
+      li2.appendChild(b2);
+      const ul3=el("ul");
+      s.leaves.forEach(l=>{
+        const li3=el("li"); li3.dataset.l=l.id;
+        const b3=el("button","leaf"); b3.appendChild(el("span","dot")); b3.appendChild(document.createTextNode(l.t));
+        b3.onclick=()=>openLeaf(l.id);
+        li3.appendChild(b3); ul3.appendChild(li3);
+      });
+      li2.appendChild(ul3); ul2.appendChild(li2);
+    });
+    li.appendChild(ul2); ul.appendChild(li);
+  });
+}
+function toggle(li,b){ const c=li.classList.toggle("closed"); b.setAttribute("aria-expanded", String(!c)); }
+function setAll(open){ document.querySelectorAll("#tree li[data-g], #tree li[data-s]").forEach(li=>{
+  li.classList.toggle("closed",!open); li.firstElementChild.setAttribute("aria-expanded",String(open)); }); }
+
+function refresh(){
+  // leaves
+  document.querySelectorAll("#tree li[data-l]").forEach(li=>{
+    const l=leafById[li.dataset.l]; const m=mOf(l.id);
+    li.querySelector(".dot").className="dot "+m;
+    li.classList.toggle("hide", !matches(l));
+    li.querySelector(".leaf").classList.toggle("active", current===l.id);
+  });
+  // subgroups
+  document.querySelectorAll("#tree li[data-s]").forEach(li=>{
+    const s=DATA.groups.flatMap(g=>g.subs).find(x=>x.id===li.dataset.s);
+    const n=s.probs.filter(kindOk).length, sc=li.querySelector(".scount");
+    sc.textContent=String(n); sc.title=`${n} bài trong nhánh này`;
+    const cnt=li.querySelector(".cnt"); cnt.textContent="";
+    s.leaves.forEach(l=>cnt.appendChild(el("span","dot "+mOf(l.id))));
+    li.classList.toggle("hide", filter!=="all" && !s.leaves.some(matches));
+  });
+  // groups
+  document.querySelectorAll("#tree li[data-g]").forEach(li=>{
+    const g=DATA.groups.find(x=>String(x.id)===li.dataset.g);
+    li.querySelector(".gcount").textContent=`${g.subs.reduce((n,s)=>n+s.probs.filter(kindOk).length,0)} bài`;
+    const ls=g.subs.flatMap(s=>s.leaves); const c=counts(ls); const mini=li.querySelector(".mini"); mini.textContent="";
+    ["g","y","r"].forEach(k=>{ if(c[k]){ const i=el("i",k); i.style.width=(c[k]/ls.length*100)+"%"; mini.appendChild(i);} });
+    li.classList.toggle("hide", filter!=="all" && !ls.some(matches));
+  });
+  // overall
+  const c=counts(leaves), tot=leaves.length;
+  const bar=$("#bar"); bar.textContent="";
+  [["g","var(--g)"],["y","var(--y)"],["r","var(--r)"]].forEach(([k,col])=>{ if(c[k]){ const i=el("i"); i.style.width=(c[k]/tot*100)+"%"; i.style.background=col; bar.appendChild(i);} });
+  const lg=$("#legend"); lg.textContent="";
+  [["g","Thành thạo"],["y","Còn chậm"],["r","Chưa giải được"],["n","Chưa đánh dấu"]].forEach(([k,t])=>{
+    const s=el("span"); s.appendChild(el("span","dot "+(k==="n"?"":k))); const b=el("b",null,String(c[k])); s.appendChild(b); s.appendChild(document.createTextNode(" "+t)); lg.appendChild(s); });
+  if(current) paintMastery();
+}
+
+// ---------- drawer ----------
+const kindOk = id => { const p=DATA.probs[id]; return !!p && (kindF==="all" || p.k===kindF) && p.y>=yearF; };
+function link(text, href){ const a=el("a",null,text); a.href=href; a.target="_blank"; a.rel="noopener"; return a; }
+function probItem(id){
+  const p=DATA.probs[id]||{t:"(không tìm thấy đề)",k:"",kn:"",y:id.split("-")[0],p:1,f:"",fl:"",a:""};
+  const d=el("details","prob"); const s=el("summary");
+  s.appendChild(el("span","id",(/^\d+-\d+$/.test(id)?id.replace("-","-P"):id)));
+  s.appendChild(el("span","kind"+(p.k===DATA.kinds[0][0]?"":" alt"),p.kn));
+  s.appendChild(el("span","pv",p.t)); d.appendChild(s); d.appendChild(el("p",null,p.t));
+  if(SHOW_PDF){
+    const box=el("div","links");
+    if(p.f) box.appendChild(link(`${p.fl}, trang ${p.p} ↗`, `${p.f}#page=${p.p}`));
+    if(p.a) box.appendChild(link(`${p.al} ↗`, p.a));
+    d.appendChild(box);
+  }
+  return d;
+}
+function openLeaf(id){
+  const l=leafById[id]; current=id;
+  const dr=$("#drawer"); dr.style.setProperty("--bc",`var(--c${l.g.id})`);
+  $("#dCrumb").textContent=`${l.g.id}. ${l.g.vn} › ${l.s.id} ${l.s.vn}`;
+  $("#dTitle").textContent=l.t; $("#dSign").textContent=l.sign; $("#dKey").textContent=l.key;
+  const exs=l.ex.filter(kindOk);
+  const ex=$("#dEx"); ex.textContent=""; exs.forEach((p,i)=>{ const it=probItem(p); if(i===0) it.open=true; ex.appendChild(it); });
+  if(!exs.length) ex.appendChild(el("p","sign","Dạng này chưa có bài mẫu thỏa bộ lọc loại đề và năm đang chọn."));
+  const others=l.s.probs.filter(p=>!l.ex.includes(p) && kindOk(p));
+  $("#dMoreSum").textContent=`Các bài khác trong nhánh ${l.s.id} (${others.length})`;
+  const mo=$("#dMore"); mo.textContent=""; others.forEach(p=>mo.appendChild(probItem(p)));
+  mo.parentElement.hidden = others.length===0;
+  $("#trap").value=state.n[id]||"";
+  paintMastery();
+  dr.classList.add("open"); dr.setAttribute("aria-hidden","false"); $("#scrim").classList.add("on");
+  // reveal leaf in tree
+  const li=document.querySelector(`#tree li[data-l="${CSS.escape(id)}"]`);
+  li?.closest("li[data-s]")?.classList.remove("closed"); li?.closest("li[data-g]")?.classList.remove("closed");
+  refresh();
+  dr.querySelector(".dbody").scrollTop=0;
+}
+function closeDrawer(){ $("#drawer").classList.remove("open"); $("#drawer").setAttribute("aria-hidden","true"); $("#scrim").classList.remove("on"); current=null; refresh(); }
+function paintMastery(){ const m=mOf(current); document.querySelectorAll("#dMastery .mbtn").forEach(b=>b.setAttribute("aria-pressed", String(b.dataset.m!=="" && b.dataset.m===m))); }
+
+document.querySelectorAll("#dMastery .mbtn").forEach(b=>b.onclick=()=>{
+  if(!current) return; const m=b.dataset.m;
+  if(m) state.m[current]=m; else delete state.m[current];
+  refresh(); persist(0);
+});
+$("#trap").addEventListener("input",()=>{ if(!current) return; const v=$("#trap").value;
+  if(v.trim()) state.n[current]=v; else delete state.n[current]; persist(900); });
+$("#close").onclick=closeDrawer; $("#scrim").onclick=closeDrawer;
+document.addEventListener("keydown",e=>{ if(e.key==="Escape" && current) closeDrawer(); });
+document.querySelectorAll(".chip[data-f]").forEach(c=>c.onclick=()=>{
+  filter=c.dataset.f; document.querySelectorAll(".chip[data-f]").forEach(x=>x.setAttribute("aria-pressed",String(x===c)));
+  if(filter!=="all") setAll(true); refresh(); });
+// paper-type chips come from the data: IMC has individual/team, IMSO has its three papers
+{ const all=document.querySelector('.chip[data-k="all"]');
+  DATA.kinds.slice().reverse().forEach(([code,name])=>{ const b=el("button","chip",name); b.dataset.k=code; b.setAttribute("aria-pressed","false"); all.after(b); }); }
+if(!SHOW_PDF) $("#home").hidden=true;
+document.querySelectorAll(".chip[data-k]").forEach(c=>c.onclick=()=>{
+  kindF=c.dataset.k; document.querySelectorAll(".chip[data-k]").forEach(x=>x.setAttribute("aria-pressed",String(x===c)));
+  refresh(); if(current) openLeaf(current); });
+// year filter: older papers are often too easy, so the viewer can study only recent years
+{ const sel=$("#yearFrom"), years=[...new Set(Object.values(DATA.probs).map(p=>p.y))].sort((a,b)=>a-b);
+  years.slice(1).forEach(y=>{ const o=el("option",null,`Từ ${y} trở đi`); o.value=y; sel.appendChild(o); });
+  try{ const saved=+localStorage.getItem(LS_KEY+"-year"); if(years.includes(saved)) yearF=saved; }catch(e){}
+  sel.value=String(yearF); sel.classList.toggle("on",yearF>0);
+  sel.onchange=()=>{ yearF=+sel.value; sel.classList.toggle("on",yearF>0);
+    try{ localStorage.setItem(LS_KEY+"-year",String(yearF)); }catch(e){}
+    refresh(); if(current) openLeaf(current); }; }
+$("#expand").onclick=()=>setAll(true); $("#collapse").onclick=()=>setAll(false);
+$("#random").onclick=()=>{
+  const live=leaves.filter(l=>l.s.probs.some(kindOk));   // skip types with no problem under the filters
+  let pool=live.filter(l=>mOf(l.id)==="r"); if(!pool.length) pool=live.filter(l=>mOf(l.id)==="y");
+  if(!pool.length) pool=live.filter(l=>!mOf(l.id)); if(!pool.length) pool=live.length?live:leaves;
+  openLeaf(pool[Math.floor(Math.random()*pool.length)].id);
+};
+
+$("#nLeaves").textContent=leaves.length;
+build(); refresh();
+// open the first group so the map shows its shape at rest
+const first=document.querySelector("#tree li[data-g]"); first.classList.remove("closed"); first.firstElementChild.setAttribute("aria-expanded","true");
+connect();
+</script>
+
+</body>
+</html>
