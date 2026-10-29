@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ôn luyện RMO</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: same squared-paper page as igo.html; one panel for the RMO map, one for the shelf of papers and answers by year. */
+:root{
+  --paper:#f3f6f2; --sheet:#fbfcfa; --grid:#e1e8e0; --ink:#17221d; --muted:#5b6a62; --line:#c9d4cc;
+  --ks2:#1d6fa3; --ks3:#b23a62; --imso:#b5532a; --igo:#4d7c0f; --ico:#a16207; --rmo:#0e7490; --accent:#0d6b58;
+  --f-display:"Bricolage Grotesque", "Be Vietnam Pro", system-ui, sans-serif;
+  --f-body:"Be Vietnam Pro", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono:"JetBrains Mono", ui-monospace, Consolas, monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#111815; --sheet:#18211d; --grid:#1d2823; --ink:#e3ebe6; --muted:#97a69e; --line:#34423b;
+  --ks2:#5fb0e6; --ks3:#ec7aa0; --imso:#f08d5c; --igo:#9ccc65; --ico:#f2c14e; --rmo:#5ccfe6; --accent:#4fc2a5; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#111815; --sheet:#18211d; --grid:#1d2823; --ink:#e3ebe6; --muted:#97a69e; --line:#34423b;
+  --ks2:#5fb0e6; --ks3:#ec7aa0; --imso:#f08d5c; --igo:#9ccc65; --ico:#f2c14e; --rmo:#5ccfe6; --accent:#4fc2a5; color-scheme:dark}
+*{box-sizing:border-box}
+html{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+body{margin:0;background-color:var(--paper);background-image:linear-gradient(var(--grid) 1px,transparent 1px),linear-gradient(90deg,var(--grid) 1px,transparent 1px);background-size:24px 24px;color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.55}
+.wrap{max-width:1180px;margin:0 auto;padding-inline:16px;padding-block:36px 56px;display:grid;gap:28px}
+header{display:grid;gap:10px;max-width:68ch}
+.eyebrow{font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--accent)}
+h1{font-family:var(--f-display);font-weight:800;font-size:clamp(34px,6vw,58px);line-height:1;margin:0;letter-spacing:-.02em;text-wrap:balance}
+header p{margin:0;color:var(--muted);font-size:16px}
+.stages{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,460px),1fr));gap:20px}
+.stage{--c:var(--ks2);background:var(--sheet);border:1px solid var(--line);border-top:6px solid var(--c);border-radius:16px;padding:22px 22px 20px;display:grid;gap:18px;align-content:start;min-width:0}
+.stage.ks3{--c:var(--ks3)}
+.stage h2{font-family:var(--f-display);font-weight:800;font-size:28px;line-height:1.1;margin:0;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.stage h2 span{font-family:var(--f-body);font-size:14px;font-weight:500;color:var(--muted)}
+.facts{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.facts div{border:1px solid var(--line);border-radius:10px;padding:8px 10px;background:var(--paper)}
+.facts b{display:block;font-family:var(--f-display);font-size:24px;line-height:1.1;color:var(--c);font-variant-numeric:tabular-nums}
+.facts small{color:var(--muted);font-size:12px}
+.actions{display:flex;flex-wrap:wrap;gap:8px}
+a.btn{display:inline-flex;align-items:center;gap:8px;text-decoration:none;font-weight:600;font-size:14px;border-radius:10px;padding:10px 14px;border:1.5px solid var(--c);color:var(--c);background:var(--sheet)}
+a.btn.main{background:var(--c);color:var(--sheet)}
+a.btn:hover{filter:brightness(1.08)}
+a:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.lbl{font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 8px}
+.years{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,236px),1fr));gap:2px 16px}
+.yr{display:flex;align-items:center;gap:6px;border-bottom:1px dashed var(--line);padding-block:5px}
+.yr b{font-family:var(--f-mono);font-size:13px;font-weight:500;width:3.2em;flex:none}
+.years a{font-size:12px;font-weight:500;white-space:nowrap;text-decoration:none;color:var(--ink);border:1px solid var(--line);border-radius:7px;padding:3px 7px;background:var(--paper)}
+.years a:hover{border-color:var(--c);color:var(--c)}
+.files{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:14px}
+.files a{color:var(--c);font-weight:500}
+.note{font-size:13.5px;color:var(--muted);background:var(--sheet);border:1px solid var(--line);border-radius:12px;padding:12px 14px;max-width:80ch}
+.note b{color:var(--ink)}
+a.home{font-size:13px;font-weight:600;color:var(--muted);text-decoration:none}
+a.home:hover{color:var(--accent)}
+footer.site{display:flex;flex-wrap:wrap;gap:6px 16px;align-items:center;font-size:13.5px;color:var(--muted);border-top:1px solid var(--line);padding-top:16px}
+footer.site a{color:var(--accent);font-weight:600}
+
+.stage.rmo{--c:var(--rmo)}
+.yr{flex-wrap:wrap}
+.yr .tag{font-size:11px;font-weight:700;color:var(--c);border:1px solid var(--c);border-radius:999px;padding:1px 7px}
+.years a.ans{border-style:dashed}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <a class="home" href="index.html">← Trang chủ</a>
+    <div class="eyebrow">Raffles Mathematical Olympiad</div>
+    <h1>Ôn luyện RMO</h1>
+    <p>Kỳ thi Toán tiểu học (P4–P6) của Raffles Institution, Singapore, trước năm 2024 mang tên RIPMWC (RI Primary Mathematics World Contest). Vòng 1 gồm 20 bài trả lời ngắn. Các bài được phân loại theo dạng và gom thành mindmap ôn tập.</p>
+  </header>
+
+  <div class="stages">
+    <section class="stage rmo" aria-labelledby="h-map">
+      <h2 id="h-map">Mindmap RMO <span>2008–2025</span></h2>
+      <div class="facts">
+        <div><b>340</b><small>bài toán</small></div>
+        <div><b>17</b><small>năm thi</small></div>
+        <div><b>54</b><small>dạng bài trong 6 nhánh và 14 nhánh con</small></div>
+      </div>
+      <div class="actions">
+        <a class="btn main" href="mindmaps/rmo.html">Mở mindmap</a>
+      </div>
+      <div>
+        <p class="lbl">Dữ liệu</p>
+        <div class="files">
+          <a href="data/rmo_categories.txt">Bảng phân loại</a>
+          <a href="data/rmo_problems.txt">Toàn bộ đề (văn bản)</a>
+        </div>
+      </div>
+      <p class="note"><b>Lưu ý:</b> Đề do Mathlete Training Centre gõ lại và chỉ có bản scan, nên văn bản đề được gõ tay từ ảnh; hình vẽ được mô tả trong ngoặc [Figure: …], khi cần hãy mở trang PDF. Đáp án chỉ có đáp số, không có lời giải. Không có đề năm 2020.</p>
+    </section>
+
+    <section class="stage rmo" aria-labelledby="h-papers">
+      <h2 id="h-papers">Đề và đáp án <span>PDF</span></h2>
+      <nav class="years" id="years" aria-label="Đề RMO theo năm"></nav>
+    </section>
+  </div>
+
+  <footer class="site">
+    <span>Liên hệ tác giả:</span>
+    <a href="https://www.facebook.com/haison8x/" target="_blank" rel="noopener">Facebook ↗</a>
+    <a href="https://github.com/haison8x/xIMC" target="_blank" rel="noopener">Mã nguồn trên GitHub ↗</a>
+  </footer>
+</div>
+<script>
+// One row per year: the Round 1 paper and its final answers. Named RIPMWC before 2024; no paper for 2020.
+const D = "papers/rmo/";
+const ROWS = [2025, 2024, 2023, 2022, 2021, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008];
+const nav = document.getElementById("years");
+for (const y of ROWS) {
+  const row = document.createElement("div"); row.className = "yr";
+  const b = document.createElement("b"); b.textContent = y; row.appendChild(b);
+  for (const [label, file, cls] of [["Đề", `RMO${y}.pdf`, ""], ["Đáp án", `RMO${y}_answer.pdf`, "ans"]]) {
+    const a = document.createElement("a");
+    a.href = D + file; a.target = "_blank"; a.rel = "noopener"; a.textContent = label;
+    if (cls) a.className = cls;
+    a.title = `${y >= 2024 ? "RMO" : "RIPMWC"} ${y} – ${label}`;
+    row.appendChild(a);
+  }
+  nav.appendChild(row);
+}
+</script>
+</body>
+</html>

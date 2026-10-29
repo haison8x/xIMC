@@ -1,13 +1,14 @@
 """Build the study mind maps: mindmaps/keystage2.html, mindmaps/keystage3.html (IMC),
-mindmaps/imso.html (IMSO), mindmaps/imas_{middle,upper,junior}.html (IMAS), mindmaps/igo.html (IGO)
-and mindmaps/ico.html (ICO).
+mindmaps/imso.html (IMSO), mindmaps/imas_{middle,upper,junior}.html (IMAS), mindmaps/igo.html (IGO),
+mindmaps/ico.html (ICO) and mindmaps/rmo.html (RMO).
 
 Usage:  python scripts/build_mindmaps.py
 Inputs: the problems files (via the load() of categorize, categorize_imso, categorize_imas, categorize_igo,
-        categorize_ico),
+        categorize_ico, categorize_rmo),
         leaves_*.py, mindmap_template.html
 Also rewrites data/keystage{2,3}_categories.txt, data/imso_categories.txt,
-data/imas_{middle,upper,junior}_categories.txt, data/igo_categories.txt and data/ico_categories.txt.
+data/imas_{middle,upper,junior}_categories.txt, data/igo_categories.txt, data/ico_categories.txt and
+data/rmo_categories.txt.
 """
 import json
 import os
@@ -22,6 +23,7 @@ import categorize_ico  # noqa: E402
 import categorize_igo  # noqa: E402
 import categorize_imas  # noqa: E402
 import categorize_imso  # noqa: E402
+import categorize_rmo  # noqa: E402
 import leaves_ico  # noqa: E402
 import leaves_igo  # noqa: E402
 import leaves_imas_junior  # noqa: E402
@@ -30,6 +32,7 @@ import leaves_imas_upper  # noqa: E402
 import leaves_imso  # noqa: E402
 import leaves_ks2  # noqa: E402
 import leaves_ks3  # noqa: E402
+import leaves_rmo  # noqa: E402
 from paths import MINDMAPS, ROOT  # noqa: E402
 
 IMC_HOME = dict(home="ximc.html", home_label="Ôn luyện IMC")
@@ -59,6 +62,9 @@ PAGES = {
     "ico": dict(src=categorize_ico, stage="ico", leaves=leaves_ico, out="ico.html",
                 title="Bản đồ ôn ICO", h1="Bản đồ ôn Olympic Tổ hợp Iran", root="ICO",
                 ls_key="ico-map", doc="icomap", home="ico.html", home_label="Ôn luyện ICO"),
+    "rmo": dict(src=categorize_rmo, stage="rmo", leaves=leaves_rmo, out="rmo.html",
+                title="Bản đồ ôn RMO", h1="Bản đồ ôn Raffles Mathematical Olympiad", root="RMO",
+                ls_key="rmo-map", doc="rmomap", home="rmo.html", home_label="Ôn luyện RMO"),
 }
 
 HEAD = ('<!doctype html>\n<html lang="vi">\n<head>\n<meta charset="utf-8">\n'

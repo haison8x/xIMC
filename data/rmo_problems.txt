@@ -1,0 +1,1019 @@
+=== Year 2008 | Paper R1 | Problem 1 | Page 1 ===
+Four teams took part in a soccer tournament. Each team played with every other team exactly once. In any single match, the winning team gets 3 points, the losing team gets no points, and in the event of a draw, both teams get 1 point each. After all the matches were played, the scores of all the teams were added up. What is the smallest possible value of this sum?
+
+=== Year 2008 | Paper R1 | Problem 2 | Page 1 ===
+Calculate (24 + 8/9) × 10.375 + (35 + 1/9) × 3/8
+
+=== Year 2008 | Paper R1 | Problem 3 | Page 2 ===
+It is Wednesday today. What day would it be 20082008 days later?
+
+=== Year 2008 | Paper R1 | Problem 4 | Page 2 ===
+Given that x = 1111111111 × 9999999999, find the sum of digits of x.
+
+=== Year 2008 | Paper R1 | Problem 5 | Page 3 ===
+Matchsticks are used to make a series of triangular patterns as shown below: In figure 4, there are 16 small equilateral triangles. Which figure will have 14400 small equilateral triangles? [Figure: Figures 1 to 4 are equilateral triangles made of matchsticks with side 1, 2, 3, 4 matchsticks, subdivided into small unit equilateral triangles (1, 4, 9, 16 small triangles).]
+
+=== Year 2008 | Paper R1 | Problem 6 | Page 3 ===
+When 2008/7 is expressed as a decimal, the 2008th digit after the decimal point is
+
+=== Year 2008 | Paper R1 | Problem 7 | Page 4 ===
+20 identical apples are to be distributed to 3 girls A, B and C such that each girl gets at least 1 apple. How many ways can this be done?
+
+=== Year 2008 | Paper R1 | Problem 8 | Page 4 ===
+The diagram shows a semi-circle AEB with AB as diameter, an arc BC with centre A, radius AB and ∠BAC = 60° and a semi-circle ACF with AC as diameter. Given that AB = 3 cm and taking π to be 3.14, calculate the area of the shaded region in cm^2. [Figure: AB horizontal with A on the left; semicircle AEB drawn above AB; segment AC at 60° to AB crosses semicircle AEB at E; arc BC is centred at A; semicircle ACF is drawn on AC on the left/upper side, with F on it. The shaded region is the part bounded by semicircle ACF, arc CB and semicircle AEB, i.e. inside semicircle ACF together with sector ABC but outside semicircle AEB.]
+
+=== Year 2008 | Paper R1 | Problem 9 | Page 5 ===
+A monkey has a number of apples. On the 1st day, it eats 1/7 of the total number of apples. On the 2nd day, it eats 1/6 of the remaining number of apples. On the 3rd day, it eats 1/5 of the remaining number of apples. On the 4th day, it eats 1/4 of the remaining number of apples. On the 5th day, it eats 1/3 of the remaining number of apples. On the 6th day, it eats 1/2 of the remaining number of apples. If the monkey has left with 12 apples, how many apples did he eat on the 1st and 2nd days altogether?
+
+=== Year 2008 | Paper R1 | Problem 10 | Page 5 ===
+A grid of squares measuring 9 units by 6 units has two corners removed as shown. How many squares of any size are contained within the grid? [Figure: a 9 × 6 grid of unit squares with the top-left corner unit square and the bottom-right corner unit square removed.]
+
+=== Year 2008 | Paper R1 | Problem 11 | Page 6 ===
+Five workers A, B, C, D and E work in an office for 5 days from Monday to Friday. Given that: • For each day from Monday to Friday, exactly 3 workers are at work while 2 workers are enjoying their day-off. • No worker can be off for 2 consecutive days, neither can they work for 3 consecutive days. • B works 2 days more than E; there is only one day when A and C work together; C works on Monday. Who are the 3 workers who work on Friday?
+
+=== Year 2008 | Paper R1 | Problem 12 | Page 6 ===
+What is the remainder when 1^2 + 2^2 + 3^2 + ... + 2007^2 + 2008^2 is divided by 7?
+
+=== Year 2008 | Paper R1 | Problem 13 | Page 7 ===
+120 boys are standing in front of their lockers, numbered from 1 to 120. At the start, all lockers are opened. A teacher calls out '1', and since 1 is a divisor of all the numbers, all the boys close their lockers. The teacher then calls out '2', and only those boys whose locker numbers are divisible by 2 will open their lockers. The teacher then calls out '3'. Those boys whose locker numbers are divisible by 3 will open their lockers if they are closed, or close their lockers if they are opened. This process is continued until '120' is called out. How many lockers will be closed at the end of the entire process?
+
+=== Year 2008 | Paper R1 | Problem 14 | Page 7 ===
+Albert and Brian are training for a race by running up a 700 m slope. They each run up the slope at different constant speeds. Each of them doubles his uphill speed when they run down the slope. Brian reaches the top first, and immediately starts running down, meeting Albert 70 m from the top. When Brian reaches the bottom, how far behind is Albert?
+
+=== Year 2008 | Paper R1 | Problem 15 | Page 8 ===
+By using 3 of the points from the points A, B, C, ..., K, L as shown in the diagram to form a triangle, determine how many such triangles can be formed? [Figure: a large triangle AFJ; points B, C, D, E lie in order on side AF between A and F; points G, H, I lie in order on side FJ between F and J; points K, L lie on side JA between J and A. 12 points in total: 6 on line AF (A, B, C, D, E, F), 5 on line FJ (F, G, H, I, J), 4 on line JA (J, K, L, A).]
+
+=== Year 2008 | Paper R1 | Problem 16 | Page 8 ===
+The clock on the wall shows a time which is close to 10 o'clock. Interestingly, it is also noted that the number "10" is exactly midway between the minute hand and the hour hand. The number of minutes past 9 o'clock shown by the clock is
+
+=== Year 2008 | Paper R1 | Problem 17 | Page 9 ===
+The given diagram shows a rectangle ABCD whose area is 120 cm^2. Given that BE = 3AE and BF = 2FC, find the area of EGFB in cm^2. [Figure: rectangle ABCD with A top-left, D top-right, B bottom-left, C bottom-right; E on AB, F on BC; segments AF and ED intersect at G; EGFB is the quadrilateral with vertices E, G, F, B.]
+
+=== Year 2008 | Paper R1 | Problem 18 | Page 9 ===
+A bag contains x balls. Each ball is either red or white. The ratio of number of red balls to white balls is 19 : 13. When an additional m red balls are added to the bag, the above ratio becomes 5 : 3. Next, without removing the m additional red balls, another additional n white balls are added to the bag. The ratio then becomes 13 : 11. Given that n − m = 80, find x.
+
+=== Year 2008 | Paper R1 | Problem 19 | Page 10 ===
+A group of 3 natural numbers which may or may not be different are such that their highest common factor is 10 and their lowest common multiple is 100. How many such groups are possible?
+
+=== Year 2008 | Paper R1 | Problem 20 | Page 10 ===
+To complete a given project, workers A, B and C, each working alone, need 36 days, 30 days and 48 days respectively. At the start of the project, A, B and C worked together. After working for some days, C took y days off from work while A and B continued. As a result, A and B needed some additional days to complete the project. If the entire project took an exact number of days and y is a whole number, find y.
+
+=== Year 2009 | Paper R1 | Problem 1 | Page 1 ===
+The diagram shows a cube of side 2 cm. A hole of uniform cross-section of 1 cm × 1 cm square is drilled through at the centre of each surface of the cube. Each edge of the hole is parallel to the corresponding edge of the cube. What is the surface area of the resulting solid? [Figure: a 2 cm cube with a 1 cm × 1 cm square hole through the centre of every face, the three holes passing right through the cube.]
+
+=== Year 2009 | Paper R1 | Problem 2 | Page 1 ===
+The larger gear has 25 teeth, and the smaller has 15 teeth. If the larger gear rotates through an angle of 90°, through what angle measure does the small gear rotate? (The picture illustrates how the wheels move together but it is not accurate in terms of the number of teeth) [Figure: two meshing gears, one smaller and one larger.]
+
+=== Year 2009 | Paper R1 | Problem 3 | Page 2 ===
+How many triangles are there in the following figure? [Figure: a large equilateral triangle divided into 9 small equilateral triangles in 3 rows by lines parallel to its sides (1 + 3 + 5), plus one extra straight segment running from a point low on the left side up to a point high on the right side, crossing the interior.]
+
+=== Year 2009 | Paper R1 | Problem 4 | Page 2 ===
+Find the value of 191919/979797 ÷ 910910/970970 ÷ 19001900/97009700
+
+=== Year 2009 | Paper R1 | Problem 5 | Page 3 ===
+A housekeeper has 20 keys to open 20 rooms in a hostel. He knows that each key can open only one room, but he does not know which key opens which room. If he wants to open all the 20 rooms, what is his maximum number of tries?
+
+=== Year 2009 | Paper R1 | Problem 6 | Page 3 ===
+The cost of a magazine is increased by 10% this year. With the selling price remaining the same, the profit for each magazine is decreased by 40% this year. But the number of magazines sold is increased by 80%. What is the percentage increase in the total profit from the sale of the magazine this year?
+
+=== Year 2009 | Paper R1 | Problem 7 | Page 4 ===
+The diagram shows a square ABCD of side 14 cm. Q is the mid-point of BC. CPD is the semicircle with CD as the diameter. Given that length of arc DP is equal to the length of arc PC, what is the area of the shaded region? (Take π = 22/7) [Figure: square ABCD with A top-left, D top-right, B bottom-left, C bottom-right, AD = 14 cm; semicircle on CD bulging outward to the right with P the midpoint of the arc; segments AP and QP drawn. Shaded: the region bounded by AD, arc DP and segment PA (top), and the region bounded by QC, arc CP and segment PQ (bottom).]
+
+=== Year 2009 | Paper R1 | Problem 8 | Page 4 ===
+The diagram shows five discs, all of different sizes, connected by five line segments. Three colours, green, black and white is available to colour these discs. In how many different ways is it possible to colour all five discs if the discs that are connected by a line segment are to have different colours? [Figure: four discs at the corners of a square, connected along the four sides of the square (top-left–top-right, top-right–bottom-right, bottom-right–bottom-left, bottom-left–top-left); a fifth disc in the middle is connected only to the bottom-right disc.]
+
+=== Year 2009 | Paper R1 | Problem 9 | Page 5 ===
+The sum of ages of a group of people is 3075. The youngest is at least 30 years old and the oldest is not more than 80 years old. If there are at most 3 people of the same age for each age, find the minimum number of people more than 50 years old.
+
+=== Year 2009 | Paper R1 | Problem 10 | Page 5 ===
+Seven light bulbs A, B, C, D, E, F and G are each equipped with a pull-string switch. A pull-string switch works as follows: • if the light bulb is switched on and you pull the string, the light bulb will be switched off. • if the light bulb is switched off and you pull the string, the light bulb will be switched on. Initially, light bulbs A, C, E and G were switched on. Esther began pulling one string at a time in the order ABCDEFGGFEDCBA and thereafter repeating this order. After Esther pulled the 2011th string, which light bulbs were switched on?
+
+=== Year 2009 | Paper R1 | Problem 11 | Page 6 ===
+Find the value of (1×2×3 + 3×6×9 + 2×4×7 + 7×14×21 + 3×4×67) / (1×3×5 + 3×9×15 + 4×5×7 + 7×21×35 + 2×5×201)
+
+=== Year 2009 | Paper R1 | Problem 12 | Page 6 ===
+Ali and Brian left Town A at the same time for Town B, which is 22.5 km away from Town A. Ali set out riding a bicycle at 8 km/h, parked the bicycle at a cycle station and walked at 5 km/h for the rest of the journey. Brian set out walking at 4 km/h, reached the cycle station and used the bicycle that was used by Ali and rode at 10 km/h. Both Ali and Brian reached Town B at the same time. For how many minutes was the bicycle not in motion?
+
+=== Year 2009 | Paper R1 | Problem 13 | Page 7 ===
+Find the sum 1/1024 + 1/512 + 1/256 + 1/128 + ... + 1/2 + 1 + 2 + 4 + 8 + ... + 1024.
+
+=== Year 2009 | Paper R1 | Problem 14 | Page 7 ===
+In the following figure, ABCD is a rectangle with AB = 7 cm, BC = 12 cm. DEFG is a rectangle with DE = 13 cm. Find the length EF in cm, correct to 1 decimal place. [Figure: rectangle ABCD with A top-left, B top-right, D bottom-left, C bottom-right (AB = 7 horizontal, BC = 12 vertical); E lies on AB; rectangle DEFG is tilted with side DE, F to the right outside ABCD, G below ABCD, and C lies on side FG.]
+
+=== Year 2009 | Paper R1 | Problem 15 | Page 8 ===
+Three little sheep are erecting a fence to keep the nasty wolves away. The first two sheep, working together, could erect the fence in 2 hours. The first and third sheep, working together, could erect the fence in 1 hour and 12 minutes. The second and third sheep, working together, could complete the job in one hour and 30 minutes. How long will it take for the second sheep alone to complete the job?
+
+=== Year 2009 | Paper R1 | Problem 16 | Page 8 ===
+What is the remainder when 2^2009 + 2009^2 is divided by 13?
+
+=== Year 2009 | Paper R1 | Problem 17 | Page 9 ===
+The diagram below shows ∠MON = 16°. A_1 is a given point on OM, A_2 is chosen on ON such A_1A_2 = OA_1. Point A_3 is then chosen on OM such that A_2A_3 = A_1A_2. This process of choosing a new point is repeated subject to the conditions that OA_1 < OA_3 < OA_5 < ... and OA_2 < OA_4 < OA_6 < .... What is the last point at the end of this process? [Figure: rays OM (horizontal) and ON from O with angle 16°; A_1 and A_3 on OM, A_2 on ON; zigzag segments A_1A_2, A_2A_3, and A_3 to a point on ON further out.]
+
+=== Year 2009 | Paper R1 | Problem 18 | Page 9 ===
+Starting with the 2, the number 2009 can be formed by moving either horizontally, vertically, or diagonally from square to square in the grid. How many different paths can be followed to form 2009? [Table: row 1: 9 9 9 9 9; row 2: 9 0 0 0 9; row 3: 9 0 2 0 9; row 4: 9 0 0 0 9; row 5: 9 9 9 9 9]
+
+=== Year 2009 | Paper R1 | Problem 19 | Page 10 ===
+There are 8 points marked on the circumference of a circle. If each marked point is joined to all the other marked points to form line segments, what is the largest number of points of intersection of all these line segments inside the circle?
+
+=== Year 2009 | Paper R1 | Problem 20 | Page 10 ===
+Let A = (1 × 2 × 3 × ... × 2008 × 2009) + (2010 + 2011 + ... + 2028 + 2029). Find the sum of the last 499 digits of A.
+
+=== Year 2010 | Paper R1 | Problem 1 | Page 1 ===
+Using only brackets, +, −, ×, ÷, we can form the number 400 from multiple 4's as follows: (4 × 4 × 4 + 4 × (4 + 4) + 4) × 4 or (4 × 4 + 4) × (4 × 4 + 4). Again using only brackets, +, −, ×, ÷, What is the minimum number of 10's required to form the number 2010?
+
+=== Year 2010 | Paper R1 | Problem 2 | Page 1 ===
+Each time the two hands of a standard 12-hour clock form a straight line, a bell chimes once. From 01 00 on a certain day to 01 00 the next day, how many chimes will be heard?
+
+=== Year 2010 | Paper R1 | Problem 3 | Page 2 ===
+How many pairs of positive integers (m, n) satisfy the equation mn = 2010?
+
+=== Year 2010 | Paper R1 | Problem 4 | Page 2 ===
+The sum of digits of 2010 is 2 + 0 + 1 + 0 = 3. The next number after 2010 that has the same sum of digits as 3 is 2100. Let a, b, c be the next 3 numbers after 2100 that has the same sum of digits as 3. What is the value of a + b + c?
+
+=== Year 2010 | Paper R1 | Problem 5 | Page 3 ===
+Find the sum 1/2 + 3/4 + 7/8 + 15/16 + 31/32 + 63/64 + 127/128 + 255/256.
+
+=== Year 2010 | Paper R1 | Problem 6 | Page 3 ===
+As shown in the diagram below, each of the three circles with radius 2 cm passes through the centres of the other two circles. Taking π to be 22/7, the area of the shaded region in cm^2 is [Figure: three equal circles (top-left, top-right, bottom), each passing through the centres of the other two. The shaded region is the part lying inside both the top-right circle and the bottom circle but outside the top-left circle.]
+
+=== Year 2010 | Paper R1 | Problem 7 | Page 4 ===
+Suppose you are writing odd positive integers in a row, without blank spaces, as shown below 13579111315... What will be the 1000th digit?
+
+=== Year 2010 | Paper R1 | Problem 8 | Page 4 ===
+Four pupils Aaron, Bob, Charles and Dean took a mathematics examination in which each of their answer is either correct or wrong. Aaron got correct half of the total questions plus 7 questions, Bob got correct one third of the total questions plus 17 questions, Charles got correct one fourth of the total questions plus 22 questions and Dean got correct one fifth of the total questions plus 25 questions. There are between 1 and 100 questions in the examination. Which pupil got the most questions correct?
+
+=== Year 2010 | Paper R1 | Problem 9 | Page 5 ===
+The last digit of 2008^3 − 2007^3 + 2006^3 − 2005^3 + ... + 2^3 − 1^3 is
+
+=== Year 2010 | Paper R1 | Problem 10 | Page 5 ===
+In the figure shown below, find ∠A + ∠B + ∠C + ∠D + ∠E + ∠F + ∠G. [Figure: a seven-pointed star with tips A (top), G, F, E, D, C, B going clockwise; drawn with segments AC, CE, EG, GB, BD, DF, FA. The angles are at the seven tips.]
+
+=== Year 2010 | Paper R1 | Problem 11 | Page 6 ===
+Find the value of the expression (1 + 1/2 + 1/3 + ... + 1/8) × (1/2 + 1/3 + ... + 1/9) − (1 + 1/2 + 1/3 + ... + 1/9) × (1/2 + 1/3 + ... + 1/8)
+
+=== Year 2010 | Paper R1 | Problem 12 | Page 6 ===
+The sum of digits of the product 44...44 (ten 4s) × 199...998 (nine 9s) is
+
+=== Year 2010 | Paper R1 | Problem 13 | Page 7 ===
+There are 12 points on a circle such that the distances between adjacent pairs of points are all equal. How many right angled triangles can be formed by joining any 3 of the points?
+
+=== Year 2010 | Paper R1 | Problem 14 | Page 7 ===
+ABCD is a rectangle with AB = 8 cm and AD = 5 cm. Points E, F, G and H on AB, BC, DC and AD are such that AE = BF = GC = HD = 2 cm. P is a point in the interior such that the area of AEPH is 6 cm^2. What is the area of PFCG in cm^2? [Figure: rectangle ABCD with A top-left, B top-right, C bottom-right, D bottom-left; E on AB, F on BC, G on DC, H on AD; interior point P joined to E, F, G and H.]
+
+=== Year 2010 | Paper R1 | Problem 15 | Page 8 ===
+How many different words can you form from the letters ABCD, where a word is a sequence of one to four letters, using each letter at most once (for example DC and CADB)?
+
+=== Year 2010 | Paper R1 | Problem 16 | Page 8 ===
+A seven-digit telephone number abcdefg (overlined, digits a to g) is called memorable if the number abc is the same as at least one of def or efg. Assuming that every digit in the telephone number can range from 0 to 9, how many memorable telephone numbers are there?
+
+=== Year 2010 | Paper R1 | Problem 17 | Page 9 ===
+There are 8 consecutive traffic lights along a straight road. Each light remains green for 1.5 minutes, yellow for 4 seconds and red for 1.5 minutes. The lights are synchronised so that each light turns red 10 seconds after the preceding one turns red. What is the longest interval of time, in seconds, during which all the 8 lights are green?
+
+=== Year 2010 | Paper R1 | Problem 18 | Page 9 ===
+To decorate a rectangular notice-board which is 71 1/2 cm long and 40 1/3 cm wide, John is only allowed to use square papers. If it must be done such that the square papers do not overlap or extend beyond the edges of the notice-board, what is the minimum number of square papers needed?
+
+=== Year 2010 | Paper R1 | Problem 19 | Page 10 ===
+A rectangle with the same perimeter as a square has 3/4 its area. Find the ratio of the breadth of the rectangle to its length.
+
+=== Year 2010 | Paper R1 | Problem 20 | Page 10 ===
+A car travels from town X to town Y along a highway. An hour after starting, it meets with an accident and is detained by the traffic police for half an hour, after which it proceeds at 3/4 of its former speed and arrives 3 1/2 hours late. Had the accident happened 90 km farther along the highway, it would have arrived 3 hours late. Find the distance between town X and town Y in km.
+
+=== Year 2011 | Paper R1 | Problem 1 | Page 1 ===
+The 4-digit number 2011 can be partitioned (20|11) into two 2-digit numbers, 20 and 11, whose product is 220. How many other 4-digit numbers can be partitioned in the same way into two 2-digit numbers to give a product of 220 or 440?
+
+=== Year 2011 | Paper R1 | Problem 2 | Page 1 ===
+2011 people each have exactly one secret which is different from that of the rest of the people. When one of them calls another, the caller tells every secret he knows, but learns nothing from the person he calls. How many phone calls will be needed in order for each person to know all the 2011 secrets?
+
+=== Year 2011 | Paper R1 | Problem 3 | Page 2 ===
+Albert ordered 4 pairs of black socks and some additional pairs of blue socks. The price of each pair of black socks was twice that of the blue. When the order was filled, it was found that the number of pairs of the two colours had been interchanged. This increased the bill by 50%. The ratio of the number of pairs of black socks to the number of pairs of blue socks in the original order was:
+
+=== Year 2011 | Paper R1 | Problem 4 | Page 2 ===
+Which of the following five fractions is largest? (a) 20116541/20116543 (b) 20116547/20116549 (c) 20116549/20116551 (d) 20116545/20116547 (e) 20116543/20116545
+
+=== Year 2011 | Paper R1 | Problem 5 | Page 3 ===
+The sum 1/86 + 8989/8686 + 90909/868686 + 13131313/86868686 + 1717171717/8686868686 is equal to
+
+=== Year 2011 | Paper R1 | Problem 6 | Page 3 ===
+Figure A shows a structure which is made up of 4 smaller cubes. If we put 2 identical such structures together, we will be able to get a larger cube. Figure B shows another structure which is made up of 5 smaller cubes. What is the minimum number of such identical structures required to form a larger cube? [Figure: Figure A: 4 unit cubes forming half of a 2×2×2 cube: an L of 3 cubes on the bottom layer (front-left, front-right, back-left) with a fourth cube stacked on top of the front-right cube. Figure B: 5 unit cubes: a bottom row of 3 cubes in front, one cube behind the middle cube, and one cube stacked on top of the right-end cube.]
+
+=== Year 2011 | Paper R1 | Problem 7 | Page 4 ===
+There are more than 10 but less than 100 children sitting in a circle. They count clockwise around the circle starting from 1. If the same child has counted 22 and 2011, what is the sum of the smallest and largest possible number of children in the circle?
+
+=== Year 2011 | Paper R1 | Problem 8 | Page 4 ===
+John is standing on a rectangular grid as shown above. He is allowed to move one step south, north, east or west. After 4 moves, he is supposed to get back to the starting point. How many possibilities are there for the sequence of 4 moves? [Figure: a rectangular grid of 6 columns × 6 rows of cells (7 × 7 grid points); John stands at a grid point in the interior, 3 steps from the left and right edges and 3 steps from the top and bottom edges; a compass shows N up and E right.]
+
+=== Year 2011 | Paper R1 | Problem 9 | Page 5 ===
+How many zeros are there at the end of the value of the expression? (99..99 (2011 9s) × 99..99 (2011 9s) + 199..99 (2011 9s)) × 0.20112011
+
+=== Year 2011 | Paper R1 | Problem 10 | Page 5 ===
+OAB is a quadrant of a circle with OA (= OB) as its radius of length 4 cm. OA and OB are also diameters of two semi-circles as shown in the diagram below which is not drawn to scale. Shaded areas x and y are as shown in the diagram. Find the value of x/y. [Figure: quarter circle with centre O at bottom-left, A straight above O, B to the right of O; semicircles on OA and OB drawn inside the quadrant. x is the shaded lens where the two semicircles overlap (near O); y is the shaded region inside the quadrant arc AB but outside both semicircles.]
+
+=== Year 2011 | Paper R1 | Problem 11 | Page 6 ===
+There are 10 identical chocolate bars in a box. Andy can only eat 1 or 2 of these chocolate bars at a time. He does this until there is no more left. In how many different ways can he do this?
+
+=== Year 2011 | Paper R1 | Problem 12 | Page 6 ===
+In the number arrangement [row 1: 1; row 2: 2 3; row 3: 4 5 6; row 4: 7 8 9 10; row 5: 11 12 13 14 15; ...] What is the number that will appear directly below the number 2011? [Rows are left-aligned, row k contains k numbers.]
+
+=== Year 2011 | Paper R1 | Problem 13 | Page 7 ===
+3 points A, B and C are selected from 100 points, all equally spaced apart, in the following 10 × 10 grid. A fourth point D is to be selected from the remaining 97 points such that 4 triangles are formed by joining the 4 points and the ratio of their areas is 1 : 2 : 3 : 6. How many possible selections are there for point D? [Figure: a 10 × 10 array of points (rows 1–10 from top, columns 1–10 from left); A is at row 4, column 4; B is at row 4, column 5 (immediately right of A); C is at row 5, column 4 (immediately below A).]
+
+=== Year 2011 | Paper R1 | Problem 14 | Page 7 ===
+If the number 26201120112011...20117 (26, followed by n 2011s, followed by 7) is divisible by 33, what is the minimum value of n?
+
+=== Year 2011 | Paper R1 | Problem 15 | Page 8 ===
+Find the value of the expression 4 − 6/(1 × (1 + 2)) − 9/((1 + 2) × (1 + 2 + 3)) − 12/((1 + 2 + 3) × (1 + 2 + 3 + 4)) − ... − 60/((1 + 2 + ... + 19) × (1 + 2 + ... + 20)).
+
+=== Year 2011 | Paper R1 | Problem 16 | Page 8 ===
+As shown in the diagram, a triangle is divided into four regions by two line segments. The areas of the three triangles are indicated in the diagram. Determine the area of region A. [Figure: triangle with vertices P (top-left), Q (bottom-left), R (bottom-right). One segment joins R to a point on side PQ; the other joins Q to a point on side PR; they cross inside. The small triangle next to side PQ (near Q) has area 3, the triangle on base QR has area 7, the triangle next to side PR (near R) has area 7; region A is the remaining quadrilateral at the top containing P.]
+
+=== Year 2011 | Paper R1 | Problem 17 | Page 9 ===
+How many pairs of positive integers (m, n) satisfy the equation 1/m − 1/n = 1/2011?
+
+=== Year 2011 | Paper R1 | Problem 18 | Page 9 ===
+In a certain sequence of positive integers, one adds the sum of digits of each term to the term itself to obtain the next term. The first few terms of the sequence are given below: 1, 2, 4, 8, 16, 23, 28, ... What is the 151st term in the sequence? (a) 1972 (b) 1973 (c) 1974 (d) 1975 (e) 1976
+
+=== Year 2011 | Paper R1 | Problem 19 | Page 10 ===
+Suppose you write positive square numbers 1, 4, 9, 16, 25, ... in a row, without blank spaces, as shown below 149162536496481100121.... What will be the 2011th digit?
+
+=== Year 2011 | Paper R1 | Problem 20 | Page 10 ===
+Ali, Bala and Charles started out 100 km journey. Ali and Charles went on a car at a speed of 25 km/h, while Bala walked at a speed of 5 km/h. After a certain distance, Charles got off the car and walked on at a speed of 5 km/h, while Ali went back for Bala and got him to the destination at the same time that Charles arrived. The total time in hours that has elapsed from the start and the end of the journey was ______.
+
+=== Year 2012 | Paper R1 | Problem 1 | Page 1 ===
+If all the positive integers with leftmost digit 8 are listed in ascending order: 8, 80, 81, 82, 83, 84, ... . What is the 2012th integer in the list?
+
+=== Year 2012 | Paper R1 | Problem 2 | Page 1 ===
+Calculate (2 × 6 × 10 + 3 × 9 × 15 + 4 × 12 × 20 + 5 × 15 × 25 + 6 × 18 × 30)/(2 × 4 × 6 + 3 × 6 × 9 + 4 × 8 × 12 + 5 × 10 × 15 + 6 × 12 × 18)
+
+=== Year 2012 | Paper R1 | Problem 3 | Page 2 ===
+At B&W Restaurant, the cost for a lunch consisting of 3 hamburgers, 7 cups of coffee and one apple pie adds up to $12.60 and the cost of a lunch consisting of 4 hamburgers, 10 cups of coffee and one apple pie adds up to $16.85. What would be the cost of one hamburger, one cup of coffee and one apple pie at this restaurant?
+
+=== Year 2012 | Paper R1 | Problem 4 | Page 2 ===
+As shown in the figure, 4 identical smaller circles are constructed symmetrically in a bigger circle, with each smaller circle touching the bigger circle. If the radius of the bigger circle is 7 cm and the radius of each smaller circle is 3.5 cm, then the shaded region, in cm^2, is [Figure: big circle containing 4 small circles (top, bottom, left, right), each passing through the centre of the big circle; adjacent small circles overlap in 4 lens-shaped regions. Shaded: the parts of the small circles outside the overlapping lenses; the lenses and the region outside the small circles are unshaded.]
+
+=== Year 2012 | Paper R1 | Problem 5 | Page 3 ===
+The least common multiple of 3 numbers x, 12 and 2012 is 6036. Find the number of positive integers x with this property.
+
+=== Year 2012 | Paper R1 | Problem 6 | Page 3 ===
+Two swimmers, at opposite ends of a 30-metre pool, start to swim the length of the pool, one at 1 metre per second, the other at 2/3 metre per second. They swim back and forth for 12 minutes. Assuming no loss of time at the turns, find the number of times they pass each other.
+
+=== Year 2012 | Paper R1 | Problem 7 | Page 4 ===
+John calculates 2/1 + 3/2 + 4/3 + ... + 101/100 + 102/101 and Esther calculates (1+2)/3 + (4+5)/6 + (7+8)/9 + ... + (298+299)/300. The sum of their answers is between
+
+=== Year 2012 | Paper R1 | Problem 8 | Page 4 ===
+A game is played with identical coins according to the following rule. In each by round, the player with the most coins gives one coin each to the other 2 players and also place one coin into the discard pile. The game ends when one player runs out of coins. Players X, Y and Z start with 20, 19 and 18 coins, respectively. How many rounds will the game last?
+
+=== Year 2012 | Paper R1 | Problem 9 | Page 5 ===
+A contractor estimated that worker A would take 10 hours to build a given wall and worker B would take 11 hours for the same job. However, he knew from experience that when they work together, their combined output fell by 48 bricks per hour. In a hurry to finish off the job, he put both men to work together and they took exactly 6 hours to build the wall. Find the number of bricks in the wall.
+
+=== Year 2012 | Paper R1 | Problem 10 | Page 5 ===
+By using 1, 2, 3 or 4 digits from the number 2012, how many positive numbers less than 2210 can be formed?
+
+=== Year 2012 | Paper R1 | Problem 11 | Page 6 ===
+On a rectangular table ABCD of length 7 units and breadth 3 units, a ball is rolled from point A at an angle of 45° towards point E, and bounces off CD at an angle of 45°. The ball continues to bounce off the sides at 45° until it reaches C. How many times has the ball bounced? [Figure: tall rectangle with A bottom-left, B bottom-right, C top-right, D top-left (AB = 3, BC = 7); the ball's path goes from A at 45° to E on side BC, then bounces at 45° back towards side AD.]
+
+=== Year 2012 | Paper R1 | Problem 12 | Page 6 ===
+For any two numbers x and y, x * y means x + y − 2012/335. Calculate (2 * 4 * 6 * ... * 2010 * 2012)/2012.
+
+=== Year 2012 | Paper R1 | Problem 13 | Page 7 ===
+The number 55...5X99...9 (20 fives, then X, then 20 nines) consists of 41 digits, the first 20 being 5 and the last 20 being 9. If the number is divisible by 7, the missing digit X is
+
+=== Year 2012 | Paper R1 | Problem 14 | Page 7 ===
+In △ABC, D is a point on BC such that DC = 3BD. F is a point on AB such that the intersection point on AD and CF, E, satisfies AE = ED. If the area of △ABC = 1 unit^2, find the area of the shaded region. [Figure: triangle ABC with D on BC near B, F on AB; segments AD and CF meet at E. Shaded: triangle AFE and triangle EDC.]
+
+=== Year 2012 | Paper R1 | Problem 15 | Page 8 ===
+At a party, there were c children, w women and m men, where c, w and m are at least 2, c is less than w and w is less than m. Every person shook hand with every other person. The sum of the number of handshakes between children, the number of handshakes between women and the number of handshakes between men was 57. How many handshakes were there altogether?
+
+=== Year 2012 | Paper R1 | Problem 16 | Page 8 ===
+Find the value of the expression 2! × 4 − 3! × 5 + 4! × 6 − 5! × 7 + ... + 2010! × 2012 − 2011! × 2013 + 2012! where n! = 1 × 2 × 3 × ... × n
+
+=== Year 2012 | Paper R1 | Problem 17 | Page 9 ===
+The time now is between 10 00 and 11 00. Five minutes from now, the minute hand of a clock will be exactly opposite the place where the hour hand was three minutes ago. Find the exact time now.
+
+=== Year 2012 | Paper R1 | Problem 18 | Page 9 ===
+Ninety nine lines parallel to the base of a triangle divide the other 2 sides each into 100 equal parts and the area into 100 distinct parts. If the area of the largest of these parts is 5.97 cm^2, find the area of the original triangle in cm^2.
+
+=== Year 2012 | Paper R1 | Problem 19 | Page 10 ===
+When 1 litre of water is added to a mixture of alcohol and water, the new mixture is 33 1/3% alcohol. When 1 litre of alcohol is added to the new mixture, the result is 42 6/7% alcohol. Find the percentage of alcohol in the original mixture.
+
+=== Year 2012 | Paper R1 | Problem 20 | Page 10 ===
+A bag contains some blue, red and white balls. The number of blue balls is at least half the number of white balls. The number of blue balls is at most one third the number of red balls. The total number of white and blue balls is at least 58. Find the minimum number of red balls.
+
+=== Year 2013 | Paper R1 | Problem 1 | Page 1 ===
+If A = 3659993665789325876 × 344983488378276, then the number of digits in A is
+
+=== Year 2013 | Paper R1 | Problem 2 | Page 1 ===
+Calculate the sum 1 + 2 + 3 − 4 − 5 − 6 + 7 + 8 + 9 − 10 − 11 − 12 + ... − 2008 − 2009 − 2010 + 2011 + 2012 + 2013.
+
+=== Year 2013 | Paper R1 | Problem 3 | Page 2 ===
+The number of positive integers less than 2013 divisible by neither 5 nor 7 is
+
+=== Year 2013 | Paper R1 | Problem 4 | Page 2 ===
+How many whole numbers less than 4444 give remainder 12 when divided by 14, 14 when divided by 16, and 16 when divided by 18?
+
+=== Year 2013 | Paper R1 | Problem 5 | Page 3 ===
+Calculate: 1×(9×9+7)/11 + 2×(98×9+6)/111 + 3×(987×9+5)/1111 + ... + 8×(98765432×9+0)/111111111
+
+=== Year 2013 | Paper R1 | Problem 6 | Page 3 ===
+Four chemicals, W, X, Y and Z are mixed together using the following procedure: One part of W is mixed with three parts of X to get 10 ml of mixture A. Two parts of mixture A is then mixed with three parts of Y to get 10 ml of mixture B. Finally, four parts of the mixture B is mixed with one part of Z to get 10 ml of mixture C. What is the ratio of W to Z in the mixture C?
+
+=== Year 2013 | Paper R1 | Problem 7 | Page 4 ===
+Look at the picture, there are 3 ways of going from A to B. You can only move left to right, top to bottom or diagonally from top to bottom. You can not pass twice on same line for each way. Following the same rule, how many different ways are there to go from C to D? [Figure 1: a single unit square with A at top-left and B at bottom-right, with the diagonal AB drawn. Figure 2: a 3 by 3 grid of unit squares with C at top-left corner and D at bottom-right corner; the top-left-to-bottom-right diagonal is drawn in 5 cells: (row 1, col 1), (row 1, col 3), (row 2, col 2), (row 3, col 1), (row 3, col 3), rows counted from the top.]
+
+=== Year 2013 | Paper R1 | Problem 8 | Page 4 ===
+In the ancient kingdom of Utopia, its citizens can use n coins to buy anything that costs 1 cent, 2 cents, 3 cents, ... and so on up to $1 without needing any change. Given that coins only come in the denominations of 1 cent, 5 cents, 10 cents, 20 cents and 50 cents, what is the smallest possible value of n ?
+
+=== Year 2013 | Paper R1 | Problem 9 | Page 5 ===
+In △PQR, CAR, ABP and BCQ are straight lines such that AR = AC, BP = BA and CQ = CB. If the area of △ABC is 2.4 cm^2, find the area of △PQR in cm^2. [Figure: triangle PQR (P bottom-left, Q bottom-right, R top) containing a smaller triangle ABC inside; segment RC passes through A, segment PA passes through B, segment QB passes through C.]
+
+=== Year 2013 | Paper R1 | Problem 10 | Page 5 ===
+20 pupils chose to study English, Malay and Tamil. Each pupil must select at least 2 languages. There were 12 pupils studying English, 15 studying Malay and 18 studying Tamil. How many pupils studied all the 3 languages.
+
+=== Year 2013 | Paper R1 | Problem 11 | Page 6 ===
+The natural numbers are arranged in a triangular array as shown below and the rows are labelled. [Table: Row 1: 1; Row 2: 2 3; Row 3: 4 5 6 7; Row 4: 8 9 10 11 12 13 14 15; ...] Find the sum of the middles 2 numbers which are in the same row as 2013. (For example, in Row 4, the middle 2 numbers are 11 and 12 and their sum is 23)
+
+=== Year 2013 | Paper R1 | Problem 12 | Page 6 ===
+A window has 25 transparent panes in the form of grid as shown below. In how many ways can one colour 22 of these panes blue so that the window looks the same from inside and outside the house [Figure: a 5 by 5 grid of square panes.]
+
+=== Year 2013 | Paper R1 | Problem 13 | Page 7 ===
+Anthony is investigating a new game similar to chess, except it is played on a triangular board and a King can move one square right or up (but not left or down). He is counting the number of ways, T_2, T_3 and T_4, to get from A to B on different sized boards. He has investigated boards of size 2, 3, and 4 and found that T_2 = 1, T_3 = 2 and T_4 = 5. Find the value of T_5. [Figure: three staircase-shaped (triangular) chequered boards of sizes 2, 3 and 4; a board of size n has n squares in the bottom row, n−1 in the next row, ..., 1 in the top row, all aligned to the right; A is the bottom-left square and B is the single top square at the right; a King is drawn on one square of each board.]
+
+=== Year 2013 | Paper R1 | Problem 14 | Page 7 ===
+Three women X, Y and Z started their morning walk around a circular track from the same point A, with X and Y going in the anti-clockwise direction and Z going in the clockwise direction. The speeds of both X and Y are 170 metres per minute and 130 metres per minute respectively. Z met X after 18 minutes. He then met Y after another 3 minutes. Find the circumference of the circular track in metre. [Figure: a circle with its centre marked and point A on the circle.]
+
+=== Year 2013 | Paper R1 | Problem 15 | Page 8 ===
+Evaluate (1/3 + 3/4 + 2/5 + 5/7 + 7/8 + 9/20 + 10/21 + 11/24 + 19/35) × (2013 × 2013 − 2009 × 2017).
+
+=== Year 2013 | Paper R1 | Problem 16 | Page 8 ===
+Calculate the sum (1^2 + 1 + 1)/(1×2) + (2^2 + 2 + 1)/(2×3) + (3^2 + 3 + 1)/(3×4) + ... + (2012^2 + 2012 + 1)/(2012×2013).
+
+=== Year 2013 | Paper R1 | Problem 17 | Page 9 ===
+A number A has 2013 digits and is divisible by 9. The sum of all digits of A is a. The sum of all digits of a is b. The sum of all digits of b is c. Find the value of c.
+
+=== Year 2013 | Paper R1 | Problem 18 | Page 9 ===
+As shown in the diagram above, △ACD is isosceles, with AD = CD and ∠ADC = 86°. Given also that PT is parallel to AC, the points Q, R and S are on PT and B on AC are such that AB = PQ = QR = RS = ST. If ∠DAT = 87° and ∠PAC = 90°, find ∠AQB + ∠ARB + ∠ASB + ∠ATB in degrees. [Figure: horizontal segment PT with points P, Q, R, S, T from left to right, above and parallel to AC; A below P (PA vertical), B on AC directly below Q (QB vertical); D below AC forming triangle ACD; segments drawn from A to Q, R, S, T and from B to R, S, T.]
+
+=== Year 2013 | Paper R1 | Problem 19 | Page 10 ===
+School X and Y participated in RI Primary Mathematics World Contest 2012. Both schools did well with all their participants obtaining either a high distinction, distinction or merit. The number of high distinction from each school was the same. The ratio of the percentage of pupils who obtained high distinction from School X to that from School Y was 5 : 6. The ratio of the number of pupils who obtained distinction from School X to that from School Y was 7 : 4. The percentage of pupils who obtained distinction was 20% for both schools. If 40% of the pupils from School X obtained merit, what was the percentage of the pupils from School Y who obtained high distinction?
+
+=== Year 2013 | Paper R1 | Problem 20 | Page 10 ===
+Find the remainder when (2013201320137919)^2013 is divided by 99.
+
+=== Year 2014 | Paper R1 | Problem 1 | Page 1 ===
+A star is made by connecting the vertices of a rectangular pentagon ABCDE. The area of the pentagon ABCDE is 6.882cm^2, and the area of triangle ABE is 1.902cm^2. What is the area of triangle CDF in cm^2 [Figure: pentagon ABCDE (A at top, B upper right, C lower right, D lower left, E upper left) with all five diagonals drawn forming a star; F is the intersection of diagonals BD and CE. Shaded: triangle ABE and triangle CDF.]
+
+=== Year 2014 | Paper R1 | Problem 2 | Page 1 ===
+The sum of the perimeters of shapes OPQ and ABCDEFGHIJ is 9.95m. OGJ is quarter-circle of radius 1.4m and GF = AJ = 0.4m. Taking π = 22/7, find the perimeter of rectangle OQHP in m. [Figure: quarter-circle OGJ with centre O, OG vertical (G at top) and OJ horizontal (J at left), H on the arc. A strip of width 0.4 m runs below OJ and to the right of OG, so the outer shape is A (below J), B, C, D along the bottom, E, F up the right side, then G, arc through H, back to J. P is on OJ and Q is on OG with OQHP a rectangle (dashed HP and HQ); B and C are on AD directly below P and O, E is on DF level with O. Triangle OPQ is unshaded; the rest of the shape ABCDEFGHIJ is shaded.]
+
+=== Year 2014 | Paper R1 | Problem 3 | Page 2 ===
+What is the measure of the angle formed between the hour hand and the minute hand of a clock at 9:24?
+
+=== Year 2014 | Paper R1 | Problem 4 | Page 2 ===
+How many solutions are there to 1/a + 1/b = 8/15 with a and b being whole numbers and a < b?
+
+=== Year 2014 | Paper R1 | Problem 5 | Page 3 ===
+Calculate 2014/(2013 − 2012/(2011 − 2010/(... 5 − 4/(3 − 2/1))))
+
+=== Year 2014 | Paper R1 | Problem 6 | Page 3 ===
+How many ways are there to make $80 using some combination of $5, $10 and $20 notes?
+
+=== Year 2014 | Paper R1 | Problem 7 | Page 4 ===
+What is the last digit of 2014^2014 − 2014^2013 + 2014^2012 − 2014^2011 + ... − 2014^3 + 2014^2 − 2014^1?
+
+=== Year 2014 | Paper R1 | Problem 8 | Page 4 ===
+After John walked x% of the distance from his home to his school at a constant speed, he turned around and walked home, got his bicycle and cycled to his school and back home. John cycles three and a half times faster than he walks. Find the largest possible value of x so that returning home to get his bicycle did not take more time than him walking all the way to and from his school without his bicycle.
+
+=== Year 2014 | Paper R1 | Problem 9 | Page 5 ===
+The number 95_94775998 is divisible by 198. What is the missing digit?
+
+=== Year 2014 | Paper R1 | Problem 10 | Page 5 ===
+A pair of positive integers (a, b) is said to be an 'awesome pair' if a^2 − b^2 is positive and is a factor of 2014. How many awesome pairs are there with both a and b less than 100?
+
+=== Year 2014 | Paper R1 | Problem 11 | Page 6 ===
+A snooker table ABCD is 370cm by 180cm in size. There are pockets in the 4 corners and in the middle of the longer edges (ie. at A, B, C, D, E, F). When a ball is hit, you can assume that it bounces off the table at the same angle as it hits. A ball is hit towards edge DC from point P and goes into pocket F after 5 bounces. Given that P is 50cm from A, what is the distance DQ to the nearest cm? [Figure: rectangle with A top-left, B top-right, C bottom-right, D bottom-left; E is the midpoint of AB and F the midpoint of DC. P is on AD just below A. Dashed zigzag path: P down to Q on DC (near D), up to the top edge just right of E, down to DC near C, up to BC, then towards the upper part of the table.]
+
+=== Year 2014 | Paper R1 | Problem 12 | Page 6 ===
+In the diagram above, OAB is a circular sector with OA = OB and ∠AOB = 30°. A circle passing through A is drawn with centre C on OA, touching OB at a point D. If the area of the circular sector OAB is 7cm^2, find the area of the circle with its centre at C and radius CA in cm^2. [Figure: sector OAB with O at left, OA horizontal and OB rising at 30°, arc AB; circle centre C on OA passing through A and tangent to OB at D.]
+
+=== Year 2014 | Paper R1 | Problem 13 | Page 7 ===
+Calculate the sum 1 + 2 + 3 − 4 + 5 + 6 + 7 − 8 + 9 + 10 + 11 − 12 + ... + 2009 + 2010 + 2011 − 2012 + 2013 + 2014
+
+=== Year 2014 | Paper R1 | Problem 14 | Page 7 ===
+If a ⊕ b = 1/(1/a + 1/b) then what is (1 × 2) ⊕ (2 × 3) ⊕ (3 × 4) ⊕ ... ⊕ (2013 × 2014)?
+
+=== Year 2014 | Paper R1 | Problem 15 | Page 8 ===
+Martha writes down a list of numbers where each number is the sum of the previous two numbers on the list. The first numbers she writes down are both 1s, and so the third number she writes is 1 + 1 = 2. If she divides the 2014th number on the list by 7, what is the remainder?
+
+=== Year 2014 | Paper R1 | Problem 16 | Page 8 ===
+Esther has 25 coins in a single pile and she is trying to split them up so that each coin ends up in a pile by itself. Every time she splits a pile into 2 sub-piles, one with a coins and the other with b coins, she will get (a × b) points added to her 'score'. ( E.g. from a pile with 5 coins, which she splits into a sub-pile of 2 coins and another pile of 3 coins, she gets 6 points added to her score). From a starting score of 0 points, what is the largest score she can attain?
+
+=== Year 2014 | Paper R1 | Problem 17 | Page 9 ===
+7 women are standing in a row. Each woman has 3 hats, one red, one blue and one yellow. The woman in the middle (4th in the row) has a black hat and a white hat in addition to the 3 hats each has. How many combinations of hats can they wear if no 2 women next to each other wears a hat of the same colour?
+
+=== Year 2014 | Paper R1 | Problem 18 | Page 9 ===
+x is the smallest whole number whose digits add up to 2014. What is the sum of the first and last digits of x^2?
+
+=== Year 2014 | Paper R1 | Problem 19 | Page 10 ===
+How many perfect squares less than 1000 can be written as a sum of 2 consecutive numbers, and also as a sum of 3 consecutive numbers?
+
+=== Year 2014 | Paper R1 | Problem 20 | Page 10 ===
+How many whole numbers n not more than 2014 are there such that n/2014 is a fraction in its simplest form (ie. n and 2014 have no common factor > 1)?
+
+=== Year 2015 | Paper R1 | Problem 1 | Page 1 ===
+If A ⊗ B = B/A + 2A/B + 2015, find (5 ⊗ 10) − (10 ⊗ 15)
+
+=== Year 2015 | Paper R1 | Problem 2 | Page 1 ===
+Find the sum 4 + 8 + 16 + 32 + 64 + 128 + 256 + 512 + 1024 + 2048
+
+=== Year 2015 | Paper R1 | Problem 3 | Page 2 ===
+Which of the following numbers has the same number of divisors (including 1 and the number itself) as 2015? (Note that 2015 = 5 × 13 × 31) (i) 43 (ii) 64 (iii) 128 (iv) 1000 (v) None of the above
+
+=== Year 2015 | Paper R1 | Problem 4 | Page 2 ===
+What is the value of (2002.2002 + 20022002 + 200220022002)/(2015.2015 + 20152015 + 201520152015)?
+
+=== Year 2015 | Paper R1 | Problem 5 | Page 3 ===
+Two circle of equal radius with centres at A and B intersect at the points C and D. A further circle is drawn passing through both C and D, with its centre which is the midpoint of A and B and which is also mid-point of C and D. Given that the smaller circle has half the radius of one of the bigger circle, what is the ratio of the outer perimeter (solid line) of the shaded area to the inner perimeter (dotted line)? [Figure: two equal overlapping circles with centres A (left) and B (right) meeting at C (top) and D (bottom); a small circle centred at M (midpoint of AB and of CD) passes through C and D. Shaded: the union of the two big circles minus the small circle; the outer boundary is drawn solid and the small circle is dotted.]
+
+=== Year 2015 | Paper R1 | Problem 6 | Page 3 ===
+After a football game, each of the 11 players in a football team puts both their boots in one bag. The 4 defenders in the team wear red boots but the other player wear black boots. You begin taking boots out of the bag at random, one at a time, without replacement. What is the largest number of boots you might have to take out to get at least one pair of red boots worn by a defender?
+
+=== Year 2015 | Paper R1 | Problem 7 | Page 4 ===
+50 boxes are arranged in a circle, and numbered 1 to 50. A boy walks around the circle, placing 1 cent in box number 1, 2 cents in box number 2, 3 cents in box number 3, and so on till he gets back to where he started. He continues walking, and on the second time round, he stops at every even numbered box, and removes the money in it. On the third time round, he stops at every box which is a multiple of 3. If the box contains money, he removes it, but if it is empty he replaces the original amount. On the fourth time round, he does the same with every box which is a multiple of 4. If he continues in this way, what will be the total amount left in the boxes after he has walked around the circle 50 times?
+
+=== Year 2015 | Paper R1 | Problem 8 | Page 4 ===
+As shown below, Aaron writes down all the multiples of 5 from 5 to 2015 inclusive to form a number 510152025......20102015 How many digits are there in this number?
+
+=== Year 2015 | Paper R1 | Problem 9 | Page 5 ===
+In the time it takes Ben to walk 11 steps, Charlie walks 9 steps. If Charlie covers the same distance in 5 steps as Ben does in 7 steps, what is the ratio of the speed of Ben to the speed of Charlie?
+
+=== Year 2015 | Paper R1 | Problem 10 | Page 5 ===
+I pick a whole number. If it is even, I divide it by 2, if it is odd then I multiply it by 3 and then add 5. I then repeat this process with the new number formed. Starting with the number 15, I form the sequence 15 → 50 → 25 → 80 → 40 → 20... Consider the sequences starting with the numbers 1 to 10. What is the smallest number which does not appear in any of the above sequences?
+
+=== Year 2015 | Paper R1 | Problem 11 | Page 6 ===
+A staircase consists of 8 steps. John walks from the bottom to the top, each time climbing 1, 2, or 3 steps. How many different ways can he climb the staircase?
+
+=== Year 2015 | Paper R1 | Problem 12 | Page 6 ===
+In the figure below, ABCD is a square of length 10 cm and E is the mid-point of CD. Find (area of the shaded region)/(area of the square ABCD) [Figure: square with A top-left, D top-right, C bottom-right, B bottom-left, AD = AB = 10; E is the midpoint of the right side DC. Segments AE, BD and BE are drawn. Shaded (lightly): the triangle bounded by BD, BE and AE, i.e. with vertices B, E and the intersection point of AE and BD.]
+
+=== Year 2015 | Paper R1 | Problem 13 | Page 7 ===
+Find the remainder when the number 2010201120120000201320142015 is divided by 88.
+
+=== Year 2015 | Paper R1 | Problem 14 | Page 7 ===
+Two different integers are selected from 1 to 19 inclusive. In how many of these combinations of 2 numbers are their sum a multiple of 3?
+
+=== Year 2015 | Paper R1 | Problem 15 | Page 8 ===
+Peter and Ryan set off for school together and must arrive at their school 25 km away at the same time. They share the use of the only available bicycle. Ryan sets out riding at 10 km/h, leaves the bicycle and walks at 6 km/h. Peter walks at 5 km/h, reaches the bicycle and rides at 12 km/h. Find the distance in km for which Ryan rides the bicycle.
+
+=== Year 2015 | Paper R1 | Problem 16 | Page 8 ===
+Find the value of 1/31 + 1/(31 + 62) + 1/(31 + 62 + 93) + ... + 1/(31 + 62 + 93 + ... + 2015)
+
+=== Year 2015 | Paper R1 | Problem 17 | Page 9 ===
+A pattern is formed using 6 regular 5-pointed stars as shown. What is the relation between a, b and c? (i) a = 2b + c (ii) a = b + 2c (iii) b = 2c − a (iv) a + b + c = 180° (v) None of the above [Figure: six regular 5-pointed stars arranged in a triangular cluster (two at the top, one at each side in the middle, one at the bottom, and one in the centre formed by the inner lines), with points of adjacent stars touching; their vertices are joined by a long horizontal line across the upper part. Angle a is marked at the base of the central upward star point between the horizontal line and a star edge; angle b is marked between the horizontal line and an edge of a neighbouring star point to the right; angle c is marked lower right between a horizontal edge and a slanted line.]
+
+=== Year 2015 | Paper R1 | Problem 18 | Page 9 ===
+There are 4 bags labelled A, B, C and D. 8 identical coins are then distributed into the 4 bags such that each bag must contain at least one coin. Find the number of possible ways that this can be done.
+
+=== Year 2015 | Paper R1 | Problem 19 | Page 10 ===
+If the whole numbers are written in an anticlockwise spiral on a square grid as shown, which number appears directly above 2015? [Table: spiral grid, rows top to bottom: row 1: (blank) (blank) ... 33 32 31; row 2: 17 16 15 14 13 30; row 3: 18 5 4 3 12 29; row 4: 19 6 1 2 11 28; row 5: 20 7 8 9 10 27; row 6: 21 22 23 24 25 26. Arrows show the order 1 → 2 → 3 (up) → 4 → 5 (left) → 6 → 7 (down) → 8 → 9 → 10 (right) → 11 → 12 → 13 (up) → 14 → 15 → 16 → 17 (left) → 18 → ... → 21 (down) → 22 → ... → 26 (right) → 27 → ... → 31 (up) → 32 → 33 → ... (left).]
+
+=== Year 2015 | Paper R1 | Problem 20 | Page 10 ===
+Jack and Ken play a game of picking up coins from a pile of 2015 coins. They take turn to pick up coins with Jack starting first. The rules of the game require each person to pick up only 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 or 11 coins at each turn and the person to pick up the last coin is the loser. How many coins should Jack pick up at his first turn to ensure that he will be the winner?
+
+=== Year 2016 | Paper R1 | Problem 1 | Page 1 ===
+What is (1.02 + 2.04 + 4.08 + 8.16 + 16.32 + 32.64)/(3.06 + 6.12 + 12.24 + 24.48) in its simplest form?
+
+=== Year 2016 | Paper R1 | Problem 2 | Page 1 ===
+Minnie, Nelson, Omar and Petra are arranging a Secret Santa gift exchange: they will each buy one gift for another member and the group, and each receive one gift. They are not allowed to receive their own gift. How many ways can they exchange gifts?
+
+=== Year 2016 | Paper R1 | Problem 3 | Page 2 ===
+When these nets are folded to make cubes, which (if any) will have the two coloured faces directly opposite each other? [Figure: four cube nets A, B, C, D, each made of 6 unit squares with two squares shaded. A: row 1 has a shaded square in column 3; row 2 has squares in columns 2, 3 and a shaded square in column 4; row 3 has squares in columns 1, 2. B: a vertical column of squares (top blank, second shaded, third blank) above a bottom row of three squares whose rightmost square is shaded. C: two blank squares stacked in column 1, two shaded squares stacked in column 2 (beside and below them), then a bottom row of two blank squares in columns 2-3. D: a row of three squares (blank, shaded, blank) with one square above the right end and a bottom row of two squares under the right end, the right one shaded.]
+
+=== Year 2016 | Paper R1 | Problem 4 | Page 2 ===
+How many perfect squares divide 2016?
+
+=== Year 2016 | Paper R1 | Problem 5 | Page 3 ===
+Christopher has a list of all the numbers from 1 to 100 (including both 1 and 100). He starts by deleting one of the numbers from the list, and proceeds as follows: If any multiples of the last number deleted are still on the list, delete the largest such multiple. Otherwise delete the largest remaining factor of the last number deleted. Keep repeating this step until no more numbers can be deleted. If the first number Christopher deletes is 71, which is the last number he will delete?
+
+=== Year 2016 | Paper R1 | Problem 6 | Page 3 ===
+Caroline, Dylan and Eddie are playing a game. At the beginning of the game, they each have a number of counters. The counters are shared out between the players in the ratio 5:4:3. By the end of the game, the total number of counters is the same but the number of counters each player has is in the ratio 4:3:2. If one of them won 8 counters over the course of the game, how many counters did the three players have in total at the beginning of the game?
+
+=== Year 2016 | Paper R1 | Problem 7 | Page 4 ===
+For a whole number n, n! = n × (n − 1) × (n − 2) × ... × 3 × 2 × 1. What is the remainder when 1! + 2! + 3! + ... + 2015! + 2016! is divided by 15?
+
+=== Year 2016 | Paper R1 | Problem 8 | Page 4 ===
+What proportion of the regular hexagon ABCDEF is shaded? [Figure: regular hexagon ABCDEF (F, E on top, A left, D right, B, C at bottom). The shaded region is a star/arrow-shaped polygon formed by segments joining vertices: it has corners at A, F, E and D and reaches down to side BC near B, made from overlapping triangles drawn between the vertices of the hexagon.]
+
+=== Year 2016 | Paper R1 | Problem 9 | Page 5 ===
+Colin forms a 32 × 9 × 7 cuboid from 2016 unit cubes, and paints the exterior of this cuboid red. How many of the 2016 unit cubes have 0 or 2 of their faces painted red?
+
+=== Year 2016 | Paper R1 | Problem 10 | Page 5 ===
+The image below shows part of a floor which is tiled by two different kinds of rhombus, one narrow Type 1 rhombus, the other wide Type 2 rhombus. What is the difference between the biggest angle of the Type 2 rhombuses and the smallest angle of the Type 1 rhombuses? [Figure: a rectangular section of floor tiled with narrow rhombuses labelled 1 and wide rhombuses labelled 2; one of each is labelled "Type 1" and "Type 2". Several rhombuses meet at common vertices with no gaps.]
+
+=== Year 2016 | Paper R1 | Problem 11 | Page 6 ===
+The figure below is formed of three circles with integer radius which intersect at a common point. The largest circle has a radius of 17 units. Given that area A is the same as area B, what is the sum of the radii of all three circles? [Figure: three circles all internally tangent at a common point on the right: the largest circle (radius 17), a medium circle inside it and a small white circle inside the medium one. Region A is the dark crescent between the largest and medium circles; region B is the lighter crescent between the medium and small circles.]
+
+=== Year 2016 | Paper R1 | Problem 12 | Page 6 ===
+A square with side length 1 cm is removed from each corner of a square with side length 6 cm. What is the area of the largest square that can be drawn in the remaining shape? [Figure: a 6 cm square with a 1 cm × 1 cm square shaded/removed at each of its four corners.]
+
+=== Year 2016 | Paper R1 | Problem 13 | Page 7 ===
+In some cultures it is considered unlucky when the 13th day of a month falls on a Friday. What is the most number of times this could happen in one calendar year (which could be a leap year)?
+
+=== Year 2016 | Paper R1 | Problem 14 | Page 7 ===
+Alice and Bob are the world's foremost cup stackers - people who build triangular towers out of cups. Alice had exactly enough cups to build a tower 50 levels tall, and Bob has exactly enough cups to build a tower 38 levels tall. How many levels tall is the tallest tower they could build using all their cups together? [Figure: a triangular tower of cups 5 levels tall, with 5 cups on the bottom level, 4 on the next, ..., 1 on top.]
+
+=== Year 2016 | Paper R1 | Problem 15 | Page 8 ===
+Let x = 7^a + 21^b, where a and b are some positive integers. Which of the following could not be the last two digits of x? 20, 22, 24, 28, None of the above
+
+=== Year 2016 | Paper R1 | Problem 16 | Page 8 ===
+For how many 4-digit numbers is the sum of the two middle digits equal to the sum of the two outer digits?
+
+=== Year 2016 | Paper R1 | Problem 17 | Page 9 ===
+Joanna and Kai's car has broken down, so their daughter Layla comes to fetch them in her own car. Only two people (including the driver) can fit into Layla's car, so they use the following procedure: Layla drives Joanna some distance in the car, while Kai follows them on foot. Then Layla drops Joanna, who will continue on foot and turns back, driving until she meets Kai. She picks up Kai and they drive onwards until they catch up with Joanna. Then Kai and Joanna swap, and the process continues for 3 more times until they all reach home. If Layla drives at a constant speed of 50 km/h and Joanna and Kai both walk at a constant speed of 4 km/h, for what fraction of the journey will Layla be alone in her car?
+
+=== Year 2016 | Paper R1 | Problem 18 | Page 9 ===
+How many 5-digit numbers are there whose product of digits is 2016?
+
+=== Year 2016 | Paper R1 | Problem 19 | Page 10 ===
+ABC, DEF and GHI are equilateral triangles. D lies 3/4 of the way along AB, E lies 3/4 of the way along BC, and F lies 3/4 of the way along CA. Similarly, G lies 3/4 of the way along DE, H lies 3/4 of the way along EF and I lies 3/4 of the way along FD. What is the ratio of the area of triangle GHI to the area of triangle ABC? [Figure: equilateral triangle ABC with D on AB, E on BC, F on CA forming inscribed triangle DEF; G on DE, H on EF, I on FD forming inscribed triangle GHI, which is shaded.]
+
+=== Year 2016 | Paper R1 | Problem 20 | Page 10 ===
+Toby and Sam are playing a game. They have two bags of sweets. Bag A contains three sweets, and bag B contains six sweets. They take turns to remove at least one sweet according to this rule: On his turn, a player may take either as many sweets as he likes from one bag (including all the sweets in the bag), or the same number of sweets from both bags. The person who takes the last sweet is the winner. If Toby goes first, which of these 1st moves guarantees that he will win? i) Remove all sweets from bag A ii) Remove one sweet from bag A iii) Remove one sweet from bag B iv) Remove two sweets from bag B v) None of the above.
+
+=== Year 2017 | Paper R1 | Problem 1 | Page 1 ===
+Find the sum 1/2 + (1/3 + 2/3) + (1/4 + 2/4 + 3/4) + (1/5 + 2/5 + 3/5 + 4/5) + (1/2017 + 2/2017 + ... + 2015/2017 + 2016/2017).
+
+=== Year 2017 | Paper R1 | Problem 2 | Page 1 ===
+Triangle ABC is a right-angled triangle. P is the midpoint of AC and ∠APB = 120°. Given that AC = 5, what is the length of BC? [Figure: right-angled triangle ABC with the right angle at B (A bottom-left, B bottom-right, C above B); P is the midpoint of hypotenuse AC (AP = PC marked equal); segment PB drawn with ∠APB = 120° marked.]
+
+=== Year 2017 | Paper R1 | Problem 3 | Page 2 ===
+Calculate (2017 7/8 × 3 2/3 − 2016.875 × 11/3)/((2017 1/3 − 2016.875) × 17) × 3 23/32.
+
+=== Year 2017 | Paper R1 | Problem 4 | Page 2 ===
+The diagram below has 10 boxes. The numbers in the second and ninth boxes are 177 and 130 respectively. Find the first number in the box if: i) The sum of all numbers in the boxes is 2017 and ii) The sum of the numbers in any three consecutive boxes is the same. [Table: a row of 10 boxes: _, 177, _, _, _, _, _, _, 130, _]
+
+=== Year 2017 | Paper R1 | Problem 5 | Page 3 ===
+How many 3-digit and 4-digit numbers can be formed using each of the 4 digits from 2017 at most once?
+
+=== Year 2017 | Paper R1 | Problem 6 | Page 3 ===
+In one morning, a ferry travelled from Island A to Island B and another ferry travelled from Island B to Island A at a different speed. They started at the same time and met first time at 8.30 am. The two ferries then sailed to their destinations, stopped for 15 minutes and returned. The two ferries met again at 9.23 am. Suppose the two ferries travelled at a uniform speed throughout the whole journey, what time did the two ferries start their journey?
+
+=== Year 2017 | Paper R1 | Problem 7 | Page 4 ===
+Grace and Michelle are playing a game with their teacher. The teacher places ten counters of different colours and shapes on the table in front of them as shown in the diagram below: The teacher tells them both that she has hidden a coin under one of the counters. She then tells Grace the shape of the counter she has hidden it under, and tells Michelle the colour of the counter. She proceeds to ask them in turn whether they know which counter the coin is hidden under. They can only reply yes or no, but they can listen to each other's answers. Their answers are as follows: Grace: "No". Michelle: "No". Grace: "No". Michelle: "Yes". Assuming they answer "Yes" only when they are 100% sure and "No" otherwise, which counter is the coin hidden under? [Figure: ten counters in two rows. Row 1: Red square, Yellow counter (faint outline, appears to be a circle or hexagon), Blue pentagon, Pink triangle, Red circle. Row 2: Green parallelogram, Pink counter (faint outline, appears to be a cross/plus shape), Green square, Yellow counter (outline not visible), Blue triangle.]
+
+=== Year 2017 | Paper R1 | Problem 8 | Page 4 ===
+The figure below is made up of four overlapping circles, each with a radius of 1 cm, which are centred at the points A, B, C and D respectively. What is the perimeter of the shaded region in cm? [Take π = 22/7] [Figure: four equal circles centred at the corners of a square ABCD (D top-left, C top-right, A bottom-left, B bottom-right), each circle passing through the centres of the adjacent circles; the shaded region is the central four-lobed region formed by the overlaps of the circles, bounded by circular arcs.]
+
+=== Year 2017 | Paper R1 | Problem 9 | Page 5 ===
+Calculate 5/36 + 7/144 + 9/400 + 11/900 + 13/1764 + 15/3136.
+
+=== Year 2017 | Paper R1 | Problem 10 | Page 5 ===
+Let x = 2017^2017 + 2017. How many of the following statements are true? (I) The remainder when you divide x by 5 is 2. (II) The remainder when you divide x by 6 is 2. (III) The remainder when you divide x by 7 is 2. (IV) The remainder when you divide x and 8 is 2.
+
+=== Year 2017 | Paper R1 | Problem 11 | Page 6 ===
+John chooses three different numbers from 2017, 2018, 2019, ..., 2033, 2034, 2035. How many ways can this be done if the sum of these 3 numbers is to be divisible by 4?
+
+=== Year 2017 | Paper R1 | Problem 12 | Page 6 ===
+The diagram below is made from quarter circles on a square grid with divisions 1 cm apart. What is the total area of the shaded region in cm^2? [Take π = 22/7] [Figure: a 5 × 5 grid of 1 cm squares. The shaded region consists of crescent-shaped bands bounded by quarter-circle arcs: a large curved band running from the bottom-left corner of the grid to the top-right corner (its outer edge is a quarter circle of radius 5 centred at the top-left corner), a thinner crescent on its upper-left side running from the bottom-left corner up to about the centre of the grid, and another thin crescent branching from about the centre up towards the top-right.]
+
+=== Year 2017 | Paper R1 | Problem 13 | Page 7 ===
+If S = 2 + 22 + 222 + 2222 + ... + 222...222 (2017 "2"s), what is the sum of the last 5 digits of S?
+
+=== Year 2017 | Paper R1 | Problem 14 | Page 7 ===
+ABCD is a square with side length of 2 units, and P is the midpoint on CD. What is the total area of the shaded region, which is made up of a square and 2 triangles, in units^2? [Figure: square ABCD with D top-left, C top-right, A bottom-left, B bottom-right; P is the midpoint of DC. Lines AP and BD meet at a point Q. Shaded: the small square with opposite corners D and Q (sides parallel to the big square), triangle PQC, and triangle AQB.]
+
+=== Year 2017 | Paper R1 | Problem 15 | Page 8 ===
+A pirate has buried his treasure chest under a beach, and he drew a map of the beach in the form of a grid where each section is numbered from 1 to 49 as shown in the diagram below: The shape of his treasure chest is made up of squares like those shown in the choices below which are aligned perfectly with the grid above when buried. To find his way back to the treasure, he made a note of the sum of all the grid numbers that sit above the chest once buried. If the sum is 86, which of the following is a possible shape of the chest? [Table: 7 × 7 grid numbered row by row: row 1: 1 2 3 4 5 6 7; row 2: 8 9 10 11 12 13 14; row 3: 15 16 17 18 19 20 21; row 4: 22 23 24 25 26 27 28; row 5: 29 30 31 32 33 34 35; row 6: 36 37 38 39 40 41 42; row 7: 43 44 45 46 47 48 49] [Options: (a) a horizontal row of 3 squares; (b) an L-shape of 3 squares: 2 squares in the top row and 1 square below the left one; (c) a plus/cross shape of 5 squares; (d) 5 squares: a row of 3 with one square below each end (arch shape); (e) None of the above]
+
+=== Year 2017 | Paper R1 | Problem 16 | Page 8 ===
+Fractions in the form a/b are created such that a and b are positive integers and a + b = 425. How many such fractions are there which are less than 1 and which cannot be simplified further (that is to say, a and b have no common factors others than 1)?
+
+=== Year 2017 | Paper R1 | Problem 17 | Page 9 ===
+Let A = 1 × 2 × 3 × ... × 2008 × 2009 × 2010. Reading the digits of A from right to left, what is the first non-zero digit?
+
+=== Year 2017 | Paper R1 | Problem 18 | Page 9 ===
+Pencils of the same shape and size are placed in a big container. There are 9 different colours and 75 pencils in each colour. What is the minimum number of pencils that must be drawn from the container to ensure that the pencils are of at least 5 different colours with at least 10 pencils for each colour?
+
+=== Year 2017 | Paper R1 | Problem 19 | Page 10 ===
+Consider the three numbers 2017, 2758 and 3670. When they are divided by a number A, the remainder is the same for each of the three numbers. What is the sum of the possible values of A?
+
+=== Year 2017 | Paper R1 | Problem 20 | Page 10 ===
+Box A contains four times as many coins as Box B. 6% of the coins in Box A are removed and transferred to Box C. 20% of the coins in Box B are removed and transferred to Box C. There are now 1220 coins in Box C, which is 22% more than the original number of coins in Box C. How many coins were there in box A at the beginning?
+
+=== Year 2018 | Paper R1 | Problem 1 | Page 1 ===
+If the positive even integers are arranged in rows of eleven as shown below, then "2018" will appear in the m^th row and n^th column. Find m + n. (Eg. "58" appears in the 3rd row and 7th column, so that m + n = 10) [Table: row 1: 2 4 6 8 10 12 14 16 18 20 22; row 2: 24 26 28 30 32 34 36 38 40 42 44; row 3: 46 48 50 52 54 56 58 60 62 64 66; ...]
+
+=== Year 2018 | Paper R1 | Problem 2 | Page 1 ===
+The figure below is composed of three 1/4 - arcs of a circle of radius 2 cm connected to a 3/4 - arc of a circle. Find the area enclosed by the figure in cm^2. You may take π = 22/7 in your calculations. [Figure: a vase-shaped closed curve: the bottom is a 3/4-circle arc (the body), joined at its two upper ends to two quarter-circle arcs curving outwards to form the neck, and the top opening is closed by a third quarter-circle arc curving downwards.]
+
+=== Year 2018 | Paper R1 | Problem 3 | Page 2 ===
+Calculate 1/2 (2019×2018 − 2018×2017 + 2017×2016 − 2016×2015 + ... + 5×4 − 4×3 + 3×2 − 2×1)
+
+=== Year 2018 | Paper R1 | Problem 4 | Page 2 ===
+Calculate (403 3/5 + 183 5/11 + 155 3/13 + 118 12/17) ÷ (1009/15 + 1009/33 + 1009/39 + 1009/51).
+
+=== Year 2018 | Paper R1 | Problem 5 | Page 3 ===
+In a class of pupils, 80% participated in basketball, 85% participated in football, 74% participated in softball and 68% participated in squash. Find the minimum percentage of pupils who participated in all the four sports events.
+
+=== Year 2018 | Paper R1 | Problem 6 | Page 3 ===
+How many paths, which follow the line segments in the diagram below, are there from P to Q if all the paths must always be moving to the right? [Figure: a horizontal strip of 14 equilateral triangles shaped like an elongated hexagon. P is the left vertex and Q the right vertex of a horizontal middle line PQ divided into 4 equal segments; a top line and a bottom line each have 4 vertices (3 segments); each top and bottom vertex is joined to the two nearest middle-line points, forming the triangles.]
+
+=== Year 2018 | Paper R1 | Problem 7 | Page 4 ===
+A particular cattle is fed 7 kg, 8 kg and 9 kg of special food on Day 1, 2 and 3 respectively by a farmer. From Day 4 onwards, the amount of food fed to the cattle follows the following rule: (i) if the total amount of food fed to the cattle in the past 3 days is 24 kg or more, the cattle will be fed 2 kg less than the day before. (ii) if the total amount of food fed to the cattle in the past 3 days is less than 24 kg, the cattle will be fed 1 kg more than the day before. Calculate the minimum number of days for the total amount of food fed to the cattle to exceed 2018 kg.
+
+=== Year 2018 | Paper R1 | Problem 8 | Page 4 ===
+Two motor-cyclists John and Kevin were 800 km apart and travelling towards each other at a constant speed. They started at the same time, meeting after 8 hours. If Kevin started 1 1/2 hours later than John, they would be 70 km apart 8 hours after John started. At what speed was John travelling in km/h?
+
+=== Year 2018 | Paper R1 | Problem 9 | Page 5 ===
+The diagram shows 2 circles, each with radius 3 cm and touching at point C. The points A, B, C, D, E, F and G are positioned such that all the arcs AB, BC, CD, DE, EF, FC, CG and GA are all equal in length. An ant walks along the figure "8" path EFCGABCDE in that order and after which it retraces the path again and again. After the ant has walked 2018π, where is the ant? [Figure: two equal circles side by side touching at C. Left circle: A at its leftmost point, B at its top, G at its bottom. Right circle: F at its top, E at its rightmost point, D at its bottom.]
+
+=== Year 2018 | Paper R1 | Problem 10 | Page 5 ===
+Find the exact number of minutes after 3.00 pm when the minute and hour hands are first at 90° to each other.
+
+=== Year 2018 | Paper R1 | Problem 11 | Page 6 ===
+Eight pupils from Victory Primary School take a Mathematics test, but none of the pupils wrote his/her name on the test. The tests are therefore handed back to the pupils at random. In how many ways can exactly 5 of the 8 pupils get the correct test back?
+
+=== Year 2018 | Paper R1 | Problem 12 | Page 6 ===
+What are the last 2 digits on the right in the expansion of the expression 2^2018201 − 8?
+
+=== Year 2018 | Paper R1 | Problem 13 | Page 7 ===
+A 6-digit number starting with 18, 18ABCD, is a multiple of 6, 7, 9 and 10. Find (A + B + C + D) for the smallest such number?
+
+=== Year 2018 | Paper R1 | Problem 14 | Page 7 ===
+In triangle OTV, points P and R are on the side OT and points Q, S and U are on the side OV. Given that the areas of △OPQ, △PQR, △QRS, △RST and △STU are all equal to 30cm^2, find the area of △SRU in cm^2. [Figure: triangle OTV with O at bottom-left, T at bottom-right, V at top-right; P and R lie on OT in the order O, P, R, T; Q, S, U lie on OV in the order O, Q, S, U, V. Segments PQ, QR, RS, ST, TU and RU are drawn, forming a zigzag of triangles OPQ, PQR, QRS, RST, STU.]
+
+=== Year 2018 | Paper R1 | Problem 15 | Page 8 ===
+A 14-digit number 666666XY444444 is a multiple of 26. If X and Y are both positive, what is the smallest value of X + Y?
+
+=== Year 2018 | Paper R1 | Problem 16 | Page 8 ===
+As shown in the figure below, ABCD is a trapezium with ∠BAD = ∠ABC = 90° and its area is equal to 90cm^2. AD = 8cm and BC = 10cm. AC and BD are diagonals in the trapezium. Find the area of triangle ABP in cm^2. [Figure: right trapezium ABCD with AB horizontal at the bottom, AD and BC vertical (AD = 8 on the left, BC = 10 on the right), right angles at A and B; diagonals AC and BD intersect at P.]
+
+=== Year 2018 | Paper R1 | Problem 17 | Page 9 ===
+The first 2018 integers (1, 2, 3, ..., 2017, 2018) are written on the blackboard. What is the minimum number of integers that should be erased from the blackboard, so that the last digit of the product of the remaining integers is 2?
+
+=== Year 2018 | Paper R1 | Problem 18 | Page 9 ===
+Calculate 1/(5^5 + 1) + 1/(5^5 + 5) + 1/(5^5 + 5^2) + ... + 1/(5^5 + 5^8) + 1/(5^5 + 5^9) + 1/(5^5 + 5^10)
+
+=== Year 2018 | Paper R1 | Problem 19 | Page 10 ===
+25 identical 1-dollar coins are to be distributed to 3 brothers. In how many ways can this be done if each brother must get at least $5?
+
+=== Year 2018 | Paper R1 | Problem 20 | Page 10 ===
+Find the total number of ways that 270 can be written as a sum of at least 2 consecutive positive integers.
+
+=== Year 2019 | Paper R1 | Problem 1 | Page 1 ===
+A, B, C and D are 4 numbers such that A − B = 2017, C − B = 2018 and C − D = 2019, find the value of (A − D)/((A − C)(B − D))
+
+=== Year 2019 | Paper R1 | Problem 2 | Page 1 ===
+How many numbers which are greater than 200 can be formed by using digits from 2019 at most once?
+
+=== Year 2019 | Paper R1 | Problem 3 | Page 2 ===
+A bag contains only yellow, green and red marbles. The ratio of the number of yellow marbles to the number of green marbles is 4:7. The ratio of the number of green marbles to the number of red marbles is 2:3. There are 40 yellow marbles in the bag. Find the total number of green and red marbles in the bag.
+
+=== Year 2019 | Paper R1 | Problem 4 | Page 2 ===
+Given that (2 3/5 − 7/3 (8.5 − x)) ÷ (1 ÷ (3.05 + 4 9/20)) = 2, find the value of x.
+
+=== Year 2019 | Paper R1 | Problem 5 | Page 3 ===
+Calculate 2018^2/673 − 2017^2/673 + 2016^2/673 − 2015^2/673 + ... + 2^2/673 − 1^2/673
+
+=== Year 2019 | Paper R1 | Problem 6 | Page 3 ===
+How many of the first 729 positive integers are perfect squares, cubes or both?
+
+=== Year 2019 | Paper R1 | Problem 7 | Page 4 ===
+In the diagram below, ABCD is a rectangle with BC = 7 cm and CD = 3 cm. If the sum of area of triangle ABF and area of triangle CDH is 7cm^2, find the area of the quadrilateral EFGH in cm^2. [Figure: rectangle ABCD with A top-left, D top-right, B bottom-left, C bottom-right. E is a point on AD. Diagonals AC and BD meet at G; EB meets AC at F and EC meets BD at H. Quadrilateral EFGH is shaded.]
+
+=== Year 2019 | Paper R1 | Problem 8 | Page 4 ===
+The diagram shows 5 circles, each with radius 7 cm. By taking π = 22/7, find the total area of the shaded parts. [Figure: a closed five-segment zigzag path (a self-intersecting pentagon/star-like shape) with a circle of radius 7 cm centred at each of its 5 vertices. At the top vertex the shaded part is the part of the circle outside the angle (the reflex sector); at each of the other four vertices the shaded part is the sector inside the angle of the path.]
+
+=== Year 2019 | Paper R1 | Problem 9 | Page 5 ===
+Two trains are travelling in the same direction along parallel tracks. Train A is 300 metres long and travelling at 75 km/h. Train B is 400 metres in length and 8 km ahead of Train A (this distance is measured from the back of Train B to the front of Train A). Twenty minutes later, Train A is 8 km ahead of Train B. Assuming that the speed of each train is constant and distance between 2 tracks is very small, find the speed of Train B in km/h.
+
+=== Year 2019 | Paper R1 | Problem 10 | Page 5 ===
+How many different triangles can be formed by connecting 3 of the 11 points below, where 5 points lie on a line while the other 6 points lie on a different line. [Figure: 5 points equally spaced on an upper horizontal line and 6 points equally spaced on a lower parallel line.]
+
+=== Year 2019 | Paper R1 | Problem 11 | Page 6 ===
+If A = 9 + 999 + 99999 + ... + 999...999 (2017 "9") + 999...999 (2019 "9"), find the sum of the digits of A.
+
+=== Year 2019 | Paper R1 | Problem 12 | Page 6 ===
+Calculate (1/31 + 1/42 + 1/49 + 1/51) × (1/42 + 1/49 + 1/51 + 1/65) − (1/31 + 1/42 + 1/49 + 1/51 + 1/65) × (1/42 + 1/49 + 1/51)
+
+=== Year 2019 | Paper R1 | Problem 13 | Page 7 ===
+Numbers 1, 2, 3, ..., 8, 9, 10 are placed in a bag and drawn at random with replacement. How many ways can three numbers be drawn whose sum is 13?
+
+=== Year 2019 | Paper R1 | Problem 14 | Page 7 ===
+In the above diagram, ABCDE is a regular pentagon (all its sides are equal and all its angles are equal). CDFG is a square and △BCH is a equilateral. Find angle CGH. [Figure: regular pentagon ABCDE with A at the top, B upper right, C lower right, E upper left, D lower left. Square CDFG is drawn below side DC (F below D, G below C). Equilateral triangle BCH is drawn outside the pentagon on side BC, with H to the right. Segment GH is drawn.]
+
+=== Year 2019 | Paper R1 | Problem 15 | Page 8 ===
+Dave is playing a game called Mod Seven. At the beginning of the game, the arrow points to one of the 7 numbers. On each turn, the arrow is rotated clockwise by the number of spaces indicated by the arrow at the beginning of the turn. For example, if Mod Seven starts with arrow pointing at 4, then on the first turn, the arrow is rotated clockwise 4 spaces so that it now points at 1. The arrow will then move 1 space on the next turn, and so on. If the arrow points at 6 after the 2019th turn, at which number did the arrow point after the first turn? [Figure: a circular dial divided into 7 equal sectors numbered 1 to 7 clockwise (7 at the top), with a central arrow currently pointing at 4.]
+
+=== Year 2019 | Paper R1 | Problem 16 | Page 8 ===
+Mr Chan has a certain number of pencils to give to pupils in the 3 classes he teaches X, Y and Z. If all the pencils are distributed to classes X, Y and Z, each pupil will get 42 pencils. If all the pencils are distributed to class X only, each pupil will get 105 pencils. If all the pencils are distributed to class Y only, each pupil will get 98 pencils. If all the pencils are distributed to class Z only, how many pencils will each get?
+
+=== Year 2019 | Paper R1 | Problem 17 | Page 9 ===
+The triangle above is divided into nine stripes of equal width and each strip is parallel to the base of the triangle. If the total area of the unshaded strips is 88cm^2, find the total area of the shaded strips in cm^2 [Figure: a triangle divided by lines parallel to its base into 9 strips of equal width; counting from the top vertex, strips 1, 3, 5, 7 and 9 are shaded and strips 2, 4, 6 and 8 are unshaded.]
+
+=== Year 2019 | Paper R1 | Problem 18 | Page 9 ===
+A is the largest integer such that 14A has exactly 2019 digits. Counting from right to left, what is the 100th digit of A?
+
+=== Year 2019 | Paper R1 | Problem 19 | Page 10 ===
+John writes a number with 729 digits on the blackboard, each digit is either 1 or 2. Esther creates a new number with 2187 (= 3 × 729) digits by replacing each 1 with 112 and each 2 with 111. For example, if John's number begins with 2112, then Esther's number would begin with 111112112111. After Esther finishes writing her number, she notices her leftmost 729 digits in her number and John's number are the same. How many times do five 1s occur consecutively in John's number?
+
+=== Year 2019 | Paper R1 | Problem 20 | Page 10 ===
+Find the value 1/7 + 1/7^2 + 2/7^3 + 3/7^4 + 5/7^5 + 8/7^6 + 13/7^7 + ... where the numerator of each fraction comes from the Fibonacci sequence 1, 1, 2, 3, 5, 8, 13, 21, ... (the first 2 terms are both 1 and from the 3rd term onwards, it is the sum of the 2 terms just before it)
+
+=== Year 2021 | Paper R1 | Problem 1 | Page 1 ===
+If A = 9 − 99 + 999 − 9999 + ... − 99...99 (2020 '9's) − 99...99 (2021 '9's), find the sum of digits of A. (A) 18189 (B) 16168 (C) 9090 (D) 9099 (E) None of the above
+
+=== Year 2021 | Paper R1 | Problem 2 | Page 1 ===
+If the positive odd integers are arranged in rows of sixteen as shown below, then '2021' will appear in the mth row and nth column. Find m × n. [For example: 81 is in the 3rd row and 9th column] [Table: row 1: 1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31; row 2: 33 35 37 39 41 43 45 47 49 51 53 55 57 59 61 63; row 3: 65 67 69 71 73 75 77 79 81 83 85 87 89 91 93 95; ...] (A) 189 (B) 192 (C) 252 (D) 256 (E) None of the above
+
+=== Year 2021 | Paper R1 | Problem 3 | Page 2 ===
+A number A has the same number of factors (including 1 and itself) as that of 2021 whose prime factorization is 43 × 47. If the number of factors of A^2 is a perfect square, which of the following may be the number A? (A) 1331 (B) 6859 (C) 1073 (D) 783 (E) None of the above
+
+=== Year 2021 | Paper R1 | Problem 4 | Page 2 ===
+In the diagram, all figures are squares. Each smaller square is obtained from the bigger one by joining the mid-points. The area of the shaded square, in the diagram given below is S cm^2. How many of these statements are true? (i) Area of △ABC is 2S cm^2 (ii) Area of △CDE is 2S cm^2 (iii) Area of △CDF is 1/2 S cm^2 (iv) Area of △EFG is S cm^2 (A) 1 (B) 2 (C) 3 (D) 4 (E) None of the above [Figure: five nested squares, each joining the mid-points of the previous one: outer square, then a tilted square (diamond), then an upright square, then a diamond, then the innermost upright square, which is shaded. B is the bottom-left corner of the outer square, A the mid-point of its left side and C the mid-point of its bottom side (A and C are vertices of the first diamond). E and D are the bottom-left and bottom-right corners of the third (upright) square, F is the mid-point of ED and G the mid-point of its left side (F and G are vertices of the second diamond).]
+
+=== Year 2021 | Paper R1 | Problem 5 | Page 3 ===
+Circles of radii 1 cm, 1 1/2 cm, 2 cm, 2 1/2 cm and 3 cm are drawn with a vertex of a regular pentagon as the centre of each circle. (A regular pentagon has all its sides equal and all its angles equal) Taking π = 22/7, find the total area of the shaded parts in cm^2. (A) 495/7 (B) 297/14 (C) 550/7 (D) 220/21 (E) None of the above [Figure: a regular pentagon with a circle centred at each vertex; the shaded parts are the five sectors of the circles lying inside the pentagon (each with the interior angle of the pentagon at its centre).]
+
+=== Year 2021 | Paper R1 | Problem 6 | Page 3 ===
+Adrian and Bryan are running at constant speeds around a circular track of length 400 m. Adrian's speed is 2/3 that of Bryan's. They start running from the same point and at the same time, but in opposite directions. 4 minutes later, they have met four times. Find in m/s, the difference between Bryan's speed and Adrian's speed. (A) 2/3 m/s (B) 3/4 m/s (C) 1 m/s (D) 4/3 m/s (E) None of the above
+
+=== Year 2021 | Paper R1 | Problem 7 | Page 4 ===
+A number is removed from a list of six consecutive integers. The sum of the remaining five numbers is 662. What is the position of the number that was removed when the six numbers are written in the increasing order? (A) 2nd (B) 3rd (C) 4th (D) 5th (E) None of the above
+
+=== Year 2021 | Paper R1 | Problem 8 | Page 4 ===
+The ratio of the number of marbles in three bags labelled Bag A, Bag B and Bag C is 3 : 1 : 5. 10% of the marbles in Bag C are removed and transferred to Bag B. One-third of the remaining marbles in Bag C are removed and transferred to Bag A. Now, the total number of marbles in Bag A and Bag B is 2400, find the number of marbles in Bag C at the end? (A) 1200 (B) 800 (C) 600 (D) 1800 (E) None of the above
+
+=== Year 2021 | Paper R1 | Problem 9 | Page 5 ===
+The digits of 972, 521 and 210 are in decreasing order whereas the digits of 279, 522 and 212 are not. How many 3-digit even numbers have their digits in decreasing order? (A) 60 (B) 70 (C) 84 (D) 120 (E) None of the above
+
+=== Year 2021 | Paper R1 | Problem 10 | Page 5 ===
+Nine consecutive whole numbers are written in the circles shown below, such that the sum of three numbers along each line is the same. If 2021 is the largest of the nine whole numbers, what is the least possible sum of numbers along each line? (A) 6036 (B) 6051 (C) 6054 (D) 6066 (E) None of the above [Figure: 9 circles: one in the centre and 8 around it (top, bottom, left, right and the four diagonal positions), joined by 4 straight lines through the centre (vertical, horizontal and two diagonals), each line passing through 3 circles.]
+
+=== Year 2021 | Paper R1 | Problem 11 | Page 6 ===
+Find the value of 1/43 + 1/(43 + 86) + 1/(43 + 86 + 129) + ... + 1/(43 + 86 + 129 + ... + 2021) (A) 47/1032 (B) 49/1032 (C) 1/1032 (D) 47/2064 (E) None of the above
+
+=== Year 2021 | Paper R1 | Problem 12 | Page 6 ===
+S = 1^a + 2^b + 3^c + 4^d + 5^e, where a, b, c, d, e are all positive integers and d is odd. Which of the following value for b will ensure that the last digit of S is not 1? (A) 24 (B) 74 (C) 99 (D) 101 (E) None of the above
+
+=== Year 2021 | Paper R1 | Problem 13 | Page 7 ===
+Alicia builds a structure with small cubes of the same size. The top view of the structure is a square. The front view and one of the side views are the same as shown below. Alicia built this structure with the maximum number of cubes possible (she observes that adding even one cube to the structure would change the views). She wants to paint the entire structure including the base. How many faces of the cubes does she have to paint? (A) 120 (B) 126 (C) 156 (D) 171 (E) None of the above [Figure: the front/side view is a staircase of unit squares with 6 columns whose heights from left to right are 6, 5, 4, 3, 2, 1.]
+
+=== Year 2021 | Paper R1 | Problem 14 | Page 7 ===
+A palindromic number is one which reads the same forwards and backwards. 272, 979 are examples of such numbers. All palindromic numbers in increasing order starting with 11 are written in a row like this: 112233445566778899101111121... In the above sequence, what is the digit in the 661st position? (A) 0 (B) 1 (C) 3 (D) 9 (E) None of the above
+
+=== Year 2021 | Paper R1 | Problem 15 | Page 8 ===
+In Ivan's field, there are four trees forming the vertices of a square with adjacent trees 10 metres apart. Ivan asks two of his friends, Alex and Ben, for suggestions to create a triangular enclosure using the four trees as part of the fence. Here are the enclosures suggested by Alex and Ben. Both of them have used isosceles right angled triangles for their models. What is the ratio of the area enclosed by Alex's model : area enclosed by Ben's model? (A) 2:3 (B) 4:9 (C) 8:9 (D) 8:27 (E) None of the above [Figure: two isosceles right-angled triangles with the four trees marked as dots. Alex's model: the right angle is at the bottom-left; the trees are at the right-angle vertex, one point on each leg and one point on the hypotenuse, i.e. the square of trees sits in the right-angle corner. Ben's model: the right angle is at the top and the hypotenuse is the horizontal base; two trees lie on the hypotenuse and one tree on each leg, i.e. the square of trees has one side along the hypotenuse.]
+
+=== Year 2021 | Paper R1 | Problem 16 | Page 8 ===
+For a whole number m, m! = 1 × 2 × 3 × ... × m. What is the remainder when 1! × 2! + 2! × 3! + 3! × 4! + ... + 2020! × 2021! is divided by 18? (A) 2 (B) 4 (C) 12 (D) 14 (E) None of the above
+
+=== Year 2021 | Paper R1 | Problem 17 | Page 9 ===
+Find the last digit of 2021^3 − 2020^3 + 2019^3 − 2018^3 + ... + 3^3 − 2^3 + 1^3 (A) 4 (B) 5 (C) 6 (D) 1 (E) None of the above
+
+=== Year 2021 | Paper R1 | Problem 18 | Page 9 ===
+Player A and Player B are competing in a table tennis game. Starting from a score of 0 - 0, the two competitors in a game of table tennis earn points one at a time. As long as the competitors don't reach a score of 10 - 10, the game ends when one competitor reaches 11 points. Samar, who is watching the game, receives a phone call when Player A has 8 points and Player B has 0 points. He steps outside to answer it. When he comes back inside, the game is over and Player A has won the game and the final score was 11 - 8. In how many different ways could Player A have reached the score 11 - 8 from the score of 8 - 0? (A) 9 (B) 36 (C) 48 (D) 55 (E) None of the above
+
+=== Year 2021 | Paper R1 | Problem 19 | Page 10 ===
+A large 4 × 4 × 4 cube is made from identical small cubes. Some faces of the large cube have been painted. If the number of small cubes that have paint on at least one of the faces is 37, how many faces of the large cube have been painted? (A) 2 (B) 3 (C) 4 (D) 5 (E) None of the above
+
+=== Year 2021 | Paper R1 | Problem 20 | Page 11 ===
+There are n children arranged in a circle, numbered from 1 to n in the clockwise direction and facing inwards. They play a game of passing the parcel. The teacher calls out a "magic" number and randomly picks a child from the circle to start the game. Proceeding clockwise, the student must pass the parcel to the player who is away from them by the magic number of places. For example, if the teacher asks Student 4 to start the game and says 2 is the magic number, then the passage of the parcel will be as follows: Student 4 → Student 6 → Student 8 → ... A round ends only when the parcel comes back to the student who started the round. Five rounds of the game were played with 4, 6, 7, 8, 9 as magic numbers respectively and the same student started the game each time. In every round, there is at least one student who does not get the parcel. What is the minimum value of n? (A) 21 (B) 42 (C) 84 (D) 504 (E) None of the above [Figure: children 1, 2, 3, 4, 5, ..., n placed clockwise around a circle, each facing the centre.]
+
+=== Year 2022 | Paper R1 | Problem 1 | Page 1 ===
+If n is the smallest positive integer greater than 3 such that (1 + 1/3) × (1 + 1/4) × (1 + 1/5) × ... × (1 + 1/n) is greater than 2022, find the sum of digits of n. (A) 15 (B) 16 (C) 17 (D) 18 (E) None of the above
+
+=== Year 2022 | Paper R1 | Problem 2 | Page 1 ===
+It is given that 1/13 = 0.076923076923076923..., where the first 6 digits after the decimal point 076923 repeat itself infinitely. If 23/130 is written as a decimal, what is the 2022nd digit after the decimal point? (A) 7 (B) 6 (C) 9 (D) 2 (E) None of the above
+
+=== Year 2022 | Paper R1 | Problem 3 | Page 2 ===
+If the nine-digit number 123abc789 is divisible by 999, find the value of a + b + c. (A) 14 (B) 15 (C) 16 (D) 17 (E) None of the above
+
+=== Year 2022 | Paper R1 | Problem 4 | Page 2 ===
+Calculate 2022/(674 + 674^2) + 2022/(675 + 675^2) + 2022/(676 + 676^2) + ... + 2022/(1010 + 1010^2). (A) 1 1/1011 (B) 1 1/674 (C) 2 1/1011 (D) 2 1/674 (E) None of the above
+
+=== Year 2022 | Paper R1 | Problem 5 | Page 3 ===
+Calculate 8088/24 + 8088/40 + 8088/60 + 8088/84 + 8088/112 + 8088/144 + 8088/180 + 8088/220 + 8088/264. (A) 1007 (B) 1009 (C) 1010 (D) 1011 (E) None of the above
+
+=== Year 2022 | Paper R1 | Problem 6 | Page 3 ===
+In the diagram above, there are five circles with 3 different diameters and some of the circles touch each other as shown. If the diameter of the largest circle is 21 cm, taking π = 22/7, find the area of the unshaded parts in cm^2. (A) 221 (B) 227 (C) 231 (D) 237 (E) None of the above [Figure: a large circle (diameter 21 cm) containing, along its horizontal diameter, a medium circle on the left and a small dark-shaded circle on the right, touching each other and the large circle; inside the medium circle are two equal small white circles side by side along its diameter, touching each other and the medium circle; the medium circle outside the two white circles is shaded and the small right circle is shaded; the white circles and the rest of the large circle are unshaded.]
+
+=== Year 2022 | Paper R1 | Problem 7 | Page 4 ===
+Let N = 2022 + 2022/(1+2) + 2022/(1+2+3) + 2022/(1+2+3+4) + ... + 2022/(1+2+3+4+...+2021). Find the sum of digits of N. (A) 9 (B) 10 (C) 11 (D) 12 (E) None of the above
+
+=== Year 2022 | Paper R1 | Problem 8 | Page 4 ===
+Find the sum of all the thirty 4-digit numbers in the pattern below. 2022 2023 2024 2025 2026 2027 2023 2024 2025 2026 2027 2028 2024 2025 2026 2027 2028 2029 2025 2026 2027 2028 2029 2030 2026 2027 2028 2029 2030 2031 (A) 60735 (B) 60765 (C) 60780 (D) 60795 (E) None of the above
+
+=== Year 2022 | Paper R1 | Problem 9 | Page 5 ===
+In RIPMWC held in 2016, the number of male contestants increased by 20% and the number of female contestants increased by 80% compared to that held in 2015. If the total number of contestants for RIPMWC held in 2016 increased by 32% compared to that held in 2015, what fraction of the total number of contestants was the number of female contestants in 2016? (A) 1/6 (B) 2/7 (C) 3/11 (D) 4/13 (E) None of the above
+
+=== Year 2022 | Paper R1 | Problem 10 | Page 5 ===
+Mary and Esther are riding bicycles around a circular track. Their starting points are the two endpoints of a diameter of the circular track. They start cycling at the same time and at constant speeds. If both of them ride anti-clockwise, they will meet after 80 minutes. If Esther rides anti-clockwise while Mary rides clockwise, they meet after 10 minutes. Given that Esther's speed is 36 km/h which is greater than Mary's speed, find perimeter of the circular track in km. (A) 20 1/3 (B) 21 1/3 (C) 22 1/3 (D) 23 2/3 (E) None of the above
+
+=== Year 2022 | Paper R1 | Problem 11 | Page 6 ===
+Some drinking water is distributed to a village. It is known that every villager drinks the same amount of water every day. If each villager drinks 1 litre less per day, the water distributed can last for 15 more days. If each villager drinks 1.5 litres less per day, the water distributed can last 30 more days. How many days can the water distributed last? (A) 30 (B) 32 (C) 35 (D) 40 (E) None of the above
+
+=== Year 2022 | Paper R1 | Problem 12 | Page 6 ===
+Eric and Jasmine both determine the colour of the clothes to wear according to the date of the day. Eric will divide the date by 8 and wear red clothes if the remainder is 0, 2, 4 or 6 and yellow clothes if otherwise. Jasmine will divide the date by 6 and wear yellow clothes if the remainder is 0 or 3, green clothes if the remainder is 1 or 4 and blue clothes if the remainder is 2 or 5. For example, since 27 leaves a remainder of 3 when divided by both 8 and 6, both Eric and Jasmine will wear yellow clothes on 27th of January. For how many days in 2022 will Eric and Jasmine wear clothes of different colours? [Note: there are 365 days in 2022] (A) 295 (B) 300 (C) 305 (D) 308 (E) None of the above
+
+=== Year 2022 | Paper R1 | Problem 13 | Page 7 ===
+A fixed 3 × 3 grid is to be filled with the integers 1, 2, 3, ..., 8, 9, using each integer exactly once, in such a way that for every cell which is filled with an odd integer, all its adjacent cells are filled with even integers, and for every cell filled with an even integer, all its adjacent cells are filled with odd integers. In how many ways can this be done? [Note: 2 cells are adjacent if they share a common edge] (A) 2400 (B) 2500 (C) 2680 (D) 2750 (E) None of the above [Figure: an empty 3 × 3 grid.]
+
+=== Year 2022 | Paper R1 | Problem 14 | Page 7 ===
+In how many ways can one choose 3 numbers among the first 30 consecutive positive integers 1, 2, 3, 4, ..., 27, 28, 29, 30 so that their sum is divisible by 3? (A) 1240 (B) 1316 (C) 1360 (D) 1420 (E) None of the above
+
+=== Year 2022 | Paper R1 | Problem 15 | Page 8 ===
+Three rulers A, B and C were inserted vertically into a water tank filled with water such that one end of each ruler touches the base of the tank. Initially, the ratio of the lengths of A, B and C above the water level was 1 : 2 : 4. After adding some water, the depth of water doubled. At that time, the ratio of the lengths of A, B and C above the water level became 1 : 3 : 7. If the length of A is 20 cm, find the height of the water level in the water tank, in cm, before adding some water. (A) 5 1/3 (B) 6 (C) 6 1/3 (D) 6 2/3 (E) None of the above
+
+=== Year 2022 | Paper R1 | Problem 16 | Page 8 ===
+In a triangle ABC shown below, D is a point on AB and F is a point on AC and E is a point inside the triangle such that DE is parallel to AC and EF is parallel to AB. Given that AF = 6 cm, AC = 33 cm, AD = 7 cm, AB = 26 cm and the area of parallelogram ADEF is 14 cm^2, find the area of triangle ABC in cm^2. (A) 142 (B) 144 1/3 (C) 146 2/7 (D) 148 7/33 (E) None of the above [Figure: triangle ABC with A at top, B bottom-left, C bottom-right; D on AB, F on AC; E inside so that ADEF is a parallelogram; line DE is extended to meet BC and line FE is extended to meet BC.]
+
+=== Year 2022 | Paper R1 | Problem 17 | Page 9 ===
+Find the value of [expression missing in source] where the numbers in the numerators of the sum are consecutive terms of the sequence 1, 1, 2, 3, 5, 8, 13, ..., in which the first 2 terms are 1 and each subsequent term is the sum of the 2 terms just before it. (A) 4/17 (B) 1/4 (C) 5/19 (D) 7/25 (E) None of the above
+
+=== Year 2022 | Paper R1 | Problem 18 | Page 9 ===
+In the diagram above, ABCD and AECF are parallelograms and AC = AD = CF. If ∠BCF = 46°, find ∠ECD. (A) 157° (B) 158° (C) 161° (D) 162° (E) None of the above [Figure: parallelogram ABCD with BC as the top side (B top-left, C top-right) and AD as the bottom side (A bottom-left, D bottom-right); parallelogram AECF with diagonal AC, E above C to the upper left and F below A; segments AE and CF cross BC/AD.]
+
+=== Year 2022 | Paper R1 | Problem 19 | Page 10 ===
+1000 children are labelled 1 to 1000. Each of them has 20 candies at the beginning. Candies are given or taken away from them as follows. 3 candies are given to each child whose label is a multiple of 1, then 1 candy is taken away from each child whose label is a multiple of 2, then 3 candies are given to each child whose label is a multiple of 3, then 1 candy is taken away from a child whose label is a multiple of 4 and so on until finally 1 candy is taken away from each child with a label which is a multiple of 1000. How many children have more than 20 candies in the end? (A) 785 (B) 825 (C) 850 (D) 875 (E) None of the above
+
+=== Year 2022 | Paper R1 | Problem 20 | Page 10 ===
+A vending machine sells stamps of the values $1.40, $1.80, $2.40 and $3. If Ken needs exactly $12 to send a parcel, how many different combinations of values are possible for the stamps he can buy? (A) 7 (B) 8 (C) 9 (D) 10 (E) None of the above
+
+=== Year 2023 | Paper R1 | Problem 1 | Page 1 ===
+If 1/(1×2) + 1/(2×3) + 1/(3×4) + ... + 1/(n×(n+1)) is greater than 1823/2013, find the smallest possible integer value of n.
+
+=== Year 2023 | Paper R1 | Problem 2 | Page 1 ===
+A whole number has 2023 digits which are all 9. What is the sum of the digits when this number is multiplied to itself?
+
+=== Year 2023 | Paper R1 | Problem 3 | Page 2 ===
+Evaluate (1/17 + 2/39 + 3/53 + 4/79 + 5/98)(2/39 + 3/53 + 4/79 + 5/98 + 6/119) − (1/17 + 2/39 + 3/53 + 4/79 + 5/98 + 6/119)(2/39 + 3/53 + 4/79 + 5/98)
+
+=== Year 2023 | Paper R1 | Problem 4 | Page 2 ===
+Given that 20232023...20231965 (k copies of 2023, followed by 1965) is divisible by 55, find the least posible value of k.
+
+=== Year 2023 | Paper R1 | Problem 5 | Page 3 ===
+Find the integer part of 1/(1/2013 + 1/2014 + 1/2015 + ... + 1/2023)
+
+=== Year 2023 | Paper R1 | Problem 6 | Page 3 ===
+Among the 40 coloured marbles that Jack has, the ratio of blue to green marbles is 4:1, and the number of red marbles is an integer multiple of green marbles. Jill has only 22 blue marbles and if both of their marbles are combined, the number of blue marbles is five times that of red marbles. How many marbles that belong to Jack is neither blue, red, nor green?
+
+=== Year 2023 | Paper R1 | Problem 7 | Page 4 ===
+Bob and Charlie's monthly income is in the ratio 4:3 and their corresponding monthly expenses is in the ratio 11:7. At the end of the year, each of them saved $9000. How much does Bob earn monthly?
+
+=== Year 2023 | Paper R1 | Problem 8 | Page 4 ===
+The diagram (not drawn to scale) below shows a circle with radius 1cm touching the interior of a square of side 10cm. The circle is to be revolved around the sides of the square and return to its original position. Find the total area that the circle would cover. (Take π = 3.14) [Figure: a square of side 10 cm with a small circle of radius 1 cm inside, touching the top side.]
+
+=== Year 2023 | Paper R1 | Problem 9 | Page 5 ===
+Four distinct primes a, b, c and d satisfy the equation ab^c c^d. Find the value of ab + bc + cd + da.
+
+=== Year 2023 | Paper R1 | Problem 10 | Page 5 ===
+n students took part in a sports event which lasted k days, where k > 1. At the end of each day, each student is awarded a different score, namely, 1, 2, 3, ..., n points, respectively. After k days, it was discovered that each student has the same accumulated score of 40 points. Given that k is a factor of n, find the value of n.
+
+=== Year 2023 | Paper R1 | Problem 11 | Page 6 ===
+Alice and Bob started walking from X and Y, respectively, to Y and X. Alice's walking speed was 1.5 times that of Bob's and both of the turned back once they reached each other's starting point. If the distance between the first and second time that they met was 350 m apart, find the distance XY, in metres.
+
+=== Year 2023 | Paper R1 | Problem 12 | Page 6 ===
+Village A has 600 people, where 30% are males. Village B has 600 people, where 60% are males. After some people moved from village B to A, village A now has 40% males, while village B still has 60% males. How many people moved from village B to A?
+
+=== Year 2023 | Paper R1 | Problem 13 | Page 7 ===
+In a class of 46 students, 40 of the students an ride bicycles, 38 of them can play table-tennis, 35 of them can play badminton and 27 of them can swim. What is the least number of students who can play all these four sports?
+
+=== Year 2023 | Paper R1 | Problem 14 | Page 7 ===
+The diagram below shows 2 right angled triangles, where the overlapping area is 578 cm^2. Find the length of the side AF. [Figure: two right-angled triangles sharing the vertical side from A. The smaller one has its right angle on the vertical line below A, horizontal leg ending at F, and angle 30° at F (hypotenuse AF). The larger one has its right angle further down the same vertical line and angle 45° at its bottom-right vertex; its hypotenuse from A crosses the horizontal leg of the first triangle. The overlap (shaded) is the right triangle bounded by A, the upper right-angle vertex and the point where the 45° hypotenuse crosses that horizontal leg.]
+
+=== Year 2023 | Paper R1 | Problem 15 | Page 8 ===
+In the diagram below, 3 squares of sides 3cm, 5cm and 8cm are arranged as shown. Find the area of the shaded region. [Figure: squares of side 3, 5 and 8 cm placed side by side on a common base line, left to right in increasing size. A straight line joins the bottom-left corner of the 3 cm square to the top-right corner of the 8 cm square. The shaded region is the part of the 5 cm square lying above this line.]
+
+=== Year 2023 | Paper R1 | Problem 16 | Page 8 ===
+In an MCQ quiz, there are 10 questions each worth 3 marks, 10 questions each worth 4 marks and 5 questions each worth 6 marks, with a total maximum score of 100 marks. There is no mark deduction for unanswered or incorrect attempt. What is the number of total marks which are not obtainable in this quiz?
+
+=== Year 2023 | Paper R1 | Problem 17 | Page 9 ===
+A fruit wholesaler has 23 boxes of apples and 18 boxes of oranges to distribute to 5 supermarkets. Each supermarket requires at least 4 boxes of apples and 3 boxes of oranges. How many different ways are there for the wholesaler to distribute the goods to the supermarkets? We can assume that the boxes of apples are all identical, as are the boxes of oranges.
+
+=== Year 2023 | Paper R1 | Problem 18 | Page 9 ===
+In △ABC, D and E are on BC such that BD = DE = EC. F is on AC such that CF : AC = 1 : 3. AE and DF meet at H. If the area of △ADH exceeds that of △EFH by 12.6 cm^2, find the area of △ABC. [Figure: triangle ABC with D, E on BC and F on AC; segments AD, AE, DF and EF drawn; AE and DF cross at H.]
+
+=== Year 2023 | Paper R1 | Problem 19 | Page 10 ===
+In the table below, starting with the pattern 1, 2 in Row 1, the sum of which, is 3, is inserted in the new pattern in Row 2, To obtain the pattern in Row 3, the sum of 1 and 3 is inserted between 1 and 3 and the sum of 3 and 2 is inserted between 3 and 2. The pattern in Row 4 is shown as follows. [Table: Row No. | Pattern; 1 | 1,2; 2 | 1,3,2; 3 | 1,4,3,5,2; 4 | 1,5,4,7,3,8,5,7,2] Find the sum of all the entries in Row 9.
+
+=== Year 2023 | Paper R1 | Problem 20 | Page 10 ===
+4 distinct digits are arranged to form the largest and smallest 4-digit numbers. Given the sum of these 2 numbes is 11359, find the difference between these 2 numbers.
+
+=== Year 2024 | Paper R1 | Problem 1 | Page 1 ===
+Given that a_n is the remainder of 7^n ÷ 11, find the value of a_1 + a_2 + a_3 + ... + a_2024.
+
+=== Year 2024 | Paper R1 | Problem 2 | Page 1 ===
+Given that BD:DC = 3:4 and E is the mid-point of AD, and the sum of the area of △AEF and △EBD is 30, find the area of △ABC. [Figure: triangle ABC with D on BC and F on AC; segments AD and BF drawn, meeting at E.]
+
+=== Year 2024 | Paper R1 | Problem 3 | Page 2 ===
+Student A and Student B set off from points X and Y respectively, moving towards each other simultaneously. If student A increases his speed by 15% and student B increases his speed by 12km/h, they would meet at the same location as if they hadn't increased their speeds. Determine the speed of Student B before they increased their speed.
+
+=== Year 2024 | Paper R1 | Problem 4 | Page 2 ===
+In the figure below, there are 12 points on the circle. How many distinct triangles can be formed using any 3 points as vertices, considering triangles that are identical upon rotating and flipping as one triangle? [Figure: a circle with 12 equally spaced points on it.]
+
+=== Year 2024 | Paper R1 | Problem 5 | Page 3 ===
+Given that the sum of N consecutive numbers is 2024, find the maximum value of N.
+
+=== Year 2024 | Paper R1 | Problem 6 | Page 3 ===
+Given that x, y and z are positive integers, if x + y/z = 15 and y + x/z = 20, find the value of (x + y)/z.
+
+=== Year 2024 | Paper R1 | Problem 7 | Page 4 ===
+Given that 1/(2^2 − 1) + 1/(4^2 − 1) + 1/(6^2 − 1) + ... + 1/(2024^2 − 1) = A where A is in simplified form. Find the sum of the digits of the numerator and demoninator of A.
+
+=== Year 2024 | Paper R1 | Problem 8 | Page 4 ===
+Using only the numbers 1, 2, 3, 4 and 5, fill in the grid below such that each number appears only once in each column and row. Given that the sum of the numbers in the three regions are the same, find the value of ?. [Figure: 5 × 5 grid split into three regions, W = white, B = black, rows top to bottom: row 1: W W B B B; row 2: W W W B B; row 3: B W W W B; row 4: B B W W W; row 5: B B B W W. The upper-right black region (6 cells) and lower-left black region (6 cells) are separated by the white staircase region (13 cells). The top-right cell (row 1, column 5) contains "?" and the bottom-left cell (row 5, column 1) contains 3.]
+
+=== Year 2024 | Paper R1 | Problem 9 | Page 5 ===
+In the figure below, △ABC is an isoceles right-angled triangle and F is the mid-point of BC. Given that DEFG and KJIH are squares and the area of DEFG is 126, find the area of KJIH. [Figure: right isosceles triangle ABC with right angle at A and hypotenuse BC at the bottom. Square DEFG stands on BC with G and F on BC (F the midpoint of BC), D on AB and E inside the triangle. Square KJIH is tilted: K and J on AC, I on BC, and H on side EF of the first square.]
+
+=== Year 2024 | Paper R1 | Problem 10 | Page 5 ===
+(1/2 + 1/3 + 1/4 + ... + 1/31) + (2/3 + 2/4 + ... + 2/31) + ... + (29/30 + 29/31) + 30/31 =
+
+=== Year 2024 | Paper R1 | Problem 11 | Page 6 ===
+In the figure below, a square is depicted with line segments drawn inside, each labelled with its length. Determine the area of this square. [Figure: a square with a zigzag path from its top-left corner to its bottom-right corner made of segments of lengths 2, 1, 3, 1, 5 in that order; consecutive segments are perpendicular (right-angle marks), the segments of length 2, 3 and 5 are parallel and the two segments of length 1 are short perpendicular steps.]
+
+=== Year 2024 | Paper R1 | Problem 12 | Page 6 ===
+[1,2]/(1 × 2), [1,2,3]/(1 × 2 × 3), ..., [1,2,...,100]/(1 × 2 × ... × 100). Given that [1,2] represents the LCM of 1 and 2, how many different values are there?
+
+=== Year 2024 | Paper R1 | Problem 13 | Page 7 ===
+How many ways can a straight line pass through any of 3 dots? [Figure: 15 dots arranged in a triangular array with rows of 1, 2, 3, 4, 5 dots from top to bottom.]
+
+=== Year 2024 | Paper R1 | Problem 14 | Page 7 ===
+In a school band, there are 30 more boys than girls in the year 2023. In 2024, some new members join such that the total number of students is 10% more than in 2023. The number of boys increased by 5% while the number of girls increased by 20%. How many members where there in 2024?
+
+=== Year 2024 | Paper R1 | Problem 15 | Page 8 ===
+There are 19 cards, labelled 1-19 in a bag. What is the minimum number of cards to take out to ensure that any 2 cards sum to 20?
+
+=== Year 2024 | Paper R1 | Problem 16 | Page 8 ===
+Allan, Betty and Carl had some marbles. If Allan gave Betty 20 marbles the ratio of Betty's marbles to Allan and Carl's marbles was 2:1. If Allan gave Carl 30 marbles the ratio of Carl's marbles to Betty's and Allan's marbles would be 3:1. Find the amount of marbles they had altogether.
+
+=== Year 2024 | Paper R1 | Problem 17 | Page 9 ===
+Cups A, B and C contains a mixture of lemon juice and water. The total volume of mixture in each cup is the same. Cup A had a mixture of lemon juice to water of ratio of 2:1. Cup B had a mixture of lemon juice to water of ratio of 4:3 and Cup C had a mixture of lemon juice to water of ratio 7:5. John poured all the mixtures into a glass. What was the rato of lemon juice to water in the glass?
+
+=== Year 2024 | Paper R1 | Problem 18 | Page 9 ===
+How many digits are there in the number 816243240...20162024
+
+=== Year 2024 | Paper R1 | Problem 19 | Page 10 ===
+As shown in the figure below, find ∠C + ∠D + ∠E + ∠F + ∠G. [Figure: a seven-pointed star formed by the segments AD, AF, BF, BE, CE, CG and GD, with tips A, B, C, D, E, F, G; ∠A (between AF and AD) = 56° and ∠B (between BF and BE) = 40°; points I and H are marked on GD where it is crossed by the lines from above (I near the crossings of AF and BF, H at the crossing of BE).]
+
+=== Year 2024 | Paper R1 | Problem 20 | Page 10 ===
+There is a sequence 4, 9, 24, 69, 204, 609, x, y, what is the sum of the x and y?
+
+=== Year 2025 | Paper R1 | Problem 1 | Page 1 ===
+Calculate 1008/24 + 1008/40 + 1008/60 + 1008/84 + 1008/112 + 1008/144 + 1008/180 + 1008/220 + 1008/264
+
+=== Year 2025 | Paper R1 | Problem 2 | Page 1 ===
+There are 25 students whose sum of scores is 2025 and no two students have the same score. If the highest score among them is 94, what is the value of the lowest possible score?
+
+=== Year 2025 | Paper R1 | Problem 3 | Page 2 ===
+A, B, C and D know how many marbles each of them has and each says a statement as shown below. A: I have neither the most nor the least. B: I have not the least. C: I have the most. D: I have the least. Given that only one of them is lying, who is lying?
+
+=== Year 2025 | Paper R1 | Problem 4 | Page 2 ===
+5 × 7^3 × 35 can be written as x^y. What is the minimum value of x+y?
+
+=== Year 2025 | Paper R1 | Problem 5 | Page 3 ===
+What is the number of trailing zeros for 1×2×3×4×5×...×2025?
+
+=== Year 2025 | Paper R1 | Problem 6 | Page 3 ===
+What is the value of (1025 × 2025)/(410 + 205^2) + (1025 × 2025)/(414 + 207^2) + ... + (1025 × 2025)/(450 + 225^2)
+
+=== Year 2025 | Paper R1 | Problem 7 | Page 4 ===
+The side length of the square is 8cm, find the fraction of the shaded area to the square. [Figure: a square of side 8 cm containing two crossing strips. One strip is bounded by two parallel lines: from the top-left corner to a point on the right side, and from a point on the left side to the bottom-right corner. The other strip is bounded by two parallel lines: from the bottom-left corner to a point on the top side 2 cm from the top-right corner (marked 2cm), and from a point on the bottom side to the top-right corner. The figure appears symmetric, each line cutting the side 2 cm from a corner. The shaded region is the small quadrilateral in the centre where the two strips overlap.]
+
+=== Year 2025 | Paper R1 | Problem 8 | Page 4 ===
+Given ∠ACD = 35° and ∠AGB = 6°. ADG and CDE are straight lines and are perpendicular to each other, and lines BE and CF are equal in length. Find ∠CEF. [Figure: vertical line ADG (A top, D middle, G bottom) and horizontal line CDE (C left, E right) cross at right angles at D. B is to the right of A with AB horizontal and BE vertical; F is below C with CF vertical and FG horizontal. Segments CA, BG and FE are drawn. ∠ACD = 35° is marked at C, ∠AGB = 6° is marked at G, and ∠CEF is marked at E.]
+
+=== Year 2025 | Paper R1 | Problem 9 | Page 5 ===
+ABCD is a square and its area is 2025, DF is 36cm, find the area of the shaded region. (Take π as 3.) [Figure: square ABCD with A top-left, B top-right, C bottom-right, D bottom-left. E on AB and F on DC with EF vertical and DF = 36 cm. One arc (quarter circle centred at F, radius FD) runs from D up to a point on EF; another arc (quarter circle centred at A, radius AD) runs from D to B, crossing EF. The shaded region is the part between the two arcs to the left of EF, together with the part to the right of EF bounded by EF, the top side EB and the arc ending at B.]
+
+=== Year 2025 | Paper R1 | Problem 10 | Page 5 ===
+There are a total of 100 red, blue, green and yellow marbles. The ratio of blue to green marbles is 5:1. The amount of green marbles evenly divides the amount of red marbles. After 134 blue marbles are added, the ratio of blue to red marbles is 9:1. How many yellow marbles are there?
+
+=== Year 2025 | Paper R1 | Problem 11 | Page 6 ===
+(1 + 1/3 + 3/5 + 5/7 + ... + 2021/2023) × (1/3 + 3/5 + 5/7 + ... + 2023/2025) − (1 + 1/3 + 3/5 + 5/7 + ... + 2023/2025) × (1/3 + 3/5 + 5/7 + ... + 2021/2023)
+
+=== Year 2025 | Paper R1 | Problem 12 | Page 6 ===
+An 8 digit phone number 85a32b63 (a and b are digits) is divisible by 99. What is the value of 11a + 9b?
+
+=== Year 2025 | Paper R1 | Problem 13 | Page 7 ===
+A 3 digit number is such that the digit in the tens place is the average of all the digits. How many such numbers are there?
+
+=== Year 2025 | Paper R1 | Problem 14 | Page 7 ===
+((3^2 + 5^2 + 7^2 + ... + 2025^2) − (2^2 + 4^2 + 6^2 + ... + 2024^2)) / ((3 + 5 + 7 + ... + 2025) − (2 + 4 + 6 + ... + 2024))
+
+=== Year 2025 | Paper R1 | Problem 15 | Page 8 ===
+A number is formed strarting with one '1's, two '2's, three '3's, and so on. What is the 2025th digit?
+
+=== Year 2025 | Paper R1 | Problem 16 | Page 8 ===
+Someone has 42 marbles and gives away a prime number x amount of marbles and is left with a prime number amount of marbles. He is given a prime number y amount of marbles and is left with another prime number amount of marbles. He then gives away a prime number z amount of marbles and is left with a non-zero amount of marbles. How many combinations of (x, y, z) are there? (x, y, z are not necessarily distinct.)
+
+=== Year 2025 | Paper R1 | Problem 17 | Page 9 ===
+There are 2 towns, X and Y. They both start travelling from X to y at 8am and Alice takes 2h 24min while Bob takes 3h. Alice turns back walking at the same speed after reaching Y, at what time will Alice and Bob meet?
+
+=== Year 2025 | Paper R1 | Problem 18 | Page 9 ===
+There are 2 jobs, X and Y. For job X, C takes 10 days and D takes 7 days to complete it. For job Y, C takes 16 days to complete it and D takes 20 days to complete it. If they can work together or separetely, what is the minimum number of days required to complete both jobs?
+
+=== Year 2025 | Paper R1 | Problem 19 | Page 10 ===
+There is a 9-digit number that includes all digits 1 to 9. It also has the following properties: (a) All square numbers digits are adjacent. (b) The sum of the first 6 digits is less than the sum of the last 3 digits. (c) The first 4 digits are divisible by 16 if it is an individual number. (d) All 2 consecutive digits cannot be both even or both odd. If the number meets all the conditions, what is the remainder when it is divided by 7?
+
+=== Year 2025 | Paper R1 | Problem 20 | Page 10 ===
+There are a total of 60 blue and red balls in a bag, and when put into 6 boxes of 10 balls each, one box will have at least 4 black balls, and when put into 3 boxes of 20 balls each, each box will have at least 1 red ball. Find the number of red balls.
