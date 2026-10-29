@@ -1,12 +1,12 @@
 # xIMC
 
-Tài liệu ôn luyện IMC, IMSO, IMAS, IGO, ICO, RMO và APMOPS: đề gốc, đề trích xuất dạng văn bản, phân loại theo dạng bài và mindmap ôn tập.
+Tài liệu ôn luyện IMC, IMSO, IMAS, IGO, ICO, RMO, APMOPS và SASMO: đề gốc, đề trích xuất dạng văn bản, phân loại theo dạng bài và mindmap ôn tập.
 Website: https://haison8x.github.io/xIMC/
 
 ## Cấu trúc thư mục
 
 ```
-├── index.html, ximc.html, imso.html, imas.html, igo.html, ico.html, rmo.html, apmops.html   Trang web (GitHub Pages phục vụ từ thư mục gốc)
+├── index.html, ximc.html, imso.html, imas.html, igo.html, ico.html, rmo.html, apmops.html, sasmo.html   Trang web (GitHub Pages phục vụ từ thư mục gốc)
 ├── mindmaps/                          Mindmap ôn tập (sinh bởi build_mindmaps.py)
 ├── data/                              Đề trích xuất và bảng phân loại dạng .txt (sinh bởi script)
 ├── papers/                            Đề gốc PDF
@@ -16,13 +16,14 @@ Website: https://haison8x.github.io/xIMC/
 │   ├── igo/                             IGO{năm}.pdf (sách đề + lời giải)
 │   ├── ico/                             ICO{năm}.pdf (sách đề + lời giải), ICO{năm}_{cấp}.pdf (đề lẻ chưa có lời giải)
 │   ├── rmo/                             RMO{năm}.pdf (đề vòng 1, bản scan), RMO{năm}_answer.pdf (đáp số)
-│   └── apmops/                          MTC-{năm}-{SMOPS|APMOPS}-Rd-{1,2}-{Paper,Answers}.pdf (vòng 1 2001–2025 là bản scan)
+│   ├── apmops/                          MTC-{năm}-{SMOPS|APMOPS}-Rd-{1,2}-{Paper,Answers}.pdf (vòng 1 2001–2025 là bản scan)
+│   └── sasmo/                           SASMO 2024 Grade {1,2,3}.pdf, SASMO P3 (Grade 3) 2013-2020 Past Papers.pdf (sách gộp, phần lớn là bản scan)
 └── scripts/                           Script Python
     ├── crawl_imc.py                     Tải đề IMC về papers/imc/
     ├── crawl_imas.py                    Tải đề IMAS về papers/imas/
     ├── crawl_rmo.py                     Tải đề RMO về papers/rmo/
     ├── extract_imc.py, extract_imso.py, extract_imas.py, extract_igo.py, extract_ico.py  Trích đề từ PDF ra data/*_problems.txt
-    ├── categorize.py, categorize_imso.py, categorize_imas.py, categorize_igo.py, categorize_ico.py, categorize_rmo.py, categorize_apmops.py  Bảng phân loại thủ công → data/*_categories.txt
+    ├── categorize.py, categorize_imso.py, categorize_imas.py, categorize_igo.py, categorize_ico.py, categorize_rmo.py, categorize_apmops.py, categorize_sasmo.py  Bảng phân loại thủ công → data/*_categories.txt
     ├── leaves_*.py, leaves_util.py      Các kỹ thuật (lá) của mindmap
     ├── build_mindmaps.py, mindmap_template.html  Sinh mindmaps/*.html
     └── paths.py                         Đường dẫn dùng chung
@@ -39,6 +40,7 @@ Website: https://haison8x.github.io/xIMC/
 | ICO | Tải tay, mỗi kỳ một file `papers/ico/ICO{năm}.pdf` (đề lẻ theo cấp: `ICO{năm}_{junior,intermediate,advanced}.pdf`); thêm một dòng vào bảng `PAPERS` của `extract_ico.py` (khoảng trang đề, trang đáp số) |
 | RMO | `scripts/crawl_rmo.py` tải từ mathletetraining.com. Đề là bản scan không có chữ, nên **không có script trích**: `data/rmo_problems.txt` được gõ tay từ ảnh trang đề (hình vẽ mô tả trong `[Figure: …]`). Năm mới thì gõ thêm 20 bài theo đúng định dạng tiêu đề `=== Year … \| Paper R1 \| Problem … \| Page … ===` |
 | APMOPS | Tải tay từ https://www.mathletetraining.com/resource/mtc-2001-2010-smops-rd-1-question-paper-and-final-answers/ (trang có đề 2001–2026 và vòng 2 của 2012, 2014, 2015, 2018), đặt tên `papers/apmops/MTC-{năm}-SMOPS-Rd-{vòng}-{Paper,Answers}.pdf` (năm 2025 là `APMOPS`). Đề vòng 1 2001–2025 là bản scan, nên **không có script trích**: `data/apmops_problems.txt` được gõ tay từ ảnh trang đề (hình vẽ mô tả trong `[figure: …]`), tiêu đề `=== Year … \| Paper R{1,2} \| Problem … \| Page … ===` |
+| SASMO | Tải tay, giữ nguyên tên file. `SASMO P3 (Grade 3) 2013-2020 Past Papers.pdf` gộp 4 cuốn sách: bộ luyện tập 2013 (trang 2–24), đề Grade 3 2014–2015 (27–46, có lời giải), 2016–2018 (47–76, không có đáp án), 2019–2020 (83–127, có lời giải). Đề phần lớn là bản scan, nên **không có script trích**: `data/sasmo_problems.txt` được gõ tay từ ảnh trang đề (hình vẽ mô tả trong `[Figure: …]`), tiêu đề `=== Year … \| Paper {G1,G2,G3,PR} \| Problem … \| Page … \| Ref … ===` (Page, Ref = trang PDF của đề và của lời giải/đáp án, Ref 0 = không có) |
 
 ## Chạy lại pipeline
 
@@ -61,11 +63,11 @@ Phân loại là **dữ liệu gõ tay**, không có thuật toán tự động.
 
 - **Nhánh con của từng bài**: bảng mã trong `scripts/categorize*.py`, mỗi đề một chuỗi mã theo đúng thứ tự bài trong `data/*_problems.txt`.
   - IMC: `individual` / `team` trong `categorize.py`, ví dụ `2024: "3.3 2.3 4.2 …"`.
-  - IMSO, IMAS, IGO, ICO, RMO, APMOPS: `CODES`, ví dụ `2024: dict(E="1.1 2.2 3.1 5.1 6.1", I="…", A="…")` cho IGO.
+  - IMSO, IMAS, IGO, ICO, RMO, APMOPS, SASMO: `CODES`, ví dụ `2024: dict(E="1.1 2.2 3.1 5.1 6.1", I="…", A="…")` cho IGO.
 - **Dạng bài (lá)**: `scripts/leaves_*.py`, mỗi nhánh con có danh sách `(tên dạng, dấu hiệu nhận biết, chìa khóa, [bài ví dụ])`.
   - IMSO và IMAS dùng lại lá của IMC (qua `leaves_util.merge_leaves`), rồi thêm lá riêng.
   - APMOPS cũng dùng hệ nhánh và lá của IMC KS2 (cùng lá riêng của IMSO), nhưng gộp các nhánh con có dưới 10 bài vào nhánh con gần nhất (`MERGE` trong `categorize_apmops.py`), nên còn 28 nhánh con; `CODES` vẫn ghi mã KS2 gốc.
-  - IGO có hệ nhánh hình học riêng (7 nhánh, 21 nhánh con), ICO có hệ nhánh tổ hợp riêng (5 nhánh, 12 nhánh con), RMO có hệ nhánh gọn riêng (6 nhánh, 14 nhánh con, mỗi nhánh con ít nhất 15 bài); cả ba có toàn bộ lá riêng.
+  - IGO có hệ nhánh hình học riêng (7 nhánh, 21 nhánh con), ICO có hệ nhánh tổ hợp riêng (5 nhánh, 12 nhánh con), RMO có hệ nhánh gọn riêng (6 nhánh, 14 nhánh con, mỗi nhánh con ít nhất 15 bài), SASMO cũng vậy (5 nhánh, 13 nhánh con, mỗi nhánh con ít nhất 14 bài, một mindmap chung cho G1/G2/G3 và bộ luyện tập, lọc bằng chip); cả bốn có toàn bộ lá riêng.
 
 `build_mindmaps.py` dừng với thông báo lỗi nếu số mã không khớp số bài, có mã không tồn tại, có bài chưa được phân loại, hoặc bài ví dụ của một lá không thuộc đúng nhánh con của lá đó.
 
@@ -76,8 +78,8 @@ Phân loại là **dữ liệu gõ tay**, không có thuật toán tự động.
 3. Thêm dòng mã cho năm mới vào bảng phân loại. Nếu muốn, thêm các bài mới làm ví dụ cho lá trong `leaves_*.py`.
 4. Chạy `build_mindmaps.py`.
 5. Sửa tay các con số và danh sách năm đang ghi cố định trên trang web:
-   - số bài và số dạng bài trong `index.html`, `ximc.html`, `imso.html`, `imas.html`, `igo.html`, `ico.html`, `rmo.html`, `apmops.html`;
-   - danh sách năm: `YEARS` trong `ximc.html`, `ROWS` trong `imso.html`, `ico.html` và `rmo.html`, `from`/`to` trong `imas.html`, vòng lặp năm trong `igo.html` và `apmops.html` (cùng `ROUND2`).
+   - số bài và số dạng bài trong `index.html`, `ximc.html`, `imso.html`, `imas.html`, `igo.html`, `ico.html`, `rmo.html`, `apmops.html`, `sasmo.html`;
+   - danh sách năm: `YEARS` trong `ximc.html`, `ROWS` trong `imso.html`, `ico.html`, `rmo.html` và `sasmo.html`, `from`/`to` trong `imas.html`, vòng lặp năm trong `igo.html` và `apmops.html` (cùng `ROUND2`).
 
 ## Thêm một kỳ thi mới
 

@@ -1,0 +1,854 @@
+=== Year 2013 | Paper PR | Problem 1 | Page 2 | Ref 0 ===
+Find the number A such that the following statement is true: 5 × 10 + 6 × 10 = 11 × A
+
+=== Year 2013 | Paper PR | Problem 2 | Page 2 | Ref 0 ===
+What is the missing number B which satisfies the given equation? 2 × B + 5 × 4 − 14 = B + 3 × 2 + 6
+
+=== Year 2013 | Paper PR | Problem 3 | Page 3 | Ref 0 ===
+Suppose N is a whole number. For how many values of N less than 150 is N/10 + N/20 also a whole number?
+
+=== Year 2013 | Paper PR | Problem 4 | Page 3 | Ref 0 ===
+For how many values of N is 144/N^2 also a whole number?
+
+=== Year 2013 | Paper PR | Problem 5 | Page 4 | Ref 0 ===
+A bag contains a total of 15 balls of 5 different colours. Each colour has a unique number of balls in the bag. What is the least number of balls to be picked (without looking) to ensure three different coloured balls are picked?
+
+=== Year 2013 | Paper PR | Problem 6 | Page 4 | Ref 0 ===
+Seven 50 ¢ coins and eight $1 coins are equally distributed (randomly) among five children. What is the difference between the maximum amount and the minimum amount a child can receive? (Give your answer in dollars)
+
+=== Year 2013 | Paper PR | Problem 7 | Page 5 | Ref 0 ===
+A palindromic number is a number that remains the same when its digits are reversed. E.g. 4554 is a palindromic number. How many palindromic numbers are there between 100 and 999, inclusive?
+
+=== Year 2013 | Paper PR | Problem 8 | Page 5 | Ref 0 ===
+If two different natural numbers have the same digits but in reverse order, each number is called the palimage of the other. For example, 12 and 21 are palimages of each other. What is the maximum difference between two-digit palimages?
+
+=== Year 2013 | Paper PR | Problem 9 | Page 6 | Ref 0 ===
+Alan runs at a rate of 100 meters per 15 seconds. At this rate, how much distance will he cover in 15 minutes? Give your answer in kilometers.
+
+=== Year 2013 | Paper PR | Problem 10 | Page 6 | Ref 0 ===
+In a construction company, 10 workers complete one-tenth of their total in 10 hours. How long will 50 workers take to complete their entire work?
+
+=== Year 2013 | Paper PR | Problem 11 | Page 7 | Ref 0 ===
+If January 1st, 2005 was a Monday, on what date will the 55th Monday from January 1st, 2005 be?
+
+=== Year 2013 | Paper PR | Problem 12 | Page 7 | Ref 0 ===
+The average of 5 numbers is 7.6. What number should be added to increase the average of the number to 8?
+
+=== Year 2013 | Paper PR | Problem 13 | Page 8 | Ref 0 ===
+In the following pattern, how many black squares are there in the 19th image? [Figure: four grids. 1st Image: 3×3 grid, black at the 4 corners and the centre (checkerboard). 2nd Image: 4×4 grid, black at the 4 corners and the central 2×2 block. 3rd Image: 5×5 grid, black at the 4 corners and at (row 2, col 2), (2,4), (3,3), (4,2), (4,4) (an X shape inside). 4th Image: 6×6 grid, black at the 4 corners, at (2,2), (2,5), (5,2), (5,5), and the central 2×2 block (rows 3–4, cols 3–4).]
+
+=== Year 2013 | Paper PR | Problem 14 | Page 8 | Ref 0 ===
+A certain number of children stand in a line in ascending height order. The 10th child from the front is also the 16th child from the back. How many children must be added at the back such that the 5th child from the front becomes the 36th child from the back?
+
+=== Year 2013 | Paper PR | Problem 15 | Page 9 | Ref 0 ===
+Among a certain group of kids, the first kid gets 1 sweet, the second kid gets 2 more sweets than the first kid, the third kid gets 3 more sweets than the second kid and so on. How many more sweets does the 12th kid get in comparison to the 6th kid?
+
+=== Year 2013 | Paper PR | Problem 16 | Page 9 | Ref 0 ===
+Rico walks from point A to point B on a straight path at a speed of 2 km/h. Alice walks from point B to point A on the same path at a speed of 5 km/h. If Rico starts walking from point A at the same time as Alice starts walking from point B, and the distance between points A and B is 14 km, how far would Alice have walked before she crosses Rico?
+
+=== Year 2013 | Paper PR | Problem 17 | Page 10 | Ref 0 ===
+How many degrees does the minute hand sweep between the time 9:00 AM and 11:50 AM?
+
+=== Year 2013 | Paper PR | Problem 18 | Page 10 | Ref 0 ===
+A, B, C are different numbers to be chosen from the set {4, 7, 8, 10}. Find the difference between the largest and smallest values of (A × B)/C
+
+=== Year 2013 | Paper PR | Problem 19 | Page 11 | Ref 0 ===
+Given on the right is a series of numbers following a specific pattern. (1,2) refers to the number in the first row second column. What is the number in (10,2)? [Table (rows × columns): row 1: 2, 4, 6; row 2: 9, 12, 15; row 3: 17, 19, 21; row 4: 24, 27, 30]
+
+=== Year 2013 | Paper PR | Problem 20 | Page 11 | Ref 0 ===
+A circle with centre O is inscribed in a square ABCD as shown in the figure. If the perimeter of square ABCD is 16 cm, find the area of the circle in cm^2. Give your answer in terms of cm^2. [Figure: square ABCD (A top-left, B top-right, C bottom-right, D bottom-left) with a circle centred at O touching all four sides.]
+
+=== Year 2013 | Paper PR | Problem 21 | Page 12 | Ref 0 ===
+In the given figure, arc AOD represents a semicircle. With centre at O. Length of AB = a where ABCD is a square. Find the area of the given figure. [Figure: square ABCD with B top-left, A top-right, D bottom-right, C bottom-left; side BA labelled a. A semicircle on side AD bulges outward to the right; O is the midpoint of AD, with the two halves of AD each labelled r. The figure is the square plus the semicircle.]
+
+=== Year 2013 | Paper PR | Problem 22 | Page 12 | Ref 0 ===
+Let ABCDEFGH be a cuboid such that AB = 10 cm, BC = 2 cm, BF = 5 cm. How many cubes of length 1/2 cm would be required to fill the cuboid? [Figure: cuboid with bottom face A (front-left), B (front-right), C (back-right), D (back-left) and top face E, F, G, H above A, B, C, D respectively.]
+
+=== Year 2013 | Paper PR | Problem 23 | Page 13 | Ref 0 ===
+Given C > 0, for how many values of B is the given product valid? AA × CB = C5B (vertical multiplication with partial products BB and CC0: AA × CB; BB + CC0 = C5B)
+
+=== Year 2013 | Paper PR | Problem 24 | Page 13 | Ref 0 ===
+If BD is a diagonal in a rectangle ABCD where AB = 10, AD = 5, AE = 2, FC = 4 as shown in the figure, find the value of: (Area of triangle AED)/(Area of triangle BED) + (Area of triangle BCF)/(Area of triangle BFD) [Figure: rectangle with A top-left, B top-right, C bottom-right, D bottom-left; E on AB with AE = 2 and EB = 8; F on DC with FC = 4; AD = 5. Segments DE, DB and BF are drawn.]
+
+=== Year 2013 | Paper PR | Problem 25 | Page 14 | Ref 0 ===
+ABCD is a square park where AB = 100 m. The shaded area represents grass and the solid areas represent congruent squares of concrete. If EF = 5m, what is the ratio of the area covered by grass to the area covered by concrete? [Figure: square ABCD, shaded (grass), containing four small congruent unshaded squares, one in each quadrant: EFGH (top-left), IJKL (top-right), QRST (bottom-left), MNOP (bottom-right); EF is a side of the top-left square.]
+
+=== Year 2013 | Paper PR | Problem 26 | Page 14 | Ref 0 ===
+Andy's current age is 40. Five years from now, his age will be equal to the sum of the ages of his two sons, Mike and Rick. If Mike is 3 years older than Rick, what is Rick's current age?
+
+=== Year 2013 | Paper PR | Problem 27 | Page 15 | Ref 0 ===
+A 3 × 3 grid contains 9 numbers. Each number is halved to obtain the number on the left. Each number is multiplied by 1/3 to obtain the number above. If the sum of the numbers is 182, what is the number in the top right corner?
+
+=== Year 2013 | Paper PR | Problem 28 | Page 15 | Ref 0 ===
+A square is divided into three congruent rectangles as shown in figure 1. If the middle rectangle is rearranged to form figure 2, what is the ratio of the perimeter of figure 1 to the perimeter of figure 2? [Figure: Figure 1: square ABCD (A top-left, B top-right, C bottom-right, D bottom-left) cut by two horizontal lines into three congruent horizontal strips. Figure 2: an "I" shape: top strip ABHE (horizontal), bottom strip ILCD (horizontal), and the middle strip stood upright as a vertical rectangle FGKJ joining the middle of the top strip's lower edge (F, G) to the middle of the bottom strip's upper edge (J, K).]
+
+=== Year 2013 | Paper PR | Problem 29 | Page 16 | Ref 0 ===
+In the zoo, there are 45 heads of monkeys and lions. There are twice as many monkeys as lions. How many lions are there?
+
+=== Year 2013 | Paper PR | Problem 30 | Page 16 | Ref 0 ===
+In a group of 35 students, there are 9 girls more than boys. What is the number of girls?
+
+=== Year 2013 | Paper PR | Problem 31 | Page 17 | Ref 0 ===
+Jason has eaten 45 chocolates in 5 days. Every day, he ate 2 chocolates more than the previous day. How many chocolates did he eat on the first day?
+
+=== Year 2013 | Paper PR | Problem 32 | Page 17 | Ref 0 ===
+Find missing number and complete the number pattern. [Figure: five circles in a row containing: 14, ?, 53, ?, 144]
+
+=== Year 2013 | Paper PR | Problem 33 | Page 18 | Ref 0 ===
+The sum of Tom's age and Jerry's age is 25. What will the sum of their ages be after nine years?
+
+=== Year 2013 | Paper PR | Problem 34 | Page 18 | Ref 0 ===
+The ☆ (star) has a number value of? ○ + △ = 26; △ + △ = 34; △ + □ = 35; ○ + □ = ☆
+
+=== Year 2013 | Paper PR | Problem 35 | Page 19 | Ref 0 ===
+There were 17 pieces of paper. Some of them were cut into four parts. Altogether, there are now 32 pieces of paper. How many pieces were cut into four parts?
+
+=== Year 2013 | Paper PR | Problem 36 | Page 19 | Ref 0 ===
+What is the smallest possible number of children in a family if each child has at least two brothers and two sisters?
+
+=== Year 2013 | Paper PR | Problem 37 | Page 20 | Ref 0 ===
+In a box, there are six smaller boxes, each one of them contains seven even smaller boxes. How many boxes are there in total?
+
+=== Year 2013 | Paper PR | Problem 38 | Page 20 | Ref 0 ===
+What is the value of the following? 75 + 75 + 75 + 75 + 75 + 75 + 75 + 75 + 75 + 75 + 75 + 75 + 75 + 75 + 75 + 75 + 75 + 75 + 75 + 75 + 75 + 75 + 75 + 75 (24 terms of 75)
+
+=== Year 2013 | Paper PR | Problem 39 | Page 21 | Ref 0 ===
+Observe the following number pattern and fill in the box with the correct answer. [Figure: three groups, each with two boxes on top and one box below: top 11, 35 → bottom 1645; top 32, 46 → bottom 3966; top 34, 25 → bottom ?]
+
+=== Year 2013 | Paper PR | Problem 40 | Page 21 | Ref 0 ===
+There are 47 boys and 29 girls in a group. Every week, 6 more boys and 9 more girls join the group. After how many weeks will there be the same number of boys and girls in the group?
+
+=== Year 2013 | Paper PR | Problem 41 | Page 22 | Ref 0 ===
+A box has five pens in five colours: red, green, blue, white and yellow. The green pen is the first pen on the left. The yellow pen is next to the green pen and the red pen. The white pen is next to the red pen and the blue pen. What is the order of the pens in that box?
+
+=== Year 2013 | Paper PR | Problem 42 | Page 22 | Ref 0 ===
+How many rectangles are in this picture? [Figure: a rectangle divided into a grid of 2 rows × 4 columns of equal cells.]
+
+=== Year 2013 | Paper PR | Problem 43 | Page 23 | Ref 0 ===
+What is the next number in the following pattern 1, 3, 11, 123, ?
+
+=== Year 2013 | Paper PR | Problem 44 | Page 23 | Ref 0 ===
+There are parrots and rabbits in a pet store. The number of parrots is 50 more than that of rabbits and the total number of legs of the parrots is 40 more than that of the rabbits. How many parrots are there in the pet store?
+
+=== Year 2013 | Paper PR | Problem 45 | Page 24 | Ref 0 ===
+How many three-digit numbers are there in which all digits on the left are larger than digits on the right? (Hint: Look for a pattern)
+
+=== Year 2014 | Paper G3 | Problem 1 | Page 27 | Ref 30 ===
+Jane is 9 years old and John is 5 years old. How old will John be when Jane is 15 years old?
+
+=== Year 2014 | Paper G3 | Problem 2 | Page 27 | Ref 30 ===
+A textbook is opened at random. To what pages is it opened if the product of the facing pages is 110?
+
+=== Year 2014 | Paper G3 | Problem 3 | Page 27 | Ref 30 ===
+Find the number B such that the following statement is true: 8 × B = 3 × 9 + 5 × 9.
+
+=== Year 2014 | Paper G3 | Problem 4 | Page 27 | Ref 30 ===
+It is given that a ⊗ b = a × b + a − b. For example, 2 ⊗ 3 = 2 × 3 + 2 − 3 = 5. Find the value of 4 ⊗ 3 − 3 ⊗ 4.
+
+=== Year 2014 | Paper G3 | Problem 5 | Page 27 | Ref 31 ===
+Jane has a rope of length 23 cm. She wants to cut the rope so that she can form the biggest possible square, where the length of each side, in cm, is a whole number. What is the length of the rope that she must cut to form the square?
+
+=== Year 2014 | Paper G3 | Problem 6 | Page 27 | Ref 31 ===
+Find the missing term in the following sequence: 1, 2, 6, 24, ____, 720.
+
+=== Year 2014 | Paper G3 | Problem 7 | Page 27 | Ref 31 ===
+On National Day, 39 soldiers lined up in a straight row on opposite sides of Stadium Street to welcome Prime Minister Lee. A soldier stands on each end of Stadium Street. The distance between two adjacent soldiers on either side was 20 m. The soldiers on one side were arranged such that each soldier filled the gap between two other soldiers on the opposite side. How long was Stadium Street?
+
+=== Year 2014 | Paper G3 | Problem 8 | Page 27 | Ref 31 ===
+A shop sells sweets where every 3 sweet wrappers can be exchanged for one more sweet. Sharon has enough money to buy only 11 sweets. What is the biggest number of sweets that she can get from the shop?
+
+=== Year 2014 | Paper G3 | Problem 9 | Page 28 | Ref 31 ===
+At a workshop, there are 10 participants. Each of them shakes hand once with one another. How many handshakes are there?
+
+=== Year 2014 | Paper G3 | Problem 10 | Page 28 | Ref 32 ===
+Ali uses identical square tiles to make the following figures. If he continues using the same pattern, how many tiles will there be in the 15th figure? [Figure: four arch-shaped (upside-down U) figures made of square tiles, each a full top row with a vertical leg of tiles hanging down at each end and an empty hole in the middle. Figure 1: 2 rows by 3 columns with the middle bottom tile missing (5 tiles). Figure 2: 3 rows by 4 columns with a 2 × 2 hole (8 tiles). Figure 3: 4 rows by 5 columns with a 3 × 3 hole (11 tiles). Figure 4: 5 rows by 6 columns with a 4 × 4 hole (14 tiles).]
+
+=== Year 2014 | Paper G3 | Problem 11 | Page 28 | Ref 32 ===
+What is the least number of cuts required to cut 16 identical sausages so that they can be shared equally among 24 people?
+
+=== Year 2014 | Paper G3 | Problem 12 | Page 28 | Ref 32 ===
+A vending machine accepts 10¢ coins, 20¢ coins, 50¢ coins and $1 coins only. Ivy wants to buy a can of drinks that costs $1.60. She has eight 10¢ coins, three 20¢ coins, two 50¢ coins and one $1 coin. If she wants to get rid of as many coins as possible, what is the combination of coins that she should put inside the vending machine?
+
+=== Year 2014 | Paper G3 | Problem 13 | Page 28 | Ref 33 ===
+The total cost of a pen and a pencil is $2.90. The pen costs 60¢ more than the pencil. What much does the pen cost?
+
+=== Year 2014 | Paper G3 | Problem 14 | Page 28 | Ref 33 ===
+If the three-digit number 3N3 is divided by 9, the remainder is 1. Find N.
+
+=== Year 2014 | Paper G3 | Problem 15 | Page 28 | Ref 34 ===
+Charles has 16 marbles. He divides them into 4 piles so that each pile has a different number of marbles. Find the smallest possible number of marbles in the biggest pile.
+
+=== Year 2014 | Paper G3 | Problem 16 | Page 29 | Ref 34 ===
+In the following alphametic, all the different letters stand for different digits. Find the three-digit sum SEE. AS + A = SEE (vertical addition)
+
+=== Year 2014 | Paper G3 | Problem 17 | Page 29 | Ref 34 ===
+Find the total number of triangles in the diagram. [Figure: a pentagon with vertices top, left, right, lower-right and bottom (top → right → lower-right → bottom → left → top). Four extra segments are drawn: from the top vertex straight down to the bottom vertex, from the left vertex across to the right vertex, from the top vertex to the lower-right vertex, and from the bottom vertex to the right vertex. The top-to-bottom and left-to-right segments cross; the top-to-lower-right segment crosses the left-to-right segment and the bottom-to-right segment.]
+
+=== Year 2014 | Paper G3 | Problem 18 | Page 29 | Ref 34 ===
+A teacher has a bag of sweets to treat her class. If she gave 5 sweets to each student, then she would have 40 sweets left. If she gave 7 sweets to each student, then she would have 6 sweets left. How many students and how many sweets are there?
+
+=== Year 2014 | Paper G3 | Problem 19 | Page 29 | Ref 35 ===
+What are the last 2 digits of the sum 1 + 11 + 111 + ... + 111...111 (the last term has 50 digits)?
+
+=== Year 2014 | Paper G3 | Problem 20 | Page 29 | Ref 35 ===
+Alvin tells the truth on Monday, Tuesday, Wednesday and Thursday. He lies on all other days. Doris tells the truth on Monday, Friday, Saturday and Sunday. She lies on all other days. One day they both said, "Yesterday I lied." When was that 'one day'?
+
+=== Year 2015 | Paper G3 | Problem 1 | Page 36 | Ref 41 ===
+Find the missing term in the following sequence: 1, 2, 4, 7, ____, 16. (A) 10 (B) 11 (C) 12 (D) 13 (E) 14
+
+=== Year 2015 | Paper G3 | Problem 2 | Page 36 | Ref 41 ===
+2^5 means 2 multiplied by itself 5 times, i.e. 2^5 = 2 × 2 × 2 × 2 × 2 = 32. What is 3^4 equal to? (A) 7 (B) 12 (C) 27 (D) 81 (E) None of the above
+
+=== Year 2015 | Paper G3 | Problem 3 | Page 36 | Ref 41 ===
+An operator ✡ acts on two numbers to give the following outcomes: 3 ✡ 2 = 51; 5 ✡ 3 = 82; 6 ✡ 1 = 75; 9 ✡ 4 = 135. What is 7 ✡ 5 equal to? (A) 112 (B) 121 (C) 122 (D) 212 (E) None of the above
+
+=== Year 2015 | Paper G3 | Problem 4 | Page 37 | Ref 41 ===
+The diagram shows a figure that contains 7 identical squares. The area of the figure is 112 cm^2. Find its perimeter. [Figure: a staircase of 7 identical squares descending to the right: row 1 (top) has 1 square in column 1; row 2 has squares in columns 1–2; row 3 has squares in columns 2–3; row 4 (bottom) has squares in columns 3–4.] (A) 56 cm (B) 60 cm (C) 64 cm (D) 68 cm (E) 72 cm
+
+=== Year 2015 | Paper G3 | Problem 5 | Page 37 | Ref 41 ===
+Fill in the blank: ________ is 4 tens 5 ones greater than 2 tens 7 ones. (A) 18 (B) 28 (C) 62 (D) 72 (E) None of the above
+
+=== Year 2015 | Paper G3 | Problem 6 | Page 37 | Ref 41 ===
+Which of the following statement(s) is or are correct? Statement A: 7 + (0 × 2) = 7; Statement B: 7 + (0 ÷ 2) = 7; Statement C: 7 + (2 × 0) = 7. (A) All the three statements are correct. (B) Only Statements A and B are correct. (C) Only Statements A and C are correct. (D) Only Statements B and C are correct. (E) None of the above
+
+=== Year 2015 | Paper G3 | Problem 7 | Page 38 | Ref 42 ===
+There are 4 types of cakes available in a cake shop: chocolate, cheese, blueberry and blackforest. Naomi wants to buy 2 different types of cakes. How many different choices does she have? (A) 4 (B) 6 (C) 8 (D) 10 (E) 12
+
+=== Year 2015 | Paper G3 | Problem 8 | Page 38 | Ref 42 ===
+Find the total number of squares in a 3 × 3 square grid. [Figure: a 3 × 3 grid of unit squares.] (A) 9 (B) 10 (C) 13 (D) 14 (E) 15
+
+=== Year 2015 | Paper G3 | Problem 9 | Page 38 | Ref 42 ===
+Find the smallest whole number between 14 and 40 that is divisible by 3 and by 4. (A) 12 (B) 16 (C) 18 (D) 24 (E) 36
+
+=== Year 2015 | Paper G3 | Problem 10 | Page 39 | Ref 43 ===
+What is the length of the largest square that can be made from 50 one-centimetre square tiles? (A) 5 cm (B) 6 cm (C) 7 cm (D) 8 cm (E) None of the above
+
+=== Year 2015 | Paper G3 | Problem 11 | Page 39 | Ref 43 ===
+Two numbers are such that the first number is greater than or equal to 5, but less than or equal to 8; the second number is greater than or equal to 2, but less than or equal to 10. Find the least possible value of the sum of the two numbers.
+
+=== Year 2015 | Paper G3 | Problem 12 | Page 39 | Ref 43 ===
+If the four-digit number 12N4 is divisible by 3 and N is less than 5, find N.
+
+=== Year 2015 | Paper G3 | Problem 13 | Page 39 | Ref 43 ===
+A whole number multiplied by itself will give a special type of numbers called perfect squares. Examples of perfect squares are 9 (= 3 × 3) and 16 (= 4 × 4). What is the smallest number that can be multiplied by 28 to give a perfect square?
+
+=== Year 2015 | Paper G3 | Problem 14 | Page 39 | Ref 43 ===
+Find the day of the week that is 50 days from a Monday.
+
+=== Year 2015 | Paper G3 | Problem 15 | Page 39 | Ref 43 ===
+Amy wants to cut rectangular cards of length 4 cm by 3 cm from a rectangular sheet 32 cm by 21 cm. Find the biggest number of cards that can be cut from the sheet.
+
+=== Year 2015 | Paper G3 | Problem 16 | Page 39 | Ref 44 ===
+There are 5 items (a ruler, a pen, an eraser, a sharpener and a hole puncher) lying in a straight row on a table. The eraser is next to the hole puncher and the sharpener. The ruler is next to the hole puncher. The sharpener is the first item on the left. What is the order of the items on the table from left to right?
+
+=== Year 2015 | Paper G3 | Problem 17 | Page 40 | Ref 44 ===
+In the following, all the different letters stand for different digits. Find the two-digit NO. NON − AN = NO (vertical subtraction)
+
+=== Year 2015 | Paper G3 | Problem 18 | Page 40 | Ref 44 ===
+50 cakes are packed in two different box sizes. The small box holds 4 cakes and the big box holds 6 cakes. If less than 10 boxes are used and all the boxes are fully packed, how many big boxes are used?
+
+=== Year 2015 | Paper G3 | Problem 19 | Page 40 | Ref 45 ===
+Alice and Ben are sister and brother. Alice has as many sisters as she has brothers, but Ben has twice as many sisters as he has brothers. How many boys and girls are there in their family?
+
+=== Year 2015 | Paper G3 | Problem 20 | Page 40 | Ref 46 ===
+The diagram shows a rectangle being divided into 3 smaller rectangles and a square. If the perimeter of the unshaded rectangle is 16 cm and the area of the square is 9 cm^2, find the total area of the shaded rectangles. [Figure: a large rectangle split by one horizontal and one vertical line into four parts: top-left a large unshaded rectangle; top-right a tall narrow shaded rectangle; bottom-left a long flat shaded rectangle; bottom-right a small unshaded square. The square's side equals the width of the top-right rectangle and the height of the bottom-left rectangle.]
+
+=== Year 2016 | Paper G3 | Problem 1 | Page 47 | Ref 0 ===
+3 × 2016 + 0 × 2016 + 3 × 2016 = ? (A) 0 (B) 2016 (C) 6048 (D) 12096 (E) None of the above
+
+=== Year 2016 | Paper G3 | Problem 2 | Page 47 | Ref 0 ===
+Four sports cars travel 4 kilometres in 1 minute. How long does it take for one sports car to travel 4 kilometres? (A) 1 minute (B) 2 minutes (C) 3 minutes (D) 4 minutes (E) 5 minutes
+
+=== Year 2016 | Paper G3 | Problem 3 | Page 47 | Ref 0 ===
+If the day before yesterday was Sunday. How many days are there from today until Sunday? (For example, Monday to Wednesday is counted as two days) (A) 2 (B) 3 (C) 4 (D) 5 (E) 6
+
+=== Year 2016 | Paper G3 | Problem 4 | Page 48 | Ref 0 ===
+How many minutes are there in 2 weeks? (A) 2 × 7 × 24 (B) (7 + 7) × 24 × 60 (C) 2 × 7 × 12 × 60 (D) 2 × 24 × 60 (E) (7 + 7) × 12 × 60
+
+=== Year 2016 | Paper G3 | Problem 5 | Page 48 | Ref 0 ===
+Points P, Q, R and S are on a line. The length of PQ, QR and RS are 12cm, 14cm and 18 cm, respectively. What is the shortest distance between P and S? (A) 6 (B) 8 (C) 10 (D) 12 (E) 14
+
+=== Year 2016 | Paper G3 | Problem 6 | Page 48 | Ref 0 ===
+A 12-metre long steel pipe was cut into few pieces. The length of each piece is 3 metres. It takes 18 minutes to complete the whole process. How long does it take to cut a 12-metre pipe into 6-metre sections? (A) 6 minutes (B) 9 minutes (C) 12 minutes (D) 18 minutes (E) None of the above
+
+=== Year 2016 | Paper G3 | Problem 7 | Page 49 | Ref 0 ===
+The sum of 5 consecutive numbers is 500. Among all five numbers, what is the smallest value? (A) 95 (B) 96 (C) 97 (D) 98 (E) 99
+
+=== Year 2016 | Paper G3 | Problem 8 | Page 49 | Ref 0 ===
+Find the next number in the following sequence: 21, 24, 19, 26, 17, ?, ... (A) 18 (B) 19 (C) 27 (D) 28 (E) None of the above
+
+=== Year 2016 | Paper G3 | Problem 9 | Page 49 | Ref 0 ===
+How many squares are there in the diagram below? (A) 8 (B) 9 (C) 10 (D) 11 (E) 12 [Figure: a large square standing on a corner (diamond) with vertices top, right, bottom, left; the vertical line joining top and bottom vertices and the horizontal line joining left and right vertices are drawn; the four midpoints of the diamond's sides are joined to form an upright square, and the two segments joining opposite midpoints of the diamond's sides (the diagonals of the upright square) are also drawn, all lines passing through the centre]
+
+=== Year 2016 | Paper G3 | Problem 10 | Page 50 | Ref 0 ===
+Which of the following dice can be formed by folding the figure on the right? (A) die showing front 6, top 3, right side 5 (B) die showing front 2, top 3, right side 4 (C) die showing front 1, top 3, right side 2 (D) die showing front 1, top 3, right side 5 (E) die showing front 6, top 3, right side 5 [Figure: cross-shaped net of six squares: top square 1 dot; middle row left to right 2 dots (diagonal), 3 dots (diagonal), 4 dots; square below the centre 5 dots; bottom square 6 dots. Options are dice drawn in perspective showing front, top and right faces; the diagonal orientation of the 2 and 3 faces differs between options]
+
+=== Year 2016 | Paper G3 | Problem 11 | Page 50 | Ref 0 ===
+If the four-digit number 28X8 is divisible by 3, how many possible values are there for X? (A) 1 (B) 2 (C) 3 (D) 4 (E) 5
+
+=== Year 2016 | Paper G3 | Problem 12 | Page 50 | Ref 0 ===
+How many multiples of 7 are between 20 and 100? (A) 10 (B) 11 (C) 12 (D) 13 (E) 14
+
+=== Year 2016 | Paper G3 | Problem 13 | Page 51 | Ref 0 ===
+Suppose it is now the month of December. What month will it be 100 calendar months from now? (A) January (B) February (C) March (D) April (E) May
+
+=== Year 2016 | Paper G3 | Problem 14 | Page 51 | Ref 0 ===
+In the figure on the right, numbers from 1 to 19 are to be filled in each hexagon. The sum of the numbers in each diagonal and column is 38. What is the value of 'X'? (A) 2 (B) 6 (C) 11 (D) 14 (E) 19 [Figure: hexagonal board of 19 hexagons arranged in 5 vertical columns of 3, 4, 5, 4, 3 cells (top to bottom); column 1: 15, _, _; column 2: _, 8, X, _; column 3: 10, _, _, _, 18; column 4: _, _, 7, 17; column 5: 16, _, 3. A second small diagram shows that "columns" are the vertical lines of cells and "diagonals" are the slanted lines of cells in both directions]
+
+=== Year 2016 | Paper G3 | Problem 15 | Page 52 | Ref 0 ===
+[Figure 1] is rotated to [Figure 2]. As [Figure 3] rotated to ? (A) (B) (C) (D) (E) [Figure: Figure 1 is a solid of cubes: a 2-by-2 floor with a back wall 3 cubes high and a 3-cube-high column at the right, like an open chair; Figure 2 is the same solid seen after rotation. Figure 3 is a staircase of cubes with columns 1, 2 and 3 cubes high in a row, tallest at the back right. Options: A: three columns rising to the right with the tallest (3 high) at the front right; B: staircase descending from a 3-high column at the back left down to 1 cube at the front right; C: a row of 3 cubes on top with a column hanging down at the right end (upside-down staircase/L shape); D: cubes lying flat in a triangular arrangement (3, 2, 1) seen from above; E: a flat zigzag row of cubes on the floor]
+
+=== Year 2016 | Paper G3 | Problem 16 | Page 52 | Ref 0 ===
+Cindy left her home to buy some groceries at 10.15 am. She took her lunch before going back home. She reached home at 3.30 pm. How many minutes was she out of her house?
+
+=== Year 2016 | Paper G3 | Problem 17 | Page 53 | Ref 0 ===
+What is the answer to the following? 2 − 3 + 4 − 5 + 6 − 7 + 8 − 9 + 10 − ⋯ + 2014 − 2015 + 2016 = ?
+
+=== Year 2016 | Paper G3 | Problem 18 | Page 53 | Ref 0 ===
+In a magic show, the magician placed 3 cards on the table, as shown below. Each card has a math symbol on one side and a number on other side. [Cards: ÷ | 6 | 8] After showing the cards, he flipped over some (maybe all) of the cards and rearranged them. The new arrangement of the cards is shown below. [Cards: 6 | × | 1] What number is on other side of the card with the symbol '×'?
+
+=== Year 2016 | Paper G3 | Problem 19 | Page 54 | Ref 0 ===
+There are 18 books on the first shelf. There are 24 books on the second shelf. How many books must be moved from the first shelf to the second shelf such that the second shelf has twice as many books as the first shelf?
+
+=== Year 2016 | Paper G3 | Problem 20 | Page 54 | Ref 0 ===
+The table below shows the number of pencil cases that Bob, Macy, Jane and Danny each have. Each pencil case has the same number of pencils. Danny has 27 more pencils than Bob. How many pencils do they have altogether? [Table (picture graph of pencil cases): Bob: 3 pencil cases; Macy: 2; Jane: 2; Danny: 6]
+
+=== Year 2016 | Paper G3 | Problem 21 | Page 55 | Ref 0 ===
+Lily, Macy and Ronald are old classmates. During a recent gathering, they told each other about their occupation. Among them, there is a teacher, a doctor and a lawyer. Below are the hints about their occupations: Ronald is older than the teacher. Macy is younger than the lawyer. The lawyer is younger than Lily. What is Lily's occupation?
+
+=== Year 2016 | Paper G3 | Problem 22 | Page 55 | Ref 0 ===
+The figure below is made up by small squares with length of 3. What is the perimeter of the figure below? [Figure: 25 unit squares in 5 rows of 5, each row shifted: with columns numbered 0–6 from the left, row 1 (top) occupies columns 0–4, row 2 columns 1–5, row 3 columns 2–6, row 4 columns 1–5, row 5 (bottom) columns 0–4]
+
+=== Year 2016 | Paper G3 | Problem 23 | Page 56 | Ref 0 ===
+Find an odd number between 200 and 241 which can be divided by both 3 and 7.
+
+=== Year 2016 | Paper G3 | Problem 24 | Page 56 | Ref 0 ===
+Tom wrote the numbers from 1 to 129 on the whiteboard. How many digits did he write?
+
+=== Year 2016 | Paper G3 | Problem 25 | Page 56 | Ref 0 ===
+In the following, all the different letters stand for different digits. Find the 4-digit number CDDB. ABC + ABC = CDDB (vertical addition)
+
+=== Year 2017 | Paper G3 | Problem 1 | Page 57 | Ref 0 ===
+What is the sum of the following numbers? 2017 + 7012 + 271 = (A) 9200 (B) 9290 (C) 9300 (D) 9390 (E) None of the above
+
+=== Year 2017 | Paper G3 | Problem 2 | Page 57 | Ref 0 ===
+Fill in the blank: ______ is 3 tens 7 ones less than 4 tens 6 ones. (A) 9 (B) 19 (C) 73 (D) 83 (E) None of the above
+
+=== Year 2017 | Paper G3 | Problem 3 | Page 57 | Ref 0 ===
+Sally wrote the following: Singapore and Asian Schools Math Olympiad. She started on Sunday and wrote one letter each day. Which day of the week will she finish writing all the letters? (A) Saturday (B) Sunday (C) Monday (D) Tuesday (E) None of the above
+
+=== Year 2017 | Paper G3 | Problem 4 | Page 58 | Ref 0 ===
+What is the next number in the sequence below? 47, 44, 38, 29, 17, ... (A) 12 (B) 8 (C) 5 (D) 2 (E) None of the above
+
+=== Year 2017 | Paper G3 | Problem 5 | Page 58 | Ref 0 ===
+The following grid can be filled with exactly 4 shapes (star, square, circle and diamond) such that there is no duplicated shape in each row or column. What shape should be put in the place of the question mark? (A) diamond (B) star (C) square (D) circle (E) It cannot be found [Table: 4×4 grid; row 1: diamond, _, _, star; row 2: _, ?, square, _; row 3: circle, _, _, _; row 4: _, diamond, _, _]
+
+=== Year 2017 | Paper G3 | Problem 6 | Page 58 | Ref 0 ===
+During day time, Jack is standing in front of a mirror. What will be the time after 15 minutes? (A) 10:10 am (B) 10:25 am (C) 2:05 pm (D) 3:05 pm (E) None of the above [Figure: a boy looking into a mirror; in the mirror is the reflection of a clock without numerals, its short (hour) hand pointing to the 10 o'clock position and its long (minute) hand pointing to the 2 o'clock position as seen in the mirror]
+
+=== Year 2017 | Paper G3 | Problem 7 | Page 59 | Ref 0 ===
+Hannah bought 5 whole pizzas: 1 for herself and 1 for each of her 4 students. Hannah sliced her pizza into 5 equal parts and ate only 3 slices. Student A sliced his pizza into 4 equal parts, but ate only 3 slices. Student B sliced his pizza into 8 equal parts, but ate only 7 slices. Student C sliced her pizza into 3 equal parts, but ate only 2 slices. Student D sliced her pizza into 6 equal parts, but ate only 3 slices. Who ate less pizza than Hannah? (A) Student A (B) Student B (C) Student C (D) Student D (E) Nobody
+
+=== Year 2017 | Paper G3 | Problem 8 | Page 59 | Ref 0 ===
+Some animals are placed on both sides of the balance scale. If the two sides weigh the same, the balance scale will stay balanced. How many birds will have the same weight as ONE elephant? (A) 3 (B) 4 (C) 5 (D) 6 (E) None of the above [Figure: two balanced scales; scale 1: 1 elephant = 2 pandas; scale 2: 6 birds = 3 pandas]
+
+=== Year 2017 | Paper G3 | Problem 9 | Page 60 | Ref 0 ===
+Suppose ♣ represents a whole number. The number 66 is obtained by performing the following operations below: Start ♣ → Multiply by 6 → Divide by 4 → Plus 10 → Times 3 → 66. Starting with ♣ again, perform the operations below: Start ♣ → Divide by 4 → Multiply by 9 → ♫. What is the whole number that ♫ represents? (A) 8 (B) 18 (C) 36 (D) 108 (E) None of the above
+
+=== Year 2017 | Paper G3 | Problem 10 | Page 60 | Ref 0 ===
+Nick wants to bake a cake that consists of only 1 flavour and 1 topping. He gets to choose from 3 different flavours and 3 different toppings. How many different kinds of cake can he make? (A) 3 (B) 6 (C) 9 (D) 12 (E) None of the above
+
+=== Year 2017 | Paper G3 | Problem 11 | Page 61 | Ref 0 ===
+Find the picture below which is exactly the same as the picture on the right. (A) (B) (C) (D) (E) [Figure: a picture of a house (gabled roof with chimney, round window in the left gable, small window in the right gable, three windows on the left wall, door and porch with posts, tree on the left, bush on the right); options A–E are near-copies with small differences in details (e.g. A: the left gable window differs; C: the right gable window has a different shape; the shading of the three left windows varies); differences are hard to make out at scan resolution]
+
+=== Year 2017 | Paper G3 | Problem 12 | Page 61 | Ref 0 ===
+The square below has an area of 40 cm². Point O is the centre of the square. What is the area of the shaded region? (A) 10 cm² (B) 15 cm² (C) 20 cm² (D) 24 cm² (E) None of the above [Figure: square with centre O; the horizontal line through O across the square, the vertical segment from O down to the bottom side, and segments from O to the top-left, top-right and bottom-left corners are drawn; shaded: triangle (top-left corner, midpoint of left side, O), triangle (top-right corner, midpoint of right side, O), and triangle (O, bottom-left corner, midpoint of bottom side)]
+
+=== Year 2017 | Paper G3 | Problem 13 | Page 62 | Ref 0 ===
+The diagram shows some cubes of the same size stacked at a corner of a room. How many cubes are there altogether? (Note: The floor is horizontal and the two walls are vertical. There are no gaps or holes behind the visible cubes.) (A) 13 (B) 15 (C) 17 (D) 19 (E) None of the above [Figure: cubes stacked in the corner where two walls meet; the tallest stack (4 cubes high) is at the corner and the stacks step down in height towards the front-left along one wall and towards the front; a separate stack 2 cubes high stands against the right wall next to a 1-cube-high stack]
+
+=== Year 2017 | Paper G3 | Problem 14 | Page 62 | Ref 0 ===
+An unknown number is an odd number greater than 50 but less than 100. The number is a multiple of 3 and 7. What is the value of the unknown number? (A) 63 (B) 77 (C) 84 (D) 91 (E) None of the above
+
+=== Year 2017 | Paper G3 | Problem 15 | Page 62 | Ref 0 ===
+The operator Δ acts on two numbers to give the following outcomes: 3 Δ 2 = 12, 4 Δ 5 = 40, 5 Δ 9 = 90, 6 Δ 1 = 12. What is 2 Δ 7 equal to? (A) 14 (B) 20 (C) 24 (D) 28 (E) None of the above
+
+=== Year 2017 | Paper G3 | Problem 16 | Page 63 | Ref 0 ===
+Given that banana + apple + banana + apple + banana = 20 and apple + banana + apple = 16, what is the value of apple + banana? [Figure: the equations are drawn with pictures of bananas and apples]
+
+=== Year 2017 | Paper G3 | Problem 17 | Page 63 | Ref 0 ===
+How many triangles are there in the figure on the right? [Figure: four squares standing on their corners (diamonds) arranged in a 2-by-2 pattern, neighbouring diamonds touching at a vertex, so that their inner sides enclose a fifth diamond in the middle; each of the four diamonds has its vertical diagonal drawn, and a vertical line is also drawn through the middle diamond]
+
+=== Year 2017 | Paper G3 | Problem 18 | Page 63 | Ref 0 ===
+The picture graph below shows the number of story books that Phoebe, Queenie, Rachael and Suzy have. Each bag represents the same amount of books. Altogether, they have 40 books. [Table (picture graph): Phoebe: 3 bags; Queenie: 4 bags; Rachael: 1 bag; Suzy: 2 bags] If Queenie wishes to have twice as many books as Phoebe, how many books does Queenie need to buy?
+
+=== Year 2017 | Paper G3 | Problem 19 | Page 64 | Ref 0 ===
+Jason, Adam and Tom are siblings. They are 6, 9 and 10 years old. Tom's age is a multiple of 3. Jason is younger than Tom. How old is Adam?
+
+=== Year 2017 | Paper G3 | Problem 20 | Page 64 | Ref 0 ===
+In 6 years, Claire will be three times her current age. What will be Claire's age two years from now?
+
+=== Year 2017 | Paper G3 | Problem 21 | Page 64 | Ref 0 ===
+Observe a pattern and find the value of '?'. [Figure: three large triangles, each divided into 4 small triangles (top, bottom-left, centre (inverted), bottom-right); triangle 1: top 24, centre 32, bottom-left 8, bottom-right 6; triangle 2: top 28, centre 42, bottom-left 6, bottom-right 4; triangle 3: top 64, centre ?, bottom-left 7, bottom-right 8]
+
+=== Year 2017 | Paper G3 | Problem 22 | Page 65 | Ref 0 ===
+The teacher asks Lisa to write all the odd numbers between 0 and 100. How many of the numbers consist of the digit '1'?
+
+=== Year 2017 | Paper G3 | Problem 23 | Page 65 | Ref 0 ===
+Tony bought 25 candies from a grocery shop. He bought 7 more apple candies than orange candies. He bought 3 more apple candies than grape candies. He bought 2 more pineapple candies than orange candies. How many apple candies did Tony buy?
+
+=== Year 2017 | Paper G3 | Problem 24 | Page 65 | Ref 0 ===
+In the following, all the different letters stand for different digits. What is the value of the 2-digit number QP? PQ + Q = QP (vertical addition)
+
+=== Year 2017 | Paper G3 | Problem 25 | Page 66 | Ref 0 ===
+As shown in Example 1, each number in a cell represents the number of shaded cells that surround it. How many shaded cells will be in the grid below after you shade it according to the rules above? [Figure: hexagonal-cell grids drawn as rows of hexagons, each row offset by half a cell. Example 1 (inverted triangle): row 1 (5 cells): 1, shaded, shaded, blank, 1; row 2 (4 cells): 2, 4, shaded, shaded; row 3 (3 cells): shaded, blank, 3; row 4 (2 cells): 2, shaded. Puzzle grid: row 1 (4 cells): _, _, 3, _; row 2 (5 cells, extending half a cell further on each side): _, 3, _, _, 1; row 3 (4 cells): _, _, 4, 1; row 4 (3 cells): 2, _, _; row 5 (2 cells): _, 2]
+
+=== Year 2018 | Paper G3 | Problem 1 | Page 67 | Ref 0 ===
+What is the total number of hearts below? (A) 51 (B) 52 (C) 53 (D) 54 (E) None of the above [Figure: hearts arranged in 5 rows like a crown: row 1: three groups of 1, 1, 1; row 2: groups of 2, 3, 2; row 3: groups of 3, 5, 3; row 4: groups of 4, 7, 4; row 5: one continuous row of 17 hearts]
+
+=== Year 2018 | Paper G3 | Problem 2 | Page 67 | Ref 0 ===
+Which of the following is the same as 2018 cm? (A) 2 metres and 18 centimetres (B) 2 kilometres and 18 centimetres (C) 20 metres and 18 centimetres (D) 201 metres and 8 centimetres (E) None of the above
+
+=== Year 2018 | Paper G3 | Problem 3 | Page 67 | Ref 0 ===
+The following table shows the scores of Tiffany, Ursula, Vincent and Warren in the "Mathcraft Game". [Table: columns Round 1, Round 2, Round 3, Round 4; Tiffany: 7, 56, 8, 43; Ursula: 37, 24, 36, 13; Vincent: 27, 41, 23, 21; Warren: 27, 38, 23, 27] Who received the highest score? (A) Tiffany (B) Ursula (C) Vincent (D) Warren (E) Tiffany and Vincent
+
+=== Year 2018 | Paper G3 | Problem 4 | Page 68 | Ref 0 ===
+Ducklings are walking in a queue when they are following the mother duck. Joey the duckling is the 6th from the front and 8th from the back (including the mother duck). Some of the ducklings at the back moved away from the queue making Joey the middle duckling in the queue. How many ducklings moved away from the queue? (A) 2 (B) 3 (C) 4 (D) 5 (E) None of the above.
+
+=== Year 2018 | Paper G3 | Problem 5 | Page 68 | Ref 0 ===
+George takes 4 minutes to go from 1st floor to 3rd floor. He just realized that he forgot his water bottle on the 5th floor. He is now on the 2nd floor. How long would it take him to get his water bottle? (A) 4 minutes (B) 5 minutes (C) 6 minutes (D) 8 minutes (E) None of the above.
+
+=== Year 2018 | Paper G3 | Problem 6 | Page 68 | Ref 0 ===
+What is the next number below? 3, 5, 6, 10, 9, 15, 12, 20, ____ (A) 13 (B) 15 (C) 18 (D) 25 (E) None of the above
+
+=== Year 2018 | Paper G3 | Problem 7 | Page 69 | Ref 0 ===
+Hansel wants to buy 2 dice of different colours. If the available colours in a store are red, blue, green, yellow, pink and white, how many different combinations of 2 dice are there in the store? (Example: 1 combination is yellow and white) (A) 5 (B) 10 (C) 15 (D) 20 (E) None of the above
+
+=== Year 2018 | Paper G3 | Problem 8 | Page 69 | Ref 0 ===
+A palindrome is a number that can be read the same forward and backward. For example, the numbers 99, 252 and 4884 are palindromes. How many 3-digit palindrome numbers are there? (A) 81 (B) 900 (C) 90 (D) 9 (E) None of the above
+
+=== Year 2018 | Paper G3 | Problem 9 | Page 69 | Ref 0 ===
+Which of the following CANNOT form a rectangle? (A) Two identical triangles (B) Two identical squares (C) Five identical squares (D) Four identical triangles (E) Five identical triangles
+
+=== Year 2018 | Paper G3 | Problem 10 | Page 70 | Ref 0 ===
+Find the correct shadow of the animals shown on the right. (A) (B) (C) (D) (E) [Figure: a line drawing of a horse facing left with a goat standing on its back facing right; the horse's tail hangs down and curls at the right. Options A–E are dark silhouettes of the horse and goat differing in small details: A: the horse's tail is raised and bushy; B: tail curving down, similar to the drawing; C: the horse's ears stick out sideways; D and E: small differences in the horse's ears, legs and the goat's outline]
+
+=== Year 2018 | Paper G3 | Problem 11 | Page 70 | Ref 0 ===
+Elmo visits the Sesame Street Park every Wednesday. If the 1st of January 2017 was Sunday and February had 28 days, what was the last date in March 2017 in which Elmo visited Sesame Street Park? (A) 28th March (B) 29th March (C) 30th March (D) 31st March (E) None of the above
+
+=== Year 2018 | Paper G3 | Problem 12 | Page 71 | Ref 0 ===
+The diagram shows some cubes of the same size stacked at a corner of a room. How many cubes are there altogether? (Note: The floor is horizontal and the two walls are vertical. There are no gaps or holes behind the visible cubes.) (A) 23 (B) 26 (C) 28 (D) 30 (E) None of the above [Figure: cubes stacked in the corner of a room forming an inverted-V (A) shape: the tallest stack is at the corner, and the stacks step down one cube at a time along each of the two walls to the floor; at the end of each arm there is a flat block of cubes 2 rows deep on the floor; a single cube sits on the floor in front of the corner, with an empty floor space between the two arms]
+
+=== Year 2018 | Paper G3 | Problem 13 | Page 71 | Ref 0 ===
+The figure is made up of 6 identical rectangles with breadth of 1 cm. What is the perimeter of the figure? (A) 20 (B) 22 (C) 24 (D) 26 (E) None of the above. [Figure: one rectangle lying horizontally on top (height marked 1 cm), with 5 identical rectangles standing vertically side by side beneath it, together forming a large rectangle]
+
+=== Year 2018 | Paper G3 | Problem 14 | Page 72 | Ref 0 ===
+What is the missing piece '?' in the diagram? (A) square with a star at the bottom-right corner (B) square with a star at the top centre (C) square with a star at the middle of the left side (D) square with a star at the bottom centre (E) square with a star at the top-right corner [Figure: 3×3 grid with the centre cell shaded; going clockwise from the top-left cell: top-left: star at top-left corner; top-middle: star at bottom centre; top-right: star on the right side; middle-right: star at bottom-left corner; bottom-right: '?'; bottom-middle: star at top-left corner; bottom-left: star at top-right corner; middle-left: star at bottom-right corner (the stars in the top row and middle-right are dark, those in the bottom-middle, bottom-left and middle-left are light)]
+
+=== Year 2018 | Paper G3 | Problem 15 | Page 72 | Ref 0 ===
+A toy store has 43 yoyos in the first box and 23 yoyos in the second box. After a week, an equal number of yoyos from each box were sold. The number of yoyos in the first box were then five times as many as the number of yoyos in the second box. How many yoyos were left? (A) 6 (B) 18 (C) 24 (D) 32 (E) None of the above
+
+=== Year 2018 | Paper G3 | Problem 16 | Page 73 | Ref 0 ===
+Find the sum: 11 + 13 + 15 + 17 + 19 + 21 + 23 + 25 + 27 + 29 + 31
+
+=== Year 2018 | Paper G3 | Problem 17 | Page 73 | Ref 0 ===
+How many rectangles are there in the picture below? [Figure: a rectangle divided by 4 horizontal lines into 5 horizontal strips stacked on top of each other]
+
+=== Year 2018 | Paper G3 | Problem 18 | Page 73 | Ref 0 ===
+In a classroom, Kevin wrote 30 more letters than Sara, and James wrote 40 more letters than Sara. Altogether, they wrote 160 letters. Find the number of letters Kevin wrote.
+
+=== Year 2018 | Paper G3 | Problem 19 | Page 74 | Ref 0 ===
+Find a two-digit multiple of 6 which is one more than a multiple of 13.
+
+=== Year 2018 | Paper G3 | Problem 20 | Page 74 | Ref 0 ===
+Andy shows a number to Zach, then they have the following conversation: Andy: "Subtract 17 from it, then divide the result by 6. After that, add 39 to the new number and then multiply the resulting number by 4. Finally, add 29" Zach: "Not hard, the final answer is 209 and I'm very sure it is the correct answer" What is the number that Andy showed to Zach?
+
+=== Year 2018 | Paper G3 | Problem 21 | Page 74 | Ref 0 ===
+Study the pattern below. [2 in a square] = 4; [3 in a circle] = 6; [23 in a triangle] = 32; [6 in a circle inside a square] = 14; [10 in a square inside a triangle] = 21. Find the value of [24 in a circle inside a triangle].
+
+=== Year 2018 | Paper G3 | Problem 22 | Page 75 | Ref 0 ===
+Jeremy has the same size toy cars in his box in which 5 are red, 9 are blue and 4 are white. How many cars does he need to pick from the box without looking to be sure he will get 3 toy cars of the same colour?
+
+=== Year 2018 | Paper G3 | Problem 23 | Page 75 | Ref 0 ===
+Given that round gem + hexagonal gem + round gem = 15, diamond + round gem + hexagonal gem = 17, diamond + hexagonal gem = 13. Find the value of diamond. [Figure: the equations are drawn with pictures of three kinds of gems: a round cushion-cut gem, a hexagonal gem and a diamond-shaped (triangular, point down) gem]
+
+=== Year 2018 | Paper G3 | Problem 24 | Page 76 | Ref 0 ===
+In the following, all the different letters stand for different digits. AB2 − 3AA = 1A7 (vertical subtraction). Find the value of A + B + B + A.
+
+=== Year 2018 | Paper G3 | Problem 25 | Page 76 | Ref 0 ===
+Fill the figure with numbers so that each shaded square in the figure is surrounded by all digits from 1 to 8. How many times will the digit '8' appear in the filled figure? [Table: grid of squares, 9 columns (c1–c9) and 7 rows, # = shaded, _ = empty cell, cells not listed do not exist; row 1: c4 8, c5 _, c6 6; row 2: c2 8, c3 _, c4 5, c5 #, c6 2, c7 _, c8 6; row 3: c2 2, c3 #, c4 3, c5 _, c6 1, c7 #, c8 8; row 4: c1 4, c2 1, c3 _, c4 _, c5 #, c6 _, c7 _, c8 7, c9 8; row 5: c1 2, c2 #, c3 _, c4 _, c5 6, c6 _, c7 _, c8 #, c9 5; row 6: c1 _, c2 6, c3 5, c4 #, c5 _, c6 #, c7 4, c8 1, c9 _; row 7: c3 4, c4 7, c5 3, c6 5, c7 7]
+
+=== Year 2019 | Paper G3 | Problem 1 | Page 83 | Ref 108 ===
+Calculate the value of 7 + 16 + 34 + 45 + 50 − 6 − 15 − 4 − 7. (A) 70 (B) 120 (C) 127 (D) 124 (E) None of the above
+
+=== Year 2019 | Paper G3 | Problem 2 | Page 83 | Ref 108 ===
+Study the pattern below. How many black circles are in the circle with the question mark? [Figure: a row of 10 large circles containing small dots: 1st: 1 black, 1 white; 2nd: 10 black; 3rd: 2 white; 4th: 2 black, 2 white; 5th: 8 black; 6th: 3 white; 7th: 3 black, 3 white; 8th: 6 black; 9th: 4 white; 10th: "?".] (A) 0 (B) 2 (C) 3 (D) 4 (E) None of the above
+
+=== Year 2019 | Paper G3 | Problem 3 | Page 83 | Ref 108 ===
+Kevin has 3 regular dice. Each dice has numbers from 1 to 6. Which of the following could not be the sum of the numbers on top of the 3 dice? (A) 5 (B) 13 (C) 17 (D) 22 (E) All the above numbers are possible sum
+
+=== Year 2019 | Paper G3 | Problem 4 | Page 84 | Ref 109 ===
+Find the top view of the figure on the right. [Figure: a 3D solid built from blocks: two upright rectangular blocks as legs, a long rectangular beam lying across their tops, and on the beam two triangular prisms forming a V-shape (one sloping up to the left end, one sloping up to the right end), with a small cylinder standing upright on the right-hand prism. Each option is a rectangle divided by vertical lines, with a small circle.] (A) 3 parts (narrow, wide, narrow), circle in the middle part (B) 3 parts (narrow, wide, narrow), circle in the left narrow part (C) 2 equal parts, circle in the right part (D) 3 parts (wide, narrow, narrow), circle in the right narrow part touching the right edge (E) 3 parts (wide, narrow, narrow), circle in the middle narrow part
+
+=== Year 2019 | Paper G3 | Problem 5 | Page 84 | Ref 109 ===
+Mitchell, Jason, Tom and Mark race across a field. Mark finishes one place ahead of Jason. Mitchell finishes one place behind the winner. Who is the winner of the race? (A) Mitchell (B) Jason (C) Tom (D) Mark (E) Jason and Mark
+
+=== Year 2019 | Paper G3 | Problem 6 | Page 84 | Ref 109 ===
+In a toy store, cars are available in 5 different colours: blue, white, yellow, black and red. A car has either 2 or 4 doors. How many different versions of the car are available? (A) 10 (B) 20 (C) 8 (D) 9 (E) None of the above
+
+=== Year 2019 | Paper G3 | Problem 7 | Page 85 | Ref 110 ===
+Find the mirror image of the picture on the right. [Figure: the given picture is a cartoon rocket with two round windows, flying towards the upper left, in front of a dark round planet with a star at its upper right; it has a booster on each side and flames at the bottom. All five options show the rocket flipped left-right (flying towards the upper right, star at the upper left of the planet) and differ only in small details.] (A) flipped rocket with no altered detail (B) flipped rocket with a differently drawn/shaded part near the lower window (C) flipped rocket with a differently drawn part near the upper-left booster (D) flipped rocket with a differently drawn base section at the lower left (E) flipped rocket with a differently drawn base section at the lower left
+
+=== Year 2019 | Paper G3 | Problem 8 | Page 85 | Ref 110 ===
+The four-digit number 32B9 is divisible by 3. If B is even, find the digit B. (A) 0 (B) 2 (C) 4 (D) 6 (E) 8
+
+=== Year 2019 | Paper G3 | Problem 9 | Page 86 | Ref 111 ===
+Study the picture below. How many balloons are needed to carry the sheep, cat and dog? (All balloons are visible in the picture and the same size. None of the balloons are hidden.) [Figure: three hot-air-balloon baskets. Basket 1 carries a sheep, a cat and two dogs and is lifted by 11 balloons; Basket 2 carries a sheep and a cat and is lifted by 5 balloons; Basket 3, labelled "Sheep Cat Dog", carries a sheep, a cat and a dog and has "?" above it.] (A) 8 (B) 16 (C) 7 (D) 9 (E) None of the above
+
+=== Year 2019 | Paper G3 | Problem 10 | Page 87 | Ref 111 ===
+A group of friends arrive at SASMO Cinema at 9:30. They watch any movie together. What is the earliest time they could finish watching both movies? [Table: SASMO Cinema — Title | Duration | Show Times; Four Princesses | 115 minutes | 10:00, 12:15, 13:55, 17:05, 19:35; Dragon Fighter | 105 minutes | 9:00, 10:55, 14:10, 16:50, 19:35] (A) 14:00 (B) 12:40 (C) 15:50 (D) 15:55 (E) None of the above
+
+=== Year 2019 | Paper G3 | Problem 11 | Page 88 | Ref 111 ===
+Find the missing shape in the diagram below. [Figure: 3×3 grid of shapes. Row 1: a 3-petal shape (rhombus petals pointing up-left, up-right and down); a large circle with a tiny circle in its centre; the same 3-petal shape inside the large circle. Row 2: a 3-petal shape (petals pointing up, lower-left and lower-right); a medium circle with a tiny circle in its centre; the 3-petal shape with the medium circle drawn over its centre. Row 3: a 6-petal star; a large circle containing a medium circle containing a tiny circle; "?".] (A) 6-petal star with a medium circle over its centre (B) 6-petal star inside a large circle, with a medium circle over its centre (C) 6-petal star inside a large circle only (D) 3-petal shape (petals up-left, up-right, down) inside a large circle, with a medium circle over its centre (E) None of them
+
+=== Year 2019 | Paper G3 | Problem 12 | Page 88 | Ref 112 ===
+All the figures below are made up of identical squares. The area of the figure with the largest area is 48 cm². What is the perimeter of the figure with the largest perimeter? [Figure: four figures of unit squares. Figure 1: staircase with rows of 4, 3, 2, 1 squares, all right-aligned (10 squares). Figure 2: cross-like shape with rows of 2, 4, 4, 2 squares, the 2-square rows centred (12 squares). Figure 3: a 2×2 block with one extra square at each of its four corners, touching the block only at a corner point (8 squares). Figure 4: rows of 3 (columns 1–3), 3 (columns 1–3), 3 (columns 2–4), 2 (columns 2–3) squares (11 squares).] (A) 46 cm (B) 96 cm (C) 32 cm (D) 48 cm (E) None of the above
+
+=== Year 2019 | Paper G3 | Problem 13 | Page 89 | Ref 112 ===
+On Saturday, Diana read 102 pages of a book. On Sunday, she read 100 pages of the same book. Every day, she read 2 pages less than the day before. On which day of the week did she read exactly 4 pages of the book? (A) Monday (B) Wednesday (C) Friday (D) Sunday (E) None of the above
+
+=== Year 2019 | Paper G3 | Problem 14 | Page 89 | Ref 113 ===
+How many two-digit numbers can be divided by both 2 and 3 at the same time? (A) 16 (B) 75 (C) 15 (D) 60 (E) None of the above
+
+=== Year 2019 | Paper G3 | Problem 15 | Page 90 | Ref 113 ===
+Study the picture below. Which toy is the heaviest? [Figure: three balanced scales. Scale 1: 2 trains balance 3 cars. Scale 2: 5 ships balance 4 cars. Scale 3: 4 trains balance 3 submarines.] (A) Train (B) Submarine (C) Ship (D) Car (E) None of the above
+
+=== Year 2019 | Paper G3 | Problem 16 | Page 91 | Ref 114 ===
+How many rectangles are there in the picture below? [Figure: line drawing of a house. Main block: a rectangular wall under a triangular gable roof; on it a plain rectangular window near the top, two windows each divided into 2×2 panes, a rectangular door with a thin rectangular bar above it, and a thin vertical rectangle on each side of the door (door and side bars stand on the wall's bottom edge). Attached on the left: a lower rectangular annex sharing the main wall's left edge, with a trapezoid roof and a long window divided into 3 panes in a row.]
+
+=== Year 2019 | Paper G3 | Problem 17 | Page 91 | Ref 114 ===
+The operator ⊛ acts on two numbers to give the following outcomes: 2 ⊛ 4 = 44; 5 ⊛ 7 = 104; 1 ⊛ 5 = 28; 7 ⊛ 10 = 146. What is 6 ⊛ 12 equal to?
+
+=== Year 2019 | Paper G3 | Problem 18 | Page 92 | Ref 114 ===
+The picture graph below shows the number of muffins 5 siblings have at first. Their mom takes all their muffins and then distributes equally among Anastacia, Braiden, Darla and Eddie. How many more muffins does Eddie have now than before? [Table: picture graph, each muffin picture stands for 6 muffins — Anastacia: 1 picture; Braiden: 7; Clarke: 8; Darla: 4; Eddie: 4]
+
+=== Year 2019 | Paper G3 | Problem 19 | Page 92 | Ref 115 ===
+Andrew, Kim and Shaun have 256 stamps. Shaun has twice as many stamps as Kim. Andrew has 24 less stamps than Shaun. How many stamps does Andrew have?
+
+=== Year 2019 | Paper G3 | Problem 20 | Page 93 | Ref 115 ===
+In the number sentence below, what is the value of ⊟? ⊟ × 6 + 13 − ⊟ = 17 + 46
+
+=== Year 2019 | Paper G3 | Problem 21 | Page 93 | Ref 116 ===
+Use the clues below to find the number being described. • This number is a 3-digit number. • The sum of its digits is 15. • The digit in the tens place is twice the digit in the hundreds place. • The digit in the hundreds place is 1 more than the digit in the ones place.
+
+=== Year 2019 | Paper G3 | Problem 22 | Page 93 | Ref 116 ===
+A group of children and adults went to a zoo. The price of an adult's ticket is $8 and a child's ticket is $7. The group paid $90 for their tickets. Given that there were less than 14 people in the group, how many adults were there?
+
+=== Year 2019 | Paper G3 | Problem 23 | Page 94 | Ref 117 ===
+A book has 130 pages numbered from 1 to 130. How many digit "1" are there in all the page numbers of the book?
+
+=== Year 2019 | Paper G3 | Problem 24 | Page 94 | Ref 117 ===
+Picture 2 shows the completed version of the puzzle in Picture 1. Complete the puzzle in Picture 3 and find the missing number "?". [Figure: each picture is a 3×3 grid of boxes forming equations. Rows: (top-left) × (top-middle) = (top-right); (mid-left) × (centre) = (mid-right); (bottom-left) − (bottom-middle) = (bottom-right). Columns: left column top × middle = bottom; middle column top × middle = bottom; right column top + middle = bottom. Picture 1: [ ] × [2] = [ ]; [6] × [2] = [ ]; [24] − [ ] = [ ]. Picture 2 (completed): [4] × [2] = [8]; [6] × [2] = [12]; [24] − [4] = [20]. Picture 3: [ ] × [2] = [ ]; [7] × [ ] = [ ]; [ ] − [?] = [53].]
+
+=== Year 2019 | Paper G3 | Problem 25 | Page 95 | Ref 118 ===
+In the following, all the different letters stand for different digits. What is the value of A + B + C? ABBB − CCC = A (vertical subtraction)
+
+=== Year 2020 | Paper G3 | Problem 1 | Page 96 | Ref 119 ===
+What is the value of the following sum? 902 + 804 + 700 + 609 + 508 + 403 + 307 + 201 + 106 (A) 4450 (B) 4540 (C) 4500 (D) 4505 (E) None of the above
+
+=== Year 2020 | Paper G3 | Problem 2 | Page 96 | Ref 119 ===
+Fill in the blank: ____ is 2 tens 8 ones less than 5 tens 5 ones. (A) 27 (B) 37 (C) 73 (D) 20 (E) None of the above
+
+=== Year 2020 | Paper G3 | Problem 3 | Page 96 | Ref 119 ===
+Study the pattern below and find '?'. [Figure: 3×3 grid of cartoon faces, each with 1, 2 or 3 hairs on top and a mouth that is a smile, a frown or a straight line. Row 1: 1 hair, straight mouth; 2 hairs, smile; 3 hairs, frown. Row 2: 3 hairs, smile; 1 hair, frown; 2 hairs, straight mouth. Row 3: 2 hairs, frown; 3 hairs, straight mouth; "?".] (A) 1 hair, frown (B) 3 hairs, smile (C) 1 hair, smile (D) 2 hairs, smile (E) 1 hair, straight mouth
+
+=== Year 2020 | Paper G3 | Problem 4 | Page 97 | Ref 120 ===
+Alice's first day in Caterpillar Club was Tuesday. She wants to throw a party on her 40th day in the club. If Alice attends the club every day, on which day of the week will the party be? (A) Friday (B) Saturday (C) Sunday (D) Monday (E) None of the above
+
+=== Year 2020 | Paper G3 | Problem 5 | Page 97 | Ref 120 ===
+How many multiples of 6 are there between 14 and 100? (A) 16 (B) 15 (C) 14 (D) 13 (E) None of the above
+
+=== Year 2020 | Paper G3 | Problem 6 | Page 98 | Ref 120 ===
+The diagram shows some cubes of the same size stacked at a corner of a room. How many cubes are there altogether? (Note: The floor is horizontal, and the two walls are vertical. There are no gaps or holes behind the visible cubes.) [Figure: isometric drawing of cubes piled into the corner where two vertical walls meet the floor. A column 3 cubes high stands at the far left end along the left wall and another column 3 cubes high at the far right end along the right wall; between them the pile steps up towards the back corner, reaching 5 cubes high at the corner; single cubes sit on the floor at the front between the two end columns.] (A) 20 (B) 30 (C) 31 (D) 29 (E) None of the above
+
+=== Year 2020 | Paper G3 | Problem 7 | Page 98 | Ref 120 ===
+Alicia and Emily agreed to meet at the cinema at 3.55 pm. Emily left her house at 1.47 pm but arrived at the cinema 17 minutes late. How long was Emily's journey from her house to the cinema? (A) 189 minutes (B) 172 minutes (C) 216 minutes (D) 206 minutes (E) None of the above
+
+=== Year 2020 | Paper G3 | Problem 8 | Page 99 | Ref 121 ===
+What is the missing number in the sequence below? 1, 3, 7, 15, 31, ___ (A) 63 (B) 47 (C) 57 (D) 59 (E) None of the above
+
+=== Year 2020 | Paper G3 | Problem 9 | Page 99 | Ref 121 ===
+If the four-digit number 3P78 is divisible by 3, how many possible values are there for P? (A) 4 (B) 3 (C) 5 (D) 10 (E) None of the above
+
+=== Year 2020 | Paper G3 | Problem 10 | Page 100 | Ref 121 ===
+In the fictional "Odd Island", all the numbers contain only odd digits. The order of the counting numbers is as follows 1, 3, 5, 7, ..., 19, 31, 33, ... What is the 31st counting number in the island? (A) 101 (B) 111 (C) 99 (D) 113 (E) None of the above
+
+=== Year 2020 | Paper G3 | Problem 11 | Page 100 | Ref 122 ===
+The weights of four boys are 45 kg, 48 kg, 52 kg and 53 kg. Mason's weight is an even number. Joshua's weight is a multiple of 5. Christopher is not the heaviest and Mateo is not the lightest. Who is the heaviest among the four boys? (A) Mason (B) Joshua (C) Christopher (D) Mateo (E) Impossible to determine
+
+=== Year 2020 | Paper G3 | Problem 12 | Page 101 | Ref 122 ===
+Alex, John and Sam went to buy oranges. Alex paid $20, John paid $15, and Sam only paid $5. They bought 120 oranges altogether. They divided them in proportion to the amount of money each of them had paid. How many oranges did John get? (A) 15 (B) 30 (C) 45 (D) 60 (E) None of the above
+
+=== Year 2020 | Paper G3 | Problem 13 | Page 101 | Ref 122 ===
+A tank filled with 200 litres of water weighs 350 kg. The same tank filled with 150 litres of water weighs 315 kg. What is the weight of the empty tank? (A) 120 kg (B) 150 kg (C) 165 kg (D) 210 kg (E) None of the above
+
+=== Year 2020 | Paper G3 | Problem 14 | Page 102 | Ref 123 ===
+A city council decided to put lanterns on both sides of a river. The distance between any two neighbouring lanterns on each side must be 11 metres. The length of the river is 132 metres. The distance between the first and the last lantern on each side must be also 132 metres. How many lanterns will there be in total? (A) 12 (B) 13 (C) 24 (D) 26 (E) None of the above
+
+=== Year 2020 | Paper G3 | Problem 15 | Page 102 | Ref 123 ===
+Which picture below can form the pyramid shown on the right? [Figure: a triangular pyramid (tetrahedron) with two visible faces, each showing a clown face. Left face: clown with a triangular hat with no dot on top, a white dot on the left of its nose, eyes looking right, and a bow tie. Right face: clown (turned sideways) with a triangular hat with a dot on top, eyes looking right, and no bow tie. Each option is a net: a large downward-pointing triangle divided into 4 small triangles (centre, top-left, top-right, bottom), each with a clown drawn in some orientation.] (A) centre: hat with dot, no bow tie; top-left: sideways clown with hat and bow tie; top-right: upside-down clown with bow tie; bottom: upside-down clown with hat with dot (B) centre: hat with dot, no bow tie; top-left: upside-down clown with bow tie; top-right: upside-down clown with hat with dot; bottom: sideways clown with hat and bow tie (C) centre: hat with bow tie; top-left: sideways clown with hat and bow tie; top-right: sideways clown with hat with dot; bottom: upside-down clown with hat with dot (D) centre: hat without dot, with bow tie; top-left: sideways clown with hat with dot; top-right: sideways clown with hat with dot; bottom: sideways clown with hat and bow tie (E) centre: hat with dot, no bow tie; top-left: upside-down clown with hat with dot; top-right: upside-down clown with bow tie; bottom: sideways clown with hat and bow tie
+
+=== Year 2020 | Paper G3 | Problem 16 | Page 103 | Ref 124 ===
+What is the sum of the first 30 numbers of the following pattern? 50, 49, 48, 47, 46 ...
+
+=== Year 2020 | Paper G3 | Problem 17 | Page 103 | Ref 124 ===
+If you increase the length of a rectangle by 12 cm, you will get a rectangle with a perimeter of 38 cm. What is the perimeter of the original rectangle?
+
+=== Year 2020 | Paper G3 | Problem 18 | Page 104 | Ref 124 ===
+How many triangles are there in the figure below? [Figure: a crown shape. A horizontal base segment PQ; four apex points above it, from left to right W1 (far left, lower), W2, W3 (both higher, near the middle) and W4 (far right, lower). Each apex is joined by straight segments to both P and Q, so there are 8 slanted segments, which cross each other inside the figure.]
+
+=== Year 2020 | Paper G3 | Problem 19 | Page 104 | Ref 125 ===
+The graph below shows the number of guests who visited the National Museum in the first six months of 2019. How many people visited the museum during the six months? [Graph: bar chart "Guests at National Museum", vertical axis 0 to 300 in steps of 50 — Jan 100, Feb 200, Mar 250, Apr 150, May 50, Jun 250]
+
+=== Year 2020 | Paper G3 | Problem 20 | Page 105 | Ref 125 ===
+Study the picture below. Find the value of ✱. [Figure: a train; from left to right: last carriage showing ✱, carriage "Plus 7", carriage "Divide by 9", carriage "Multiply by 8", carriage "Minus 18", engine showing 30.]
+
+=== Year 2020 | Paper G3 | Problem 21 | Page 105 | Ref 125 ===
+If the area of the rectangle is 96 cm², what is the area (in cm²) of the shaded region? [Figure: a rectangle divided into a grid of 6 columns × 4 rows of equal squares. Using grid coordinates with the bottom-left corner at (0,0), the shaded region is the quadrilateral with vertices (0,0), (4,4), (6,2), (4,0).]
+
+=== Year 2020 | Paper G3 | Problem 22 | Page 106 | Ref 126 ===
+Brad bought 2 boxes of chocolates, 3 packets of sweets and 4 baskets of fruits at $29. A box of chocolates and a packet of sweets cost $4. A packet of sweets and a basket of fruits cost $6. How much does a box of chocolates cost?
+
+=== Year 2020 | Paper G3 | Problem 23 | Page 106 | Ref 126 ===
+Diana made number 2020 using 22 matchsticks as shown below. How many digits are there in the largest possible whole number that she can construct using exactly 17 matchsticks? (The figures of all the digits from 0 to 9 are shown below.) [Figure: digits drawn with matchsticks in seven-segment style: 0 uses 6, 1 uses 2, 2 uses 5, 3 uses 5, 4 uses 4, 5 uses 5, 6 uses 6, 7 uses 3, 8 uses 7, 9 uses 6 matchsticks; "2020" is shown using 22 matchsticks.]
+
+=== Year 2020 | Paper G3 | Problem 24 | Page 107 | Ref 127 ===
+The numbers 2, 5, 8, 11, 14, 17 and 20 can be placed in the 7 circles below such that the sum along each straight line is the same and each number can only be used once. What is the largest possible value of this sum? [Figure: inside a large circle, 7 small circles arranged in a Y-shape: one centre circle with three straight arms (upper-left, upper-right, down), each arm having 2 circles; each straight line consists of an arm's 2 circles and the centre circle.]
+
+=== Year 2020 | Paper G3 | Problem 25 | Page 107 | Ref 127 ===
+In the following, all the different letters stand for different digits. PPP + QQQ = RQQR (vertical addition). Find the value of the 4-digit number RQQR.
+
+=== Year 2024 | Paper G1 | Problem 1 | Page 1 | Ref 9 ===
+Calculate the sum below. 22 + 16 + 8 + 14 (A) 60 (B) 61 (C) 50 (D) 59 (E) 40
+
+=== Year 2024 | Paper G1 | Problem 2 | Page 1 | Ref 9 ===
+8 less than 35 is (A) 17 (B) 26 (C) 27 (D) 28 (E) 30
+
+=== Year 2024 | Paper G1 | Problem 3 | Page 1 | Ref 9 ===
+Which one of the following is an even number? (A) 17 (B) 369 (C) 111 (D) 5 (E) 732
+
+=== Year 2024 | Paper G1 | Problem 4 | Page 1 | Ref 9 ===
+6 + 18 is the same as __ + 7. (A) 19 (B) 17 (C) 24 (D) 27 (E) 18
+
+=== Year 2024 | Paper G1 | Problem 5 | Page 2 | Ref 9 ===
+Find the order of the toys from the longest to the shortest. [Figure: four toys drawn against equally spaced horizontal dotted lines, all labelled underneath. Toy A (a standing dinosaur) is about 6 line-spaces tall; Toy B (a sitting elephant) is about 4 line-spaces tall; Toy C (a toy truck) is about 3 line-spaces tall; Toy D (a doll in a box) is about 7 line-spaces tall.] (A) Toy D, Toy B, Toy A, Toy C (B) Toy D, Toy A, Toy C, Toy B (C) Toy C, Toy B, Toy A, Toy D (D) Toy D, Toy A, Toy B, Toy C (E) Toy A, Toy D, Toy B, Toy C
+
+=== Year 2024 | Paper G1 | Problem 6 | Page 2 | Ref 9 ===
+How many dots are there in the figure? [Figure: dots placed on a grid of 7 rows and 13 columns, with some positions empty. Row 1: dots in columns 2-6 and 8-12; row 2: columns 1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13; rows 3, 4 and 5: all 13 columns; row 6: columns 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 13; row 7: columns 2, 3, 6, 8, 9, 12.] (A) 80 (B) 79 (C) 78 (D) 77 (E) 76
+
+=== Year 2024 | Paper G1 | Problem 7 | Page 2 | Ref 9 ===
+Find the picture below which is exactly the same as the picture on the right. [Figure: on the right, a cartoon chilli-pepper superhero flying with a cape, one fist raised, a curly stem on top of its head, a bow at the collar and a round buckle on the belt. Options A-E are five almost identical copies of the character: in D the stem on the head is missing; in E the round belt buckle is missing; A, B and C look very similar and differ only in tiny details (face/collar) that are hard to see.]
+
+=== Year 2024 | Paper G1 | Problem 8 | Page 3 | Ref 9 ===
+How many bricks are needed to fix the wall below? [Figure: a brick wall 8 rows high and 10 bricks wide, rows staggered by half a brick (alternate rows have half bricks at both ends). Rows 1, 2 and 8 are complete. There is a large hole in the middle: row 3 keeps 3 bricks on the left and 2 on the right; row 4 keeps a half brick and 1 brick on the left and 2 bricks and a half brick on the right; row 5 keeps 1 brick at each end; row 6 keeps a half brick and 2 bricks on the left and 1 brick and a half brick on the right; row 7 keeps 1 brick on the left and 2 bricks on the right.] (A) 30 (B) 31 (C) 32 (D) 33 (E) 34
+
+=== Year 2024 | Paper G1 | Problem 9 | Page 3 | Ref 9 ===
+What is the next number in the sequence below? 20, 19, 17, 14, 10, ... (A) 4 (B) 5 (C) 6 (D) 7 (E) 8
+
+=== Year 2024 | Paper G1 | Problem 10 | Page 3 | Ref 9 ===
+The diagram shows some cubes of the same size stacked at a corner of a room. How many cubes are there altogether? (Note: The floor is horizontal and the two walls are vertical. There are no gaps or holes behind the visible cubes.) [Figure: a 3D drawing of identical grey cubes stacked like a staircase in the corner: tallest (4 cubes high, 2 cubes wide at the top) at the back left, stepping down to about 3 cubes high at the back right and 2 cubes high in the middle, with a front row 1 cube high and 4 cubes long.] (A) 30 (B) 29 (C) 28 (D) 27 (E) 26
+
+=== Year 2024 | Paper G1 | Problem 11 | Page 4 | Ref 9 ===
+What is the missing piece of the figure below? [Figure: a large square filled with evenly spaced diagonal hatching lines (running from bottom-left to top-right), with a blank rectangle missing from its lower-right part. Options A-E are rectangles with diagonal hatching in the same direction: A, B and E have the same line spacing as the square but the lines are placed at different positions; C has much denser lines; D has much wider-spaced lines.]
+
+=== Year 2024 | Paper G1 | Problem 12 | Page 4 | Ref 9 ===
+How many triangles are there in the figure below? [Figure: a square with both diagonals drawn. Inside the top triangle formed by the diagonals there are 2 horizontal segments joining the two diagonals, and inside the bottom triangle there are also 2 horizontal segments joining the two diagonals. The two diagonals are extended beyond the top-right and bottom-right corners of the square and end on a vertical line drawn a little to the right of the square.] (A) 10 (B) 11 (C) 12 (D) 13 (E) 14
+
+=== Year 2024 | Paper G1 | Problem 13 | Page 4 | Ref 9 ===
+At a garden party, four flower pots are named Daisy, Rose, Tulip and Jasmine. Daisy and Tulip are the same size. Daisy fits inside Rose, and Rose fits inside Jasmine. Considering this information, which of the following statements is true? (A) Jasmine can fit inside Tulip Jasmine (B) Jasmine can fit inside Daisy Jasmine (C) Tulip cannot fit inside Rose Tulip (D) Daisy cannot fit inside Rose Daisy (E) Tulip can fit inside Jasmine Tulip
+
+=== Year 2024 | Paper G1 | Problem 14 | Page 5 | Ref 9 ===
+Alice, Bella and Claire sit around a circular table, each with a different accessory: bracelet, necklace or earrings. The girl with the necklace is seated to the left of Alice. Claire is to the left of the girl with the earrings. What accessory does each girl have? (A) Alice - necklace, Bella - earrings, Claire - bracelet (B) Alice - bracelet, Bella - necklace, Claire - earrings (C) Alice - earrings, Bella - bracelet, Claire - necklace (D) Alice - earrings, Bella - necklace, Claire - bracelet (E) Alice - necklace, Bella - bracelet, Claire - earrings
+
+=== Year 2024 | Paper G1 | Problem 15 | Page 5 | Ref 9 ===
+Fold a piece of paper three times and then cut along the dashed line. What image will be revealed when the paper is unfolded? [Figure: a square is folded along its diagonal into a right triangle, then folded in half into a smaller right triangle, then folded in half again into a small right triangle with a vertical left edge, a horizontal top edge and a slanted edge. The dashed cutting line is a V-shaped notch ("<" shape) cut into the middle of the vertical left edge. Options: A: a stepped four-pointed star with pointed triangular tips at top, bottom, left and right; B: an octagon with a small rectangular tab sticking out on each of the four sides; C: an octagon with tabs ending in pointed tips on the four sides; D: a stepped cross-like shape whose four ends are blunt (corners cut off); E: a stepped cross-like shape whose four ends each have a V-shaped notch.]
+
+=== Year 2024 | Paper G1 | Problem 16 | Page 6 | Ref 9 ===
+What is the missing number in the pattern below? [Figure: five boxes each with an arrow pointing down to an oval: 321 → 344; 843 → 989; 333 → 964; 412 → ?; 513 → 926.]
+
+=== Year 2024 | Paper G1 | Problem 17 | Page 6 | Ref 9 ===
+In a classroom, there are a total of 40 pencils divided between two pencil cases. After moving 12 pencils from the first case to the second one, the first case has 8 more pencils than the second case. How many pencils were initially in the first case?
+
+=== Year 2024 | Paper G1 | Problem 18 | Page 6 | Ref 9 ===
+How many days are in a month that begins on Monday and ends on Wednesday?
+
+=== Year 2024 | Paper G1 | Problem 19 | Page 6 | Ref 9 ===
+It is given that koala × koala + buffalo = 58, owl + buffalo = 17, buffalo + koala + owl = 24. Find the value of owl. [Figure: the equations are written with pictures of a koala, a buffalo and an owl in place of numbers; the question asks for the value of the owl picture.]
+
+=== Year 2024 | Paper G1 | Problem 20 | Page 7 | Ref 9 ===
+The sum of the digits of an odd 3-digit number is 9. What is the largest possible such 3-digit number?
+
+=== Year 2024 | Paper G1 | Problem 21 | Page 7 | Ref 9 ===
+I am a 3-digit even number. All my digits are different. The digits in my number are arranged in increasing order from left to right. The digits in my tens and ones places add up to 8.
+
+=== Year 2024 | Paper G1 | Problem 22 | Page 7 | Ref 9 ===
+Study the picture and find the missing number. [Figure: four boxes, each showing two analogue clocks above a number. Box 1: clocks showing about 2:05 (hour hand near 2, minute hand on 1) and 4:25 (hour hand between 4 and 5, minute hand on 5); number 620. Box 2: clocks showing 6:15 (hour hand on 6, minute hand on 3) and 3:40 (hour hand between 3 and 4, minute hand on 8); number 925. Box 3: clocks showing 1:20 (hour hand near 1, minute hand on 4) and a clock with its long hand on 8 and a short hand pointing up-right towards about 2 (hard to read); number 820. Box 4: clocks showing 2:25 (hour hand between 2 and 3, minute hand on 5) and 5:55 (hour hand almost on 6, minute hand on 11); number ?.]
+
+=== Year 2024 | Paper G1 | Problem 23 | Page 7 | Ref 9 ===
+How many 3-digit numbers have only even digits?
+
+=== Year 2024 | Paper G1 | Problem 24 | Page 8 | Ref 9 ===
+Two years ago, Tom was three times as old as Bob. Three years from now, the sum of their ages will be 30. What is the difference between their ages now?
+
+=== Year 2024 | Paper G1 | Problem 25 | Page 8 | Ref 9 ===
+How many different 2-digit odd numbers can be formed using an odd number of matchsticks in total? [Figure: the digits 0-9 made of matchsticks in seven-segment style: 0 uses 6 sticks, 1 uses 2, 2 uses 5, 3 uses 5, 4 uses 4, 5 uses 5, 6 uses 6, 7 uses 3, 8 uses 7, 9 uses 6.]
+
+=== Year 2024 | Paper G2 | Problem 1 | Page 1 | Ref 9 ===
+Find the order of the toys from the shortest to the longest. [Figure: four toys drawn against equally spaced horizontal dotted lines, all labelled underneath. Toy A (a standing dinosaur) is about 6 line-spaces tall; Toy B (a sitting elephant) is about 4 line-spaces tall; Toy C (a toy truck) is about 3 line-spaces tall; Toy D (a doll in a box) is about 7 line-spaces tall.] (A) Toy D, Toy A, Toy B, Toy C (B) Toy C, Toy B, Toy D, Toy A (C) Toy C, Toy B, Toy A, Toy D (D) Toy B, Toy C, Toy A, Toy D (E) None of the above
+
+=== Year 2024 | Paper G2 | Problem 2 | Page 1 | Ref 9 ===
+How many dots are there in the figure? [Figure: dots on a grid of 11 rows and 17 columns forming two joined diamond shapes, with some positions empty. Row 1: columns 6, 12; row 2: columns 5-7, 11-13; row 3: columns 4-8, 10-14; row 4: columns 3, 4, 5, 7, 8, 9, 10, 11, 13, 14, 15; row 5: columns 2-16; row 6: columns 1-17; row 7: columns 2-16; row 8: columns 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 15; row 9: columns 4, 5, 8, 10, 11, 14; row 10: columns 5-7, 11-13; row 11: columns 6, 12.] (A) 101 (B) 103 (C) 105 (D) 109 (E) None of the above
+
+=== Year 2024 | Paper G2 | Problem 3 | Page 1 | Ref 9 ===
+How many numbers between 101 and 351 are exactly divisible by both 2 and 5? (A) 125 (B) 50 (C) 26 (D) 25 (E) None of the above
+
+=== Year 2024 | Paper G2 | Problem 4 | Page 2 | Ref 9 ===
+Find the picture below which is exactly the same as the picture on the right. [Figure: on the right, a cartoon chilli-pepper superhero flying with a cape, one fist raised, a curly stem on top of its head, a bow at the collar and a round buckle on the belt. Options A-E are five almost identical copies of the character: in D the stem on the head is missing; in E the round belt buckle is missing; A, B and C look very similar and differ only in tiny details (face/collar) that are hard to see.]
+
+=== Year 2024 | Paper G2 | Problem 5 | Page 2 | Ref 9 ===
+What is the next number in the sequence below? 30, 29, 27, 24, 20, 15, ... (A) 9 (B) 10 (C) 11 (D) 13 (E) None of the above
+
+=== Year 2024 | Paper G2 | Problem 6 | Page 2 | Ref 9 ===
+Which of the following numbers is a multiple of 3? (A) 79 (B) 368 (C) 7311 (D) 9631 (E) None of the above
+
+=== Year 2024 | Paper G2 | Problem 7 | Page 3 | Ref 9 ===
+The diagram shows some cubes of the same size stacked at a corner of a room. How many cubes are there altogether? (Note: The floor is horizontal and the two walls are vertical. There are no gaps or holes behind the visible cubes.) [Figure: a 3D drawing of identical grey cubes stacked like a staircase in the corner: the tallest columns (4 cubes high) are at the back, and the stack steps down towards the front and the right through heights 3 and 2 to a front edge 1 cube high; the base is about 4 to 5 cubes wide in each direction.] (A) 47 (B) 46 (C) 45 (D) 43 (E) None of the above
+
+=== Year 2024 | Paper G2 | Problem 8 | Page 3 | Ref 9 ===
+What is the missing piece of the figure below? [Figure: a large square filled with evenly spaced diagonal hatching lines (running from bottom-left to top-right), with a blank rectangle missing from its upper-left part. Options A-E are rectangles with diagonal hatching in the same direction: A has much wider-spaced lines; B, C and D have the same line spacing as the square but the lines are placed at different positions; E has much denser lines.]
+
+=== Year 2024 | Paper G2 | Problem 9 | Page 4 | Ref 9 ===
+How many triangles are there in the figure below? [Figure: a rectangle (wider than tall) with both diagonals drawn. Inside the left triangle formed by the diagonals there are 2 vertical segments joining the two diagonals, and inside the right triangle there are also 2 vertical segments joining the two diagonals. The two diagonals are extended beyond all four corners of the rectangle and end on a horizontal line drawn a little above the rectangle and a horizontal line drawn a little below it.] (A) 10 (B) 12 (C) 14 (D) 16 (E) None of the above
+
+=== Year 2024 | Paper G2 | Problem 10 | Page 4 | Ref 9 ===
+At a garden party, there are four flower pots named Lily, Rose, Tulip and Violet. Lily and Violet are the same size. Lily fits inside Rose, and Rose fits inside Tulip. Considering this information, which of the following statements is true? (A) Lily cannot fit inside Tulip (B) Tulip can fit inside Violet (C) Violet can fit inside Rose (D) Rose can fit inside Violet (E) None of the above
+
+=== Year 2024 | Paper G2 | Problem 11 | Page 4 | Ref 9 ===
+What is the sum of the digits of the product below? 32 × 13 × 75 × 125 (A) 12 (B) 10 (C) 9 (D) 3 (E) None of the above
+
+=== Year 2024 | Paper G2 | Problem 12 | Page 5 | Ref 9 ===
+Amy, Brenda and Carol sit around a circular table, each with a different accessory: bracelet, necklace or earrings. The girl with the necklace is seated to the left of Amy. Carol is to the left of the girl with the earrings. What accessory does each girl have? (A) Amy - necklace, Brenda - earrings, Brenda - bracelet (B) Amy - earrings, Brenda - necklace, Carol - bracelet (C) Amy - necklace, Brenda - bracelet, Carol - earrings (D) Amy - earrings, Brenda - bracelet, Carol - necklace (E) None of the above
+
+=== Year 2024 | Paper G2 | Problem 13 | Page 5 | Ref 9 ===
+In a classroom, there are a total of 80 pencils divided between two pencil cases. After moving 12 pencils from the first case to the second one, the first case has 6 more pencils than the second case. How many pencils were initially in the second case? (A) 25 (B) 37 (C) 43 (D) 55 (E) None of the above
+
+=== Year 2024 | Paper G2 | Problem 14 | Page 5 | Ref 9 ===
+How many days are in a month that begins on Saturday and ends on Sunday? (A) 31 (B) 30 (C) 29 (D) 28 (E) None of the above
+
+=== Year 2024 | Paper G2 | Problem 15 | Page 5 | Ref 9 ===
+Which one is the odd one out? [Figure: five circles A-E, each divided into 12 equal sectors like a clock face (sectors named by the clock hours they lie between), with 3 sectors shaded grey and 3 sectors containing a dot. A: shaded 12-1, 1-2 and 6-7; dots in 10-11, 8-9 and 4-5. B: shaded 9-10, 3-4 and 4-5; dots in 11-12, 1-2 and 7-8. C: shaded 2-3, 8-9 and 7-8; dots in 12-1, 10-11 and 4-5. D: shaded 9-10, 10-11 and 3-4; dots in 1-2, 7-8 and 5-6. E: shaded 12-1, 6-7 and 7-8; dots in 10-11, 2-3 and 4-5.]
+
+=== Year 2024 | Paper G2 | Problem 16 | Page 6 | Ref 9 ===
+The picture graph below shows the number of toys that 4 students have. How many toys does the figure stand for if the students have 91 toys in total? [Table: Isabella: 5 toy-basket pictures; Adrian: 2 pictures; Liam: 3 pictures; Olivia: 3 pictures; key: Each (toy-basket picture) stands for the same number of toys.]
+
+=== Year 2024 | Paper G2 | Problem 17 | Page 6 | Ref 9 ===
+It is given that koala × owl + buffalo = 52, buffalo + koala = 12, koala × koala = 25. Find the value of owl. [Figure: the equations are written with pictures of a koala, an owl and a buffalo in place of numbers; the question asks for the value of the owl picture.]
+
+=== Year 2024 | Paper G2 | Problem 18 | Page 6 | Ref 9 ===
+The sum of the digits of an even 3-digit number is 11. What is the largest possible such 3-digit number?
+
+=== Year 2024 | Paper G2 | Problem 19 | Page 7 | Ref 9 ===
+Emily wrote all 3-digit multiples of 5. How many times did she write the digit 5?
+
+=== Year 2024 | Paper G2 | Problem 20 | Page 7 | Ref 9 ===
+I am a 3-digit odd number. · All my digits are different. · The digits in my number are arranged in decreasing order from left to right. · The digits in my hundreds and tens places add up to 5. What number am I?
+
+=== Year 2024 | Paper G2 | Problem 21 | Page 7 | Ref 9 ===
+How many 3-digit numbers have only odd digits?
+
+=== Year 2024 | Paper G2 | Problem 22 | Page 7 | Ref 9 ===
+Two years ago, Tom was four times as old as Bob. Three years from now, the sum of their ages will be 30. What is the difference between their ages now?
+
+=== Year 2024 | Paper G2 | Problem 23 | Page 8 | Ref 9 ===
+In a petting zoo, there are total of 10 rabbits and ducks. The combined number of legs of all the rabbits and ducks is 34. How many ducks are there in the petting zoo?
+
+=== Year 2024 | Paper G2 | Problem 24 | Page 8 | Ref 9 ===
+How many different 3-digit multiples of 5 can be formed using an even number of matchsticks in total? [Figure: the digits 0-9 made of matchsticks in seven-segment style: 0 uses 6 sticks, 1 uses 2, 2 uses 5, 3 uses 5, 4 uses 4, 5 uses 5, 6 uses 6, 7 uses 3, 8 uses 7, 9 uses 6.]
+
+=== Year 2024 | Paper G2 | Problem 25 | Page 8 | Ref 9 ===
+In the following, all the different letters stand for different digits. If B is an odd digit, what is the value of the 4-digit number DAFE? ABD + ABA = DAFE (vertical addition)
+
+=== Year 2024 | Paper G3 | Problem 1 | Page 1 | Ref 1 ===
+What is the value of the following sum? 94 + 81 + 73 + 60 + 52 + 46 + 39 + 27 + 18 (A) 500 (B) 490 (C) 480 (D) 470 (E) None of the above
+
+=== Year 2024 | Paper G3 | Problem 2 | Page 1 | Ref 1 ===
+How many bricks are needed to fix the wall below? [Figure: a brick wall 8 rows high and 10 bricks wide, rows staggered by half a brick (alternate rows have half bricks at both ends). Rows 1, 2 and 8 are complete. There is a large hole in the middle: row 3 keeps 2 bricks on the left and 2 on the right; row 4 keeps a half brick on the left and 2 bricks and a half brick on the right; row 5 keeps 1 brick at each end; row 6 keeps a half brick and 2 bricks on the left and only a half brick on the right; row 7 keeps 1 brick on the left and 2 bricks on the right.] (A) 34 (B) 35 (C) 36 (D) 37 (E) None of the above
+
+=== Year 2024 | Paper G3 | Problem 3 | Page 1 | Ref 1 ===
+What is the next number in the sequence below? 1, 2, 5, 14, 41, 122, ... (A) 365 (B) 366 (C) 245 (D) 200 (E) None of the above
+
+=== Year 2024 | Paper G3 | Problem 4 | Page 2 | Ref 2 ===
+The diagram shows some cubes of the Same size stacked at a corner of a room. How many cubes are there altogether? (Note: The floor is horizontal and the two walls are vertical. There are no gaps or holes behind the visible cubes.) [Figure: a 3D drawing of identical grey cubes stacked in the corner as a stepped pyramid on a base 5 cubes by 5 cubes: tallest (about 5 to 6 cubes high) near the back corner, stepping down towards the front and the two open sides to 1 cube high at the front edges.] (A) 66 (B) 67 (C) 68 (D) 69 (E) None of the above
+
+=== Year 2024 | Paper G3 | Problem 5 | Page 2 | Ref 2 ===
+Which of the given numbers of pencils can be evenly arranged into groups of 6 without any remaining? (A) 94 (B) 166 (C) 712 (D) 1956 (E) None of the above
+
+=== Year 2024 | Paper G3 | Problem 6 | Page 3 | Ref 3 ===
+The picture graph below shows the number of books that Amy, Tom, Desmond and Stacy have. Altogether, they have 153 books. If Tom wants to have as many books as Desmond, how many books does he need to buy? [Table: Amy: 4 book-basket pictures; Tom: 2 pictures; Desmond: 6 pictures; Stacy: 5 pictures; key: Each (book-basket picture) stands for the same number of books.] (A) 4 (B) 9 (C) 32 (D) 36 (E) None of the above
+
+=== Year 2024 | Paper G3 | Problem 7 | Page 3 | Ref 3 ===
+A shop has a special offer: for every 8 empty cola cans returned, customers can exchange them for one can of cola. Alex has just enough money to buy 92 cans of cola. What is the greatest number of cola cans that Alex can obtain? (A) 101 (B) 102 (C) 103 (D) 104 (E) None of the above
+
+=== Year 2024 | Paper G3 | Problem 8 | Page 4 | Ref 4 ===
+The figure below is formed by identical squares with a length of 4 cm. What is the perimeter (in cm) of the figure? [Figure: a pyramid of squares with 7 rows; from top to bottom the rows have 1, 2, 3, 4, 5, 6 and 7 squares, each row centred, so each row sticks out by half a square on both sides beyond the row above.] (A) 112 cm (B) 108 cm (C) 84 cm (D) 28 cm (E) None of the above
+
+=== Year 2024 | Paper G3 | Problem 9 | Page 4 | Ref 4 ===
+A farmer has a total of 175 eggs in two nests. After moving 20 eggs from the first nest to the second one, the first nest has 15 more eggs than the second one. How many eggs were initially in the second nest? (A) 115 (B) 95 (C) 80 (D) 60 (E) None of the above
+
+=== Year 2024 | Paper G3 | Problem 10 | Page 4 | Ref 4 ===
+In a chess tournament, there are 7 players. Each player competes once against every other player in the tournament. What is the total number of games played in the tournament? (A) 56 (B) 42 (C) 28 (D) 21 (E) None of the above
+
+=== Year 2024 | Paper G3 | Problem 11 | Page 5 | Ref 5 ===
+The 6-digit number 75276A is a multiple of 11. The 6-digit number A6712B is a multiple of 9. Find the value of A+B. (A) 11 (B) 10 (C) 8 (D) 3 (E) None of the above
+
+=== Year 2024 | Paper G3 | Problem 12 | Page 5 | Ref 5 ===
+In a treasure hunt, there are 9 hidden chests and 9 distinct maps. Each map guides to a specific chest, and no two maps lead to the same chest. What is the greatest number of attempts Sam needs to make to discover which map corresponds to each Chest? (A) 28 (B) 45 (C) 72 (D) 90 (E) None of the above
+
+=== Year 2024 | Paper G3 | Problem 13 | Page 5 | Ref 5 ===
+Study the pattern below. What is the value of the missing number? [Figure: five pentagons, each with a number in the top part and two numbers in the bottom left and bottom right parts: top 66, bottom 3 and 5; top 99, bottom 6 and 9; top 154, bottom 1 and 6; top 310, bottom 7 and 8; top ?, bottom 2 and 6.] (A) 125 (B) 512 (C) 58 (D) 95 (E) None of the above
+
+=== Year 2024 | Paper G3 | Problem 14 | Page 6 | Ref 6 ===
+Fold a piece of paper three times and then cut along the dashed line. What image will be revealed when the paper is unfolded? [Figure: a square is folded along its diagonal into a right triangle, then folded in half into a smaller right triangle, then folded in half again into a small right triangle with a vertical left edge, a horizontal top edge and a slanted edge. The dashed cutting line is a V-shaped notch ("<" shape) cut into the middle of the vertical left edge. Options: A: a stepped four-pointed star with pointed triangular tips at top, bottom, left and right; B: an octagon with a small rectangular tab sticking out on each of the four sides; C: an octagon with tabs ending in pointed tips on the four sides; D: a stepped cross-like shape whose four ends are blunt (corners cut off); E: a stepped cross-like shape whose four ends each have a V-shaped notch.]
+
+=== Year 2024 | Paper G3 | Problem 15 | Page 6 | Ref 6 ===
+Alex, Mia, Owen and Lily are comparing the number of books they read. Owen: I read more books than Alex, but someone read more than me. Lily: I read the most number of books. Mia: I did not read the most number of books. Alex: I read the fewest number of books. All 4 of them read different numbers of books. If one of them is lying, can you rank the number of books they read from the fewest to the most? (A) Mia, Owen, Alex, Lily (B) Alex, Owen, Mia, Lily (C) Mia, Alex, Owen, Lily (D) Lily, Owen, Alex, Mia (E) None of the above
+
+=== Year 2024 | Paper G3 | Problem 16 | Page 7 | Ref 7 ===
+The sum of the digits of an odd 3-digit number is 10. What is the largest possible such 3-digit number?
+
+=== Year 2024 | Paper G3 | Problem 17 | Page 7 | Ref 7 ===
+It is given that koala × koala + buffalo = 58, owl + buffalo = 17, buffalo + koala + owl = 24. Find the value of owl. [Figure: the equations are written with pictures of a koala, a buffalo and an owl in place of numbers; the question asks for the value of the owl picture.]
+
+=== Year 2024 | Paper G3 | Problem 18 | Page 7 | Ref 7 ===
+Samantha and Sarah initially had an equal number of notebooks. Samantha gifted 11 notebooks to Sarah. Afterwards, Sarah purchased 14 more notebooks. The final number of notebooks Sarah had was three times the number Samantha had originally. How many notebooks did each of them have at the beginning?
+
+=== Year 2024 | Paper G3 | Problem 19 | Page 8 | Ref 8 ===
+How many triangles are there in the figure below? [Figure: three nested rectangles with the same centre (outer, middle, inner). Two long straight lines cross at the centre and pass through the corresponding corners of all three rectangles (the diagonals of each rectangle lie on these lines, so the inner rectangle shows both diagonals crossing). Beyond the outer rectangle the two lines continue to a horizontal line above the outer rectangle and a horizontal line below it, whose ends are the ends of the two long lines.]
+
+=== Year 2024 | Paper G3 | Problem 20 | Page 8 | Ref 8 ===
+The large rectangle below is made up of 4 identical rectangles. Given that the perimeter of the small rectangle is 64 cm, what is the area (in cm) of the shaded region? [Figure: the large rectangle is split into one tall small rectangle standing upright on the left and three small rectangles lying flat, stacked on top of each other, on the right. The shaded region is a quadrilateral with vertices at: a point on the left side of the large rectangle (a little above its middle), the top end of the vertical line separating the left rectangle from the three right ones, a point on the right side of the large rectangle where the boundary between the middle and bottom flat rectangles meets it, and the bottom end of that vertical separating line.]
+
+=== Year 2024 | Paper G3 | Problem 21 | Page 9 | Ref 9 ===
+I am a 3-digi even number. · All my digits are different. · The digits in my number are arranged in increasing order from left to right. · The digits in my hundreds and tens places add up to 13. What number am I?
+
+=== Year 2024 | Paper G3 | Problem 22 | Page 9 | Ref 9 ===
+Tom creates four-digit multiples of 4 using each of the digits 1, 3, 6 and 8 exactly once. How many such 4-digit numbers can Tom create?
+
+=== Year 2024 | Paper G3 | Problem 23 | Page 9 | Ref 9 ===
+How many different 3-digit odd numbers can be formed using an odd number of matchsticks in total?
+
+=== Year 2024 | Paper G3 | Problem 24 | Page 10 | Ref 10 ===
+In the following, all the different letters stand for different digits. If B is a multiple of 4, what is the value of the 4-digit number DAFE? ABD + ABA = DAFE (vertical addition)
+
+=== Year 2024 | Paper G3 | Problem 25 | Page 10 | Ref 10 ===
+Study the pattern below. What is the value of the missing number? [Figure: five 4×4 grids, each with some cells containing a heart and a number underneath (positions given as (row, column), row 1 at the top). Grid 1: hearts at (1,1), (1,3), (2,2); number 11. Grid 2: hearts at (2,2), (2,4), (3,2), (3,4); number 34. Grid 3: hearts at (1,1), (2,2), (3,3), (4,4); number 32. Grid 4: hearts at (1,2), (1,3), (2,1), (2,4), (3,1), (3,4), (4,2), (4,3); number 68. Grid 5: hearts at (2,2), (2,3), (3,2), (3,3); number ?.]

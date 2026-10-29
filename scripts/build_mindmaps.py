@@ -1,14 +1,15 @@
 """Build the study mind maps: mindmaps/keystage2.html, mindmaps/keystage3.html (IMC),
 mindmaps/imso.html (IMSO), mindmaps/imas_{middle,upper,junior}.html (IMAS), mindmaps/igo.html (IGO),
-mindmaps/ico.html (ICO), mindmaps/rmo.html (RMO) and mindmaps/apmops.html (APMOPS).
+mindmaps/ico.html (ICO), mindmaps/rmo.html (RMO), mindmaps/apmops.html (APMOPS) and
+mindmaps/sasmo.html (SASMO).
 
 Usage:  python scripts/build_mindmaps.py
 Inputs: the problems files (via the load() of categorize, categorize_imso, categorize_imas, categorize_igo,
-        categorize_ico, categorize_rmo, categorize_apmops),
+        categorize_ico, categorize_rmo, categorize_apmops, categorize_sasmo),
         leaves_*.py, mindmap_template.html
 Also rewrites data/keystage{2,3}_categories.txt, data/imso_categories.txt,
 data/imas_{middle,upper,junior}_categories.txt, data/igo_categories.txt, data/ico_categories.txt,
-data/rmo_categories.txt and data/apmops_categories.txt.
+data/rmo_categories.txt, data/apmops_categories.txt and data/sasmo_categories.txt.
 """
 import json
 import os
@@ -25,6 +26,7 @@ import categorize_igo  # noqa: E402
 import categorize_imas  # noqa: E402
 import categorize_imso  # noqa: E402
 import categorize_rmo  # noqa: E402
+import categorize_sasmo  # noqa: E402
 import leaves_apmops  # noqa: E402
 import leaves_ico  # noqa: E402
 import leaves_igo  # noqa: E402
@@ -35,6 +37,7 @@ import leaves_imso  # noqa: E402
 import leaves_ks2  # noqa: E402
 import leaves_ks3  # noqa: E402
 import leaves_rmo  # noqa: E402
+import leaves_sasmo  # noqa: E402
 from paths import MINDMAPS, ROOT  # noqa: E402
 
 IMC_HOME = dict(home="ximc.html", home_label="Ôn luyện IMC")
@@ -70,6 +73,9 @@ PAGES = {
     "apmops": dict(src=categorize_apmops, stage="apmops", leaves=leaves_apmops, out="apmops.html",
                    title="Bản đồ ôn APMOPS", h1="Bản đồ ôn APMOPS (SMOPS)", root="APMOPS",
                    ls_key="apmops-map", doc="apmopsmap", home="apmops.html", home_label="Ôn luyện APMOPS"),
+    "sasmo": dict(src=categorize_sasmo, stage="sasmo", leaves=leaves_sasmo, out="sasmo.html",
+                  title="Bản đồ ôn SASMO", h1="Bản đồ ôn Singapore and Asian Schools Math Olympiad", root="SASMO",
+                  ls_key="sasmo-map", doc="sasmomap", home="sasmo.html", home_label="Ôn luyện SASMO"),
 }
 
 HEAD = ('<!doctype html>\n<html lang="vi">\n<head>\n<meta charset="utf-8">\n'
