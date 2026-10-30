@@ -99,6 +99,12 @@ footer.site a{color:var(--accent);font-weight:600}
       <h2 id="h-papers">Đề và lời giải <span>PDF</span></h2>
       <nav class="years" id="years" aria-label="Đề SASMO theo năm"></nav>
     </section>
+
+    <section class="stage sasmo" aria-labelledby="h-more">
+      <h2 id="h-more">Đề các lớp khác <span>PDF · chưa phân loại</span></h2>
+      <p class="note">Đề SASMO 2019 và 2020 từ Grade 2 đến Grade 10 (bản PDF tải về, có kèm lời giải). Các đề này chỉ để tải về, chưa được đưa vào mindmap.</p>
+      <nav class="years" id="more" style="grid-template-columns:1fr" aria-label="Đề SASMO các lớp khác"></nav>
+    </section>
   </div>
 
   <footer class="site">
@@ -138,6 +144,20 @@ for (const [y, tag, links] of ROWS) {
     row.appendChild(a);
   }
   nav.appendChild(row);
+}
+
+// Grade 2-10 papers of 2019 and 2020: download links only, not in the mind map.
+const more = document.getElementById("more");
+for (const y of [2020, 2019]) {
+  const row = document.createElement("div"); row.className = "yr";
+  const b = document.createElement("b"); b.textContent = y; row.appendChild(b);
+  for (let g = 2; g <= 10; g++) {
+    const a = document.createElement("a");
+    a.href = `${D}${y}-SASMO-G${g}.pdf`; a.target = "_blank"; a.rel = "noopener"; a.textContent = `G${g}`;
+    a.title = `SASMO ${y} Grade ${g}`;
+    row.appendChild(a);
+  }
+  more.appendChild(row);
 }
 </script>
 </body>
